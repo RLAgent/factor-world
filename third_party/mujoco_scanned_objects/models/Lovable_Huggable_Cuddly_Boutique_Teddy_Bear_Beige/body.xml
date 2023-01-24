@@ -1,0 +1,36 @@
+<body childclass="Lovable_Huggable_Cuddly_Boutique_Teddy_Bear_Beige_base" name="Lovable_Huggable_Cuddly_Boutique_Teddy_Bear_Beige1">
+        <geom class="Lovable_Huggable_Cuddly_Boutique_Teddy_Bear_Beige_col" name="{geom_name}" type="mesh" mesh="model_Lovable_Huggable_Cuddly_Boutique_Teddy_Bear_Beige" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Lovable_Huggable_Cuddly_Boutique_Teddy_Bear_Beige" mesh="model_Lovable_Huggable_Cuddly_Boutique_Teddy_Bear_Beige" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Lovable_Huggable_Cuddly_Boutique_Teddy_Bear_Beige" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Lovable_Huggable_Cuddly_Boutique_Teddy_Bear_Beige" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Lovable_Huggable_Cuddly_Boutique_Teddy_Bear_Beige" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Lovable_Huggable_Cuddly_Boutique_Teddy_Bear_Beige" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Lovable_Huggable_Cuddly_Boutique_Teddy_Bear_Beige" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Lovable_Huggable_Cuddly_Boutique_Teddy_Bear_Beige" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Lovable_Huggable_Cuddly_Boutique_Teddy_Bear_Beige" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Lovable_Huggable_Cuddly_Boutique_Teddy_Bear_Beige" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Lovable_Huggable_Cuddly_Boutique_Teddy_Bear_Beige" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Lovable_Huggable_Cuddly_Boutique_Teddy_Bear_Beige" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Lovable_Huggable_Cuddly_Boutique_Teddy_Bear_Beige" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Lovable_Huggable_Cuddly_Boutique_Teddy_Bear_Beige" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Lovable_Huggable_Cuddly_Boutique_Teddy_Bear_Beige" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Lovable_Huggable_Cuddly_Boutique_Teddy_Bear_Beige" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Lovable_Huggable_Cuddly_Boutique_Teddy_Bear_Beige" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Lovable_Huggable_Cuddly_Boutique_Teddy_Bear_Beige" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Lovable_Huggable_Cuddly_Boutique_Teddy_Bear_Beige" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Lovable_Huggable_Cuddly_Boutique_Teddy_Bear_Beige" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Lovable_Huggable_Cuddly_Boutique_Teddy_Bear_Beige" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Lovable_Huggable_Cuddly_Boutique_Teddy_Bear_Beige" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Lovable_Huggable_Cuddly_Boutique_Teddy_Bear_Beige" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Lovable_Huggable_Cuddly_Boutique_Teddy_Bear_Beige" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Lovable_Huggable_Cuddly_Boutique_Teddy_Bear_Beige" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Lovable_Huggable_Cuddly_Boutique_Teddy_Bear_Beige" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Lovable_Huggable_Cuddly_Boutique_Teddy_Bear_Beige" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Lovable_Huggable_Cuddly_Boutique_Teddy_Bear_Beige" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Lovable_Huggable_Cuddly_Boutique_Teddy_Bear_Beige" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Lovable_Huggable_Cuddly_Boutique_Teddy_Bear_Beige" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Lovable_Huggable_Cuddly_Boutique_Teddy_Bear_Beige" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Lovable_Huggable_Cuddly_Boutique_Teddy_Bear_Beige" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Lovable_Huggable_Cuddly_Boutique_Teddy_Bear_Beige" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Lovable_Huggable_Cuddly_Boutique_Teddy_Bear_Beige" type="mesh" group="3" />
+    </body>

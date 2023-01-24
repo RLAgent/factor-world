@@ -1,0 +1,36 @@
+<body childclass="TEA_SET_base" name="TEA_SET1">
+        <geom class="TEA_SET_col" name="{geom_name}" type="mesh" mesh="model_TEA_SET" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_TEA_SET" mesh="model_TEA_SET" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_TEA_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_1_TEA_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_2_TEA_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_3_TEA_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_4_TEA_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_5_TEA_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_6_TEA_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_7_TEA_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_8_TEA_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_9_TEA_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_10_TEA_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_11_TEA_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_12_TEA_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_13_TEA_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_14_TEA_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_15_TEA_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_16_TEA_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_17_TEA_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_18_TEA_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_19_TEA_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_20_TEA_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_21_TEA_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_22_TEA_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_23_TEA_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_24_TEA_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_25_TEA_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_26_TEA_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_27_TEA_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_28_TEA_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_29_TEA_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_30_TEA_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_31_TEA_SET" type="mesh" group="3" />
+    </body>

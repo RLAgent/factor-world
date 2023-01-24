@@ -1,0 +1,36 @@
+<body childclass="JA_Henckels_International_Premio_Cutlery_Block_Set_14Piece_base" name="JA_Henckels_International_Premio_Cutlery_Block_Set_14Piece1">
+        <geom class="JA_Henckels_International_Premio_Cutlery_Block_Set_14Piece_col" name="{geom_name}" type="mesh" mesh="model_JA_Henckels_International_Premio_Cutlery_Block_Set_14Piece" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_JA_Henckels_International_Premio_Cutlery_Block_Set_14Piece" mesh="model_JA_Henckels_International_Premio_Cutlery_Block_Set_14Piece" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_JA_Henckels_International_Premio_Cutlery_Block_Set_14Piece" type="mesh" group="3" />
+      <geom mesh="model_collision_1_JA_Henckels_International_Premio_Cutlery_Block_Set_14Piece" type="mesh" group="3" />
+      <geom mesh="model_collision_2_JA_Henckels_International_Premio_Cutlery_Block_Set_14Piece" type="mesh" group="3" />
+      <geom mesh="model_collision_3_JA_Henckels_International_Premio_Cutlery_Block_Set_14Piece" type="mesh" group="3" />
+      <geom mesh="model_collision_4_JA_Henckels_International_Premio_Cutlery_Block_Set_14Piece" type="mesh" group="3" />
+      <geom mesh="model_collision_5_JA_Henckels_International_Premio_Cutlery_Block_Set_14Piece" type="mesh" group="3" />
+      <geom mesh="model_collision_6_JA_Henckels_International_Premio_Cutlery_Block_Set_14Piece" type="mesh" group="3" />
+      <geom mesh="model_collision_7_JA_Henckels_International_Premio_Cutlery_Block_Set_14Piece" type="mesh" group="3" />
+      <geom mesh="model_collision_8_JA_Henckels_International_Premio_Cutlery_Block_Set_14Piece" type="mesh" group="3" />
+      <geom mesh="model_collision_9_JA_Henckels_International_Premio_Cutlery_Block_Set_14Piece" type="mesh" group="3" />
+      <geom mesh="model_collision_10_JA_Henckels_International_Premio_Cutlery_Block_Set_14Piece" type="mesh" group="3" />
+      <geom mesh="model_collision_11_JA_Henckels_International_Premio_Cutlery_Block_Set_14Piece" type="mesh" group="3" />
+      <geom mesh="model_collision_12_JA_Henckels_International_Premio_Cutlery_Block_Set_14Piece" type="mesh" group="3" />
+      <geom mesh="model_collision_13_JA_Henckels_International_Premio_Cutlery_Block_Set_14Piece" type="mesh" group="3" />
+      <geom mesh="model_collision_14_JA_Henckels_International_Premio_Cutlery_Block_Set_14Piece" type="mesh" group="3" />
+      <geom mesh="model_collision_15_JA_Henckels_International_Premio_Cutlery_Block_Set_14Piece" type="mesh" group="3" />
+      <geom mesh="model_collision_16_JA_Henckels_International_Premio_Cutlery_Block_Set_14Piece" type="mesh" group="3" />
+      <geom mesh="model_collision_17_JA_Henckels_International_Premio_Cutlery_Block_Set_14Piece" type="mesh" group="3" />
+      <geom mesh="model_collision_18_JA_Henckels_International_Premio_Cutlery_Block_Set_14Piece" type="mesh" group="3" />
+      <geom mesh="model_collision_19_JA_Henckels_International_Premio_Cutlery_Block_Set_14Piece" type="mesh" group="3" />
+      <geom mesh="model_collision_20_JA_Henckels_International_Premio_Cutlery_Block_Set_14Piece" type="mesh" group="3" />
+      <geom mesh="model_collision_21_JA_Henckels_International_Premio_Cutlery_Block_Set_14Piece" type="mesh" group="3" />
+      <geom mesh="model_collision_22_JA_Henckels_International_Premio_Cutlery_Block_Set_14Piece" type="mesh" group="3" />
+      <geom mesh="model_collision_23_JA_Henckels_International_Premio_Cutlery_Block_Set_14Piece" type="mesh" group="3" />
+      <geom mesh="model_collision_24_JA_Henckels_International_Premio_Cutlery_Block_Set_14Piece" type="mesh" group="3" />
+      <geom mesh="model_collision_25_JA_Henckels_International_Premio_Cutlery_Block_Set_14Piece" type="mesh" group="3" />
+      <geom mesh="model_collision_26_JA_Henckels_International_Premio_Cutlery_Block_Set_14Piece" type="mesh" group="3" />
+      <geom mesh="model_collision_27_JA_Henckels_International_Premio_Cutlery_Block_Set_14Piece" type="mesh" group="3" />
+      <geom mesh="model_collision_28_JA_Henckels_International_Premio_Cutlery_Block_Set_14Piece" type="mesh" group="3" />
+      <geom mesh="model_collision_29_JA_Henckels_International_Premio_Cutlery_Block_Set_14Piece" type="mesh" group="3" />
+      <geom mesh="model_collision_30_JA_Henckels_International_Premio_Cutlery_Block_Set_14Piece" type="mesh" group="3" />
+      <geom mesh="model_collision_31_JA_Henckels_International_Premio_Cutlery_Block_Set_14Piece" type="mesh" group="3" />
+    </body>

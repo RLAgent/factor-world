@@ -1,0 +1,36 @@
+<body childclass="Star_Wars_Rogue_Squadron_Nintendo_64_base" name="Star_Wars_Rogue_Squadron_Nintendo_641">
+        <geom class="Star_Wars_Rogue_Squadron_Nintendo_64_col" name="{geom_name}" type="mesh" mesh="model_Star_Wars_Rogue_Squadron_Nintendo_64" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Star_Wars_Rogue_Squadron_Nintendo_64" mesh="model_Star_Wars_Rogue_Squadron_Nintendo_64" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Star_Wars_Rogue_Squadron_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Star_Wars_Rogue_Squadron_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Star_Wars_Rogue_Squadron_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Star_Wars_Rogue_Squadron_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Star_Wars_Rogue_Squadron_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Star_Wars_Rogue_Squadron_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Star_Wars_Rogue_Squadron_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Star_Wars_Rogue_Squadron_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Star_Wars_Rogue_Squadron_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Star_Wars_Rogue_Squadron_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Star_Wars_Rogue_Squadron_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Star_Wars_Rogue_Squadron_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Star_Wars_Rogue_Squadron_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Star_Wars_Rogue_Squadron_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Star_Wars_Rogue_Squadron_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Star_Wars_Rogue_Squadron_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Star_Wars_Rogue_Squadron_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Star_Wars_Rogue_Squadron_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Star_Wars_Rogue_Squadron_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Star_Wars_Rogue_Squadron_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Star_Wars_Rogue_Squadron_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Star_Wars_Rogue_Squadron_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Star_Wars_Rogue_Squadron_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Star_Wars_Rogue_Squadron_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Star_Wars_Rogue_Squadron_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Star_Wars_Rogue_Squadron_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Star_Wars_Rogue_Squadron_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Star_Wars_Rogue_Squadron_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Star_Wars_Rogue_Squadron_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Star_Wars_Rogue_Squadron_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Star_Wars_Rogue_Squadron_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Star_Wars_Rogue_Squadron_Nintendo_64" type="mesh" group="3" />
+    </body>

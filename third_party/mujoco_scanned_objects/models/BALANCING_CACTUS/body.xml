@@ -1,0 +1,36 @@
+<body childclass="BALANCING_CACTUS_base" name="BALANCING_CACTUS1">
+        <geom class="BALANCING_CACTUS_col" name="{geom_name}" type="mesh" mesh="model_BALANCING_CACTUS" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_BALANCING_CACTUS" mesh="model_BALANCING_CACTUS" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_BALANCING_CACTUS" type="mesh" group="3" />
+      <geom mesh="model_collision_1_BALANCING_CACTUS" type="mesh" group="3" />
+      <geom mesh="model_collision_2_BALANCING_CACTUS" type="mesh" group="3" />
+      <geom mesh="model_collision_3_BALANCING_CACTUS" type="mesh" group="3" />
+      <geom mesh="model_collision_4_BALANCING_CACTUS" type="mesh" group="3" />
+      <geom mesh="model_collision_5_BALANCING_CACTUS" type="mesh" group="3" />
+      <geom mesh="model_collision_6_BALANCING_CACTUS" type="mesh" group="3" />
+      <geom mesh="model_collision_7_BALANCING_CACTUS" type="mesh" group="3" />
+      <geom mesh="model_collision_8_BALANCING_CACTUS" type="mesh" group="3" />
+      <geom mesh="model_collision_9_BALANCING_CACTUS" type="mesh" group="3" />
+      <geom mesh="model_collision_10_BALANCING_CACTUS" type="mesh" group="3" />
+      <geom mesh="model_collision_11_BALANCING_CACTUS" type="mesh" group="3" />
+      <geom mesh="model_collision_12_BALANCING_CACTUS" type="mesh" group="3" />
+      <geom mesh="model_collision_13_BALANCING_CACTUS" type="mesh" group="3" />
+      <geom mesh="model_collision_14_BALANCING_CACTUS" type="mesh" group="3" />
+      <geom mesh="model_collision_15_BALANCING_CACTUS" type="mesh" group="3" />
+      <geom mesh="model_collision_16_BALANCING_CACTUS" type="mesh" group="3" />
+      <geom mesh="model_collision_17_BALANCING_CACTUS" type="mesh" group="3" />
+      <geom mesh="model_collision_18_BALANCING_CACTUS" type="mesh" group="3" />
+      <geom mesh="model_collision_19_BALANCING_CACTUS" type="mesh" group="3" />
+      <geom mesh="model_collision_20_BALANCING_CACTUS" type="mesh" group="3" />
+      <geom mesh="model_collision_21_BALANCING_CACTUS" type="mesh" group="3" />
+      <geom mesh="model_collision_22_BALANCING_CACTUS" type="mesh" group="3" />
+      <geom mesh="model_collision_23_BALANCING_CACTUS" type="mesh" group="3" />
+      <geom mesh="model_collision_24_BALANCING_CACTUS" type="mesh" group="3" />
+      <geom mesh="model_collision_25_BALANCING_CACTUS" type="mesh" group="3" />
+      <geom mesh="model_collision_26_BALANCING_CACTUS" type="mesh" group="3" />
+      <geom mesh="model_collision_27_BALANCING_CACTUS" type="mesh" group="3" />
+      <geom mesh="model_collision_28_BALANCING_CACTUS" type="mesh" group="3" />
+      <geom mesh="model_collision_29_BALANCING_CACTUS" type="mesh" group="3" />
+      <geom mesh="model_collision_30_BALANCING_CACTUS" type="mesh" group="3" />
+      <geom mesh="model_collision_31_BALANCING_CACTUS" type="mesh" group="3" />
+    </body>

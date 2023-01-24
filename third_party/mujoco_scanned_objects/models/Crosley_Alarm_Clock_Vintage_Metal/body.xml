@@ -1,0 +1,36 @@
+<body childclass="Crosley_Alarm_Clock_Vintage_Metal_base" name="Crosley_Alarm_Clock_Vintage_Metal1">
+        <geom class="Crosley_Alarm_Clock_Vintage_Metal_col" name="{geom_name}" type="mesh" mesh="model_Crosley_Alarm_Clock_Vintage_Metal" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Crosley_Alarm_Clock_Vintage_Metal" mesh="model_Crosley_Alarm_Clock_Vintage_Metal" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Crosley_Alarm_Clock_Vintage_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Crosley_Alarm_Clock_Vintage_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Crosley_Alarm_Clock_Vintage_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Crosley_Alarm_Clock_Vintage_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Crosley_Alarm_Clock_Vintage_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Crosley_Alarm_Clock_Vintage_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Crosley_Alarm_Clock_Vintage_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Crosley_Alarm_Clock_Vintage_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Crosley_Alarm_Clock_Vintage_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Crosley_Alarm_Clock_Vintage_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Crosley_Alarm_Clock_Vintage_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Crosley_Alarm_Clock_Vintage_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Crosley_Alarm_Clock_Vintage_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Crosley_Alarm_Clock_Vintage_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Crosley_Alarm_Clock_Vintage_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Crosley_Alarm_Clock_Vintage_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Crosley_Alarm_Clock_Vintage_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Crosley_Alarm_Clock_Vintage_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Crosley_Alarm_Clock_Vintage_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Crosley_Alarm_Clock_Vintage_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Crosley_Alarm_Clock_Vintage_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Crosley_Alarm_Clock_Vintage_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Crosley_Alarm_Clock_Vintage_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Crosley_Alarm_Clock_Vintage_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Crosley_Alarm_Clock_Vintage_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Crosley_Alarm_Clock_Vintage_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Crosley_Alarm_Clock_Vintage_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Crosley_Alarm_Clock_Vintage_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Crosley_Alarm_Clock_Vintage_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Crosley_Alarm_Clock_Vintage_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Crosley_Alarm_Clock_Vintage_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Crosley_Alarm_Clock_Vintage_Metal" type="mesh" group="3" />
+    </body>

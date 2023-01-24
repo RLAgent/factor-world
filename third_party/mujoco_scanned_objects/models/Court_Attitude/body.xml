@@ -1,0 +1,36 @@
+<body childclass="Court_Attitude_base" name="Court_Attitude1">
+        <geom class="Court_Attitude_col" name="{geom_name}" type="mesh" mesh="model_Court_Attitude" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Court_Attitude" mesh="model_Court_Attitude" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Court_Attitude" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Court_Attitude" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Court_Attitude" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Court_Attitude" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Court_Attitude" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Court_Attitude" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Court_Attitude" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Court_Attitude" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Court_Attitude" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Court_Attitude" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Court_Attitude" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Court_Attitude" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Court_Attitude" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Court_Attitude" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Court_Attitude" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Court_Attitude" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Court_Attitude" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Court_Attitude" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Court_Attitude" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Court_Attitude" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Court_Attitude" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Court_Attitude" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Court_Attitude" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Court_Attitude" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Court_Attitude" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Court_Attitude" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Court_Attitude" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Court_Attitude" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Court_Attitude" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Court_Attitude" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Court_Attitude" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Court_Attitude" type="mesh" group="3" />
+    </body>

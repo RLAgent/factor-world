@@ -1,0 +1,36 @@
+<body childclass="TABLEWARE_SET_5ww1UFLuCJG_base" name="TABLEWARE_SET_5ww1UFLuCJG1">
+        <geom class="TABLEWARE_SET_5ww1UFLuCJG_col" name="{geom_name}" type="mesh" mesh="model_TABLEWARE_SET_5ww1UFLuCJG" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_TABLEWARE_SET_5ww1UFLuCJG" mesh="model_TABLEWARE_SET_5ww1UFLuCJG" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_TABLEWARE_SET_5ww1UFLuCJG" type="mesh" group="3" />
+      <geom mesh="model_collision_1_TABLEWARE_SET_5ww1UFLuCJG" type="mesh" group="3" />
+      <geom mesh="model_collision_2_TABLEWARE_SET_5ww1UFLuCJG" type="mesh" group="3" />
+      <geom mesh="model_collision_3_TABLEWARE_SET_5ww1UFLuCJG" type="mesh" group="3" />
+      <geom mesh="model_collision_4_TABLEWARE_SET_5ww1UFLuCJG" type="mesh" group="3" />
+      <geom mesh="model_collision_5_TABLEWARE_SET_5ww1UFLuCJG" type="mesh" group="3" />
+      <geom mesh="model_collision_6_TABLEWARE_SET_5ww1UFLuCJG" type="mesh" group="3" />
+      <geom mesh="model_collision_7_TABLEWARE_SET_5ww1UFLuCJG" type="mesh" group="3" />
+      <geom mesh="model_collision_8_TABLEWARE_SET_5ww1UFLuCJG" type="mesh" group="3" />
+      <geom mesh="model_collision_9_TABLEWARE_SET_5ww1UFLuCJG" type="mesh" group="3" />
+      <geom mesh="model_collision_10_TABLEWARE_SET_5ww1UFLuCJG" type="mesh" group="3" />
+      <geom mesh="model_collision_11_TABLEWARE_SET_5ww1UFLuCJG" type="mesh" group="3" />
+      <geom mesh="model_collision_12_TABLEWARE_SET_5ww1UFLuCJG" type="mesh" group="3" />
+      <geom mesh="model_collision_13_TABLEWARE_SET_5ww1UFLuCJG" type="mesh" group="3" />
+      <geom mesh="model_collision_14_TABLEWARE_SET_5ww1UFLuCJG" type="mesh" group="3" />
+      <geom mesh="model_collision_15_TABLEWARE_SET_5ww1UFLuCJG" type="mesh" group="3" />
+      <geom mesh="model_collision_16_TABLEWARE_SET_5ww1UFLuCJG" type="mesh" group="3" />
+      <geom mesh="model_collision_17_TABLEWARE_SET_5ww1UFLuCJG" type="mesh" group="3" />
+      <geom mesh="model_collision_18_TABLEWARE_SET_5ww1UFLuCJG" type="mesh" group="3" />
+      <geom mesh="model_collision_19_TABLEWARE_SET_5ww1UFLuCJG" type="mesh" group="3" />
+      <geom mesh="model_collision_20_TABLEWARE_SET_5ww1UFLuCJG" type="mesh" group="3" />
+      <geom mesh="model_collision_21_TABLEWARE_SET_5ww1UFLuCJG" type="mesh" group="3" />
+      <geom mesh="model_collision_22_TABLEWARE_SET_5ww1UFLuCJG" type="mesh" group="3" />
+      <geom mesh="model_collision_23_TABLEWARE_SET_5ww1UFLuCJG" type="mesh" group="3" />
+      <geom mesh="model_collision_24_TABLEWARE_SET_5ww1UFLuCJG" type="mesh" group="3" />
+      <geom mesh="model_collision_25_TABLEWARE_SET_5ww1UFLuCJG" type="mesh" group="3" />
+      <geom mesh="model_collision_26_TABLEWARE_SET_5ww1UFLuCJG" type="mesh" group="3" />
+      <geom mesh="model_collision_27_TABLEWARE_SET_5ww1UFLuCJG" type="mesh" group="3" />
+      <geom mesh="model_collision_28_TABLEWARE_SET_5ww1UFLuCJG" type="mesh" group="3" />
+      <geom mesh="model_collision_29_TABLEWARE_SET_5ww1UFLuCJG" type="mesh" group="3" />
+      <geom mesh="model_collision_30_TABLEWARE_SET_5ww1UFLuCJG" type="mesh" group="3" />
+      <geom mesh="model_collision_31_TABLEWARE_SET_5ww1UFLuCJG" type="mesh" group="3" />
+    </body>

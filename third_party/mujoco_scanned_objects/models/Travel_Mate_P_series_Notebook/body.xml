@@ -1,0 +1,36 @@
+<body childclass="Travel_Mate_P_series_Notebook_base" name="Travel_Mate_P_series_Notebook1">
+        <geom class="Travel_Mate_P_series_Notebook_col" name="{geom_name}" type="mesh" mesh="model_Travel_Mate_P_series_Notebook" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Travel_Mate_P_series_Notebook" mesh="model_Travel_Mate_P_series_Notebook" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Travel_Mate_P_series_Notebook" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Travel_Mate_P_series_Notebook" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Travel_Mate_P_series_Notebook" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Travel_Mate_P_series_Notebook" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Travel_Mate_P_series_Notebook" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Travel_Mate_P_series_Notebook" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Travel_Mate_P_series_Notebook" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Travel_Mate_P_series_Notebook" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Travel_Mate_P_series_Notebook" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Travel_Mate_P_series_Notebook" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Travel_Mate_P_series_Notebook" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Travel_Mate_P_series_Notebook" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Travel_Mate_P_series_Notebook" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Travel_Mate_P_series_Notebook" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Travel_Mate_P_series_Notebook" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Travel_Mate_P_series_Notebook" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Travel_Mate_P_series_Notebook" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Travel_Mate_P_series_Notebook" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Travel_Mate_P_series_Notebook" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Travel_Mate_P_series_Notebook" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Travel_Mate_P_series_Notebook" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Travel_Mate_P_series_Notebook" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Travel_Mate_P_series_Notebook" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Travel_Mate_P_series_Notebook" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Travel_Mate_P_series_Notebook" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Travel_Mate_P_series_Notebook" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Travel_Mate_P_series_Notebook" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Travel_Mate_P_series_Notebook" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Travel_Mate_P_series_Notebook" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Travel_Mate_P_series_Notebook" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Travel_Mate_P_series_Notebook" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Travel_Mate_P_series_Notebook" type="mesh" group="3" />
+    </body>

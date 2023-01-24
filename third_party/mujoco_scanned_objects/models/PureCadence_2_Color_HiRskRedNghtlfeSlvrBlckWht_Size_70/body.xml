@@ -1,0 +1,36 @@
+<body childclass="PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70_base" name="PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_701">
+        <geom class="PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70_col" name="{geom_name}" type="mesh" mesh="model_PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70" mesh="model_PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_1_PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_2_PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_3_PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_4_PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_5_PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_6_PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_7_PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_8_PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_9_PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_10_PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_11_PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_12_PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_13_PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_14_PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_15_PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_16_PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_17_PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_18_PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_19_PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_20_PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_21_PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_22_PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_23_PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_24_PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_25_PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_26_PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_27_PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_28_PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_29_PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_30_PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_31_PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="Embark_Lunch_Cooler_Blue_base" name="Embark_Lunch_Cooler_Blue1">
+        <geom class="Embark_Lunch_Cooler_Blue_col" name="{geom_name}" type="mesh" mesh="model_Embark_Lunch_Cooler_Blue" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Embark_Lunch_Cooler_Blue" mesh="model_Embark_Lunch_Cooler_Blue" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Embark_Lunch_Cooler_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Embark_Lunch_Cooler_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Embark_Lunch_Cooler_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Embark_Lunch_Cooler_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Embark_Lunch_Cooler_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Embark_Lunch_Cooler_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Embark_Lunch_Cooler_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Embark_Lunch_Cooler_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Embark_Lunch_Cooler_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Embark_Lunch_Cooler_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Embark_Lunch_Cooler_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Embark_Lunch_Cooler_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Embark_Lunch_Cooler_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Embark_Lunch_Cooler_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Embark_Lunch_Cooler_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Embark_Lunch_Cooler_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Embark_Lunch_Cooler_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Embark_Lunch_Cooler_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Embark_Lunch_Cooler_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Embark_Lunch_Cooler_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Embark_Lunch_Cooler_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Embark_Lunch_Cooler_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Embark_Lunch_Cooler_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Embark_Lunch_Cooler_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Embark_Lunch_Cooler_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Embark_Lunch_Cooler_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Embark_Lunch_Cooler_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Embark_Lunch_Cooler_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Embark_Lunch_Cooler_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Embark_Lunch_Cooler_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Embark_Lunch_Cooler_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Embark_Lunch_Cooler_Blue" type="mesh" group="3" />
+    </body>

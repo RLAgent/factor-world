@@ -1,0 +1,36 @@
+<body childclass="F10_TRX_TF_rH7tmKCdUJq_base" name="F10_TRX_TF_rH7tmKCdUJq1">
+        <geom class="F10_TRX_TF_rH7tmKCdUJq_col" name="{geom_name}" type="mesh" mesh="model_F10_TRX_TF_rH7tmKCdUJq" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_F10_TRX_TF_rH7tmKCdUJq" mesh="model_F10_TRX_TF_rH7tmKCdUJq" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_F10_TRX_TF_rH7tmKCdUJq" type="mesh" group="3" />
+      <geom mesh="model_collision_1_F10_TRX_TF_rH7tmKCdUJq" type="mesh" group="3" />
+      <geom mesh="model_collision_2_F10_TRX_TF_rH7tmKCdUJq" type="mesh" group="3" />
+      <geom mesh="model_collision_3_F10_TRX_TF_rH7tmKCdUJq" type="mesh" group="3" />
+      <geom mesh="model_collision_4_F10_TRX_TF_rH7tmKCdUJq" type="mesh" group="3" />
+      <geom mesh="model_collision_5_F10_TRX_TF_rH7tmKCdUJq" type="mesh" group="3" />
+      <geom mesh="model_collision_6_F10_TRX_TF_rH7tmKCdUJq" type="mesh" group="3" />
+      <geom mesh="model_collision_7_F10_TRX_TF_rH7tmKCdUJq" type="mesh" group="3" />
+      <geom mesh="model_collision_8_F10_TRX_TF_rH7tmKCdUJq" type="mesh" group="3" />
+      <geom mesh="model_collision_9_F10_TRX_TF_rH7tmKCdUJq" type="mesh" group="3" />
+      <geom mesh="model_collision_10_F10_TRX_TF_rH7tmKCdUJq" type="mesh" group="3" />
+      <geom mesh="model_collision_11_F10_TRX_TF_rH7tmKCdUJq" type="mesh" group="3" />
+      <geom mesh="model_collision_12_F10_TRX_TF_rH7tmKCdUJq" type="mesh" group="3" />
+      <geom mesh="model_collision_13_F10_TRX_TF_rH7tmKCdUJq" type="mesh" group="3" />
+      <geom mesh="model_collision_14_F10_TRX_TF_rH7tmKCdUJq" type="mesh" group="3" />
+      <geom mesh="model_collision_15_F10_TRX_TF_rH7tmKCdUJq" type="mesh" group="3" />
+      <geom mesh="model_collision_16_F10_TRX_TF_rH7tmKCdUJq" type="mesh" group="3" />
+      <geom mesh="model_collision_17_F10_TRX_TF_rH7tmKCdUJq" type="mesh" group="3" />
+      <geom mesh="model_collision_18_F10_TRX_TF_rH7tmKCdUJq" type="mesh" group="3" />
+      <geom mesh="model_collision_19_F10_TRX_TF_rH7tmKCdUJq" type="mesh" group="3" />
+      <geom mesh="model_collision_20_F10_TRX_TF_rH7tmKCdUJq" type="mesh" group="3" />
+      <geom mesh="model_collision_21_F10_TRX_TF_rH7tmKCdUJq" type="mesh" group="3" />
+      <geom mesh="model_collision_22_F10_TRX_TF_rH7tmKCdUJq" type="mesh" group="3" />
+      <geom mesh="model_collision_23_F10_TRX_TF_rH7tmKCdUJq" type="mesh" group="3" />
+      <geom mesh="model_collision_24_F10_TRX_TF_rH7tmKCdUJq" type="mesh" group="3" />
+      <geom mesh="model_collision_25_F10_TRX_TF_rH7tmKCdUJq" type="mesh" group="3" />
+      <geom mesh="model_collision_26_F10_TRX_TF_rH7tmKCdUJq" type="mesh" group="3" />
+      <geom mesh="model_collision_27_F10_TRX_TF_rH7tmKCdUJq" type="mesh" group="3" />
+      <geom mesh="model_collision_28_F10_TRX_TF_rH7tmKCdUJq" type="mesh" group="3" />
+      <geom mesh="model_collision_29_F10_TRX_TF_rH7tmKCdUJq" type="mesh" group="3" />
+      <geom mesh="model_collision_30_F10_TRX_TF_rH7tmKCdUJq" type="mesh" group="3" />
+      <geom mesh="model_collision_31_F10_TRX_TF_rH7tmKCdUJq" type="mesh" group="3" />
+    </body>

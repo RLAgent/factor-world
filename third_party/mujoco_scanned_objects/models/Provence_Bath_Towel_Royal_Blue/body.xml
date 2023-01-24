@@ -1,0 +1,36 @@
+<body childclass="Provence_Bath_Towel_Royal_Blue_base" name="Provence_Bath_Towel_Royal_Blue1">
+        <geom class="Provence_Bath_Towel_Royal_Blue_col" name="{geom_name}" type="mesh" mesh="model_Provence_Bath_Towel_Royal_Blue" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Provence_Bath_Towel_Royal_Blue" mesh="model_Provence_Bath_Towel_Royal_Blue" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Provence_Bath_Towel_Royal_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Provence_Bath_Towel_Royal_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Provence_Bath_Towel_Royal_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Provence_Bath_Towel_Royal_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Provence_Bath_Towel_Royal_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Provence_Bath_Towel_Royal_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Provence_Bath_Towel_Royal_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Provence_Bath_Towel_Royal_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Provence_Bath_Towel_Royal_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Provence_Bath_Towel_Royal_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Provence_Bath_Towel_Royal_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Provence_Bath_Towel_Royal_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Provence_Bath_Towel_Royal_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Provence_Bath_Towel_Royal_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Provence_Bath_Towel_Royal_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Provence_Bath_Towel_Royal_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Provence_Bath_Towel_Royal_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Provence_Bath_Towel_Royal_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Provence_Bath_Towel_Royal_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Provence_Bath_Towel_Royal_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Provence_Bath_Towel_Royal_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Provence_Bath_Towel_Royal_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Provence_Bath_Towel_Royal_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Provence_Bath_Towel_Royal_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Provence_Bath_Towel_Royal_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Provence_Bath_Towel_Royal_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Provence_Bath_Towel_Royal_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Provence_Bath_Towel_Royal_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Provence_Bath_Towel_Royal_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Provence_Bath_Towel_Royal_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Provence_Bath_Towel_Royal_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Provence_Bath_Towel_Royal_Blue" type="mesh" group="3" />
+    </body>

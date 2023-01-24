@@ -1,0 +1,36 @@
+<body childclass="Theanine_base" name="Theanine1">
+        <geom class="Theanine_col" name="{geom_name}" type="mesh" mesh="model_Theanine" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Theanine" mesh="model_Theanine" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Theanine" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Theanine" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Theanine" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Theanine" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Theanine" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Theanine" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Theanine" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Theanine" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Theanine" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Theanine" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Theanine" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Theanine" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Theanine" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Theanine" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Theanine" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Theanine" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Theanine" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Theanine" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Theanine" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Theanine" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Theanine" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Theanine" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Theanine" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Theanine" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Theanine" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Theanine" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Theanine" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Theanine" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Theanine" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Theanine" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Theanine" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Theanine" type="mesh" group="3" />
+    </body>

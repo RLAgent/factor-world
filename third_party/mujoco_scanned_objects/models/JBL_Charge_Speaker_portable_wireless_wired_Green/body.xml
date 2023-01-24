@@ -1,0 +1,36 @@
+<body childclass="JBL_Charge_Speaker_portable_wireless_wired_Green_base" name="JBL_Charge_Speaker_portable_wireless_wired_Green1">
+        <geom class="JBL_Charge_Speaker_portable_wireless_wired_Green_col" name="{geom_name}" type="mesh" mesh="model_JBL_Charge_Speaker_portable_wireless_wired_Green" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_JBL_Charge_Speaker_portable_wireless_wired_Green" mesh="model_JBL_Charge_Speaker_portable_wireless_wired_Green" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_JBL_Charge_Speaker_portable_wireless_wired_Green" type="mesh" group="3" />
+      <geom mesh="model_collision_1_JBL_Charge_Speaker_portable_wireless_wired_Green" type="mesh" group="3" />
+      <geom mesh="model_collision_2_JBL_Charge_Speaker_portable_wireless_wired_Green" type="mesh" group="3" />
+      <geom mesh="model_collision_3_JBL_Charge_Speaker_portable_wireless_wired_Green" type="mesh" group="3" />
+      <geom mesh="model_collision_4_JBL_Charge_Speaker_portable_wireless_wired_Green" type="mesh" group="3" />
+      <geom mesh="model_collision_5_JBL_Charge_Speaker_portable_wireless_wired_Green" type="mesh" group="3" />
+      <geom mesh="model_collision_6_JBL_Charge_Speaker_portable_wireless_wired_Green" type="mesh" group="3" />
+      <geom mesh="model_collision_7_JBL_Charge_Speaker_portable_wireless_wired_Green" type="mesh" group="3" />
+      <geom mesh="model_collision_8_JBL_Charge_Speaker_portable_wireless_wired_Green" type="mesh" group="3" />
+      <geom mesh="model_collision_9_JBL_Charge_Speaker_portable_wireless_wired_Green" type="mesh" group="3" />
+      <geom mesh="model_collision_10_JBL_Charge_Speaker_portable_wireless_wired_Green" type="mesh" group="3" />
+      <geom mesh="model_collision_11_JBL_Charge_Speaker_portable_wireless_wired_Green" type="mesh" group="3" />
+      <geom mesh="model_collision_12_JBL_Charge_Speaker_portable_wireless_wired_Green" type="mesh" group="3" />
+      <geom mesh="model_collision_13_JBL_Charge_Speaker_portable_wireless_wired_Green" type="mesh" group="3" />
+      <geom mesh="model_collision_14_JBL_Charge_Speaker_portable_wireless_wired_Green" type="mesh" group="3" />
+      <geom mesh="model_collision_15_JBL_Charge_Speaker_portable_wireless_wired_Green" type="mesh" group="3" />
+      <geom mesh="model_collision_16_JBL_Charge_Speaker_portable_wireless_wired_Green" type="mesh" group="3" />
+      <geom mesh="model_collision_17_JBL_Charge_Speaker_portable_wireless_wired_Green" type="mesh" group="3" />
+      <geom mesh="model_collision_18_JBL_Charge_Speaker_portable_wireless_wired_Green" type="mesh" group="3" />
+      <geom mesh="model_collision_19_JBL_Charge_Speaker_portable_wireless_wired_Green" type="mesh" group="3" />
+      <geom mesh="model_collision_20_JBL_Charge_Speaker_portable_wireless_wired_Green" type="mesh" group="3" />
+      <geom mesh="model_collision_21_JBL_Charge_Speaker_portable_wireless_wired_Green" type="mesh" group="3" />
+      <geom mesh="model_collision_22_JBL_Charge_Speaker_portable_wireless_wired_Green" type="mesh" group="3" />
+      <geom mesh="model_collision_23_JBL_Charge_Speaker_portable_wireless_wired_Green" type="mesh" group="3" />
+      <geom mesh="model_collision_24_JBL_Charge_Speaker_portable_wireless_wired_Green" type="mesh" group="3" />
+      <geom mesh="model_collision_25_JBL_Charge_Speaker_portable_wireless_wired_Green" type="mesh" group="3" />
+      <geom mesh="model_collision_26_JBL_Charge_Speaker_portable_wireless_wired_Green" type="mesh" group="3" />
+      <geom mesh="model_collision_27_JBL_Charge_Speaker_portable_wireless_wired_Green" type="mesh" group="3" />
+      <geom mesh="model_collision_28_JBL_Charge_Speaker_portable_wireless_wired_Green" type="mesh" group="3" />
+      <geom mesh="model_collision_29_JBL_Charge_Speaker_portable_wireless_wired_Green" type="mesh" group="3" />
+      <geom mesh="model_collision_30_JBL_Charge_Speaker_portable_wireless_wired_Green" type="mesh" group="3" />
+      <geom mesh="model_collision_31_JBL_Charge_Speaker_portable_wireless_wired_Green" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="Jawbone_UP24_Wireless_Activity_Tracker_Pink_Coral_L_base" name="Jawbone_UP24_Wireless_Activity_Tracker_Pink_Coral_L1">
+        <geom class="Jawbone_UP24_Wireless_Activity_Tracker_Pink_Coral_L_col" name="{geom_name}" type="mesh" mesh="model_Jawbone_UP24_Wireless_Activity_Tracker_Pink_Coral_L" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Jawbone_UP24_Wireless_Activity_Tracker_Pink_Coral_L" mesh="model_Jawbone_UP24_Wireless_Activity_Tracker_Pink_Coral_L" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Jawbone_UP24_Wireless_Activity_Tracker_Pink_Coral_L" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Jawbone_UP24_Wireless_Activity_Tracker_Pink_Coral_L" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Jawbone_UP24_Wireless_Activity_Tracker_Pink_Coral_L" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Jawbone_UP24_Wireless_Activity_Tracker_Pink_Coral_L" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Jawbone_UP24_Wireless_Activity_Tracker_Pink_Coral_L" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Jawbone_UP24_Wireless_Activity_Tracker_Pink_Coral_L" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Jawbone_UP24_Wireless_Activity_Tracker_Pink_Coral_L" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Jawbone_UP24_Wireless_Activity_Tracker_Pink_Coral_L" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Jawbone_UP24_Wireless_Activity_Tracker_Pink_Coral_L" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Jawbone_UP24_Wireless_Activity_Tracker_Pink_Coral_L" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Jawbone_UP24_Wireless_Activity_Tracker_Pink_Coral_L" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Jawbone_UP24_Wireless_Activity_Tracker_Pink_Coral_L" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Jawbone_UP24_Wireless_Activity_Tracker_Pink_Coral_L" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Jawbone_UP24_Wireless_Activity_Tracker_Pink_Coral_L" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Jawbone_UP24_Wireless_Activity_Tracker_Pink_Coral_L" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Jawbone_UP24_Wireless_Activity_Tracker_Pink_Coral_L" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Jawbone_UP24_Wireless_Activity_Tracker_Pink_Coral_L" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Jawbone_UP24_Wireless_Activity_Tracker_Pink_Coral_L" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Jawbone_UP24_Wireless_Activity_Tracker_Pink_Coral_L" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Jawbone_UP24_Wireless_Activity_Tracker_Pink_Coral_L" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Jawbone_UP24_Wireless_Activity_Tracker_Pink_Coral_L" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Jawbone_UP24_Wireless_Activity_Tracker_Pink_Coral_L" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Jawbone_UP24_Wireless_Activity_Tracker_Pink_Coral_L" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Jawbone_UP24_Wireless_Activity_Tracker_Pink_Coral_L" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Jawbone_UP24_Wireless_Activity_Tracker_Pink_Coral_L" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Jawbone_UP24_Wireless_Activity_Tracker_Pink_Coral_L" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Jawbone_UP24_Wireless_Activity_Tracker_Pink_Coral_L" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Jawbone_UP24_Wireless_Activity_Tracker_Pink_Coral_L" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Jawbone_UP24_Wireless_Activity_Tracker_Pink_Coral_L" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Jawbone_UP24_Wireless_Activity_Tracker_Pink_Coral_L" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Jawbone_UP24_Wireless_Activity_Tracker_Pink_Coral_L" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Jawbone_UP24_Wireless_Activity_Tracker_Pink_Coral_L" type="mesh" group="3" />
+    </body>

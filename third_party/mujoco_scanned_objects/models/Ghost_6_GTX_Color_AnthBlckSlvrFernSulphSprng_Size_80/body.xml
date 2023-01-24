@@ -1,0 +1,36 @@
+<body childclass="Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80_base" name="Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_801">
+        <geom class="Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80_col" name="{geom_name}" type="mesh" mesh="model_Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80" mesh="model_Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="InterDesign_Over_Door_base" name="InterDesign_Over_Door1">
+        <geom class="InterDesign_Over_Door_col" name="{geom_name}" type="mesh" mesh="model_InterDesign_Over_Door" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_InterDesign_Over_Door" mesh="model_InterDesign_Over_Door" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_InterDesign_Over_Door" type="mesh" group="3" />
+      <geom mesh="model_collision_1_InterDesign_Over_Door" type="mesh" group="3" />
+      <geom mesh="model_collision_2_InterDesign_Over_Door" type="mesh" group="3" />
+      <geom mesh="model_collision_3_InterDesign_Over_Door" type="mesh" group="3" />
+      <geom mesh="model_collision_4_InterDesign_Over_Door" type="mesh" group="3" />
+      <geom mesh="model_collision_5_InterDesign_Over_Door" type="mesh" group="3" />
+      <geom mesh="model_collision_6_InterDesign_Over_Door" type="mesh" group="3" />
+      <geom mesh="model_collision_7_InterDesign_Over_Door" type="mesh" group="3" />
+      <geom mesh="model_collision_8_InterDesign_Over_Door" type="mesh" group="3" />
+      <geom mesh="model_collision_9_InterDesign_Over_Door" type="mesh" group="3" />
+      <geom mesh="model_collision_10_InterDesign_Over_Door" type="mesh" group="3" />
+      <geom mesh="model_collision_11_InterDesign_Over_Door" type="mesh" group="3" />
+      <geom mesh="model_collision_12_InterDesign_Over_Door" type="mesh" group="3" />
+      <geom mesh="model_collision_13_InterDesign_Over_Door" type="mesh" group="3" />
+      <geom mesh="model_collision_14_InterDesign_Over_Door" type="mesh" group="3" />
+      <geom mesh="model_collision_15_InterDesign_Over_Door" type="mesh" group="3" />
+      <geom mesh="model_collision_16_InterDesign_Over_Door" type="mesh" group="3" />
+      <geom mesh="model_collision_17_InterDesign_Over_Door" type="mesh" group="3" />
+      <geom mesh="model_collision_18_InterDesign_Over_Door" type="mesh" group="3" />
+      <geom mesh="model_collision_19_InterDesign_Over_Door" type="mesh" group="3" />
+      <geom mesh="model_collision_20_InterDesign_Over_Door" type="mesh" group="3" />
+      <geom mesh="model_collision_21_InterDesign_Over_Door" type="mesh" group="3" />
+      <geom mesh="model_collision_22_InterDesign_Over_Door" type="mesh" group="3" />
+      <geom mesh="model_collision_23_InterDesign_Over_Door" type="mesh" group="3" />
+      <geom mesh="model_collision_24_InterDesign_Over_Door" type="mesh" group="3" />
+      <geom mesh="model_collision_25_InterDesign_Over_Door" type="mesh" group="3" />
+      <geom mesh="model_collision_26_InterDesign_Over_Door" type="mesh" group="3" />
+      <geom mesh="model_collision_27_InterDesign_Over_Door" type="mesh" group="3" />
+      <geom mesh="model_collision_28_InterDesign_Over_Door" type="mesh" group="3" />
+      <geom mesh="model_collision_29_InterDesign_Over_Door" type="mesh" group="3" />
+      <geom mesh="model_collision_30_InterDesign_Over_Door" type="mesh" group="3" />
+      <geom mesh="model_collision_31_InterDesign_Over_Door" type="mesh" group="3" />
+    </body>

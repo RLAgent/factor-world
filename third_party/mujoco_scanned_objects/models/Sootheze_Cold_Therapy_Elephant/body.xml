@@ -1,0 +1,36 @@
+<body childclass="Sootheze_Cold_Therapy_Elephant_base" name="Sootheze_Cold_Therapy_Elephant1">
+        <geom class="Sootheze_Cold_Therapy_Elephant_col" name="{geom_name}" type="mesh" mesh="model_Sootheze_Cold_Therapy_Elephant" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Sootheze_Cold_Therapy_Elephant" mesh="model_Sootheze_Cold_Therapy_Elephant" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Sootheze_Cold_Therapy_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Sootheze_Cold_Therapy_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Sootheze_Cold_Therapy_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Sootheze_Cold_Therapy_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Sootheze_Cold_Therapy_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Sootheze_Cold_Therapy_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Sootheze_Cold_Therapy_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Sootheze_Cold_Therapy_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Sootheze_Cold_Therapy_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Sootheze_Cold_Therapy_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Sootheze_Cold_Therapy_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Sootheze_Cold_Therapy_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Sootheze_Cold_Therapy_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Sootheze_Cold_Therapy_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Sootheze_Cold_Therapy_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Sootheze_Cold_Therapy_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Sootheze_Cold_Therapy_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Sootheze_Cold_Therapy_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Sootheze_Cold_Therapy_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Sootheze_Cold_Therapy_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Sootheze_Cold_Therapy_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Sootheze_Cold_Therapy_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Sootheze_Cold_Therapy_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Sootheze_Cold_Therapy_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Sootheze_Cold_Therapy_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Sootheze_Cold_Therapy_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Sootheze_Cold_Therapy_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Sootheze_Cold_Therapy_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Sootheze_Cold_Therapy_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Sootheze_Cold_Therapy_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Sootheze_Cold_Therapy_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Sootheze_Cold_Therapy_Elephant" type="mesh" group="3" />
+    </body>

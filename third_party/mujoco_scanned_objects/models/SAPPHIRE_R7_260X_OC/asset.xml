@@ -1,0 +1,38 @@
+<asset>
+    <texture type="2d" name="texture_SAPPHIRE_R7_260X_OC" file="../../../../../mujoco_scanned_objects/models/SAPPHIRE_R7_260X_OC/texture.png" />
+    <material name="material_0_SAPPHIRE_R7_260X_OC" texture="texture_SAPPHIRE_R7_260X_OC" specular="0.5" shininess="0.5" />
+    <mesh name="model_SAPPHIRE_R7_260X_OC" file="../../../../../mujoco_scanned_objects/models/SAPPHIRE_R7_260X_OC/model.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_0_SAPPHIRE_R7_260X_OC" file="../../../../../mujoco_scanned_objects/models/SAPPHIRE_R7_260X_OC/model_collision_0.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_1_SAPPHIRE_R7_260X_OC" file="../../../../../mujoco_scanned_objects/models/SAPPHIRE_R7_260X_OC/model_collision_1.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_2_SAPPHIRE_R7_260X_OC" file="../../../../../mujoco_scanned_objects/models/SAPPHIRE_R7_260X_OC/model_collision_2.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_3_SAPPHIRE_R7_260X_OC" file="../../../../../mujoco_scanned_objects/models/SAPPHIRE_R7_260X_OC/model_collision_3.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_4_SAPPHIRE_R7_260X_OC" file="../../../../../mujoco_scanned_objects/models/SAPPHIRE_R7_260X_OC/model_collision_4.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_5_SAPPHIRE_R7_260X_OC" file="../../../../../mujoco_scanned_objects/models/SAPPHIRE_R7_260X_OC/model_collision_5.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_6_SAPPHIRE_R7_260X_OC" file="../../../../../mujoco_scanned_objects/models/SAPPHIRE_R7_260X_OC/model_collision_6.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_7_SAPPHIRE_R7_260X_OC" file="../../../../../mujoco_scanned_objects/models/SAPPHIRE_R7_260X_OC/model_collision_7.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_8_SAPPHIRE_R7_260X_OC" file="../../../../../mujoco_scanned_objects/models/SAPPHIRE_R7_260X_OC/model_collision_8.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_9_SAPPHIRE_R7_260X_OC" file="../../../../../mujoco_scanned_objects/models/SAPPHIRE_R7_260X_OC/model_collision_9.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_10_SAPPHIRE_R7_260X_OC" file="../../../../../mujoco_scanned_objects/models/SAPPHIRE_R7_260X_OC/model_collision_10.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_11_SAPPHIRE_R7_260X_OC" file="../../../../../mujoco_scanned_objects/models/SAPPHIRE_R7_260X_OC/model_collision_11.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_12_SAPPHIRE_R7_260X_OC" file="../../../../../mujoco_scanned_objects/models/SAPPHIRE_R7_260X_OC/model_collision_12.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_13_SAPPHIRE_R7_260X_OC" file="../../../../../mujoco_scanned_objects/models/SAPPHIRE_R7_260X_OC/model_collision_13.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_14_SAPPHIRE_R7_260X_OC" file="../../../../../mujoco_scanned_objects/models/SAPPHIRE_R7_260X_OC/model_collision_14.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_15_SAPPHIRE_R7_260X_OC" file="../../../../../mujoco_scanned_objects/models/SAPPHIRE_R7_260X_OC/model_collision_15.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_16_SAPPHIRE_R7_260X_OC" file="../../../../../mujoco_scanned_objects/models/SAPPHIRE_R7_260X_OC/model_collision_16.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_17_SAPPHIRE_R7_260X_OC" file="../../../../../mujoco_scanned_objects/models/SAPPHIRE_R7_260X_OC/model_collision_17.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_18_SAPPHIRE_R7_260X_OC" file="../../../../../mujoco_scanned_objects/models/SAPPHIRE_R7_260X_OC/model_collision_18.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_19_SAPPHIRE_R7_260X_OC" file="../../../../../mujoco_scanned_objects/models/SAPPHIRE_R7_260X_OC/model_collision_19.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_20_SAPPHIRE_R7_260X_OC" file="../../../../../mujoco_scanned_objects/models/SAPPHIRE_R7_260X_OC/model_collision_20.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_21_SAPPHIRE_R7_260X_OC" file="../../../../../mujoco_scanned_objects/models/SAPPHIRE_R7_260X_OC/model_collision_21.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_22_SAPPHIRE_R7_260X_OC" file="../../../../../mujoco_scanned_objects/models/SAPPHIRE_R7_260X_OC/model_collision_22.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_23_SAPPHIRE_R7_260X_OC" file="../../../../../mujoco_scanned_objects/models/SAPPHIRE_R7_260X_OC/model_collision_23.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_24_SAPPHIRE_R7_260X_OC" file="../../../../../mujoco_scanned_objects/models/SAPPHIRE_R7_260X_OC/model_collision_24.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_25_SAPPHIRE_R7_260X_OC" file="../../../../../mujoco_scanned_objects/models/SAPPHIRE_R7_260X_OC/model_collision_25.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_26_SAPPHIRE_R7_260X_OC" file="../../../../../mujoco_scanned_objects/models/SAPPHIRE_R7_260X_OC/model_collision_26.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_27_SAPPHIRE_R7_260X_OC" file="../../../../../mujoco_scanned_objects/models/SAPPHIRE_R7_260X_OC/model_collision_27.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_28_SAPPHIRE_R7_260X_OC" file="../../../../../mujoco_scanned_objects/models/SAPPHIRE_R7_260X_OC/model_collision_28.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_29_SAPPHIRE_R7_260X_OC" file="../../../../../mujoco_scanned_objects/models/SAPPHIRE_R7_260X_OC/model_collision_29.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_30_SAPPHIRE_R7_260X_OC" file="../../../../../mujoco_scanned_objects/models/SAPPHIRE_R7_260X_OC/model_collision_30.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_31_SAPPHIRE_R7_260X_OC" file="../../../../../mujoco_scanned_objects/models/SAPPHIRE_R7_260X_OC/model_collision_31.stl" scale="{scale} {scale} {scale}" />
+  </asset>
+  

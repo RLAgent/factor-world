@@ -1,0 +1,36 @@
+<body childclass="New_Super_Mario_BrosWii_Wii_Game_base" name="New_Super_Mario_BrosWii_Wii_Game1">
+        <geom class="New_Super_Mario_BrosWii_Wii_Game_col" name="{geom_name}" type="mesh" mesh="model_New_Super_Mario_BrosWii_Wii_Game" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_New_Super_Mario_BrosWii_Wii_Game" mesh="model_New_Super_Mario_BrosWii_Wii_Game" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_New_Super_Mario_BrosWii_Wii_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_1_New_Super_Mario_BrosWii_Wii_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_2_New_Super_Mario_BrosWii_Wii_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_3_New_Super_Mario_BrosWii_Wii_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_4_New_Super_Mario_BrosWii_Wii_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_5_New_Super_Mario_BrosWii_Wii_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_6_New_Super_Mario_BrosWii_Wii_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_7_New_Super_Mario_BrosWii_Wii_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_8_New_Super_Mario_BrosWii_Wii_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_9_New_Super_Mario_BrosWii_Wii_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_10_New_Super_Mario_BrosWii_Wii_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_11_New_Super_Mario_BrosWii_Wii_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_12_New_Super_Mario_BrosWii_Wii_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_13_New_Super_Mario_BrosWii_Wii_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_14_New_Super_Mario_BrosWii_Wii_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_15_New_Super_Mario_BrosWii_Wii_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_16_New_Super_Mario_BrosWii_Wii_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_17_New_Super_Mario_BrosWii_Wii_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_18_New_Super_Mario_BrosWii_Wii_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_19_New_Super_Mario_BrosWii_Wii_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_20_New_Super_Mario_BrosWii_Wii_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_21_New_Super_Mario_BrosWii_Wii_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_22_New_Super_Mario_BrosWii_Wii_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_23_New_Super_Mario_BrosWii_Wii_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_24_New_Super_Mario_BrosWii_Wii_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_25_New_Super_Mario_BrosWii_Wii_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_26_New_Super_Mario_BrosWii_Wii_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_27_New_Super_Mario_BrosWii_Wii_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_28_New_Super_Mario_BrosWii_Wii_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_29_New_Super_Mario_BrosWii_Wii_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_30_New_Super_Mario_BrosWii_Wii_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_31_New_Super_Mario_BrosWii_Wii_Game" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="Top_Paw_Dog_Bow_Bone_Ceramic_13_fl_oz_total_base" name="Top_Paw_Dog_Bow_Bone_Ceramic_13_fl_oz_total1">
+        <geom class="Top_Paw_Dog_Bow_Bone_Ceramic_13_fl_oz_total_col" name="{geom_name}" type="mesh" mesh="model_Top_Paw_Dog_Bow_Bone_Ceramic_13_fl_oz_total" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Top_Paw_Dog_Bow_Bone_Ceramic_13_fl_oz_total" mesh="model_Top_Paw_Dog_Bow_Bone_Ceramic_13_fl_oz_total" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Top_Paw_Dog_Bow_Bone_Ceramic_13_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Top_Paw_Dog_Bow_Bone_Ceramic_13_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Top_Paw_Dog_Bow_Bone_Ceramic_13_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Top_Paw_Dog_Bow_Bone_Ceramic_13_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Top_Paw_Dog_Bow_Bone_Ceramic_13_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Top_Paw_Dog_Bow_Bone_Ceramic_13_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Top_Paw_Dog_Bow_Bone_Ceramic_13_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Top_Paw_Dog_Bow_Bone_Ceramic_13_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Top_Paw_Dog_Bow_Bone_Ceramic_13_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Top_Paw_Dog_Bow_Bone_Ceramic_13_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Top_Paw_Dog_Bow_Bone_Ceramic_13_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Top_Paw_Dog_Bow_Bone_Ceramic_13_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Top_Paw_Dog_Bow_Bone_Ceramic_13_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Top_Paw_Dog_Bow_Bone_Ceramic_13_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Top_Paw_Dog_Bow_Bone_Ceramic_13_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Top_Paw_Dog_Bow_Bone_Ceramic_13_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Top_Paw_Dog_Bow_Bone_Ceramic_13_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Top_Paw_Dog_Bow_Bone_Ceramic_13_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Top_Paw_Dog_Bow_Bone_Ceramic_13_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Top_Paw_Dog_Bow_Bone_Ceramic_13_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Top_Paw_Dog_Bow_Bone_Ceramic_13_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Top_Paw_Dog_Bow_Bone_Ceramic_13_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Top_Paw_Dog_Bow_Bone_Ceramic_13_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Top_Paw_Dog_Bow_Bone_Ceramic_13_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Top_Paw_Dog_Bow_Bone_Ceramic_13_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Top_Paw_Dog_Bow_Bone_Ceramic_13_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Top_Paw_Dog_Bow_Bone_Ceramic_13_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Top_Paw_Dog_Bow_Bone_Ceramic_13_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Top_Paw_Dog_Bow_Bone_Ceramic_13_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Top_Paw_Dog_Bow_Bone_Ceramic_13_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Top_Paw_Dog_Bow_Bone_Ceramic_13_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Top_Paw_Dog_Bow_Bone_Ceramic_13_fl_oz_total" type="mesh" group="3" />
+    </body>

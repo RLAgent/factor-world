@@ -1,0 +1,36 @@
+<body childclass="Avengers_Thor_PLlrpYniaeB_base" name="Avengers_Thor_PLlrpYniaeB1">
+        <geom class="Avengers_Thor_PLlrpYniaeB_col" name="{geom_name}" type="mesh" mesh="model_Avengers_Thor_PLlrpYniaeB" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Avengers_Thor_PLlrpYniaeB" mesh="model_Avengers_Thor_PLlrpYniaeB" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Avengers_Thor_PLlrpYniaeB" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Avengers_Thor_PLlrpYniaeB" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Avengers_Thor_PLlrpYniaeB" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Avengers_Thor_PLlrpYniaeB" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Avengers_Thor_PLlrpYniaeB" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Avengers_Thor_PLlrpYniaeB" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Avengers_Thor_PLlrpYniaeB" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Avengers_Thor_PLlrpYniaeB" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Avengers_Thor_PLlrpYniaeB" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Avengers_Thor_PLlrpYniaeB" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Avengers_Thor_PLlrpYniaeB" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Avengers_Thor_PLlrpYniaeB" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Avengers_Thor_PLlrpYniaeB" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Avengers_Thor_PLlrpYniaeB" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Avengers_Thor_PLlrpYniaeB" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Avengers_Thor_PLlrpYniaeB" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Avengers_Thor_PLlrpYniaeB" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Avengers_Thor_PLlrpYniaeB" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Avengers_Thor_PLlrpYniaeB" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Avengers_Thor_PLlrpYniaeB" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Avengers_Thor_PLlrpYniaeB" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Avengers_Thor_PLlrpYniaeB" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Avengers_Thor_PLlrpYniaeB" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Avengers_Thor_PLlrpYniaeB" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Avengers_Thor_PLlrpYniaeB" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Avengers_Thor_PLlrpYniaeB" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Avengers_Thor_PLlrpYniaeB" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Avengers_Thor_PLlrpYniaeB" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Avengers_Thor_PLlrpYniaeB" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Avengers_Thor_PLlrpYniaeB" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Avengers_Thor_PLlrpYniaeB" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Avengers_Thor_PLlrpYniaeB" type="mesh" group="3" />
+    </body>

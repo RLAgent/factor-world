@@ -1,0 +1,36 @@
+<body childclass="Jansport_School_Backpack_Blue_Streak_base" name="Jansport_School_Backpack_Blue_Streak1">
+        <geom class="Jansport_School_Backpack_Blue_Streak_col" name="{geom_name}" type="mesh" mesh="model_Jansport_School_Backpack_Blue_Streak" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Jansport_School_Backpack_Blue_Streak" mesh="model_Jansport_School_Backpack_Blue_Streak" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Jansport_School_Backpack_Blue_Streak" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Jansport_School_Backpack_Blue_Streak" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Jansport_School_Backpack_Blue_Streak" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Jansport_School_Backpack_Blue_Streak" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Jansport_School_Backpack_Blue_Streak" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Jansport_School_Backpack_Blue_Streak" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Jansport_School_Backpack_Blue_Streak" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Jansport_School_Backpack_Blue_Streak" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Jansport_School_Backpack_Blue_Streak" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Jansport_School_Backpack_Blue_Streak" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Jansport_School_Backpack_Blue_Streak" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Jansport_School_Backpack_Blue_Streak" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Jansport_School_Backpack_Blue_Streak" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Jansport_School_Backpack_Blue_Streak" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Jansport_School_Backpack_Blue_Streak" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Jansport_School_Backpack_Blue_Streak" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Jansport_School_Backpack_Blue_Streak" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Jansport_School_Backpack_Blue_Streak" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Jansport_School_Backpack_Blue_Streak" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Jansport_School_Backpack_Blue_Streak" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Jansport_School_Backpack_Blue_Streak" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Jansport_School_Backpack_Blue_Streak" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Jansport_School_Backpack_Blue_Streak" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Jansport_School_Backpack_Blue_Streak" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Jansport_School_Backpack_Blue_Streak" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Jansport_School_Backpack_Blue_Streak" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Jansport_School_Backpack_Blue_Streak" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Jansport_School_Backpack_Blue_Streak" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Jansport_School_Backpack_Blue_Streak" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Jansport_School_Backpack_Blue_Streak" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Jansport_School_Backpack_Blue_Streak" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Jansport_School_Backpack_Blue_Streak" type="mesh" group="3" />
+    </body>

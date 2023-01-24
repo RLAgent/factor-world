@@ -1,0 +1,36 @@
+<body childclass="PEEKABOO_ROLLER_base" name="PEEKABOO_ROLLER1">
+        <geom class="PEEKABOO_ROLLER_col" name="{geom_name}" type="mesh" mesh="model_PEEKABOO_ROLLER" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_PEEKABOO_ROLLER" mesh="model_PEEKABOO_ROLLER" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_PEEKABOO_ROLLER" type="mesh" group="3" />
+      <geom mesh="model_collision_1_PEEKABOO_ROLLER" type="mesh" group="3" />
+      <geom mesh="model_collision_2_PEEKABOO_ROLLER" type="mesh" group="3" />
+      <geom mesh="model_collision_3_PEEKABOO_ROLLER" type="mesh" group="3" />
+      <geom mesh="model_collision_4_PEEKABOO_ROLLER" type="mesh" group="3" />
+      <geom mesh="model_collision_5_PEEKABOO_ROLLER" type="mesh" group="3" />
+      <geom mesh="model_collision_6_PEEKABOO_ROLLER" type="mesh" group="3" />
+      <geom mesh="model_collision_7_PEEKABOO_ROLLER" type="mesh" group="3" />
+      <geom mesh="model_collision_8_PEEKABOO_ROLLER" type="mesh" group="3" />
+      <geom mesh="model_collision_9_PEEKABOO_ROLLER" type="mesh" group="3" />
+      <geom mesh="model_collision_10_PEEKABOO_ROLLER" type="mesh" group="3" />
+      <geom mesh="model_collision_11_PEEKABOO_ROLLER" type="mesh" group="3" />
+      <geom mesh="model_collision_12_PEEKABOO_ROLLER" type="mesh" group="3" />
+      <geom mesh="model_collision_13_PEEKABOO_ROLLER" type="mesh" group="3" />
+      <geom mesh="model_collision_14_PEEKABOO_ROLLER" type="mesh" group="3" />
+      <geom mesh="model_collision_15_PEEKABOO_ROLLER" type="mesh" group="3" />
+      <geom mesh="model_collision_16_PEEKABOO_ROLLER" type="mesh" group="3" />
+      <geom mesh="model_collision_17_PEEKABOO_ROLLER" type="mesh" group="3" />
+      <geom mesh="model_collision_18_PEEKABOO_ROLLER" type="mesh" group="3" />
+      <geom mesh="model_collision_19_PEEKABOO_ROLLER" type="mesh" group="3" />
+      <geom mesh="model_collision_20_PEEKABOO_ROLLER" type="mesh" group="3" />
+      <geom mesh="model_collision_21_PEEKABOO_ROLLER" type="mesh" group="3" />
+      <geom mesh="model_collision_22_PEEKABOO_ROLLER" type="mesh" group="3" />
+      <geom mesh="model_collision_23_PEEKABOO_ROLLER" type="mesh" group="3" />
+      <geom mesh="model_collision_24_PEEKABOO_ROLLER" type="mesh" group="3" />
+      <geom mesh="model_collision_25_PEEKABOO_ROLLER" type="mesh" group="3" />
+      <geom mesh="model_collision_26_PEEKABOO_ROLLER" type="mesh" group="3" />
+      <geom mesh="model_collision_27_PEEKABOO_ROLLER" type="mesh" group="3" />
+      <geom mesh="model_collision_28_PEEKABOO_ROLLER" type="mesh" group="3" />
+      <geom mesh="model_collision_29_PEEKABOO_ROLLER" type="mesh" group="3" />
+      <geom mesh="model_collision_30_PEEKABOO_ROLLER" type="mesh" group="3" />
+      <geom mesh="model_collision_31_PEEKABOO_ROLLER" type="mesh" group="3" />
+    </body>

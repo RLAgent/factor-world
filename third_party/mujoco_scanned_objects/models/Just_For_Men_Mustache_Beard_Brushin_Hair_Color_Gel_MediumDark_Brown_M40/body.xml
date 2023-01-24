@@ -1,0 +1,36 @@
+<body childclass="Just_For_Men_Mustache_Beard_Brushin_Hair_Color_Gel_MediumDark_Brown_M40_base" name="Just_For_Men_Mustache_Beard_Brushin_Hair_Color_Gel_MediumDark_Brown_M401">
+        <geom class="Just_For_Men_Mustache_Beard_Brushin_Hair_Color_Gel_MediumDark_Brown_M40_col" name="{geom_name}" type="mesh" mesh="model_Just_For_Men_Mustache_Beard_Brushin_Hair_Color_Gel_MediumDark_Brown_M40" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Just_For_Men_Mustache_Beard_Brushin_Hair_Color_Gel_MediumDark_Brown_M40" mesh="model_Just_For_Men_Mustache_Beard_Brushin_Hair_Color_Gel_MediumDark_Brown_M40" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Just_For_Men_Mustache_Beard_Brushin_Hair_Color_Gel_MediumDark_Brown_M40" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Just_For_Men_Mustache_Beard_Brushin_Hair_Color_Gel_MediumDark_Brown_M40" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Just_For_Men_Mustache_Beard_Brushin_Hair_Color_Gel_MediumDark_Brown_M40" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Just_For_Men_Mustache_Beard_Brushin_Hair_Color_Gel_MediumDark_Brown_M40" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Just_For_Men_Mustache_Beard_Brushin_Hair_Color_Gel_MediumDark_Brown_M40" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Just_For_Men_Mustache_Beard_Brushin_Hair_Color_Gel_MediumDark_Brown_M40" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Just_For_Men_Mustache_Beard_Brushin_Hair_Color_Gel_MediumDark_Brown_M40" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Just_For_Men_Mustache_Beard_Brushin_Hair_Color_Gel_MediumDark_Brown_M40" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Just_For_Men_Mustache_Beard_Brushin_Hair_Color_Gel_MediumDark_Brown_M40" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Just_For_Men_Mustache_Beard_Brushin_Hair_Color_Gel_MediumDark_Brown_M40" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Just_For_Men_Mustache_Beard_Brushin_Hair_Color_Gel_MediumDark_Brown_M40" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Just_For_Men_Mustache_Beard_Brushin_Hair_Color_Gel_MediumDark_Brown_M40" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Just_For_Men_Mustache_Beard_Brushin_Hair_Color_Gel_MediumDark_Brown_M40" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Just_For_Men_Mustache_Beard_Brushin_Hair_Color_Gel_MediumDark_Brown_M40" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Just_For_Men_Mustache_Beard_Brushin_Hair_Color_Gel_MediumDark_Brown_M40" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Just_For_Men_Mustache_Beard_Brushin_Hair_Color_Gel_MediumDark_Brown_M40" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Just_For_Men_Mustache_Beard_Brushin_Hair_Color_Gel_MediumDark_Brown_M40" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Just_For_Men_Mustache_Beard_Brushin_Hair_Color_Gel_MediumDark_Brown_M40" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Just_For_Men_Mustache_Beard_Brushin_Hair_Color_Gel_MediumDark_Brown_M40" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Just_For_Men_Mustache_Beard_Brushin_Hair_Color_Gel_MediumDark_Brown_M40" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Just_For_Men_Mustache_Beard_Brushin_Hair_Color_Gel_MediumDark_Brown_M40" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Just_For_Men_Mustache_Beard_Brushin_Hair_Color_Gel_MediumDark_Brown_M40" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Just_For_Men_Mustache_Beard_Brushin_Hair_Color_Gel_MediumDark_Brown_M40" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Just_For_Men_Mustache_Beard_Brushin_Hair_Color_Gel_MediumDark_Brown_M40" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Just_For_Men_Mustache_Beard_Brushin_Hair_Color_Gel_MediumDark_Brown_M40" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Just_For_Men_Mustache_Beard_Brushin_Hair_Color_Gel_MediumDark_Brown_M40" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Just_For_Men_Mustache_Beard_Brushin_Hair_Color_Gel_MediumDark_Brown_M40" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Just_For_Men_Mustache_Beard_Brushin_Hair_Color_Gel_MediumDark_Brown_M40" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Just_For_Men_Mustache_Beard_Brushin_Hair_Color_Gel_MediumDark_Brown_M40" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Just_For_Men_Mustache_Beard_Brushin_Hair_Color_Gel_MediumDark_Brown_M40" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Just_For_Men_Mustache_Beard_Brushin_Hair_Color_Gel_MediumDark_Brown_M40" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Just_For_Men_Mustache_Beard_Brushin_Hair_Color_Gel_MediumDark_Brown_M40" type="mesh" group="3" />
+    </body>

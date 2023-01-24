@@ -1,0 +1,5 @@
+<body childclass="LEGO_City_Advent_Calendar_base" name="LEGO_City_Advent_Calendar1">
+        <geom class="LEGO_City_Advent_Calendar_col" name="{geom_name}" type="mesh" mesh="model_LEGO_City_Advent_Calendar" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_LEGO_City_Advent_Calendar" mesh="model_LEGO_City_Advent_Calendar" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_LEGO_City_Advent_Calendar" type="mesh" group="3" />
+    </body>

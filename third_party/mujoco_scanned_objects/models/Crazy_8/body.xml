@@ -1,0 +1,36 @@
+<body childclass="Crazy_8_base" name="Crazy_81">
+        <geom class="Crazy_8_col" name="{geom_name}" type="mesh" mesh="model_Crazy_8" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Crazy_8" mesh="model_Crazy_8" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Crazy_8" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Crazy_8" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Crazy_8" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Crazy_8" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Crazy_8" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Crazy_8" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Crazy_8" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Crazy_8" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Crazy_8" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Crazy_8" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Crazy_8" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Crazy_8" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Crazy_8" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Crazy_8" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Crazy_8" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Crazy_8" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Crazy_8" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Crazy_8" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Crazy_8" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Crazy_8" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Crazy_8" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Crazy_8" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Crazy_8" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Crazy_8" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Crazy_8" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Crazy_8" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Crazy_8" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Crazy_8" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Crazy_8" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Crazy_8" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Crazy_8" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Crazy_8" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="Object_base" name="Object1">
+        <geom class="Object_col" name="{geom_name}" type="mesh" mesh="model_Object" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Object" mesh="model_Object" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Object" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Object" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Object" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Object" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Object" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Object" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Object" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Object" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Object" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Object" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Object" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Object" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Object" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Object" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Object" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Object" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Object" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Object" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Object" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Object" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Object" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Object" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Object" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Object" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Object" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Object" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Object" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Object" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Object" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Object" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Object" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Object" type="mesh" group="3" />
+    </body>

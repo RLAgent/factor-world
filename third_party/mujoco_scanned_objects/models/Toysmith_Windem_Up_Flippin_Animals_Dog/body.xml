@@ -1,0 +1,36 @@
+<body childclass="Toysmith_Windem_Up_Flippin_Animals_Dog_base" name="Toysmith_Windem_Up_Flippin_Animals_Dog1">
+        <geom class="Toysmith_Windem_Up_Flippin_Animals_Dog_col" name="{geom_name}" type="mesh" mesh="model_Toysmith_Windem_Up_Flippin_Animals_Dog" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Toysmith_Windem_Up_Flippin_Animals_Dog" mesh="model_Toysmith_Windem_Up_Flippin_Animals_Dog" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Toysmith_Windem_Up_Flippin_Animals_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Toysmith_Windem_Up_Flippin_Animals_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Toysmith_Windem_Up_Flippin_Animals_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Toysmith_Windem_Up_Flippin_Animals_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Toysmith_Windem_Up_Flippin_Animals_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Toysmith_Windem_Up_Flippin_Animals_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Toysmith_Windem_Up_Flippin_Animals_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Toysmith_Windem_Up_Flippin_Animals_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Toysmith_Windem_Up_Flippin_Animals_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Toysmith_Windem_Up_Flippin_Animals_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Toysmith_Windem_Up_Flippin_Animals_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Toysmith_Windem_Up_Flippin_Animals_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Toysmith_Windem_Up_Flippin_Animals_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Toysmith_Windem_Up_Flippin_Animals_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Toysmith_Windem_Up_Flippin_Animals_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Toysmith_Windem_Up_Flippin_Animals_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Toysmith_Windem_Up_Flippin_Animals_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Toysmith_Windem_Up_Flippin_Animals_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Toysmith_Windem_Up_Flippin_Animals_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Toysmith_Windem_Up_Flippin_Animals_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Toysmith_Windem_Up_Flippin_Animals_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Toysmith_Windem_Up_Flippin_Animals_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Toysmith_Windem_Up_Flippin_Animals_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Toysmith_Windem_Up_Flippin_Animals_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Toysmith_Windem_Up_Flippin_Animals_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Toysmith_Windem_Up_Flippin_Animals_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Toysmith_Windem_Up_Flippin_Animals_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Toysmith_Windem_Up_Flippin_Animals_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Toysmith_Windem_Up_Flippin_Animals_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Toysmith_Windem_Up_Flippin_Animals_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Toysmith_Windem_Up_Flippin_Animals_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Toysmith_Windem_Up_Flippin_Animals_Dog" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="BUNNY_RACER_base" name="BUNNY_RACER1">
+        <geom class="BUNNY_RACER_col" name="{geom_name}" type="mesh" mesh="model_BUNNY_RACER" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_BUNNY_RACER" mesh="model_BUNNY_RACER" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_BUNNY_RACER" type="mesh" group="3" />
+      <geom mesh="model_collision_1_BUNNY_RACER" type="mesh" group="3" />
+      <geom mesh="model_collision_2_BUNNY_RACER" type="mesh" group="3" />
+      <geom mesh="model_collision_3_BUNNY_RACER" type="mesh" group="3" />
+      <geom mesh="model_collision_4_BUNNY_RACER" type="mesh" group="3" />
+      <geom mesh="model_collision_5_BUNNY_RACER" type="mesh" group="3" />
+      <geom mesh="model_collision_6_BUNNY_RACER" type="mesh" group="3" />
+      <geom mesh="model_collision_7_BUNNY_RACER" type="mesh" group="3" />
+      <geom mesh="model_collision_8_BUNNY_RACER" type="mesh" group="3" />
+      <geom mesh="model_collision_9_BUNNY_RACER" type="mesh" group="3" />
+      <geom mesh="model_collision_10_BUNNY_RACER" type="mesh" group="3" />
+      <geom mesh="model_collision_11_BUNNY_RACER" type="mesh" group="3" />
+      <geom mesh="model_collision_12_BUNNY_RACER" type="mesh" group="3" />
+      <geom mesh="model_collision_13_BUNNY_RACER" type="mesh" group="3" />
+      <geom mesh="model_collision_14_BUNNY_RACER" type="mesh" group="3" />
+      <geom mesh="model_collision_15_BUNNY_RACER" type="mesh" group="3" />
+      <geom mesh="model_collision_16_BUNNY_RACER" type="mesh" group="3" />
+      <geom mesh="model_collision_17_BUNNY_RACER" type="mesh" group="3" />
+      <geom mesh="model_collision_18_BUNNY_RACER" type="mesh" group="3" />
+      <geom mesh="model_collision_19_BUNNY_RACER" type="mesh" group="3" />
+      <geom mesh="model_collision_20_BUNNY_RACER" type="mesh" group="3" />
+      <geom mesh="model_collision_21_BUNNY_RACER" type="mesh" group="3" />
+      <geom mesh="model_collision_22_BUNNY_RACER" type="mesh" group="3" />
+      <geom mesh="model_collision_23_BUNNY_RACER" type="mesh" group="3" />
+      <geom mesh="model_collision_24_BUNNY_RACER" type="mesh" group="3" />
+      <geom mesh="model_collision_25_BUNNY_RACER" type="mesh" group="3" />
+      <geom mesh="model_collision_26_BUNNY_RACER" type="mesh" group="3" />
+      <geom mesh="model_collision_27_BUNNY_RACER" type="mesh" group="3" />
+      <geom mesh="model_collision_28_BUNNY_RACER" type="mesh" group="3" />
+      <geom mesh="model_collision_29_BUNNY_RACER" type="mesh" group="3" />
+      <geom mesh="model_collision_30_BUNNY_RACER" type="mesh" group="3" />
+      <geom mesh="model_collision_31_BUNNY_RACER" type="mesh" group="3" />
+    </body>

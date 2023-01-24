@@ -1,0 +1,36 @@
+<body childclass="Chefmate_8_Frypan_base" name="Chefmate_8_Frypan1">
+        <geom class="Chefmate_8_Frypan_col" name="{geom_name}" type="mesh" mesh="model_Chefmate_8_Frypan" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Chefmate_8_Frypan" mesh="model_Chefmate_8_Frypan" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Chefmate_8_Frypan" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Chefmate_8_Frypan" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Chefmate_8_Frypan" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Chefmate_8_Frypan" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Chefmate_8_Frypan" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Chefmate_8_Frypan" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Chefmate_8_Frypan" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Chefmate_8_Frypan" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Chefmate_8_Frypan" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Chefmate_8_Frypan" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Chefmate_8_Frypan" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Chefmate_8_Frypan" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Chefmate_8_Frypan" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Chefmate_8_Frypan" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Chefmate_8_Frypan" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Chefmate_8_Frypan" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Chefmate_8_Frypan" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Chefmate_8_Frypan" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Chefmate_8_Frypan" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Chefmate_8_Frypan" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Chefmate_8_Frypan" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Chefmate_8_Frypan" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Chefmate_8_Frypan" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Chefmate_8_Frypan" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Chefmate_8_Frypan" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Chefmate_8_Frypan" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Chefmate_8_Frypan" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Chefmate_8_Frypan" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Chefmate_8_Frypan" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Chefmate_8_Frypan" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Chefmate_8_Frypan" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Chefmate_8_Frypan" type="mesh" group="3" />
+    </body>

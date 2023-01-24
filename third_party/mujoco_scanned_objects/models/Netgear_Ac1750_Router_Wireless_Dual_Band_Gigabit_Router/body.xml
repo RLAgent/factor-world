@@ -1,0 +1,36 @@
+<body childclass="Netgear_Ac1750_Router_Wireless_Dual_Band_Gigabit_Router_base" name="Netgear_Ac1750_Router_Wireless_Dual_Band_Gigabit_Router1">
+        <geom class="Netgear_Ac1750_Router_Wireless_Dual_Band_Gigabit_Router_col" name="{geom_name}" type="mesh" mesh="model_Netgear_Ac1750_Router_Wireless_Dual_Band_Gigabit_Router" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Netgear_Ac1750_Router_Wireless_Dual_Band_Gigabit_Router" mesh="model_Netgear_Ac1750_Router_Wireless_Dual_Band_Gigabit_Router" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Netgear_Ac1750_Router_Wireless_Dual_Band_Gigabit_Router" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Netgear_Ac1750_Router_Wireless_Dual_Band_Gigabit_Router" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Netgear_Ac1750_Router_Wireless_Dual_Band_Gigabit_Router" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Netgear_Ac1750_Router_Wireless_Dual_Band_Gigabit_Router" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Netgear_Ac1750_Router_Wireless_Dual_Band_Gigabit_Router" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Netgear_Ac1750_Router_Wireless_Dual_Band_Gigabit_Router" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Netgear_Ac1750_Router_Wireless_Dual_Band_Gigabit_Router" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Netgear_Ac1750_Router_Wireless_Dual_Band_Gigabit_Router" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Netgear_Ac1750_Router_Wireless_Dual_Band_Gigabit_Router" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Netgear_Ac1750_Router_Wireless_Dual_Band_Gigabit_Router" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Netgear_Ac1750_Router_Wireless_Dual_Band_Gigabit_Router" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Netgear_Ac1750_Router_Wireless_Dual_Band_Gigabit_Router" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Netgear_Ac1750_Router_Wireless_Dual_Band_Gigabit_Router" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Netgear_Ac1750_Router_Wireless_Dual_Band_Gigabit_Router" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Netgear_Ac1750_Router_Wireless_Dual_Band_Gigabit_Router" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Netgear_Ac1750_Router_Wireless_Dual_Band_Gigabit_Router" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Netgear_Ac1750_Router_Wireless_Dual_Band_Gigabit_Router" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Netgear_Ac1750_Router_Wireless_Dual_Band_Gigabit_Router" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Netgear_Ac1750_Router_Wireless_Dual_Band_Gigabit_Router" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Netgear_Ac1750_Router_Wireless_Dual_Band_Gigabit_Router" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Netgear_Ac1750_Router_Wireless_Dual_Band_Gigabit_Router" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Netgear_Ac1750_Router_Wireless_Dual_Band_Gigabit_Router" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Netgear_Ac1750_Router_Wireless_Dual_Band_Gigabit_Router" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Netgear_Ac1750_Router_Wireless_Dual_Band_Gigabit_Router" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Netgear_Ac1750_Router_Wireless_Dual_Band_Gigabit_Router" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Netgear_Ac1750_Router_Wireless_Dual_Band_Gigabit_Router" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Netgear_Ac1750_Router_Wireless_Dual_Band_Gigabit_Router" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Netgear_Ac1750_Router_Wireless_Dual_Band_Gigabit_Router" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Netgear_Ac1750_Router_Wireless_Dual_Band_Gigabit_Router" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Netgear_Ac1750_Router_Wireless_Dual_Band_Gigabit_Router" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Netgear_Ac1750_Router_Wireless_Dual_Band_Gigabit_Router" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Netgear_Ac1750_Router_Wireless_Dual_Band_Gigabit_Router" type="mesh" group="3" />
+    </body>

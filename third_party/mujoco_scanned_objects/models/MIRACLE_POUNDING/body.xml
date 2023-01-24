@@ -1,0 +1,36 @@
+<body childclass="MIRACLE_POUNDING_base" name="MIRACLE_POUNDING1">
+        <geom class="MIRACLE_POUNDING_col" name="{geom_name}" type="mesh" mesh="model_MIRACLE_POUNDING" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_MIRACLE_POUNDING" mesh="model_MIRACLE_POUNDING" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_MIRACLE_POUNDING" type="mesh" group="3" />
+      <geom mesh="model_collision_1_MIRACLE_POUNDING" type="mesh" group="3" />
+      <geom mesh="model_collision_2_MIRACLE_POUNDING" type="mesh" group="3" />
+      <geom mesh="model_collision_3_MIRACLE_POUNDING" type="mesh" group="3" />
+      <geom mesh="model_collision_4_MIRACLE_POUNDING" type="mesh" group="3" />
+      <geom mesh="model_collision_5_MIRACLE_POUNDING" type="mesh" group="3" />
+      <geom mesh="model_collision_6_MIRACLE_POUNDING" type="mesh" group="3" />
+      <geom mesh="model_collision_7_MIRACLE_POUNDING" type="mesh" group="3" />
+      <geom mesh="model_collision_8_MIRACLE_POUNDING" type="mesh" group="3" />
+      <geom mesh="model_collision_9_MIRACLE_POUNDING" type="mesh" group="3" />
+      <geom mesh="model_collision_10_MIRACLE_POUNDING" type="mesh" group="3" />
+      <geom mesh="model_collision_11_MIRACLE_POUNDING" type="mesh" group="3" />
+      <geom mesh="model_collision_12_MIRACLE_POUNDING" type="mesh" group="3" />
+      <geom mesh="model_collision_13_MIRACLE_POUNDING" type="mesh" group="3" />
+      <geom mesh="model_collision_14_MIRACLE_POUNDING" type="mesh" group="3" />
+      <geom mesh="model_collision_15_MIRACLE_POUNDING" type="mesh" group="3" />
+      <geom mesh="model_collision_16_MIRACLE_POUNDING" type="mesh" group="3" />
+      <geom mesh="model_collision_17_MIRACLE_POUNDING" type="mesh" group="3" />
+      <geom mesh="model_collision_18_MIRACLE_POUNDING" type="mesh" group="3" />
+      <geom mesh="model_collision_19_MIRACLE_POUNDING" type="mesh" group="3" />
+      <geom mesh="model_collision_20_MIRACLE_POUNDING" type="mesh" group="3" />
+      <geom mesh="model_collision_21_MIRACLE_POUNDING" type="mesh" group="3" />
+      <geom mesh="model_collision_22_MIRACLE_POUNDING" type="mesh" group="3" />
+      <geom mesh="model_collision_23_MIRACLE_POUNDING" type="mesh" group="3" />
+      <geom mesh="model_collision_24_MIRACLE_POUNDING" type="mesh" group="3" />
+      <geom mesh="model_collision_25_MIRACLE_POUNDING" type="mesh" group="3" />
+      <geom mesh="model_collision_26_MIRACLE_POUNDING" type="mesh" group="3" />
+      <geom mesh="model_collision_27_MIRACLE_POUNDING" type="mesh" group="3" />
+      <geom mesh="model_collision_28_MIRACLE_POUNDING" type="mesh" group="3" />
+      <geom mesh="model_collision_29_MIRACLE_POUNDING" type="mesh" group="3" />
+      <geom mesh="model_collision_30_MIRACLE_POUNDING" type="mesh" group="3" />
+      <geom mesh="model_collision_31_MIRACLE_POUNDING" type="mesh" group="3" />
+    </body>

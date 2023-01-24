@@ -1,0 +1,36 @@
+<body childclass="Tena_Pads_Heavy_Long_42_pads_base" name="Tena_Pads_Heavy_Long_42_pads1">
+        <geom class="Tena_Pads_Heavy_Long_42_pads_col" name="{geom_name}" type="mesh" mesh="model_Tena_Pads_Heavy_Long_42_pads" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Tena_Pads_Heavy_Long_42_pads" mesh="model_Tena_Pads_Heavy_Long_42_pads" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Tena_Pads_Heavy_Long_42_pads" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Tena_Pads_Heavy_Long_42_pads" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Tena_Pads_Heavy_Long_42_pads" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Tena_Pads_Heavy_Long_42_pads" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Tena_Pads_Heavy_Long_42_pads" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Tena_Pads_Heavy_Long_42_pads" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Tena_Pads_Heavy_Long_42_pads" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Tena_Pads_Heavy_Long_42_pads" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Tena_Pads_Heavy_Long_42_pads" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Tena_Pads_Heavy_Long_42_pads" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Tena_Pads_Heavy_Long_42_pads" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Tena_Pads_Heavy_Long_42_pads" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Tena_Pads_Heavy_Long_42_pads" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Tena_Pads_Heavy_Long_42_pads" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Tena_Pads_Heavy_Long_42_pads" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Tena_Pads_Heavy_Long_42_pads" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Tena_Pads_Heavy_Long_42_pads" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Tena_Pads_Heavy_Long_42_pads" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Tena_Pads_Heavy_Long_42_pads" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Tena_Pads_Heavy_Long_42_pads" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Tena_Pads_Heavy_Long_42_pads" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Tena_Pads_Heavy_Long_42_pads" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Tena_Pads_Heavy_Long_42_pads" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Tena_Pads_Heavy_Long_42_pads" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Tena_Pads_Heavy_Long_42_pads" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Tena_Pads_Heavy_Long_42_pads" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Tena_Pads_Heavy_Long_42_pads" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Tena_Pads_Heavy_Long_42_pads" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Tena_Pads_Heavy_Long_42_pads" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Tena_Pads_Heavy_Long_42_pads" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Tena_Pads_Heavy_Long_42_pads" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Tena_Pads_Heavy_Long_42_pads" type="mesh" group="3" />
+    </body>

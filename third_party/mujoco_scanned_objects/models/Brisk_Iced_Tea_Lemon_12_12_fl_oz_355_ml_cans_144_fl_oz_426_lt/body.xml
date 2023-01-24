@@ -1,0 +1,36 @@
+<body childclass="Brisk_Iced_Tea_Lemon_12_12_fl_oz_355_ml_cans_144_fl_oz_426_lt_base" name="Brisk_Iced_Tea_Lemon_12_12_fl_oz_355_ml_cans_144_fl_oz_426_lt1">
+        <geom class="Brisk_Iced_Tea_Lemon_12_12_fl_oz_355_ml_cans_144_fl_oz_426_lt_col" name="{geom_name}" type="mesh" mesh="model_Brisk_Iced_Tea_Lemon_12_12_fl_oz_355_ml_cans_144_fl_oz_426_lt" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Brisk_Iced_Tea_Lemon_12_12_fl_oz_355_ml_cans_144_fl_oz_426_lt" mesh="model_Brisk_Iced_Tea_Lemon_12_12_fl_oz_355_ml_cans_144_fl_oz_426_lt" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Brisk_Iced_Tea_Lemon_12_12_fl_oz_355_ml_cans_144_fl_oz_426_lt" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Brisk_Iced_Tea_Lemon_12_12_fl_oz_355_ml_cans_144_fl_oz_426_lt" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Brisk_Iced_Tea_Lemon_12_12_fl_oz_355_ml_cans_144_fl_oz_426_lt" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Brisk_Iced_Tea_Lemon_12_12_fl_oz_355_ml_cans_144_fl_oz_426_lt" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Brisk_Iced_Tea_Lemon_12_12_fl_oz_355_ml_cans_144_fl_oz_426_lt" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Brisk_Iced_Tea_Lemon_12_12_fl_oz_355_ml_cans_144_fl_oz_426_lt" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Brisk_Iced_Tea_Lemon_12_12_fl_oz_355_ml_cans_144_fl_oz_426_lt" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Brisk_Iced_Tea_Lemon_12_12_fl_oz_355_ml_cans_144_fl_oz_426_lt" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Brisk_Iced_Tea_Lemon_12_12_fl_oz_355_ml_cans_144_fl_oz_426_lt" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Brisk_Iced_Tea_Lemon_12_12_fl_oz_355_ml_cans_144_fl_oz_426_lt" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Brisk_Iced_Tea_Lemon_12_12_fl_oz_355_ml_cans_144_fl_oz_426_lt" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Brisk_Iced_Tea_Lemon_12_12_fl_oz_355_ml_cans_144_fl_oz_426_lt" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Brisk_Iced_Tea_Lemon_12_12_fl_oz_355_ml_cans_144_fl_oz_426_lt" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Brisk_Iced_Tea_Lemon_12_12_fl_oz_355_ml_cans_144_fl_oz_426_lt" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Brisk_Iced_Tea_Lemon_12_12_fl_oz_355_ml_cans_144_fl_oz_426_lt" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Brisk_Iced_Tea_Lemon_12_12_fl_oz_355_ml_cans_144_fl_oz_426_lt" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Brisk_Iced_Tea_Lemon_12_12_fl_oz_355_ml_cans_144_fl_oz_426_lt" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Brisk_Iced_Tea_Lemon_12_12_fl_oz_355_ml_cans_144_fl_oz_426_lt" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Brisk_Iced_Tea_Lemon_12_12_fl_oz_355_ml_cans_144_fl_oz_426_lt" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Brisk_Iced_Tea_Lemon_12_12_fl_oz_355_ml_cans_144_fl_oz_426_lt" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Brisk_Iced_Tea_Lemon_12_12_fl_oz_355_ml_cans_144_fl_oz_426_lt" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Brisk_Iced_Tea_Lemon_12_12_fl_oz_355_ml_cans_144_fl_oz_426_lt" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Brisk_Iced_Tea_Lemon_12_12_fl_oz_355_ml_cans_144_fl_oz_426_lt" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Brisk_Iced_Tea_Lemon_12_12_fl_oz_355_ml_cans_144_fl_oz_426_lt" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Brisk_Iced_Tea_Lemon_12_12_fl_oz_355_ml_cans_144_fl_oz_426_lt" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Brisk_Iced_Tea_Lemon_12_12_fl_oz_355_ml_cans_144_fl_oz_426_lt" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Brisk_Iced_Tea_Lemon_12_12_fl_oz_355_ml_cans_144_fl_oz_426_lt" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Brisk_Iced_Tea_Lemon_12_12_fl_oz_355_ml_cans_144_fl_oz_426_lt" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Brisk_Iced_Tea_Lemon_12_12_fl_oz_355_ml_cans_144_fl_oz_426_lt" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Brisk_Iced_Tea_Lemon_12_12_fl_oz_355_ml_cans_144_fl_oz_426_lt" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Brisk_Iced_Tea_Lemon_12_12_fl_oz_355_ml_cans_144_fl_oz_426_lt" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Brisk_Iced_Tea_Lemon_12_12_fl_oz_355_ml_cans_144_fl_oz_426_lt" type="mesh" group="3" />
+    </body>

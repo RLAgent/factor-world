@@ -1,0 +1,36 @@
+<body childclass="Real_Deal_1nIwCHX1MTh_base" name="Real_Deal_1nIwCHX1MTh1">
+        <geom class="Real_Deal_1nIwCHX1MTh_col" name="{geom_name}" type="mesh" mesh="model_Real_Deal_1nIwCHX1MTh" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Real_Deal_1nIwCHX1MTh" mesh="model_Real_Deal_1nIwCHX1MTh" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Real_Deal_1nIwCHX1MTh" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Real_Deal_1nIwCHX1MTh" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Real_Deal_1nIwCHX1MTh" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Real_Deal_1nIwCHX1MTh" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Real_Deal_1nIwCHX1MTh" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Real_Deal_1nIwCHX1MTh" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Real_Deal_1nIwCHX1MTh" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Real_Deal_1nIwCHX1MTh" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Real_Deal_1nIwCHX1MTh" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Real_Deal_1nIwCHX1MTh" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Real_Deal_1nIwCHX1MTh" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Real_Deal_1nIwCHX1MTh" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Real_Deal_1nIwCHX1MTh" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Real_Deal_1nIwCHX1MTh" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Real_Deal_1nIwCHX1MTh" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Real_Deal_1nIwCHX1MTh" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Real_Deal_1nIwCHX1MTh" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Real_Deal_1nIwCHX1MTh" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Real_Deal_1nIwCHX1MTh" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Real_Deal_1nIwCHX1MTh" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Real_Deal_1nIwCHX1MTh" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Real_Deal_1nIwCHX1MTh" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Real_Deal_1nIwCHX1MTh" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Real_Deal_1nIwCHX1MTh" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Real_Deal_1nIwCHX1MTh" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Real_Deal_1nIwCHX1MTh" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Real_Deal_1nIwCHX1MTh" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Real_Deal_1nIwCHX1MTh" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Real_Deal_1nIwCHX1MTh" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Real_Deal_1nIwCHX1MTh" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Real_Deal_1nIwCHX1MTh" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Real_Deal_1nIwCHX1MTh" type="mesh" group="3" />
+    </body>

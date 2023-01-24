@@ -1,0 +1,36 @@
+<body childclass="Hefty_Waste_Basket_Decorative_Bronze_85_liter_base" name="Hefty_Waste_Basket_Decorative_Bronze_85_liter1">
+        <geom class="Hefty_Waste_Basket_Decorative_Bronze_85_liter_col" name="{geom_name}" type="mesh" mesh="model_Hefty_Waste_Basket_Decorative_Bronze_85_liter" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Hefty_Waste_Basket_Decorative_Bronze_85_liter" mesh="model_Hefty_Waste_Basket_Decorative_Bronze_85_liter" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Hefty_Waste_Basket_Decorative_Bronze_85_liter" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Hefty_Waste_Basket_Decorative_Bronze_85_liter" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Hefty_Waste_Basket_Decorative_Bronze_85_liter" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Hefty_Waste_Basket_Decorative_Bronze_85_liter" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Hefty_Waste_Basket_Decorative_Bronze_85_liter" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Hefty_Waste_Basket_Decorative_Bronze_85_liter" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Hefty_Waste_Basket_Decorative_Bronze_85_liter" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Hefty_Waste_Basket_Decorative_Bronze_85_liter" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Hefty_Waste_Basket_Decorative_Bronze_85_liter" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Hefty_Waste_Basket_Decorative_Bronze_85_liter" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Hefty_Waste_Basket_Decorative_Bronze_85_liter" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Hefty_Waste_Basket_Decorative_Bronze_85_liter" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Hefty_Waste_Basket_Decorative_Bronze_85_liter" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Hefty_Waste_Basket_Decorative_Bronze_85_liter" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Hefty_Waste_Basket_Decorative_Bronze_85_liter" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Hefty_Waste_Basket_Decorative_Bronze_85_liter" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Hefty_Waste_Basket_Decorative_Bronze_85_liter" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Hefty_Waste_Basket_Decorative_Bronze_85_liter" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Hefty_Waste_Basket_Decorative_Bronze_85_liter" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Hefty_Waste_Basket_Decorative_Bronze_85_liter" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Hefty_Waste_Basket_Decorative_Bronze_85_liter" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Hefty_Waste_Basket_Decorative_Bronze_85_liter" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Hefty_Waste_Basket_Decorative_Bronze_85_liter" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Hefty_Waste_Basket_Decorative_Bronze_85_liter" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Hefty_Waste_Basket_Decorative_Bronze_85_liter" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Hefty_Waste_Basket_Decorative_Bronze_85_liter" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Hefty_Waste_Basket_Decorative_Bronze_85_liter" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Hefty_Waste_Basket_Decorative_Bronze_85_liter" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Hefty_Waste_Basket_Decorative_Bronze_85_liter" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Hefty_Waste_Basket_Decorative_Bronze_85_liter" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Hefty_Waste_Basket_Decorative_Bronze_85_liter" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Hefty_Waste_Basket_Decorative_Bronze_85_liter" type="mesh" group="3" />
+    </body>

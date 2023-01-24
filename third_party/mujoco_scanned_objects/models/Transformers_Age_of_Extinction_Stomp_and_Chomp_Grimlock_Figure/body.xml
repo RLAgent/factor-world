@@ -1,0 +1,36 @@
+<body childclass="Transformers_Age_of_Extinction_Stomp_and_Chomp_Grimlock_Figure_base" name="Transformers_Age_of_Extinction_Stomp_and_Chomp_Grimlock_Figure1">
+        <geom class="Transformers_Age_of_Extinction_Stomp_and_Chomp_Grimlock_Figure_col" name="{geom_name}" type="mesh" mesh="model_Transformers_Age_of_Extinction_Stomp_and_Chomp_Grimlock_Figure" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Transformers_Age_of_Extinction_Stomp_and_Chomp_Grimlock_Figure" mesh="model_Transformers_Age_of_Extinction_Stomp_and_Chomp_Grimlock_Figure" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Transformers_Age_of_Extinction_Stomp_and_Chomp_Grimlock_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Transformers_Age_of_Extinction_Stomp_and_Chomp_Grimlock_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Transformers_Age_of_Extinction_Stomp_and_Chomp_Grimlock_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Transformers_Age_of_Extinction_Stomp_and_Chomp_Grimlock_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Transformers_Age_of_Extinction_Stomp_and_Chomp_Grimlock_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Transformers_Age_of_Extinction_Stomp_and_Chomp_Grimlock_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Transformers_Age_of_Extinction_Stomp_and_Chomp_Grimlock_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Transformers_Age_of_Extinction_Stomp_and_Chomp_Grimlock_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Transformers_Age_of_Extinction_Stomp_and_Chomp_Grimlock_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Transformers_Age_of_Extinction_Stomp_and_Chomp_Grimlock_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Transformers_Age_of_Extinction_Stomp_and_Chomp_Grimlock_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Transformers_Age_of_Extinction_Stomp_and_Chomp_Grimlock_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Transformers_Age_of_Extinction_Stomp_and_Chomp_Grimlock_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Transformers_Age_of_Extinction_Stomp_and_Chomp_Grimlock_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Transformers_Age_of_Extinction_Stomp_and_Chomp_Grimlock_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Transformers_Age_of_Extinction_Stomp_and_Chomp_Grimlock_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Transformers_Age_of_Extinction_Stomp_and_Chomp_Grimlock_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Transformers_Age_of_Extinction_Stomp_and_Chomp_Grimlock_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Transformers_Age_of_Extinction_Stomp_and_Chomp_Grimlock_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Transformers_Age_of_Extinction_Stomp_and_Chomp_Grimlock_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Transformers_Age_of_Extinction_Stomp_and_Chomp_Grimlock_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Transformers_Age_of_Extinction_Stomp_and_Chomp_Grimlock_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Transformers_Age_of_Extinction_Stomp_and_Chomp_Grimlock_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Transformers_Age_of_Extinction_Stomp_and_Chomp_Grimlock_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Transformers_Age_of_Extinction_Stomp_and_Chomp_Grimlock_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Transformers_Age_of_Extinction_Stomp_and_Chomp_Grimlock_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Transformers_Age_of_Extinction_Stomp_and_Chomp_Grimlock_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Transformers_Age_of_Extinction_Stomp_and_Chomp_Grimlock_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Transformers_Age_of_Extinction_Stomp_and_Chomp_Grimlock_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Transformers_Age_of_Extinction_Stomp_and_Chomp_Grimlock_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Transformers_Age_of_Extinction_Stomp_and_Chomp_Grimlock_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Transformers_Age_of_Extinction_Stomp_and_Chomp_Grimlock_Figure" type="mesh" group="3" />
+    </body>

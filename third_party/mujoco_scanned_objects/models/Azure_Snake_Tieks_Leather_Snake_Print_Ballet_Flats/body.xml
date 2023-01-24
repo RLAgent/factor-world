@@ -1,0 +1,36 @@
+<body childclass="Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats_base" name="Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats1">
+        <geom class="Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats_col" name="{geom_name}" type="mesh" mesh="model_Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats" mesh="model_Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+    </body>

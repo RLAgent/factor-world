@@ -1,0 +1,36 @@
+<body childclass="Weisshai_Great_White_Shark_base" name="Weisshai_Great_White_Shark1">
+        <geom class="Weisshai_Great_White_Shark_col" name="{geom_name}" type="mesh" mesh="model_Weisshai_Great_White_Shark" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Weisshai_Great_White_Shark" mesh="model_Weisshai_Great_White_Shark" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Weisshai_Great_White_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Weisshai_Great_White_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Weisshai_Great_White_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Weisshai_Great_White_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Weisshai_Great_White_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Weisshai_Great_White_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Weisshai_Great_White_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Weisshai_Great_White_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Weisshai_Great_White_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Weisshai_Great_White_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Weisshai_Great_White_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Weisshai_Great_White_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Weisshai_Great_White_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Weisshai_Great_White_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Weisshai_Great_White_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Weisshai_Great_White_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Weisshai_Great_White_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Weisshai_Great_White_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Weisshai_Great_White_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Weisshai_Great_White_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Weisshai_Great_White_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Weisshai_Great_White_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Weisshai_Great_White_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Weisshai_Great_White_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Weisshai_Great_White_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Weisshai_Great_White_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Weisshai_Great_White_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Weisshai_Great_White_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Weisshai_Great_White_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Weisshai_Great_White_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Weisshai_Great_White_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Weisshai_Great_White_Shark" type="mesh" group="3" />
+    </body>

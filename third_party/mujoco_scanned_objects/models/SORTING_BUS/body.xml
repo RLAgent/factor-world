@@ -1,0 +1,36 @@
+<body childclass="SORTING_BUS_base" name="SORTING_BUS1">
+        <geom class="SORTING_BUS_col" name="{geom_name}" type="mesh" mesh="model_SORTING_BUS" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_SORTING_BUS" mesh="model_SORTING_BUS" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_SORTING_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_1_SORTING_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_2_SORTING_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_3_SORTING_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_4_SORTING_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_5_SORTING_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_6_SORTING_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_7_SORTING_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_8_SORTING_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_9_SORTING_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_10_SORTING_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_11_SORTING_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_12_SORTING_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_13_SORTING_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_14_SORTING_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_15_SORTING_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_16_SORTING_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_17_SORTING_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_18_SORTING_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_19_SORTING_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_20_SORTING_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_21_SORTING_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_22_SORTING_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_23_SORTING_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_24_SORTING_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_25_SORTING_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_26_SORTING_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_27_SORTING_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_28_SORTING_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_29_SORTING_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_30_SORTING_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_31_SORTING_BUS" type="mesh" group="3" />
+    </body>

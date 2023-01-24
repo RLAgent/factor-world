@@ -1,0 +1,36 @@
+<body childclass="Lego_Friends_Mia_base" name="Lego_Friends_Mia1">
+        <geom class="Lego_Friends_Mia_col" name="{geom_name}" type="mesh" mesh="model_Lego_Friends_Mia" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Lego_Friends_Mia" mesh="model_Lego_Friends_Mia" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Lego_Friends_Mia" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Lego_Friends_Mia" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Lego_Friends_Mia" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Lego_Friends_Mia" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Lego_Friends_Mia" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Lego_Friends_Mia" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Lego_Friends_Mia" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Lego_Friends_Mia" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Lego_Friends_Mia" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Lego_Friends_Mia" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Lego_Friends_Mia" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Lego_Friends_Mia" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Lego_Friends_Mia" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Lego_Friends_Mia" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Lego_Friends_Mia" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Lego_Friends_Mia" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Lego_Friends_Mia" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Lego_Friends_Mia" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Lego_Friends_Mia" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Lego_Friends_Mia" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Lego_Friends_Mia" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Lego_Friends_Mia" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Lego_Friends_Mia" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Lego_Friends_Mia" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Lego_Friends_Mia" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Lego_Friends_Mia" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Lego_Friends_Mia" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Lego_Friends_Mia" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Lego_Friends_Mia" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Lego_Friends_Mia" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Lego_Friends_Mia" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Lego_Friends_Mia" type="mesh" group="3" />
+    </body>

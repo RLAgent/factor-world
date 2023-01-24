@@ -1,0 +1,36 @@
+<body childclass="BATHROOM_CLASSIC_base" name="BATHROOM_CLASSIC1">
+        <geom class="BATHROOM_CLASSIC_col" name="{geom_name}" type="mesh" mesh="model_BATHROOM_CLASSIC" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_BATHROOM_CLASSIC" mesh="model_BATHROOM_CLASSIC" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_BATHROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_1_BATHROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_2_BATHROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_3_BATHROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_4_BATHROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_5_BATHROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_6_BATHROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_7_BATHROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_8_BATHROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_9_BATHROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_10_BATHROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_11_BATHROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_12_BATHROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_13_BATHROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_14_BATHROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_15_BATHROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_16_BATHROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_17_BATHROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_18_BATHROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_19_BATHROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_20_BATHROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_21_BATHROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_22_BATHROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_23_BATHROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_24_BATHROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_25_BATHROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_26_BATHROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_27_BATHROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_28_BATHROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_29_BATHROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_30_BATHROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_31_BATHROOM_CLASSIC" type="mesh" group="3" />
+    </body>

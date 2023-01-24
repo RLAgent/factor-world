@@ -1,0 +1,36 @@
+<body childclass="Schleich_Bald_Eagle_base" name="Schleich_Bald_Eagle1">
+        <geom class="Schleich_Bald_Eagle_col" name="{geom_name}" type="mesh" mesh="model_Schleich_Bald_Eagle" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Schleich_Bald_Eagle" mesh="model_Schleich_Bald_Eagle" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Schleich_Bald_Eagle" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Schleich_Bald_Eagle" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Schleich_Bald_Eagle" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Schleich_Bald_Eagle" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Schleich_Bald_Eagle" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Schleich_Bald_Eagle" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Schleich_Bald_Eagle" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Schleich_Bald_Eagle" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Schleich_Bald_Eagle" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Schleich_Bald_Eagle" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Schleich_Bald_Eagle" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Schleich_Bald_Eagle" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Schleich_Bald_Eagle" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Schleich_Bald_Eagle" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Schleich_Bald_Eagle" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Schleich_Bald_Eagle" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Schleich_Bald_Eagle" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Schleich_Bald_Eagle" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Schleich_Bald_Eagle" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Schleich_Bald_Eagle" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Schleich_Bald_Eagle" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Schleich_Bald_Eagle" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Schleich_Bald_Eagle" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Schleich_Bald_Eagle" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Schleich_Bald_Eagle" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Schleich_Bald_Eagle" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Schleich_Bald_Eagle" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Schleich_Bald_Eagle" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Schleich_Bald_Eagle" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Schleich_Bald_Eagle" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Schleich_Bald_Eagle" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Schleich_Bald_Eagle" type="mesh" group="3" />
+    </body>

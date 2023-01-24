@@ -1,0 +1,36 @@
+<body childclass="Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats_base" name="Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats1">
+        <geom class="Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats_col" name="{geom_name}" type="mesh" mesh="model_Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats" mesh="model_Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+    </body>

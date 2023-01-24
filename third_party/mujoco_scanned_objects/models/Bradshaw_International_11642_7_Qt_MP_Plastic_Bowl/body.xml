@@ -1,0 +1,36 @@
+<body childclass="Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl_base" name="Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl1">
+        <geom class="Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl_col" name="{geom_name}" type="mesh" mesh="model_Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl" mesh="model_Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl" type="mesh" group="3" />
+    </body>

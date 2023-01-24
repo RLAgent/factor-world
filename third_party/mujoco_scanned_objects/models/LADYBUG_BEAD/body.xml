@@ -1,0 +1,36 @@
+<body childclass="LADYBUG_BEAD_base" name="LADYBUG_BEAD1">
+        <geom class="LADYBUG_BEAD_col" name="{geom_name}" type="mesh" mesh="model_LADYBUG_BEAD" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_LADYBUG_BEAD" mesh="model_LADYBUG_BEAD" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_LADYBUG_BEAD" type="mesh" group="3" />
+      <geom mesh="model_collision_1_LADYBUG_BEAD" type="mesh" group="3" />
+      <geom mesh="model_collision_2_LADYBUG_BEAD" type="mesh" group="3" />
+      <geom mesh="model_collision_3_LADYBUG_BEAD" type="mesh" group="3" />
+      <geom mesh="model_collision_4_LADYBUG_BEAD" type="mesh" group="3" />
+      <geom mesh="model_collision_5_LADYBUG_BEAD" type="mesh" group="3" />
+      <geom mesh="model_collision_6_LADYBUG_BEAD" type="mesh" group="3" />
+      <geom mesh="model_collision_7_LADYBUG_BEAD" type="mesh" group="3" />
+      <geom mesh="model_collision_8_LADYBUG_BEAD" type="mesh" group="3" />
+      <geom mesh="model_collision_9_LADYBUG_BEAD" type="mesh" group="3" />
+      <geom mesh="model_collision_10_LADYBUG_BEAD" type="mesh" group="3" />
+      <geom mesh="model_collision_11_LADYBUG_BEAD" type="mesh" group="3" />
+      <geom mesh="model_collision_12_LADYBUG_BEAD" type="mesh" group="3" />
+      <geom mesh="model_collision_13_LADYBUG_BEAD" type="mesh" group="3" />
+      <geom mesh="model_collision_14_LADYBUG_BEAD" type="mesh" group="3" />
+      <geom mesh="model_collision_15_LADYBUG_BEAD" type="mesh" group="3" />
+      <geom mesh="model_collision_16_LADYBUG_BEAD" type="mesh" group="3" />
+      <geom mesh="model_collision_17_LADYBUG_BEAD" type="mesh" group="3" />
+      <geom mesh="model_collision_18_LADYBUG_BEAD" type="mesh" group="3" />
+      <geom mesh="model_collision_19_LADYBUG_BEAD" type="mesh" group="3" />
+      <geom mesh="model_collision_20_LADYBUG_BEAD" type="mesh" group="3" />
+      <geom mesh="model_collision_21_LADYBUG_BEAD" type="mesh" group="3" />
+      <geom mesh="model_collision_22_LADYBUG_BEAD" type="mesh" group="3" />
+      <geom mesh="model_collision_23_LADYBUG_BEAD" type="mesh" group="3" />
+      <geom mesh="model_collision_24_LADYBUG_BEAD" type="mesh" group="3" />
+      <geom mesh="model_collision_25_LADYBUG_BEAD" type="mesh" group="3" />
+      <geom mesh="model_collision_26_LADYBUG_BEAD" type="mesh" group="3" />
+      <geom mesh="model_collision_27_LADYBUG_BEAD" type="mesh" group="3" />
+      <geom mesh="model_collision_28_LADYBUG_BEAD" type="mesh" group="3" />
+      <geom mesh="model_collision_29_LADYBUG_BEAD" type="mesh" group="3" />
+      <geom mesh="model_collision_30_LADYBUG_BEAD" type="mesh" group="3" />
+      <geom mesh="model_collision_31_LADYBUG_BEAD" type="mesh" group="3" />
+    </body>

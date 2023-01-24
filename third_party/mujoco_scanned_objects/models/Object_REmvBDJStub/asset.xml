@@ -1,0 +1,38 @@
+<asset>
+    <texture type="2d" name="texture_Object_REmvBDJStub" file="../../../../../mujoco_scanned_objects/models/Object_REmvBDJStub/texture.png" />
+    <material name="material_0_Object_REmvBDJStub" texture="texture_Object_REmvBDJStub" specular="0.5" shininess="0.5" />
+    <mesh name="model_Object_REmvBDJStub" file="../../../../../mujoco_scanned_objects/models/Object_REmvBDJStub/model.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_0_Object_REmvBDJStub" file="../../../../../mujoco_scanned_objects/models/Object_REmvBDJStub/model_collision_0.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_1_Object_REmvBDJStub" file="../../../../../mujoco_scanned_objects/models/Object_REmvBDJStub/model_collision_1.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_2_Object_REmvBDJStub" file="../../../../../mujoco_scanned_objects/models/Object_REmvBDJStub/model_collision_2.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_3_Object_REmvBDJStub" file="../../../../../mujoco_scanned_objects/models/Object_REmvBDJStub/model_collision_3.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_4_Object_REmvBDJStub" file="../../../../../mujoco_scanned_objects/models/Object_REmvBDJStub/model_collision_4.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_5_Object_REmvBDJStub" file="../../../../../mujoco_scanned_objects/models/Object_REmvBDJStub/model_collision_5.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_6_Object_REmvBDJStub" file="../../../../../mujoco_scanned_objects/models/Object_REmvBDJStub/model_collision_6.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_7_Object_REmvBDJStub" file="../../../../../mujoco_scanned_objects/models/Object_REmvBDJStub/model_collision_7.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_8_Object_REmvBDJStub" file="../../../../../mujoco_scanned_objects/models/Object_REmvBDJStub/model_collision_8.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_9_Object_REmvBDJStub" file="../../../../../mujoco_scanned_objects/models/Object_REmvBDJStub/model_collision_9.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_10_Object_REmvBDJStub" file="../../../../../mujoco_scanned_objects/models/Object_REmvBDJStub/model_collision_10.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_11_Object_REmvBDJStub" file="../../../../../mujoco_scanned_objects/models/Object_REmvBDJStub/model_collision_11.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_12_Object_REmvBDJStub" file="../../../../../mujoco_scanned_objects/models/Object_REmvBDJStub/model_collision_12.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_13_Object_REmvBDJStub" file="../../../../../mujoco_scanned_objects/models/Object_REmvBDJStub/model_collision_13.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_14_Object_REmvBDJStub" file="../../../../../mujoco_scanned_objects/models/Object_REmvBDJStub/model_collision_14.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_15_Object_REmvBDJStub" file="../../../../../mujoco_scanned_objects/models/Object_REmvBDJStub/model_collision_15.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_16_Object_REmvBDJStub" file="../../../../../mujoco_scanned_objects/models/Object_REmvBDJStub/model_collision_16.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_17_Object_REmvBDJStub" file="../../../../../mujoco_scanned_objects/models/Object_REmvBDJStub/model_collision_17.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_18_Object_REmvBDJStub" file="../../../../../mujoco_scanned_objects/models/Object_REmvBDJStub/model_collision_18.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_19_Object_REmvBDJStub" file="../../../../../mujoco_scanned_objects/models/Object_REmvBDJStub/model_collision_19.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_20_Object_REmvBDJStub" file="../../../../../mujoco_scanned_objects/models/Object_REmvBDJStub/model_collision_20.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_21_Object_REmvBDJStub" file="../../../../../mujoco_scanned_objects/models/Object_REmvBDJStub/model_collision_21.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_22_Object_REmvBDJStub" file="../../../../../mujoco_scanned_objects/models/Object_REmvBDJStub/model_collision_22.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_23_Object_REmvBDJStub" file="../../../../../mujoco_scanned_objects/models/Object_REmvBDJStub/model_collision_23.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_24_Object_REmvBDJStub" file="../../../../../mujoco_scanned_objects/models/Object_REmvBDJStub/model_collision_24.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_25_Object_REmvBDJStub" file="../../../../../mujoco_scanned_objects/models/Object_REmvBDJStub/model_collision_25.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_26_Object_REmvBDJStub" file="../../../../../mujoco_scanned_objects/models/Object_REmvBDJStub/model_collision_26.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_27_Object_REmvBDJStub" file="../../../../../mujoco_scanned_objects/models/Object_REmvBDJStub/model_collision_27.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_28_Object_REmvBDJStub" file="../../../../../mujoco_scanned_objects/models/Object_REmvBDJStub/model_collision_28.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_29_Object_REmvBDJStub" file="../../../../../mujoco_scanned_objects/models/Object_REmvBDJStub/model_collision_29.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_30_Object_REmvBDJStub" file="../../../../../mujoco_scanned_objects/models/Object_REmvBDJStub/model_collision_30.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_31_Object_REmvBDJStub" file="../../../../../mujoco_scanned_objects/models/Object_REmvBDJStub/model_collision_31.stl" scale="{scale} {scale} {scale}" />
+  </asset>
+  

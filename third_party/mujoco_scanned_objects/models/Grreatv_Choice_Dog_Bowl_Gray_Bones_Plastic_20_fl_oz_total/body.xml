@@ -1,0 +1,36 @@
+<body childclass="Grreatv_Choice_Dog_Bowl_Gray_Bones_Plastic_20_fl_oz_total_base" name="Grreatv_Choice_Dog_Bowl_Gray_Bones_Plastic_20_fl_oz_total1">
+        <geom class="Grreatv_Choice_Dog_Bowl_Gray_Bones_Plastic_20_fl_oz_total_col" name="{geom_name}" type="mesh" mesh="model_Grreatv_Choice_Dog_Bowl_Gray_Bones_Plastic_20_fl_oz_total" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Grreatv_Choice_Dog_Bowl_Gray_Bones_Plastic_20_fl_oz_total" mesh="model_Grreatv_Choice_Dog_Bowl_Gray_Bones_Plastic_20_fl_oz_total" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Grreatv_Choice_Dog_Bowl_Gray_Bones_Plastic_20_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Grreatv_Choice_Dog_Bowl_Gray_Bones_Plastic_20_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Grreatv_Choice_Dog_Bowl_Gray_Bones_Plastic_20_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Grreatv_Choice_Dog_Bowl_Gray_Bones_Plastic_20_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Grreatv_Choice_Dog_Bowl_Gray_Bones_Plastic_20_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Grreatv_Choice_Dog_Bowl_Gray_Bones_Plastic_20_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Grreatv_Choice_Dog_Bowl_Gray_Bones_Plastic_20_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Grreatv_Choice_Dog_Bowl_Gray_Bones_Plastic_20_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Grreatv_Choice_Dog_Bowl_Gray_Bones_Plastic_20_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Grreatv_Choice_Dog_Bowl_Gray_Bones_Plastic_20_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Grreatv_Choice_Dog_Bowl_Gray_Bones_Plastic_20_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Grreatv_Choice_Dog_Bowl_Gray_Bones_Plastic_20_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Grreatv_Choice_Dog_Bowl_Gray_Bones_Plastic_20_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Grreatv_Choice_Dog_Bowl_Gray_Bones_Plastic_20_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Grreatv_Choice_Dog_Bowl_Gray_Bones_Plastic_20_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Grreatv_Choice_Dog_Bowl_Gray_Bones_Plastic_20_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Grreatv_Choice_Dog_Bowl_Gray_Bones_Plastic_20_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Grreatv_Choice_Dog_Bowl_Gray_Bones_Plastic_20_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Grreatv_Choice_Dog_Bowl_Gray_Bones_Plastic_20_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Grreatv_Choice_Dog_Bowl_Gray_Bones_Plastic_20_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Grreatv_Choice_Dog_Bowl_Gray_Bones_Plastic_20_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Grreatv_Choice_Dog_Bowl_Gray_Bones_Plastic_20_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Grreatv_Choice_Dog_Bowl_Gray_Bones_Plastic_20_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Grreatv_Choice_Dog_Bowl_Gray_Bones_Plastic_20_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Grreatv_Choice_Dog_Bowl_Gray_Bones_Plastic_20_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Grreatv_Choice_Dog_Bowl_Gray_Bones_Plastic_20_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Grreatv_Choice_Dog_Bowl_Gray_Bones_Plastic_20_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Grreatv_Choice_Dog_Bowl_Gray_Bones_Plastic_20_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Grreatv_Choice_Dog_Bowl_Gray_Bones_Plastic_20_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Grreatv_Choice_Dog_Bowl_Gray_Bones_Plastic_20_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Grreatv_Choice_Dog_Bowl_Gray_Bones_Plastic_20_fl_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Grreatv_Choice_Dog_Bowl_Gray_Bones_Plastic_20_fl_oz_total" type="mesh" group="3" />
+    </body>

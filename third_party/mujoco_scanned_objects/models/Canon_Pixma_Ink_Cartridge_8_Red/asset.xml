@@ -1,0 +1,38 @@
+<asset>
+    <texture type="2d" name="texture_Canon_Pixma_Ink_Cartridge_8_Red" file="../../../../../mujoco_scanned_objects/models/Canon_Pixma_Ink_Cartridge_8_Red/texture.png" />
+    <material name="material_0_Canon_Pixma_Ink_Cartridge_8_Red" texture="texture_Canon_Pixma_Ink_Cartridge_8_Red" specular="0.5" shininess="0.5" />
+    <mesh name="model_Canon_Pixma_Ink_Cartridge_8_Red" file="../../../../../mujoco_scanned_objects/models/Canon_Pixma_Ink_Cartridge_8_Red/model.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_0_Canon_Pixma_Ink_Cartridge_8_Red" file="../../../../../mujoco_scanned_objects/models/Canon_Pixma_Ink_Cartridge_8_Red/model_collision_0.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_1_Canon_Pixma_Ink_Cartridge_8_Red" file="../../../../../mujoco_scanned_objects/models/Canon_Pixma_Ink_Cartridge_8_Red/model_collision_1.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_2_Canon_Pixma_Ink_Cartridge_8_Red" file="../../../../../mujoco_scanned_objects/models/Canon_Pixma_Ink_Cartridge_8_Red/model_collision_2.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_3_Canon_Pixma_Ink_Cartridge_8_Red" file="../../../../../mujoco_scanned_objects/models/Canon_Pixma_Ink_Cartridge_8_Red/model_collision_3.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_4_Canon_Pixma_Ink_Cartridge_8_Red" file="../../../../../mujoco_scanned_objects/models/Canon_Pixma_Ink_Cartridge_8_Red/model_collision_4.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_5_Canon_Pixma_Ink_Cartridge_8_Red" file="../../../../../mujoco_scanned_objects/models/Canon_Pixma_Ink_Cartridge_8_Red/model_collision_5.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_6_Canon_Pixma_Ink_Cartridge_8_Red" file="../../../../../mujoco_scanned_objects/models/Canon_Pixma_Ink_Cartridge_8_Red/model_collision_6.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_7_Canon_Pixma_Ink_Cartridge_8_Red" file="../../../../../mujoco_scanned_objects/models/Canon_Pixma_Ink_Cartridge_8_Red/model_collision_7.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_8_Canon_Pixma_Ink_Cartridge_8_Red" file="../../../../../mujoco_scanned_objects/models/Canon_Pixma_Ink_Cartridge_8_Red/model_collision_8.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_9_Canon_Pixma_Ink_Cartridge_8_Red" file="../../../../../mujoco_scanned_objects/models/Canon_Pixma_Ink_Cartridge_8_Red/model_collision_9.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_10_Canon_Pixma_Ink_Cartridge_8_Red" file="../../../../../mujoco_scanned_objects/models/Canon_Pixma_Ink_Cartridge_8_Red/model_collision_10.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_11_Canon_Pixma_Ink_Cartridge_8_Red" file="../../../../../mujoco_scanned_objects/models/Canon_Pixma_Ink_Cartridge_8_Red/model_collision_11.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_12_Canon_Pixma_Ink_Cartridge_8_Red" file="../../../../../mujoco_scanned_objects/models/Canon_Pixma_Ink_Cartridge_8_Red/model_collision_12.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_13_Canon_Pixma_Ink_Cartridge_8_Red" file="../../../../../mujoco_scanned_objects/models/Canon_Pixma_Ink_Cartridge_8_Red/model_collision_13.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_14_Canon_Pixma_Ink_Cartridge_8_Red" file="../../../../../mujoco_scanned_objects/models/Canon_Pixma_Ink_Cartridge_8_Red/model_collision_14.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_15_Canon_Pixma_Ink_Cartridge_8_Red" file="../../../../../mujoco_scanned_objects/models/Canon_Pixma_Ink_Cartridge_8_Red/model_collision_15.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_16_Canon_Pixma_Ink_Cartridge_8_Red" file="../../../../../mujoco_scanned_objects/models/Canon_Pixma_Ink_Cartridge_8_Red/model_collision_16.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_17_Canon_Pixma_Ink_Cartridge_8_Red" file="../../../../../mujoco_scanned_objects/models/Canon_Pixma_Ink_Cartridge_8_Red/model_collision_17.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_18_Canon_Pixma_Ink_Cartridge_8_Red" file="../../../../../mujoco_scanned_objects/models/Canon_Pixma_Ink_Cartridge_8_Red/model_collision_18.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_19_Canon_Pixma_Ink_Cartridge_8_Red" file="../../../../../mujoco_scanned_objects/models/Canon_Pixma_Ink_Cartridge_8_Red/model_collision_19.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_20_Canon_Pixma_Ink_Cartridge_8_Red" file="../../../../../mujoco_scanned_objects/models/Canon_Pixma_Ink_Cartridge_8_Red/model_collision_20.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_21_Canon_Pixma_Ink_Cartridge_8_Red" file="../../../../../mujoco_scanned_objects/models/Canon_Pixma_Ink_Cartridge_8_Red/model_collision_21.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_22_Canon_Pixma_Ink_Cartridge_8_Red" file="../../../../../mujoco_scanned_objects/models/Canon_Pixma_Ink_Cartridge_8_Red/model_collision_22.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_23_Canon_Pixma_Ink_Cartridge_8_Red" file="../../../../../mujoco_scanned_objects/models/Canon_Pixma_Ink_Cartridge_8_Red/model_collision_23.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_24_Canon_Pixma_Ink_Cartridge_8_Red" file="../../../../../mujoco_scanned_objects/models/Canon_Pixma_Ink_Cartridge_8_Red/model_collision_24.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_25_Canon_Pixma_Ink_Cartridge_8_Red" file="../../../../../mujoco_scanned_objects/models/Canon_Pixma_Ink_Cartridge_8_Red/model_collision_25.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_26_Canon_Pixma_Ink_Cartridge_8_Red" file="../../../../../mujoco_scanned_objects/models/Canon_Pixma_Ink_Cartridge_8_Red/model_collision_26.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_27_Canon_Pixma_Ink_Cartridge_8_Red" file="../../../../../mujoco_scanned_objects/models/Canon_Pixma_Ink_Cartridge_8_Red/model_collision_27.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_28_Canon_Pixma_Ink_Cartridge_8_Red" file="../../../../../mujoco_scanned_objects/models/Canon_Pixma_Ink_Cartridge_8_Red/model_collision_28.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_29_Canon_Pixma_Ink_Cartridge_8_Red" file="../../../../../mujoco_scanned_objects/models/Canon_Pixma_Ink_Cartridge_8_Red/model_collision_29.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_30_Canon_Pixma_Ink_Cartridge_8_Red" file="../../../../../mujoco_scanned_objects/models/Canon_Pixma_Ink_Cartridge_8_Red/model_collision_30.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_31_Canon_Pixma_Ink_Cartridge_8_Red" file="../../../../../mujoco_scanned_objects/models/Canon_Pixma_Ink_Cartridge_8_Red/model_collision_31.stl" scale="{scale} {scale} {scale}" />
+  </asset>
+  

@@ -1,0 +1,36 @@
+<body childclass="Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream_base" name="Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream1">
+        <geom class="Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream_col" name="{geom_name}" type="mesh" mesh="model_Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream" mesh="model_Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream" type="mesh" group="3" />
+    </body>

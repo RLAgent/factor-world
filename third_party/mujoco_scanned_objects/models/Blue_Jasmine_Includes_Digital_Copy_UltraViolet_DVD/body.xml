@@ -1,0 +1,36 @@
+<body childclass="Blue_Jasmine_Includes_Digital_Copy_UltraViolet_DVD_base" name="Blue_Jasmine_Includes_Digital_Copy_UltraViolet_DVD1">
+        <geom class="Blue_Jasmine_Includes_Digital_Copy_UltraViolet_DVD_col" name="{geom_name}" type="mesh" mesh="model_Blue_Jasmine_Includes_Digital_Copy_UltraViolet_DVD" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Blue_Jasmine_Includes_Digital_Copy_UltraViolet_DVD" mesh="model_Blue_Jasmine_Includes_Digital_Copy_UltraViolet_DVD" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Blue_Jasmine_Includes_Digital_Copy_UltraViolet_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Blue_Jasmine_Includes_Digital_Copy_UltraViolet_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Blue_Jasmine_Includes_Digital_Copy_UltraViolet_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Blue_Jasmine_Includes_Digital_Copy_UltraViolet_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Blue_Jasmine_Includes_Digital_Copy_UltraViolet_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Blue_Jasmine_Includes_Digital_Copy_UltraViolet_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Blue_Jasmine_Includes_Digital_Copy_UltraViolet_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Blue_Jasmine_Includes_Digital_Copy_UltraViolet_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Blue_Jasmine_Includes_Digital_Copy_UltraViolet_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Blue_Jasmine_Includes_Digital_Copy_UltraViolet_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Blue_Jasmine_Includes_Digital_Copy_UltraViolet_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Blue_Jasmine_Includes_Digital_Copy_UltraViolet_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Blue_Jasmine_Includes_Digital_Copy_UltraViolet_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Blue_Jasmine_Includes_Digital_Copy_UltraViolet_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Blue_Jasmine_Includes_Digital_Copy_UltraViolet_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Blue_Jasmine_Includes_Digital_Copy_UltraViolet_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Blue_Jasmine_Includes_Digital_Copy_UltraViolet_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Blue_Jasmine_Includes_Digital_Copy_UltraViolet_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Blue_Jasmine_Includes_Digital_Copy_UltraViolet_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Blue_Jasmine_Includes_Digital_Copy_UltraViolet_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Blue_Jasmine_Includes_Digital_Copy_UltraViolet_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Blue_Jasmine_Includes_Digital_Copy_UltraViolet_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Blue_Jasmine_Includes_Digital_Copy_UltraViolet_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Blue_Jasmine_Includes_Digital_Copy_UltraViolet_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Blue_Jasmine_Includes_Digital_Copy_UltraViolet_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Blue_Jasmine_Includes_Digital_Copy_UltraViolet_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Blue_Jasmine_Includes_Digital_Copy_UltraViolet_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Blue_Jasmine_Includes_Digital_Copy_UltraViolet_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Blue_Jasmine_Includes_Digital_Copy_UltraViolet_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Blue_Jasmine_Includes_Digital_Copy_UltraViolet_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Blue_Jasmine_Includes_Digital_Copy_UltraViolet_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Blue_Jasmine_Includes_Digital_Copy_UltraViolet_DVD" type="mesh" group="3" />
+    </body>

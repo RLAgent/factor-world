@@ -1,0 +1,36 @@
+<body childclass="ENFR_MID_ENFORCER_base" name="ENFR_MID_ENFORCER1">
+        <geom class="ENFR_MID_ENFORCER_col" name="{geom_name}" type="mesh" mesh="model_ENFR_MID_ENFORCER" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_ENFR_MID_ENFORCER" mesh="model_ENFR_MID_ENFORCER" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_ENFR_MID_ENFORCER" type="mesh" group="3" />
+      <geom mesh="model_collision_1_ENFR_MID_ENFORCER" type="mesh" group="3" />
+      <geom mesh="model_collision_2_ENFR_MID_ENFORCER" type="mesh" group="3" />
+      <geom mesh="model_collision_3_ENFR_MID_ENFORCER" type="mesh" group="3" />
+      <geom mesh="model_collision_4_ENFR_MID_ENFORCER" type="mesh" group="3" />
+      <geom mesh="model_collision_5_ENFR_MID_ENFORCER" type="mesh" group="3" />
+      <geom mesh="model_collision_6_ENFR_MID_ENFORCER" type="mesh" group="3" />
+      <geom mesh="model_collision_7_ENFR_MID_ENFORCER" type="mesh" group="3" />
+      <geom mesh="model_collision_8_ENFR_MID_ENFORCER" type="mesh" group="3" />
+      <geom mesh="model_collision_9_ENFR_MID_ENFORCER" type="mesh" group="3" />
+      <geom mesh="model_collision_10_ENFR_MID_ENFORCER" type="mesh" group="3" />
+      <geom mesh="model_collision_11_ENFR_MID_ENFORCER" type="mesh" group="3" />
+      <geom mesh="model_collision_12_ENFR_MID_ENFORCER" type="mesh" group="3" />
+      <geom mesh="model_collision_13_ENFR_MID_ENFORCER" type="mesh" group="3" />
+      <geom mesh="model_collision_14_ENFR_MID_ENFORCER" type="mesh" group="3" />
+      <geom mesh="model_collision_15_ENFR_MID_ENFORCER" type="mesh" group="3" />
+      <geom mesh="model_collision_16_ENFR_MID_ENFORCER" type="mesh" group="3" />
+      <geom mesh="model_collision_17_ENFR_MID_ENFORCER" type="mesh" group="3" />
+      <geom mesh="model_collision_18_ENFR_MID_ENFORCER" type="mesh" group="3" />
+      <geom mesh="model_collision_19_ENFR_MID_ENFORCER" type="mesh" group="3" />
+      <geom mesh="model_collision_20_ENFR_MID_ENFORCER" type="mesh" group="3" />
+      <geom mesh="model_collision_21_ENFR_MID_ENFORCER" type="mesh" group="3" />
+      <geom mesh="model_collision_22_ENFR_MID_ENFORCER" type="mesh" group="3" />
+      <geom mesh="model_collision_23_ENFR_MID_ENFORCER" type="mesh" group="3" />
+      <geom mesh="model_collision_24_ENFR_MID_ENFORCER" type="mesh" group="3" />
+      <geom mesh="model_collision_25_ENFR_MID_ENFORCER" type="mesh" group="3" />
+      <geom mesh="model_collision_26_ENFR_MID_ENFORCER" type="mesh" group="3" />
+      <geom mesh="model_collision_27_ENFR_MID_ENFORCER" type="mesh" group="3" />
+      <geom mesh="model_collision_28_ENFR_MID_ENFORCER" type="mesh" group="3" />
+      <geom mesh="model_collision_29_ENFR_MID_ENFORCER" type="mesh" group="3" />
+      <geom mesh="model_collision_30_ENFR_MID_ENFORCER" type="mesh" group="3" />
+      <geom mesh="model_collision_31_ENFR_MID_ENFORCER" type="mesh" group="3" />
+    </body>

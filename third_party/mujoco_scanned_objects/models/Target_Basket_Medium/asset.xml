@@ -1,0 +1,38 @@
+<asset>
+    <texture type="2d" name="texture_Target_Basket_Medium" file="../../../../../mujoco_scanned_objects/models/Target_Basket_Medium/texture.png" />
+    <material name="material_0_Target_Basket_Medium" texture="texture_Target_Basket_Medium" specular="0.5" shininess="0.5" />
+    <mesh name="model_Target_Basket_Medium" file="../../../../../mujoco_scanned_objects/models/Target_Basket_Medium/model.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_0_Target_Basket_Medium" file="../../../../../mujoco_scanned_objects/models/Target_Basket_Medium/model_collision_0.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_1_Target_Basket_Medium" file="../../../../../mujoco_scanned_objects/models/Target_Basket_Medium/model_collision_1.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_2_Target_Basket_Medium" file="../../../../../mujoco_scanned_objects/models/Target_Basket_Medium/model_collision_2.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_3_Target_Basket_Medium" file="../../../../../mujoco_scanned_objects/models/Target_Basket_Medium/model_collision_3.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_4_Target_Basket_Medium" file="../../../../../mujoco_scanned_objects/models/Target_Basket_Medium/model_collision_4.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_5_Target_Basket_Medium" file="../../../../../mujoco_scanned_objects/models/Target_Basket_Medium/model_collision_5.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_6_Target_Basket_Medium" file="../../../../../mujoco_scanned_objects/models/Target_Basket_Medium/model_collision_6.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_7_Target_Basket_Medium" file="../../../../../mujoco_scanned_objects/models/Target_Basket_Medium/model_collision_7.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_8_Target_Basket_Medium" file="../../../../../mujoco_scanned_objects/models/Target_Basket_Medium/model_collision_8.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_9_Target_Basket_Medium" file="../../../../../mujoco_scanned_objects/models/Target_Basket_Medium/model_collision_9.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_10_Target_Basket_Medium" file="../../../../../mujoco_scanned_objects/models/Target_Basket_Medium/model_collision_10.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_11_Target_Basket_Medium" file="../../../../../mujoco_scanned_objects/models/Target_Basket_Medium/model_collision_11.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_12_Target_Basket_Medium" file="../../../../../mujoco_scanned_objects/models/Target_Basket_Medium/model_collision_12.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_13_Target_Basket_Medium" file="../../../../../mujoco_scanned_objects/models/Target_Basket_Medium/model_collision_13.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_14_Target_Basket_Medium" file="../../../../../mujoco_scanned_objects/models/Target_Basket_Medium/model_collision_14.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_15_Target_Basket_Medium" file="../../../../../mujoco_scanned_objects/models/Target_Basket_Medium/model_collision_15.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_16_Target_Basket_Medium" file="../../../../../mujoco_scanned_objects/models/Target_Basket_Medium/model_collision_16.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_17_Target_Basket_Medium" file="../../../../../mujoco_scanned_objects/models/Target_Basket_Medium/model_collision_17.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_18_Target_Basket_Medium" file="../../../../../mujoco_scanned_objects/models/Target_Basket_Medium/model_collision_18.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_19_Target_Basket_Medium" file="../../../../../mujoco_scanned_objects/models/Target_Basket_Medium/model_collision_19.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_20_Target_Basket_Medium" file="../../../../../mujoco_scanned_objects/models/Target_Basket_Medium/model_collision_20.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_21_Target_Basket_Medium" file="../../../../../mujoco_scanned_objects/models/Target_Basket_Medium/model_collision_21.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_22_Target_Basket_Medium" file="../../../../../mujoco_scanned_objects/models/Target_Basket_Medium/model_collision_22.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_23_Target_Basket_Medium" file="../../../../../mujoco_scanned_objects/models/Target_Basket_Medium/model_collision_23.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_24_Target_Basket_Medium" file="../../../../../mujoco_scanned_objects/models/Target_Basket_Medium/model_collision_24.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_25_Target_Basket_Medium" file="../../../../../mujoco_scanned_objects/models/Target_Basket_Medium/model_collision_25.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_26_Target_Basket_Medium" file="../../../../../mujoco_scanned_objects/models/Target_Basket_Medium/model_collision_26.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_27_Target_Basket_Medium" file="../../../../../mujoco_scanned_objects/models/Target_Basket_Medium/model_collision_27.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_28_Target_Basket_Medium" file="../../../../../mujoco_scanned_objects/models/Target_Basket_Medium/model_collision_28.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_29_Target_Basket_Medium" file="../../../../../mujoco_scanned_objects/models/Target_Basket_Medium/model_collision_29.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_30_Target_Basket_Medium" file="../../../../../mujoco_scanned_objects/models/Target_Basket_Medium/model_collision_30.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_31_Target_Basket_Medium" file="../../../../../mujoco_scanned_objects/models/Target_Basket_Medium/model_collision_31.stl" scale="{scale} {scale} {scale}" />
+  </asset>
+  

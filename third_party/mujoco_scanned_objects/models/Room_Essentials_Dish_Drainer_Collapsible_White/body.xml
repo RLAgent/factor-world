@@ -1,0 +1,36 @@
+<body childclass="Room_Essentials_Dish_Drainer_Collapsible_White_base" name="Room_Essentials_Dish_Drainer_Collapsible_White1">
+        <geom class="Room_Essentials_Dish_Drainer_Collapsible_White_col" name="{geom_name}" type="mesh" mesh="model_Room_Essentials_Dish_Drainer_Collapsible_White" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Room_Essentials_Dish_Drainer_Collapsible_White" mesh="model_Room_Essentials_Dish_Drainer_Collapsible_White" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Room_Essentials_Dish_Drainer_Collapsible_White" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Room_Essentials_Dish_Drainer_Collapsible_White" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Room_Essentials_Dish_Drainer_Collapsible_White" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Room_Essentials_Dish_Drainer_Collapsible_White" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Room_Essentials_Dish_Drainer_Collapsible_White" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Room_Essentials_Dish_Drainer_Collapsible_White" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Room_Essentials_Dish_Drainer_Collapsible_White" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Room_Essentials_Dish_Drainer_Collapsible_White" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Room_Essentials_Dish_Drainer_Collapsible_White" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Room_Essentials_Dish_Drainer_Collapsible_White" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Room_Essentials_Dish_Drainer_Collapsible_White" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Room_Essentials_Dish_Drainer_Collapsible_White" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Room_Essentials_Dish_Drainer_Collapsible_White" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Room_Essentials_Dish_Drainer_Collapsible_White" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Room_Essentials_Dish_Drainer_Collapsible_White" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Room_Essentials_Dish_Drainer_Collapsible_White" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Room_Essentials_Dish_Drainer_Collapsible_White" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Room_Essentials_Dish_Drainer_Collapsible_White" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Room_Essentials_Dish_Drainer_Collapsible_White" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Room_Essentials_Dish_Drainer_Collapsible_White" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Room_Essentials_Dish_Drainer_Collapsible_White" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Room_Essentials_Dish_Drainer_Collapsible_White" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Room_Essentials_Dish_Drainer_Collapsible_White" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Room_Essentials_Dish_Drainer_Collapsible_White" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Room_Essentials_Dish_Drainer_Collapsible_White" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Room_Essentials_Dish_Drainer_Collapsible_White" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Room_Essentials_Dish_Drainer_Collapsible_White" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Room_Essentials_Dish_Drainer_Collapsible_White" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Room_Essentials_Dish_Drainer_Collapsible_White" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Room_Essentials_Dish_Drainer_Collapsible_White" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Room_Essentials_Dish_Drainer_Collapsible_White" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Room_Essentials_Dish_Drainer_Collapsible_White" type="mesh" group="3" />
+    </body>

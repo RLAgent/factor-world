@@ -1,0 +1,36 @@
+<body childclass="Fresca_Peach_Citrus_Sparkling_Flavored_Soda_12_PK_base" name="Fresca_Peach_Citrus_Sparkling_Flavored_Soda_12_PK1">
+        <geom class="Fresca_Peach_Citrus_Sparkling_Flavored_Soda_12_PK_col" name="{geom_name}" type="mesh" mesh="model_Fresca_Peach_Citrus_Sparkling_Flavored_Soda_12_PK" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Fresca_Peach_Citrus_Sparkling_Flavored_Soda_12_PK" mesh="model_Fresca_Peach_Citrus_Sparkling_Flavored_Soda_12_PK" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Fresca_Peach_Citrus_Sparkling_Flavored_Soda_12_PK" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Fresca_Peach_Citrus_Sparkling_Flavored_Soda_12_PK" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Fresca_Peach_Citrus_Sparkling_Flavored_Soda_12_PK" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Fresca_Peach_Citrus_Sparkling_Flavored_Soda_12_PK" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Fresca_Peach_Citrus_Sparkling_Flavored_Soda_12_PK" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Fresca_Peach_Citrus_Sparkling_Flavored_Soda_12_PK" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Fresca_Peach_Citrus_Sparkling_Flavored_Soda_12_PK" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Fresca_Peach_Citrus_Sparkling_Flavored_Soda_12_PK" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Fresca_Peach_Citrus_Sparkling_Flavored_Soda_12_PK" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Fresca_Peach_Citrus_Sparkling_Flavored_Soda_12_PK" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Fresca_Peach_Citrus_Sparkling_Flavored_Soda_12_PK" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Fresca_Peach_Citrus_Sparkling_Flavored_Soda_12_PK" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Fresca_Peach_Citrus_Sparkling_Flavored_Soda_12_PK" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Fresca_Peach_Citrus_Sparkling_Flavored_Soda_12_PK" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Fresca_Peach_Citrus_Sparkling_Flavored_Soda_12_PK" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Fresca_Peach_Citrus_Sparkling_Flavored_Soda_12_PK" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Fresca_Peach_Citrus_Sparkling_Flavored_Soda_12_PK" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Fresca_Peach_Citrus_Sparkling_Flavored_Soda_12_PK" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Fresca_Peach_Citrus_Sparkling_Flavored_Soda_12_PK" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Fresca_Peach_Citrus_Sparkling_Flavored_Soda_12_PK" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Fresca_Peach_Citrus_Sparkling_Flavored_Soda_12_PK" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Fresca_Peach_Citrus_Sparkling_Flavored_Soda_12_PK" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Fresca_Peach_Citrus_Sparkling_Flavored_Soda_12_PK" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Fresca_Peach_Citrus_Sparkling_Flavored_Soda_12_PK" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Fresca_Peach_Citrus_Sparkling_Flavored_Soda_12_PK" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Fresca_Peach_Citrus_Sparkling_Flavored_Soda_12_PK" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Fresca_Peach_Citrus_Sparkling_Flavored_Soda_12_PK" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Fresca_Peach_Citrus_Sparkling_Flavored_Soda_12_PK" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Fresca_Peach_Citrus_Sparkling_Flavored_Soda_12_PK" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Fresca_Peach_Citrus_Sparkling_Flavored_Soda_12_PK" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Fresca_Peach_Citrus_Sparkling_Flavored_Soda_12_PK" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Fresca_Peach_Citrus_Sparkling_Flavored_Soda_12_PK" type="mesh" group="3" />
+    </body>

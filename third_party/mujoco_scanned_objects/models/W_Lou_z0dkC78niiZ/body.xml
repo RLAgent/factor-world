@@ -1,0 +1,36 @@
+<body childclass="W_Lou_z0dkC78niiZ_base" name="W_Lou_z0dkC78niiZ1">
+        <geom class="W_Lou_z0dkC78niiZ_col" name="{geom_name}" type="mesh" mesh="model_W_Lou_z0dkC78niiZ" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_W_Lou_z0dkC78niiZ" mesh="model_W_Lou_z0dkC78niiZ" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_W_Lou_z0dkC78niiZ" type="mesh" group="3" />
+      <geom mesh="model_collision_1_W_Lou_z0dkC78niiZ" type="mesh" group="3" />
+      <geom mesh="model_collision_2_W_Lou_z0dkC78niiZ" type="mesh" group="3" />
+      <geom mesh="model_collision_3_W_Lou_z0dkC78niiZ" type="mesh" group="3" />
+      <geom mesh="model_collision_4_W_Lou_z0dkC78niiZ" type="mesh" group="3" />
+      <geom mesh="model_collision_5_W_Lou_z0dkC78niiZ" type="mesh" group="3" />
+      <geom mesh="model_collision_6_W_Lou_z0dkC78niiZ" type="mesh" group="3" />
+      <geom mesh="model_collision_7_W_Lou_z0dkC78niiZ" type="mesh" group="3" />
+      <geom mesh="model_collision_8_W_Lou_z0dkC78niiZ" type="mesh" group="3" />
+      <geom mesh="model_collision_9_W_Lou_z0dkC78niiZ" type="mesh" group="3" />
+      <geom mesh="model_collision_10_W_Lou_z0dkC78niiZ" type="mesh" group="3" />
+      <geom mesh="model_collision_11_W_Lou_z0dkC78niiZ" type="mesh" group="3" />
+      <geom mesh="model_collision_12_W_Lou_z0dkC78niiZ" type="mesh" group="3" />
+      <geom mesh="model_collision_13_W_Lou_z0dkC78niiZ" type="mesh" group="3" />
+      <geom mesh="model_collision_14_W_Lou_z0dkC78niiZ" type="mesh" group="3" />
+      <geom mesh="model_collision_15_W_Lou_z0dkC78niiZ" type="mesh" group="3" />
+      <geom mesh="model_collision_16_W_Lou_z0dkC78niiZ" type="mesh" group="3" />
+      <geom mesh="model_collision_17_W_Lou_z0dkC78niiZ" type="mesh" group="3" />
+      <geom mesh="model_collision_18_W_Lou_z0dkC78niiZ" type="mesh" group="3" />
+      <geom mesh="model_collision_19_W_Lou_z0dkC78niiZ" type="mesh" group="3" />
+      <geom mesh="model_collision_20_W_Lou_z0dkC78niiZ" type="mesh" group="3" />
+      <geom mesh="model_collision_21_W_Lou_z0dkC78niiZ" type="mesh" group="3" />
+      <geom mesh="model_collision_22_W_Lou_z0dkC78niiZ" type="mesh" group="3" />
+      <geom mesh="model_collision_23_W_Lou_z0dkC78niiZ" type="mesh" group="3" />
+      <geom mesh="model_collision_24_W_Lou_z0dkC78niiZ" type="mesh" group="3" />
+      <geom mesh="model_collision_25_W_Lou_z0dkC78niiZ" type="mesh" group="3" />
+      <geom mesh="model_collision_26_W_Lou_z0dkC78niiZ" type="mesh" group="3" />
+      <geom mesh="model_collision_27_W_Lou_z0dkC78niiZ" type="mesh" group="3" />
+      <geom mesh="model_collision_28_W_Lou_z0dkC78niiZ" type="mesh" group="3" />
+      <geom mesh="model_collision_29_W_Lou_z0dkC78niiZ" type="mesh" group="3" />
+      <geom mesh="model_collision_30_W_Lou_z0dkC78niiZ" type="mesh" group="3" />
+      <geom mesh="model_collision_31_W_Lou_z0dkC78niiZ" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="Little_House_on_the_Prairie_Season_Two_5_Discs_Includes_Digital_base" name="Little_House_on_the_Prairie_Season_Two_5_Discs_Includes_Digital1">
+        <geom class="Little_House_on_the_Prairie_Season_Two_5_Discs_Includes_Digital_col" name="{geom_name}" type="mesh" mesh="model_Little_House_on_the_Prairie_Season_Two_5_Discs_Includes_Digital" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Little_House_on_the_Prairie_Season_Two_5_Discs_Includes_Digital" mesh="model_Little_House_on_the_Prairie_Season_Two_5_Discs_Includes_Digital" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Little_House_on_the_Prairie_Season_Two_5_Discs_Includes_Digital" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Little_House_on_the_Prairie_Season_Two_5_Discs_Includes_Digital" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Little_House_on_the_Prairie_Season_Two_5_Discs_Includes_Digital" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Little_House_on_the_Prairie_Season_Two_5_Discs_Includes_Digital" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Little_House_on_the_Prairie_Season_Two_5_Discs_Includes_Digital" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Little_House_on_the_Prairie_Season_Two_5_Discs_Includes_Digital" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Little_House_on_the_Prairie_Season_Two_5_Discs_Includes_Digital" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Little_House_on_the_Prairie_Season_Two_5_Discs_Includes_Digital" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Little_House_on_the_Prairie_Season_Two_5_Discs_Includes_Digital" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Little_House_on_the_Prairie_Season_Two_5_Discs_Includes_Digital" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Little_House_on_the_Prairie_Season_Two_5_Discs_Includes_Digital" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Little_House_on_the_Prairie_Season_Two_5_Discs_Includes_Digital" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Little_House_on_the_Prairie_Season_Two_5_Discs_Includes_Digital" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Little_House_on_the_Prairie_Season_Two_5_Discs_Includes_Digital" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Little_House_on_the_Prairie_Season_Two_5_Discs_Includes_Digital" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Little_House_on_the_Prairie_Season_Two_5_Discs_Includes_Digital" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Little_House_on_the_Prairie_Season_Two_5_Discs_Includes_Digital" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Little_House_on_the_Prairie_Season_Two_5_Discs_Includes_Digital" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Little_House_on_the_Prairie_Season_Two_5_Discs_Includes_Digital" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Little_House_on_the_Prairie_Season_Two_5_Discs_Includes_Digital" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Little_House_on_the_Prairie_Season_Two_5_Discs_Includes_Digital" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Little_House_on_the_Prairie_Season_Two_5_Discs_Includes_Digital" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Little_House_on_the_Prairie_Season_Two_5_Discs_Includes_Digital" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Little_House_on_the_Prairie_Season_Two_5_Discs_Includes_Digital" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Little_House_on_the_Prairie_Season_Two_5_Discs_Includes_Digital" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Little_House_on_the_Prairie_Season_Two_5_Discs_Includes_Digital" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Little_House_on_the_Prairie_Season_Two_5_Discs_Includes_Digital" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Little_House_on_the_Prairie_Season_Two_5_Discs_Includes_Digital" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Little_House_on_the_Prairie_Season_Two_5_Discs_Includes_Digital" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Little_House_on_the_Prairie_Season_Two_5_Discs_Includes_Digital" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Little_House_on_the_Prairie_Season_Two_5_Discs_Includes_Digital" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Little_House_on_the_Prairie_Season_Two_5_Discs_Includes_Digital" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="SHAPE_MATCHING_NxacpAY9jDt_base" name="SHAPE_MATCHING_NxacpAY9jDt1">
+        <geom class="SHAPE_MATCHING_NxacpAY9jDt_col" name="{geom_name}" type="mesh" mesh="model_SHAPE_MATCHING_NxacpAY9jDt" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_SHAPE_MATCHING_NxacpAY9jDt" mesh="model_SHAPE_MATCHING_NxacpAY9jDt" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_SHAPE_MATCHING_NxacpAY9jDt" type="mesh" group="3" />
+      <geom mesh="model_collision_1_SHAPE_MATCHING_NxacpAY9jDt" type="mesh" group="3" />
+      <geom mesh="model_collision_2_SHAPE_MATCHING_NxacpAY9jDt" type="mesh" group="3" />
+      <geom mesh="model_collision_3_SHAPE_MATCHING_NxacpAY9jDt" type="mesh" group="3" />
+      <geom mesh="model_collision_4_SHAPE_MATCHING_NxacpAY9jDt" type="mesh" group="3" />
+      <geom mesh="model_collision_5_SHAPE_MATCHING_NxacpAY9jDt" type="mesh" group="3" />
+      <geom mesh="model_collision_6_SHAPE_MATCHING_NxacpAY9jDt" type="mesh" group="3" />
+      <geom mesh="model_collision_7_SHAPE_MATCHING_NxacpAY9jDt" type="mesh" group="3" />
+      <geom mesh="model_collision_8_SHAPE_MATCHING_NxacpAY9jDt" type="mesh" group="3" />
+      <geom mesh="model_collision_9_SHAPE_MATCHING_NxacpAY9jDt" type="mesh" group="3" />
+      <geom mesh="model_collision_10_SHAPE_MATCHING_NxacpAY9jDt" type="mesh" group="3" />
+      <geom mesh="model_collision_11_SHAPE_MATCHING_NxacpAY9jDt" type="mesh" group="3" />
+      <geom mesh="model_collision_12_SHAPE_MATCHING_NxacpAY9jDt" type="mesh" group="3" />
+      <geom mesh="model_collision_13_SHAPE_MATCHING_NxacpAY9jDt" type="mesh" group="3" />
+      <geom mesh="model_collision_14_SHAPE_MATCHING_NxacpAY9jDt" type="mesh" group="3" />
+      <geom mesh="model_collision_15_SHAPE_MATCHING_NxacpAY9jDt" type="mesh" group="3" />
+      <geom mesh="model_collision_16_SHAPE_MATCHING_NxacpAY9jDt" type="mesh" group="3" />
+      <geom mesh="model_collision_17_SHAPE_MATCHING_NxacpAY9jDt" type="mesh" group="3" />
+      <geom mesh="model_collision_18_SHAPE_MATCHING_NxacpAY9jDt" type="mesh" group="3" />
+      <geom mesh="model_collision_19_SHAPE_MATCHING_NxacpAY9jDt" type="mesh" group="3" />
+      <geom mesh="model_collision_20_SHAPE_MATCHING_NxacpAY9jDt" type="mesh" group="3" />
+      <geom mesh="model_collision_21_SHAPE_MATCHING_NxacpAY9jDt" type="mesh" group="3" />
+      <geom mesh="model_collision_22_SHAPE_MATCHING_NxacpAY9jDt" type="mesh" group="3" />
+      <geom mesh="model_collision_23_SHAPE_MATCHING_NxacpAY9jDt" type="mesh" group="3" />
+      <geom mesh="model_collision_24_SHAPE_MATCHING_NxacpAY9jDt" type="mesh" group="3" />
+      <geom mesh="model_collision_25_SHAPE_MATCHING_NxacpAY9jDt" type="mesh" group="3" />
+      <geom mesh="model_collision_26_SHAPE_MATCHING_NxacpAY9jDt" type="mesh" group="3" />
+      <geom mesh="model_collision_27_SHAPE_MATCHING_NxacpAY9jDt" type="mesh" group="3" />
+      <geom mesh="model_collision_28_SHAPE_MATCHING_NxacpAY9jDt" type="mesh" group="3" />
+      <geom mesh="model_collision_29_SHAPE_MATCHING_NxacpAY9jDt" type="mesh" group="3" />
+      <geom mesh="model_collision_30_SHAPE_MATCHING_NxacpAY9jDt" type="mesh" group="3" />
+      <geom mesh="model_collision_31_SHAPE_MATCHING_NxacpAY9jDt" type="mesh" group="3" />
+    </body>

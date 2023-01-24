@@ -1,0 +1,36 @@
+<body childclass="JUNGLE_HEIGHT_base" name="JUNGLE_HEIGHT1">
+        <geom class="JUNGLE_HEIGHT_col" name="{geom_name}" type="mesh" mesh="model_JUNGLE_HEIGHT" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_JUNGLE_HEIGHT" mesh="model_JUNGLE_HEIGHT" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_JUNGLE_HEIGHT" type="mesh" group="3" />
+      <geom mesh="model_collision_1_JUNGLE_HEIGHT" type="mesh" group="3" />
+      <geom mesh="model_collision_2_JUNGLE_HEIGHT" type="mesh" group="3" />
+      <geom mesh="model_collision_3_JUNGLE_HEIGHT" type="mesh" group="3" />
+      <geom mesh="model_collision_4_JUNGLE_HEIGHT" type="mesh" group="3" />
+      <geom mesh="model_collision_5_JUNGLE_HEIGHT" type="mesh" group="3" />
+      <geom mesh="model_collision_6_JUNGLE_HEIGHT" type="mesh" group="3" />
+      <geom mesh="model_collision_7_JUNGLE_HEIGHT" type="mesh" group="3" />
+      <geom mesh="model_collision_8_JUNGLE_HEIGHT" type="mesh" group="3" />
+      <geom mesh="model_collision_9_JUNGLE_HEIGHT" type="mesh" group="3" />
+      <geom mesh="model_collision_10_JUNGLE_HEIGHT" type="mesh" group="3" />
+      <geom mesh="model_collision_11_JUNGLE_HEIGHT" type="mesh" group="3" />
+      <geom mesh="model_collision_12_JUNGLE_HEIGHT" type="mesh" group="3" />
+      <geom mesh="model_collision_13_JUNGLE_HEIGHT" type="mesh" group="3" />
+      <geom mesh="model_collision_14_JUNGLE_HEIGHT" type="mesh" group="3" />
+      <geom mesh="model_collision_15_JUNGLE_HEIGHT" type="mesh" group="3" />
+      <geom mesh="model_collision_16_JUNGLE_HEIGHT" type="mesh" group="3" />
+      <geom mesh="model_collision_17_JUNGLE_HEIGHT" type="mesh" group="3" />
+      <geom mesh="model_collision_18_JUNGLE_HEIGHT" type="mesh" group="3" />
+      <geom mesh="model_collision_19_JUNGLE_HEIGHT" type="mesh" group="3" />
+      <geom mesh="model_collision_20_JUNGLE_HEIGHT" type="mesh" group="3" />
+      <geom mesh="model_collision_21_JUNGLE_HEIGHT" type="mesh" group="3" />
+      <geom mesh="model_collision_22_JUNGLE_HEIGHT" type="mesh" group="3" />
+      <geom mesh="model_collision_23_JUNGLE_HEIGHT" type="mesh" group="3" />
+      <geom mesh="model_collision_24_JUNGLE_HEIGHT" type="mesh" group="3" />
+      <geom mesh="model_collision_25_JUNGLE_HEIGHT" type="mesh" group="3" />
+      <geom mesh="model_collision_26_JUNGLE_HEIGHT" type="mesh" group="3" />
+      <geom mesh="model_collision_27_JUNGLE_HEIGHT" type="mesh" group="3" />
+      <geom mesh="model_collision_28_JUNGLE_HEIGHT" type="mesh" group="3" />
+      <geom mesh="model_collision_29_JUNGLE_HEIGHT" type="mesh" group="3" />
+      <geom mesh="model_collision_30_JUNGLE_HEIGHT" type="mesh" group="3" />
+      <geom mesh="model_collision_31_JUNGLE_HEIGHT" type="mesh" group="3" />
+    </body>

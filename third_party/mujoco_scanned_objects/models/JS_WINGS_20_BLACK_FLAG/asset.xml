@@ -1,0 +1,38 @@
+<asset>
+    <texture type="2d" name="texture_JS_WINGS_20_BLACK_FLAG" file="../../../../../mujoco_scanned_objects/models/JS_WINGS_20_BLACK_FLAG/texture.png" />
+    <material name="material_0_JS_WINGS_20_BLACK_FLAG" texture="texture_JS_WINGS_20_BLACK_FLAG" specular="0.5" shininess="0.5" />
+    <mesh name="model_JS_WINGS_20_BLACK_FLAG" file="../../../../../mujoco_scanned_objects/models/JS_WINGS_20_BLACK_FLAG/model.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_0_JS_WINGS_20_BLACK_FLAG" file="../../../../../mujoco_scanned_objects/models/JS_WINGS_20_BLACK_FLAG/model_collision_0.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_1_JS_WINGS_20_BLACK_FLAG" file="../../../../../mujoco_scanned_objects/models/JS_WINGS_20_BLACK_FLAG/model_collision_1.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_2_JS_WINGS_20_BLACK_FLAG" file="../../../../../mujoco_scanned_objects/models/JS_WINGS_20_BLACK_FLAG/model_collision_2.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_3_JS_WINGS_20_BLACK_FLAG" file="../../../../../mujoco_scanned_objects/models/JS_WINGS_20_BLACK_FLAG/model_collision_3.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_4_JS_WINGS_20_BLACK_FLAG" file="../../../../../mujoco_scanned_objects/models/JS_WINGS_20_BLACK_FLAG/model_collision_4.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_5_JS_WINGS_20_BLACK_FLAG" file="../../../../../mujoco_scanned_objects/models/JS_WINGS_20_BLACK_FLAG/model_collision_5.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_6_JS_WINGS_20_BLACK_FLAG" file="../../../../../mujoco_scanned_objects/models/JS_WINGS_20_BLACK_FLAG/model_collision_6.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_7_JS_WINGS_20_BLACK_FLAG" file="../../../../../mujoco_scanned_objects/models/JS_WINGS_20_BLACK_FLAG/model_collision_7.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_8_JS_WINGS_20_BLACK_FLAG" file="../../../../../mujoco_scanned_objects/models/JS_WINGS_20_BLACK_FLAG/model_collision_8.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_9_JS_WINGS_20_BLACK_FLAG" file="../../../../../mujoco_scanned_objects/models/JS_WINGS_20_BLACK_FLAG/model_collision_9.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_10_JS_WINGS_20_BLACK_FLAG" file="../../../../../mujoco_scanned_objects/models/JS_WINGS_20_BLACK_FLAG/model_collision_10.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_11_JS_WINGS_20_BLACK_FLAG" file="../../../../../mujoco_scanned_objects/models/JS_WINGS_20_BLACK_FLAG/model_collision_11.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_12_JS_WINGS_20_BLACK_FLAG" file="../../../../../mujoco_scanned_objects/models/JS_WINGS_20_BLACK_FLAG/model_collision_12.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_13_JS_WINGS_20_BLACK_FLAG" file="../../../../../mujoco_scanned_objects/models/JS_WINGS_20_BLACK_FLAG/model_collision_13.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_14_JS_WINGS_20_BLACK_FLAG" file="../../../../../mujoco_scanned_objects/models/JS_WINGS_20_BLACK_FLAG/model_collision_14.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_15_JS_WINGS_20_BLACK_FLAG" file="../../../../../mujoco_scanned_objects/models/JS_WINGS_20_BLACK_FLAG/model_collision_15.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_16_JS_WINGS_20_BLACK_FLAG" file="../../../../../mujoco_scanned_objects/models/JS_WINGS_20_BLACK_FLAG/model_collision_16.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_17_JS_WINGS_20_BLACK_FLAG" file="../../../../../mujoco_scanned_objects/models/JS_WINGS_20_BLACK_FLAG/model_collision_17.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_18_JS_WINGS_20_BLACK_FLAG" file="../../../../../mujoco_scanned_objects/models/JS_WINGS_20_BLACK_FLAG/model_collision_18.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_19_JS_WINGS_20_BLACK_FLAG" file="../../../../../mujoco_scanned_objects/models/JS_WINGS_20_BLACK_FLAG/model_collision_19.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_20_JS_WINGS_20_BLACK_FLAG" file="../../../../../mujoco_scanned_objects/models/JS_WINGS_20_BLACK_FLAG/model_collision_20.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_21_JS_WINGS_20_BLACK_FLAG" file="../../../../../mujoco_scanned_objects/models/JS_WINGS_20_BLACK_FLAG/model_collision_21.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_22_JS_WINGS_20_BLACK_FLAG" file="../../../../../mujoco_scanned_objects/models/JS_WINGS_20_BLACK_FLAG/model_collision_22.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_23_JS_WINGS_20_BLACK_FLAG" file="../../../../../mujoco_scanned_objects/models/JS_WINGS_20_BLACK_FLAG/model_collision_23.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_24_JS_WINGS_20_BLACK_FLAG" file="../../../../../mujoco_scanned_objects/models/JS_WINGS_20_BLACK_FLAG/model_collision_24.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_25_JS_WINGS_20_BLACK_FLAG" file="../../../../../mujoco_scanned_objects/models/JS_WINGS_20_BLACK_FLAG/model_collision_25.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_26_JS_WINGS_20_BLACK_FLAG" file="../../../../../mujoco_scanned_objects/models/JS_WINGS_20_BLACK_FLAG/model_collision_26.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_27_JS_WINGS_20_BLACK_FLAG" file="../../../../../mujoco_scanned_objects/models/JS_WINGS_20_BLACK_FLAG/model_collision_27.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_28_JS_WINGS_20_BLACK_FLAG" file="../../../../../mujoco_scanned_objects/models/JS_WINGS_20_BLACK_FLAG/model_collision_28.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_29_JS_WINGS_20_BLACK_FLAG" file="../../../../../mujoco_scanned_objects/models/JS_WINGS_20_BLACK_FLAG/model_collision_29.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_30_JS_WINGS_20_BLACK_FLAG" file="../../../../../mujoco_scanned_objects/models/JS_WINGS_20_BLACK_FLAG/model_collision_30.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_31_JS_WINGS_20_BLACK_FLAG" file="../../../../../mujoco_scanned_objects/models/JS_WINGS_20_BLACK_FLAG/model_collision_31.stl" scale="{scale} {scale} {scale}" />
+  </asset>
+  

@@ -1,0 +1,36 @@
+<body childclass="Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle_base" name="Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle1">
+        <geom class="Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle_col" name="{geom_name}" type="mesh" mesh="model_Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle" mesh="model_Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle" type="mesh" group="3" />
+    </body>

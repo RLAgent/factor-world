@@ -1,0 +1,36 @@
+<body childclass="SIT_N_WALK_PUPPY_base" name="SIT_N_WALK_PUPPY1">
+        <geom class="SIT_N_WALK_PUPPY_col" name="{geom_name}" type="mesh" mesh="model_SIT_N_WALK_PUPPY" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_SIT_N_WALK_PUPPY" mesh="model_SIT_N_WALK_PUPPY" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_SIT_N_WALK_PUPPY" type="mesh" group="3" />
+      <geom mesh="model_collision_1_SIT_N_WALK_PUPPY" type="mesh" group="3" />
+      <geom mesh="model_collision_2_SIT_N_WALK_PUPPY" type="mesh" group="3" />
+      <geom mesh="model_collision_3_SIT_N_WALK_PUPPY" type="mesh" group="3" />
+      <geom mesh="model_collision_4_SIT_N_WALK_PUPPY" type="mesh" group="3" />
+      <geom mesh="model_collision_5_SIT_N_WALK_PUPPY" type="mesh" group="3" />
+      <geom mesh="model_collision_6_SIT_N_WALK_PUPPY" type="mesh" group="3" />
+      <geom mesh="model_collision_7_SIT_N_WALK_PUPPY" type="mesh" group="3" />
+      <geom mesh="model_collision_8_SIT_N_WALK_PUPPY" type="mesh" group="3" />
+      <geom mesh="model_collision_9_SIT_N_WALK_PUPPY" type="mesh" group="3" />
+      <geom mesh="model_collision_10_SIT_N_WALK_PUPPY" type="mesh" group="3" />
+      <geom mesh="model_collision_11_SIT_N_WALK_PUPPY" type="mesh" group="3" />
+      <geom mesh="model_collision_12_SIT_N_WALK_PUPPY" type="mesh" group="3" />
+      <geom mesh="model_collision_13_SIT_N_WALK_PUPPY" type="mesh" group="3" />
+      <geom mesh="model_collision_14_SIT_N_WALK_PUPPY" type="mesh" group="3" />
+      <geom mesh="model_collision_15_SIT_N_WALK_PUPPY" type="mesh" group="3" />
+      <geom mesh="model_collision_16_SIT_N_WALK_PUPPY" type="mesh" group="3" />
+      <geom mesh="model_collision_17_SIT_N_WALK_PUPPY" type="mesh" group="3" />
+      <geom mesh="model_collision_18_SIT_N_WALK_PUPPY" type="mesh" group="3" />
+      <geom mesh="model_collision_19_SIT_N_WALK_PUPPY" type="mesh" group="3" />
+      <geom mesh="model_collision_20_SIT_N_WALK_PUPPY" type="mesh" group="3" />
+      <geom mesh="model_collision_21_SIT_N_WALK_PUPPY" type="mesh" group="3" />
+      <geom mesh="model_collision_22_SIT_N_WALK_PUPPY" type="mesh" group="3" />
+      <geom mesh="model_collision_23_SIT_N_WALK_PUPPY" type="mesh" group="3" />
+      <geom mesh="model_collision_24_SIT_N_WALK_PUPPY" type="mesh" group="3" />
+      <geom mesh="model_collision_25_SIT_N_WALK_PUPPY" type="mesh" group="3" />
+      <geom mesh="model_collision_26_SIT_N_WALK_PUPPY" type="mesh" group="3" />
+      <geom mesh="model_collision_27_SIT_N_WALK_PUPPY" type="mesh" group="3" />
+      <geom mesh="model_collision_28_SIT_N_WALK_PUPPY" type="mesh" group="3" />
+      <geom mesh="model_collision_29_SIT_N_WALK_PUPPY" type="mesh" group="3" />
+      <geom mesh="model_collision_30_SIT_N_WALK_PUPPY" type="mesh" group="3" />
+      <geom mesh="model_collision_31_SIT_N_WALK_PUPPY" type="mesh" group="3" />
+    </body>

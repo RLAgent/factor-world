@@ -1,0 +1,36 @@
+<body childclass="RJ_Rabbit_Easter_Basket_Blue_base" name="RJ_Rabbit_Easter_Basket_Blue1">
+        <geom class="RJ_Rabbit_Easter_Basket_Blue_col" name="{geom_name}" type="mesh" mesh="model_RJ_Rabbit_Easter_Basket_Blue" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_RJ_Rabbit_Easter_Basket_Blue" mesh="model_RJ_Rabbit_Easter_Basket_Blue" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_RJ_Rabbit_Easter_Basket_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_1_RJ_Rabbit_Easter_Basket_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_2_RJ_Rabbit_Easter_Basket_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_3_RJ_Rabbit_Easter_Basket_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_4_RJ_Rabbit_Easter_Basket_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_5_RJ_Rabbit_Easter_Basket_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_6_RJ_Rabbit_Easter_Basket_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_7_RJ_Rabbit_Easter_Basket_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_8_RJ_Rabbit_Easter_Basket_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_9_RJ_Rabbit_Easter_Basket_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_10_RJ_Rabbit_Easter_Basket_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_11_RJ_Rabbit_Easter_Basket_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_12_RJ_Rabbit_Easter_Basket_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_13_RJ_Rabbit_Easter_Basket_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_14_RJ_Rabbit_Easter_Basket_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_15_RJ_Rabbit_Easter_Basket_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_16_RJ_Rabbit_Easter_Basket_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_17_RJ_Rabbit_Easter_Basket_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_18_RJ_Rabbit_Easter_Basket_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_19_RJ_Rabbit_Easter_Basket_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_20_RJ_Rabbit_Easter_Basket_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_21_RJ_Rabbit_Easter_Basket_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_22_RJ_Rabbit_Easter_Basket_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_23_RJ_Rabbit_Easter_Basket_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_24_RJ_Rabbit_Easter_Basket_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_25_RJ_Rabbit_Easter_Basket_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_26_RJ_Rabbit_Easter_Basket_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_27_RJ_Rabbit_Easter_Basket_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_28_RJ_Rabbit_Easter_Basket_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_29_RJ_Rabbit_Easter_Basket_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_30_RJ_Rabbit_Easter_Basket_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_31_RJ_Rabbit_Easter_Basket_Blue" type="mesh" group="3" />
+    </body>

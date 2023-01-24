@@ -1,0 +1,97 @@
+<!--
+ Copyright 2023 Google LLC
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+--><mujocoinclude><asset>
+  <texture name="tex_images (10)" type="2d" file="../../../../../../envs/assets/textures/images (10).png"/>
+  <texture name="tex_images (11)" type="2d" file="../../../../../../envs/assets/textures/images (11).png"/>
+  <texture name="tex_Basket-Weave--Arvin61r58" type="2d" file="../../../../../../envs/assets/textures/Basket-Weave--Arvin61r58.png"/>
+  <texture name="tex_purple-eggplant-background" type="2d" file="../../../../../../envs/assets/textures/purple-eggplant-background.png"/>
+  <texture name="tex_images (19)" type="2d" file="../../../../../../envs/assets/textures/images (19).png"/>
+  <texture name="tex_Random-Imagemagick-Fractal-Plasma-15-2015071527" type="2d" file="../../../../../../envs/assets/textures/Random-Imagemagick-Fractal-Plasma-15-2015071527.png"/>
+  <texture name="tex_wood_light" type="2d" file="../../../../../../envs/assets/textures/wood_light.png"/>
+  <texture name="tex_wood2" type="2d" file="../../../../../../envs/assets/textures/wood2.png"/>
+  <texture name="tex_ceramic" type="2d" file="../../../../../../envs/assets/textures/ceramic.png"/>
+  <texture name="tex_light_wood_v3" type="2d" file="../../../../../../envs/assets/textures/light_wood_v3.png"/>
+  <texture name="tex_wood" type="2d" file="../../../../../../envs/assets/textures/wood.png"/>
+  <texture name="tex_pineapple-pattern-background" type="2d" file="../../../../../../envs/assets/textures/pineapple-pattern-background.png"/>
+  <texture name="tex_Bg_pattern" type="2d" file="../../../../../../envs/assets/textures/Bg_pattern.png"/>
+  <texture name="tex_seamless-tartan-plaid-pattern-checkered-260nw-549831931" type="2d" file="../../../../../../envs/assets/textures/seamless-tartan-plaid-pattern-checkered-260nw-549831931.png"/>
+  <texture name="tex_images_2" type="2d" file="../../../../../../envs/assets/textures/images_2.png"/>
+  <texture name="tex_brown-hearts-repeating-tile-pattern" type="2d" file="../../../../../../envs/assets/textures/brown-hearts-repeating-tile-pattern.png"/>
+  <texture name="tex_Sand" type="2d" file="../../../../../../envs/assets/textures/Sand.png"/>
+  <texture name="tex_gray-plaster" type="2d" file="../../../../../../envs/assets/textures/gray-plaster.png"/>
+  <texture name="tex_image-16367210531Iv" type="2d" file="../../../../../../envs/assets/textures/image-16367210531Iv.png"/>
+  <texture name="tex_red-chevron-1554136034z5j" type="2d" file="../../../../../../envs/assets/textures/red-chevron-1554136034z5j.png"/>
+  <texture name="tex_Floral-Seamless-Pattern-6" type="2d" file="../../../../../../envs/assets/textures/Floral-Seamless-Pattern-6.png"/>
+  <texture name="tex_Random-Imagemagick-Fractal-Plasma-10-2015071527" type="2d" file="../../../../../../envs/assets/textures/Random-Imagemagick-Fractal-Plasma-10-2015071527.png"/>
+  <texture name="tex_Abstract-Folds-Background" type="2d" file="../../../../../../envs/assets/textures/Abstract-Folds-Background.png"/>
+  <texture name="tex_1617539798green-clover-pattern-background" type="2d" file="../../../../../../envs/assets/textures/1617539798green-clover-pattern-background.png"/>
+  <texture name="tex_1631694052acorns-seamless-pattern" type="2d" file="../../../../../../envs/assets/textures/1631694052acorns-seamless-pattern.png"/>
+  <texture name="tex_steel-brushed" type="2d" file="../../../../../../envs/assets/textures/steel-brushed.png"/>
+  <texture name="tex_images" type="2d" file="../../../../../../envs/assets/textures/images.png"/>
+  <texture name="tex_1609427673fruit-pattern-seamless" type="2d" file="../../../../../../envs/assets/textures/1609427673fruit-pattern-seamless.png"/>
+  <texture name="tex_glass" type="2d" file="../../../../../../envs/assets/textures/glass.png"/>
+  <texture name="tex_Vietnamese_K-18_Woodland_Digital_Camouflage_Pattern" type="2d" file="../../../../../../envs/assets/textures/Vietnamese_K-18_Woodland_Digital_Camouflage_Pattern.png"/>
+  <texture name="tex_stone-wall-seamless-pattern" type="2d" file="../../../../../../envs/assets/textures/stone-wall-seamless-pattern.png"/>
+  <texture name="tex_rainbowrect2" type="2d" file="../../../../../../envs/assets/textures/rainbowrect2.png"/>
+  <texture name="tex_cream-plaster" type="2d" file="../../../../../../envs/assets/textures/cream-plaster.png"/>
+  <texture name="tex_image-1629467542AWj" type="2d" file="../../../../../../envs/assets/textures/image-1629467542AWj.png"/>
+  <texture name="tex_Random-Imagemagick-Fractal-Plasma-7-2015071527" type="2d" file="../../../../../../envs/assets/textures/Random-Imagemagick-Fractal-Plasma-7-2015071527.png"/>
+  <texture name="tex_1635400036binary-numbers-pattern" type="2d" file="../../../../../../envs/assets/textures/1635400036binary-numbers-pattern.png"/>
+  <texture name="tex_Creeping_line_search_pattern" type="2d" file="../../../../../../envs/assets/textures/Creeping_line_search_pattern.png"/>
+  <texture name="tex_wood1" type="2d" file="../../../../../../envs/assets/textures/wood1.png"/>
+  <texture name="tex_images (6)" type="2d" file="../../../../../../envs/assets/textures/images (6).png"/>
+  <texture name="tex_metal2" type="2d" file="../../../../../../envs/assets/textures/metal2.png"/>
+  <texture name="tex_image-1631013361ELG" type="2d" file="../../../../../../envs/assets/textures/image-1631013361ELG.png"/>
+  <texture name="tex_yellow-plaster" type="2d" file="../../../../../../envs/assets/textures/yellow-plaster.png"/>
+  <texture name="tex_seamless-pattern-006" type="2d" file="../../../../../../envs/assets/textures/seamless-pattern-006.png"/>
+  <texture name="tex_lemon" type="2d" file="../../../../../../envs/assets/textures/lemon.png"/>
+  <texture name="tex_bright-swirl-repeating-tile-pattern-1564657051dX8" type="2d" file="../../../../../../envs/assets/textures/bright-swirl-repeating-tile-pattern-1564657051dX8.png"/>
+  <texture name="tex_Random-Imagemagick-Fractal-Plasma-5-2015071527" type="2d" file="../../../../../../envs/assets/textures/Random-Imagemagick-Fractal-Plasma-5-2015071527.png"/>
+  <texture name="tex_white-bricks" type="2d" file="../../../../../../envs/assets/textures/white-bricks.png"/>
+  <texture name="tex_floor2" type="2d" file="../../../../../../envs/assets/textures/floor2.png"/>
+  <texture name="tex_1574450400line-pattern-black-freesvg" type="2d" file="../../../../../../envs/assets/textures/1574450400line-pattern-black-freesvg.png"/>
+  <texture name="tex_BackgroundPattern194V2" type="2d" file="../../../../../../envs/assets/textures/BackgroundPattern194V2.png"/>
+  <texture name="tex_Dissolve_Noise_Texture" type="2d" file="../../../../../../envs/assets/textures/Dissolve_Noise_Texture.png"/>
+  <texture name="tex_Random-Imagemagick-Fractal-Plasma-Modified-2-2015071554" type="2d" file="../../../../../../envs/assets/textures/Random-Imagemagick-Fractal-Plasma-Modified-2-2015071554.png"/>
+  <texture name="tex_metal1" type="2d" file="../../../../../../envs/assets/textures/metal1.png"/>
+  <texture name="tex_acacaaaaaaa" type="2d" file="../../../../../../envs/assets/textures/acacaaaaaaa.png"/>
+  <texture name="tex_1600958185snowflakes-green-background" type="2d" file="../../../../../../envs/assets/textures/1600958185snowflakes-green-background.png"/>
+  <texture name="tex_steel-scratched" type="2d" file="../../../../../../envs/assets/textures/steel-scratched.png"/>
+  <texture name="tex_Random-Imagemagick-Fractal-Plasma-Modified-1-2015071551" type="2d" file="../../../../../../envs/assets/textures/Random-Imagemagick-Fractal-Plasma-Modified-1-2015071551.png"/>
+  <texture name="tex_Pseudo_random_capitals_and_integers_commons" type="2d" file="../../../../../../envs/assets/textures/Pseudo_random_capitals_and_integers_commons.png"/>
+  <texture name="tex_1633076564seamless-pattern-background" type="2d" file="../../../../../../envs/assets/textures/1633076564seamless-pattern-background.png"/>
+  <texture name="tex_images (3)" type="2d" file="../../../../../../envs/assets/textures/images (3).png"/>
+  <texture name="tex_solid7" type="2d" file="../../../../../../envs/assets/textures/solid7.png"/>
+  <texture name="tex_XXXTentacion_-_SKINS_2" type="2d" file="../../../../../../envs/assets/textures/XXXTentacion_-_SKINS_2.png"/>
+  <texture name="tex_image-1648645203Mog" type="2d" file="../../../../../../envs/assets/textures/image-1648645203Mog.png"/>
+  <texture name="tex_StoneWall13" type="2d" file="../../../../../../envs/assets/textures/StoneWall13.png"/>
+  <texture name="tex_weathered" type="2d" file="../../../../../../envs/assets/textures/weathered.png"/>
+  <texture name="tex_Random-Imagemagick-Fractal-Plasma-13-2015071527" type="2d" file="../../../../../../envs/assets/textures/Random-Imagemagick-Fractal-Plasma-13-2015071527.png"/>
+  <texture name="tex_Immunohistochemistry_of_endometrial_endometrioid_carcinoma_with_wild-type_pattern_of_p53_expression" type="2d" file="../../../../../../envs/assets/textures/Immunohistochemistry_of_endometrial_endometrioid_carcinoma_with_wild-type_pattern_of_p53_expression.png"/>
+  <texture name="tex_solid12" type="2d" file="../../../../../../envs/assets/textures/solid12.png"/>
+  <texture name="tex_clay" type="2d" file="../../../../../../envs/assets/textures/clay.png"/>
+  <texture name="tex_Floral-Garden-Seamless-Pattern" type="2d" file="../../../../../../envs/assets/textures/Floral-Garden-Seamless-Pattern.png"/>
+  <texture name="tex_marble" type="2d" file="../../../../../../envs/assets/textures/marble.png"/>
+  <texture name="tex_gray-woodgrain" type="2d" file="../../../../../../envs/assets/textures/gray-woodgrain.png"/>
+  <texture name="tex_metal" type="2d" file="../../../../../../envs/assets/textures/metal.png"/>
+  <texture name="tex_Batik-Parang-Rusak-Seamless-Pattern-remix" type="2d" file="../../../../../../envs/assets/textures/Batik-Parang-Rusak-Seamless-Pattern-remix.png"/>
+  <texture name="tex_purple-mermaid-scales" type="2d" file="../../../../../../envs/assets/textures/purple-mermaid-scales.png"/>
+  <texture name="tex_wood3" type="2d" file="../../../../../../envs/assets/textures/wood3.png"/>
+  <texture name="tex_Woodland_Camouflage" type="2d" file="../../../../../../envs/assets/textures/Woodland_Camouflage.png"/>
+  <texture name="tex_Frost-pattern_8" type="2d" file="../../../../../../envs/assets/textures/Frost-pattern_8.png"/>
+  <texture name="tex_solid11" type="2d" file="../../../../../../envs/assets/textures/solid11.png"/>
+  <texture name="tex_floor1" type="2d" file="../../../../../../envs/assets/textures/floor1.png"/>
+  <texture name="tex_Greek-arabesque-seamless-pattern" type="2d" file="../../../../../../envs/assets/textures/Greek-arabesque-seamless-pattern.png"/>
+</asset></mujocoinclude>

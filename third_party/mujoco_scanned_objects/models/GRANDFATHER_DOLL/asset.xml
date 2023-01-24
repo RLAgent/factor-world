@@ -1,0 +1,38 @@
+<asset>
+    <texture type="2d" name="texture_GRANDFATHER_DOLL" file="../../../../../mujoco_scanned_objects/models/GRANDFATHER_DOLL/texture.png" />
+    <material name="material_0_GRANDFATHER_DOLL" texture="texture_GRANDFATHER_DOLL" specular="0.5" shininess="0.5" />
+    <mesh name="model_GRANDFATHER_DOLL" file="../../../../../mujoco_scanned_objects/models/GRANDFATHER_DOLL/model.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_0_GRANDFATHER_DOLL" file="../../../../../mujoco_scanned_objects/models/GRANDFATHER_DOLL/model_collision_0.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_1_GRANDFATHER_DOLL" file="../../../../../mujoco_scanned_objects/models/GRANDFATHER_DOLL/model_collision_1.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_2_GRANDFATHER_DOLL" file="../../../../../mujoco_scanned_objects/models/GRANDFATHER_DOLL/model_collision_2.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_3_GRANDFATHER_DOLL" file="../../../../../mujoco_scanned_objects/models/GRANDFATHER_DOLL/model_collision_3.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_4_GRANDFATHER_DOLL" file="../../../../../mujoco_scanned_objects/models/GRANDFATHER_DOLL/model_collision_4.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_5_GRANDFATHER_DOLL" file="../../../../../mujoco_scanned_objects/models/GRANDFATHER_DOLL/model_collision_5.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_6_GRANDFATHER_DOLL" file="../../../../../mujoco_scanned_objects/models/GRANDFATHER_DOLL/model_collision_6.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_7_GRANDFATHER_DOLL" file="../../../../../mujoco_scanned_objects/models/GRANDFATHER_DOLL/model_collision_7.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_8_GRANDFATHER_DOLL" file="../../../../../mujoco_scanned_objects/models/GRANDFATHER_DOLL/model_collision_8.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_9_GRANDFATHER_DOLL" file="../../../../../mujoco_scanned_objects/models/GRANDFATHER_DOLL/model_collision_9.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_10_GRANDFATHER_DOLL" file="../../../../../mujoco_scanned_objects/models/GRANDFATHER_DOLL/model_collision_10.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_11_GRANDFATHER_DOLL" file="../../../../../mujoco_scanned_objects/models/GRANDFATHER_DOLL/model_collision_11.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_12_GRANDFATHER_DOLL" file="../../../../../mujoco_scanned_objects/models/GRANDFATHER_DOLL/model_collision_12.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_13_GRANDFATHER_DOLL" file="../../../../../mujoco_scanned_objects/models/GRANDFATHER_DOLL/model_collision_13.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_14_GRANDFATHER_DOLL" file="../../../../../mujoco_scanned_objects/models/GRANDFATHER_DOLL/model_collision_14.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_15_GRANDFATHER_DOLL" file="../../../../../mujoco_scanned_objects/models/GRANDFATHER_DOLL/model_collision_15.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_16_GRANDFATHER_DOLL" file="../../../../../mujoco_scanned_objects/models/GRANDFATHER_DOLL/model_collision_16.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_17_GRANDFATHER_DOLL" file="../../../../../mujoco_scanned_objects/models/GRANDFATHER_DOLL/model_collision_17.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_18_GRANDFATHER_DOLL" file="../../../../../mujoco_scanned_objects/models/GRANDFATHER_DOLL/model_collision_18.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_19_GRANDFATHER_DOLL" file="../../../../../mujoco_scanned_objects/models/GRANDFATHER_DOLL/model_collision_19.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_20_GRANDFATHER_DOLL" file="../../../../../mujoco_scanned_objects/models/GRANDFATHER_DOLL/model_collision_20.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_21_GRANDFATHER_DOLL" file="../../../../../mujoco_scanned_objects/models/GRANDFATHER_DOLL/model_collision_21.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_22_GRANDFATHER_DOLL" file="../../../../../mujoco_scanned_objects/models/GRANDFATHER_DOLL/model_collision_22.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_23_GRANDFATHER_DOLL" file="../../../../../mujoco_scanned_objects/models/GRANDFATHER_DOLL/model_collision_23.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_24_GRANDFATHER_DOLL" file="../../../../../mujoco_scanned_objects/models/GRANDFATHER_DOLL/model_collision_24.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_25_GRANDFATHER_DOLL" file="../../../../../mujoco_scanned_objects/models/GRANDFATHER_DOLL/model_collision_25.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_26_GRANDFATHER_DOLL" file="../../../../../mujoco_scanned_objects/models/GRANDFATHER_DOLL/model_collision_26.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_27_GRANDFATHER_DOLL" file="../../../../../mujoco_scanned_objects/models/GRANDFATHER_DOLL/model_collision_27.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_28_GRANDFATHER_DOLL" file="../../../../../mujoco_scanned_objects/models/GRANDFATHER_DOLL/model_collision_28.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_29_GRANDFATHER_DOLL" file="../../../../../mujoco_scanned_objects/models/GRANDFATHER_DOLL/model_collision_29.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_30_GRANDFATHER_DOLL" file="../../../../../mujoco_scanned_objects/models/GRANDFATHER_DOLL/model_collision_30.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_31_GRANDFATHER_DOLL" file="../../../../../mujoco_scanned_objects/models/GRANDFATHER_DOLL/model_collision_31.stl" scale="{scale} {scale} {scale}" />
+  </asset>
+  

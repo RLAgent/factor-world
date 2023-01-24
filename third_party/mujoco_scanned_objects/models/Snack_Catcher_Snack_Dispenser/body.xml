@@ -1,0 +1,36 @@
+<body childclass="Snack_Catcher_Snack_Dispenser_base" name="Snack_Catcher_Snack_Dispenser1">
+        <geom class="Snack_Catcher_Snack_Dispenser_col" name="{geom_name}" type="mesh" mesh="model_Snack_Catcher_Snack_Dispenser" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Snack_Catcher_Snack_Dispenser" mesh="model_Snack_Catcher_Snack_Dispenser" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Snack_Catcher_Snack_Dispenser" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Snack_Catcher_Snack_Dispenser" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Snack_Catcher_Snack_Dispenser" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Snack_Catcher_Snack_Dispenser" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Snack_Catcher_Snack_Dispenser" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Snack_Catcher_Snack_Dispenser" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Snack_Catcher_Snack_Dispenser" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Snack_Catcher_Snack_Dispenser" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Snack_Catcher_Snack_Dispenser" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Snack_Catcher_Snack_Dispenser" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Snack_Catcher_Snack_Dispenser" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Snack_Catcher_Snack_Dispenser" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Snack_Catcher_Snack_Dispenser" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Snack_Catcher_Snack_Dispenser" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Snack_Catcher_Snack_Dispenser" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Snack_Catcher_Snack_Dispenser" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Snack_Catcher_Snack_Dispenser" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Snack_Catcher_Snack_Dispenser" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Snack_Catcher_Snack_Dispenser" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Snack_Catcher_Snack_Dispenser" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Snack_Catcher_Snack_Dispenser" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Snack_Catcher_Snack_Dispenser" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Snack_Catcher_Snack_Dispenser" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Snack_Catcher_Snack_Dispenser" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Snack_Catcher_Snack_Dispenser" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Snack_Catcher_Snack_Dispenser" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Snack_Catcher_Snack_Dispenser" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Snack_Catcher_Snack_Dispenser" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Snack_Catcher_Snack_Dispenser" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Snack_Catcher_Snack_Dispenser" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Snack_Catcher_Snack_Dispenser" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Snack_Catcher_Snack_Dispenser" type="mesh" group="3" />
+    </body>

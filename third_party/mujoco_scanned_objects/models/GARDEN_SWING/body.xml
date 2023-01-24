@@ -1,0 +1,36 @@
+<body childclass="GARDEN_SWING_base" name="GARDEN_SWING1">
+        <geom class="GARDEN_SWING_col" name="{geom_name}" type="mesh" mesh="model_GARDEN_SWING" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_GARDEN_SWING" mesh="model_GARDEN_SWING" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_GARDEN_SWING" type="mesh" group="3" />
+      <geom mesh="model_collision_1_GARDEN_SWING" type="mesh" group="3" />
+      <geom mesh="model_collision_2_GARDEN_SWING" type="mesh" group="3" />
+      <geom mesh="model_collision_3_GARDEN_SWING" type="mesh" group="3" />
+      <geom mesh="model_collision_4_GARDEN_SWING" type="mesh" group="3" />
+      <geom mesh="model_collision_5_GARDEN_SWING" type="mesh" group="3" />
+      <geom mesh="model_collision_6_GARDEN_SWING" type="mesh" group="3" />
+      <geom mesh="model_collision_7_GARDEN_SWING" type="mesh" group="3" />
+      <geom mesh="model_collision_8_GARDEN_SWING" type="mesh" group="3" />
+      <geom mesh="model_collision_9_GARDEN_SWING" type="mesh" group="3" />
+      <geom mesh="model_collision_10_GARDEN_SWING" type="mesh" group="3" />
+      <geom mesh="model_collision_11_GARDEN_SWING" type="mesh" group="3" />
+      <geom mesh="model_collision_12_GARDEN_SWING" type="mesh" group="3" />
+      <geom mesh="model_collision_13_GARDEN_SWING" type="mesh" group="3" />
+      <geom mesh="model_collision_14_GARDEN_SWING" type="mesh" group="3" />
+      <geom mesh="model_collision_15_GARDEN_SWING" type="mesh" group="3" />
+      <geom mesh="model_collision_16_GARDEN_SWING" type="mesh" group="3" />
+      <geom mesh="model_collision_17_GARDEN_SWING" type="mesh" group="3" />
+      <geom mesh="model_collision_18_GARDEN_SWING" type="mesh" group="3" />
+      <geom mesh="model_collision_19_GARDEN_SWING" type="mesh" group="3" />
+      <geom mesh="model_collision_20_GARDEN_SWING" type="mesh" group="3" />
+      <geom mesh="model_collision_21_GARDEN_SWING" type="mesh" group="3" />
+      <geom mesh="model_collision_22_GARDEN_SWING" type="mesh" group="3" />
+      <geom mesh="model_collision_23_GARDEN_SWING" type="mesh" group="3" />
+      <geom mesh="model_collision_24_GARDEN_SWING" type="mesh" group="3" />
+      <geom mesh="model_collision_25_GARDEN_SWING" type="mesh" group="3" />
+      <geom mesh="model_collision_26_GARDEN_SWING" type="mesh" group="3" />
+      <geom mesh="model_collision_27_GARDEN_SWING" type="mesh" group="3" />
+      <geom mesh="model_collision_28_GARDEN_SWING" type="mesh" group="3" />
+      <geom mesh="model_collision_29_GARDEN_SWING" type="mesh" group="3" />
+      <geom mesh="model_collision_30_GARDEN_SWING" type="mesh" group="3" />
+      <geom mesh="model_collision_31_GARDEN_SWING" type="mesh" group="3" />
+    </body>

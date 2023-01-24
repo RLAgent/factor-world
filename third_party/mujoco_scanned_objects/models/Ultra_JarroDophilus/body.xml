@@ -1,0 +1,36 @@
+<body childclass="Ultra_JarroDophilus_base" name="Ultra_JarroDophilus1">
+        <geom class="Ultra_JarroDophilus_col" name="{geom_name}" type="mesh" mesh="model_Ultra_JarroDophilus" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Ultra_JarroDophilus" mesh="model_Ultra_JarroDophilus" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Ultra_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Ultra_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Ultra_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Ultra_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Ultra_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Ultra_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Ultra_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Ultra_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Ultra_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Ultra_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Ultra_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Ultra_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Ultra_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Ultra_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Ultra_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Ultra_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Ultra_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Ultra_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Ultra_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Ultra_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Ultra_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Ultra_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Ultra_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Ultra_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Ultra_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Ultra_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Ultra_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Ultra_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Ultra_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Ultra_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Ultra_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Ultra_JarroDophilus" type="mesh" group="3" />
+    </body>

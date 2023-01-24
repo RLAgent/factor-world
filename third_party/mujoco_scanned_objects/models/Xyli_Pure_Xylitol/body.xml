@@ -1,0 +1,36 @@
+<body childclass="Xyli_Pure_Xylitol_base" name="Xyli_Pure_Xylitol1">
+        <geom class="Xyli_Pure_Xylitol_col" name="{geom_name}" type="mesh" mesh="model_Xyli_Pure_Xylitol" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Xyli_Pure_Xylitol" mesh="model_Xyli_Pure_Xylitol" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Xyli_Pure_Xylitol" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Xyli_Pure_Xylitol" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Xyli_Pure_Xylitol" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Xyli_Pure_Xylitol" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Xyli_Pure_Xylitol" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Xyli_Pure_Xylitol" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Xyli_Pure_Xylitol" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Xyli_Pure_Xylitol" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Xyli_Pure_Xylitol" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Xyli_Pure_Xylitol" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Xyli_Pure_Xylitol" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Xyli_Pure_Xylitol" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Xyli_Pure_Xylitol" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Xyli_Pure_Xylitol" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Xyli_Pure_Xylitol" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Xyli_Pure_Xylitol" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Xyli_Pure_Xylitol" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Xyli_Pure_Xylitol" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Xyli_Pure_Xylitol" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Xyli_Pure_Xylitol" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Xyli_Pure_Xylitol" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Xyli_Pure_Xylitol" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Xyli_Pure_Xylitol" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Xyli_Pure_Xylitol" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Xyli_Pure_Xylitol" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Xyli_Pure_Xylitol" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Xyli_Pure_Xylitol" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Xyli_Pure_Xylitol" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Xyli_Pure_Xylitol" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Xyli_Pure_Xylitol" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Xyli_Pure_Xylitol" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Xyli_Pure_Xylitol" type="mesh" group="3" />
+    </body>

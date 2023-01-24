@@ -1,0 +1,36 @@
+<body childclass="PARENT_ROOM_FURNITURE_SET_1_DLKEy8H4mwK_base" name="PARENT_ROOM_FURNITURE_SET_1_DLKEy8H4mwK1">
+        <geom class="PARENT_ROOM_FURNITURE_SET_1_DLKEy8H4mwK_col" name="{geom_name}" type="mesh" mesh="model_PARENT_ROOM_FURNITURE_SET_1_DLKEy8H4mwK" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_PARENT_ROOM_FURNITURE_SET_1_DLKEy8H4mwK" mesh="model_PARENT_ROOM_FURNITURE_SET_1_DLKEy8H4mwK" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_PARENT_ROOM_FURNITURE_SET_1_DLKEy8H4mwK" type="mesh" group="3" />
+      <geom mesh="model_collision_1_PARENT_ROOM_FURNITURE_SET_1_DLKEy8H4mwK" type="mesh" group="3" />
+      <geom mesh="model_collision_2_PARENT_ROOM_FURNITURE_SET_1_DLKEy8H4mwK" type="mesh" group="3" />
+      <geom mesh="model_collision_3_PARENT_ROOM_FURNITURE_SET_1_DLKEy8H4mwK" type="mesh" group="3" />
+      <geom mesh="model_collision_4_PARENT_ROOM_FURNITURE_SET_1_DLKEy8H4mwK" type="mesh" group="3" />
+      <geom mesh="model_collision_5_PARENT_ROOM_FURNITURE_SET_1_DLKEy8H4mwK" type="mesh" group="3" />
+      <geom mesh="model_collision_6_PARENT_ROOM_FURNITURE_SET_1_DLKEy8H4mwK" type="mesh" group="3" />
+      <geom mesh="model_collision_7_PARENT_ROOM_FURNITURE_SET_1_DLKEy8H4mwK" type="mesh" group="3" />
+      <geom mesh="model_collision_8_PARENT_ROOM_FURNITURE_SET_1_DLKEy8H4mwK" type="mesh" group="3" />
+      <geom mesh="model_collision_9_PARENT_ROOM_FURNITURE_SET_1_DLKEy8H4mwK" type="mesh" group="3" />
+      <geom mesh="model_collision_10_PARENT_ROOM_FURNITURE_SET_1_DLKEy8H4mwK" type="mesh" group="3" />
+      <geom mesh="model_collision_11_PARENT_ROOM_FURNITURE_SET_1_DLKEy8H4mwK" type="mesh" group="3" />
+      <geom mesh="model_collision_12_PARENT_ROOM_FURNITURE_SET_1_DLKEy8H4mwK" type="mesh" group="3" />
+      <geom mesh="model_collision_13_PARENT_ROOM_FURNITURE_SET_1_DLKEy8H4mwK" type="mesh" group="3" />
+      <geom mesh="model_collision_14_PARENT_ROOM_FURNITURE_SET_1_DLKEy8H4mwK" type="mesh" group="3" />
+      <geom mesh="model_collision_15_PARENT_ROOM_FURNITURE_SET_1_DLKEy8H4mwK" type="mesh" group="3" />
+      <geom mesh="model_collision_16_PARENT_ROOM_FURNITURE_SET_1_DLKEy8H4mwK" type="mesh" group="3" />
+      <geom mesh="model_collision_17_PARENT_ROOM_FURNITURE_SET_1_DLKEy8H4mwK" type="mesh" group="3" />
+      <geom mesh="model_collision_18_PARENT_ROOM_FURNITURE_SET_1_DLKEy8H4mwK" type="mesh" group="3" />
+      <geom mesh="model_collision_19_PARENT_ROOM_FURNITURE_SET_1_DLKEy8H4mwK" type="mesh" group="3" />
+      <geom mesh="model_collision_20_PARENT_ROOM_FURNITURE_SET_1_DLKEy8H4mwK" type="mesh" group="3" />
+      <geom mesh="model_collision_21_PARENT_ROOM_FURNITURE_SET_1_DLKEy8H4mwK" type="mesh" group="3" />
+      <geom mesh="model_collision_22_PARENT_ROOM_FURNITURE_SET_1_DLKEy8H4mwK" type="mesh" group="3" />
+      <geom mesh="model_collision_23_PARENT_ROOM_FURNITURE_SET_1_DLKEy8H4mwK" type="mesh" group="3" />
+      <geom mesh="model_collision_24_PARENT_ROOM_FURNITURE_SET_1_DLKEy8H4mwK" type="mesh" group="3" />
+      <geom mesh="model_collision_25_PARENT_ROOM_FURNITURE_SET_1_DLKEy8H4mwK" type="mesh" group="3" />
+      <geom mesh="model_collision_26_PARENT_ROOM_FURNITURE_SET_1_DLKEy8H4mwK" type="mesh" group="3" />
+      <geom mesh="model_collision_27_PARENT_ROOM_FURNITURE_SET_1_DLKEy8H4mwK" type="mesh" group="3" />
+      <geom mesh="model_collision_28_PARENT_ROOM_FURNITURE_SET_1_DLKEy8H4mwK" type="mesh" group="3" />
+      <geom mesh="model_collision_29_PARENT_ROOM_FURNITURE_SET_1_DLKEy8H4mwK" type="mesh" group="3" />
+      <geom mesh="model_collision_30_PARENT_ROOM_FURNITURE_SET_1_DLKEy8H4mwK" type="mesh" group="3" />
+      <geom mesh="model_collision_31_PARENT_ROOM_FURNITURE_SET_1_DLKEy8H4mwK" type="mesh" group="3" />
+    </body>

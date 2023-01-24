@@ -1,0 +1,36 @@
+<body childclass="ALPHABET_AZ_GRADIENT_WQb1ufEycSj_base" name="ALPHABET_AZ_GRADIENT_WQb1ufEycSj1">
+        <geom class="ALPHABET_AZ_GRADIENT_WQb1ufEycSj_col" name="{geom_name}" type="mesh" mesh="model_ALPHABET_AZ_GRADIENT_WQb1ufEycSj" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_ALPHABET_AZ_GRADIENT_WQb1ufEycSj" mesh="model_ALPHABET_AZ_GRADIENT_WQb1ufEycSj" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_ALPHABET_AZ_GRADIENT_WQb1ufEycSj" type="mesh" group="3" />
+      <geom mesh="model_collision_1_ALPHABET_AZ_GRADIENT_WQb1ufEycSj" type="mesh" group="3" />
+      <geom mesh="model_collision_2_ALPHABET_AZ_GRADIENT_WQb1ufEycSj" type="mesh" group="3" />
+      <geom mesh="model_collision_3_ALPHABET_AZ_GRADIENT_WQb1ufEycSj" type="mesh" group="3" />
+      <geom mesh="model_collision_4_ALPHABET_AZ_GRADIENT_WQb1ufEycSj" type="mesh" group="3" />
+      <geom mesh="model_collision_5_ALPHABET_AZ_GRADIENT_WQb1ufEycSj" type="mesh" group="3" />
+      <geom mesh="model_collision_6_ALPHABET_AZ_GRADIENT_WQb1ufEycSj" type="mesh" group="3" />
+      <geom mesh="model_collision_7_ALPHABET_AZ_GRADIENT_WQb1ufEycSj" type="mesh" group="3" />
+      <geom mesh="model_collision_8_ALPHABET_AZ_GRADIENT_WQb1ufEycSj" type="mesh" group="3" />
+      <geom mesh="model_collision_9_ALPHABET_AZ_GRADIENT_WQb1ufEycSj" type="mesh" group="3" />
+      <geom mesh="model_collision_10_ALPHABET_AZ_GRADIENT_WQb1ufEycSj" type="mesh" group="3" />
+      <geom mesh="model_collision_11_ALPHABET_AZ_GRADIENT_WQb1ufEycSj" type="mesh" group="3" />
+      <geom mesh="model_collision_12_ALPHABET_AZ_GRADIENT_WQb1ufEycSj" type="mesh" group="3" />
+      <geom mesh="model_collision_13_ALPHABET_AZ_GRADIENT_WQb1ufEycSj" type="mesh" group="3" />
+      <geom mesh="model_collision_14_ALPHABET_AZ_GRADIENT_WQb1ufEycSj" type="mesh" group="3" />
+      <geom mesh="model_collision_15_ALPHABET_AZ_GRADIENT_WQb1ufEycSj" type="mesh" group="3" />
+      <geom mesh="model_collision_16_ALPHABET_AZ_GRADIENT_WQb1ufEycSj" type="mesh" group="3" />
+      <geom mesh="model_collision_17_ALPHABET_AZ_GRADIENT_WQb1ufEycSj" type="mesh" group="3" />
+      <geom mesh="model_collision_18_ALPHABET_AZ_GRADIENT_WQb1ufEycSj" type="mesh" group="3" />
+      <geom mesh="model_collision_19_ALPHABET_AZ_GRADIENT_WQb1ufEycSj" type="mesh" group="3" />
+      <geom mesh="model_collision_20_ALPHABET_AZ_GRADIENT_WQb1ufEycSj" type="mesh" group="3" />
+      <geom mesh="model_collision_21_ALPHABET_AZ_GRADIENT_WQb1ufEycSj" type="mesh" group="3" />
+      <geom mesh="model_collision_22_ALPHABET_AZ_GRADIENT_WQb1ufEycSj" type="mesh" group="3" />
+      <geom mesh="model_collision_23_ALPHABET_AZ_GRADIENT_WQb1ufEycSj" type="mesh" group="3" />
+      <geom mesh="model_collision_24_ALPHABET_AZ_GRADIENT_WQb1ufEycSj" type="mesh" group="3" />
+      <geom mesh="model_collision_25_ALPHABET_AZ_GRADIENT_WQb1ufEycSj" type="mesh" group="3" />
+      <geom mesh="model_collision_26_ALPHABET_AZ_GRADIENT_WQb1ufEycSj" type="mesh" group="3" />
+      <geom mesh="model_collision_27_ALPHABET_AZ_GRADIENT_WQb1ufEycSj" type="mesh" group="3" />
+      <geom mesh="model_collision_28_ALPHABET_AZ_GRADIENT_WQb1ufEycSj" type="mesh" group="3" />
+      <geom mesh="model_collision_29_ALPHABET_AZ_GRADIENT_WQb1ufEycSj" type="mesh" group="3" />
+      <geom mesh="model_collision_30_ALPHABET_AZ_GRADIENT_WQb1ufEycSj" type="mesh" group="3" />
+      <geom mesh="model_collision_31_ALPHABET_AZ_GRADIENT_WQb1ufEycSj" type="mesh" group="3" />
+    </body>

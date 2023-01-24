@@ -1,0 +1,36 @@
+<body childclass="Crayola_Model_Magic_Modeling_Material_Single_Packs_6_pack_05_oz_packs_base" name="Crayola_Model_Magic_Modeling_Material_Single_Packs_6_pack_05_oz_packs1">
+        <geom class="Crayola_Model_Magic_Modeling_Material_Single_Packs_6_pack_05_oz_packs_col" name="{geom_name}" type="mesh" mesh="model_Crayola_Model_Magic_Modeling_Material_Single_Packs_6_pack_05_oz_packs" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Crayola_Model_Magic_Modeling_Material_Single_Packs_6_pack_05_oz_packs" mesh="model_Crayola_Model_Magic_Modeling_Material_Single_Packs_6_pack_05_oz_packs" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Crayola_Model_Magic_Modeling_Material_Single_Packs_6_pack_05_oz_packs" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Crayola_Model_Magic_Modeling_Material_Single_Packs_6_pack_05_oz_packs" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Crayola_Model_Magic_Modeling_Material_Single_Packs_6_pack_05_oz_packs" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Crayola_Model_Magic_Modeling_Material_Single_Packs_6_pack_05_oz_packs" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Crayola_Model_Magic_Modeling_Material_Single_Packs_6_pack_05_oz_packs" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Crayola_Model_Magic_Modeling_Material_Single_Packs_6_pack_05_oz_packs" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Crayola_Model_Magic_Modeling_Material_Single_Packs_6_pack_05_oz_packs" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Crayola_Model_Magic_Modeling_Material_Single_Packs_6_pack_05_oz_packs" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Crayola_Model_Magic_Modeling_Material_Single_Packs_6_pack_05_oz_packs" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Crayola_Model_Magic_Modeling_Material_Single_Packs_6_pack_05_oz_packs" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Crayola_Model_Magic_Modeling_Material_Single_Packs_6_pack_05_oz_packs" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Crayola_Model_Magic_Modeling_Material_Single_Packs_6_pack_05_oz_packs" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Crayola_Model_Magic_Modeling_Material_Single_Packs_6_pack_05_oz_packs" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Crayola_Model_Magic_Modeling_Material_Single_Packs_6_pack_05_oz_packs" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Crayola_Model_Magic_Modeling_Material_Single_Packs_6_pack_05_oz_packs" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Crayola_Model_Magic_Modeling_Material_Single_Packs_6_pack_05_oz_packs" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Crayola_Model_Magic_Modeling_Material_Single_Packs_6_pack_05_oz_packs" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Crayola_Model_Magic_Modeling_Material_Single_Packs_6_pack_05_oz_packs" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Crayola_Model_Magic_Modeling_Material_Single_Packs_6_pack_05_oz_packs" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Crayola_Model_Magic_Modeling_Material_Single_Packs_6_pack_05_oz_packs" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Crayola_Model_Magic_Modeling_Material_Single_Packs_6_pack_05_oz_packs" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Crayola_Model_Magic_Modeling_Material_Single_Packs_6_pack_05_oz_packs" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Crayola_Model_Magic_Modeling_Material_Single_Packs_6_pack_05_oz_packs" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Crayola_Model_Magic_Modeling_Material_Single_Packs_6_pack_05_oz_packs" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Crayola_Model_Magic_Modeling_Material_Single_Packs_6_pack_05_oz_packs" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Crayola_Model_Magic_Modeling_Material_Single_Packs_6_pack_05_oz_packs" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Crayola_Model_Magic_Modeling_Material_Single_Packs_6_pack_05_oz_packs" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Crayola_Model_Magic_Modeling_Material_Single_Packs_6_pack_05_oz_packs" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Crayola_Model_Magic_Modeling_Material_Single_Packs_6_pack_05_oz_packs" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Crayola_Model_Magic_Modeling_Material_Single_Packs_6_pack_05_oz_packs" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Crayola_Model_Magic_Modeling_Material_Single_Packs_6_pack_05_oz_packs" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Crayola_Model_Magic_Modeling_Material_Single_Packs_6_pack_05_oz_packs" type="mesh" group="3" />
+    </body>

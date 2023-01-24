@@ -1,0 +1,36 @@
+<body childclass="Clorox_Premium_Choice_Gloves_SM_1_pair_base" name="Clorox_Premium_Choice_Gloves_SM_1_pair1">
+        <geom class="Clorox_Premium_Choice_Gloves_SM_1_pair_col" name="{geom_name}" type="mesh" mesh="model_Clorox_Premium_Choice_Gloves_SM_1_pair" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Clorox_Premium_Choice_Gloves_SM_1_pair" mesh="model_Clorox_Premium_Choice_Gloves_SM_1_pair" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Clorox_Premium_Choice_Gloves_SM_1_pair" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Clorox_Premium_Choice_Gloves_SM_1_pair" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Clorox_Premium_Choice_Gloves_SM_1_pair" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Clorox_Premium_Choice_Gloves_SM_1_pair" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Clorox_Premium_Choice_Gloves_SM_1_pair" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Clorox_Premium_Choice_Gloves_SM_1_pair" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Clorox_Premium_Choice_Gloves_SM_1_pair" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Clorox_Premium_Choice_Gloves_SM_1_pair" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Clorox_Premium_Choice_Gloves_SM_1_pair" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Clorox_Premium_Choice_Gloves_SM_1_pair" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Clorox_Premium_Choice_Gloves_SM_1_pair" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Clorox_Premium_Choice_Gloves_SM_1_pair" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Clorox_Premium_Choice_Gloves_SM_1_pair" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Clorox_Premium_Choice_Gloves_SM_1_pair" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Clorox_Premium_Choice_Gloves_SM_1_pair" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Clorox_Premium_Choice_Gloves_SM_1_pair" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Clorox_Premium_Choice_Gloves_SM_1_pair" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Clorox_Premium_Choice_Gloves_SM_1_pair" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Clorox_Premium_Choice_Gloves_SM_1_pair" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Clorox_Premium_Choice_Gloves_SM_1_pair" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Clorox_Premium_Choice_Gloves_SM_1_pair" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Clorox_Premium_Choice_Gloves_SM_1_pair" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Clorox_Premium_Choice_Gloves_SM_1_pair" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Clorox_Premium_Choice_Gloves_SM_1_pair" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Clorox_Premium_Choice_Gloves_SM_1_pair" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Clorox_Premium_Choice_Gloves_SM_1_pair" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Clorox_Premium_Choice_Gloves_SM_1_pair" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Clorox_Premium_Choice_Gloves_SM_1_pair" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Clorox_Premium_Choice_Gloves_SM_1_pair" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Clorox_Premium_Choice_Gloves_SM_1_pair" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Clorox_Premium_Choice_Gloves_SM_1_pair" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Clorox_Premium_Choice_Gloves_SM_1_pair" type="mesh" group="3" />
+    </body>

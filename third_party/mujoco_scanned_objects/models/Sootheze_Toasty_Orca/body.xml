@@ -1,0 +1,36 @@
+<body childclass="Sootheze_Toasty_Orca_base" name="Sootheze_Toasty_Orca1">
+        <geom class="Sootheze_Toasty_Orca_col" name="{geom_name}" type="mesh" mesh="model_Sootheze_Toasty_Orca" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Sootheze_Toasty_Orca" mesh="model_Sootheze_Toasty_Orca" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Sootheze_Toasty_Orca" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Sootheze_Toasty_Orca" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Sootheze_Toasty_Orca" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Sootheze_Toasty_Orca" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Sootheze_Toasty_Orca" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Sootheze_Toasty_Orca" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Sootheze_Toasty_Orca" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Sootheze_Toasty_Orca" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Sootheze_Toasty_Orca" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Sootheze_Toasty_Orca" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Sootheze_Toasty_Orca" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Sootheze_Toasty_Orca" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Sootheze_Toasty_Orca" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Sootheze_Toasty_Orca" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Sootheze_Toasty_Orca" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Sootheze_Toasty_Orca" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Sootheze_Toasty_Orca" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Sootheze_Toasty_Orca" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Sootheze_Toasty_Orca" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Sootheze_Toasty_Orca" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Sootheze_Toasty_Orca" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Sootheze_Toasty_Orca" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Sootheze_Toasty_Orca" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Sootheze_Toasty_Orca" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Sootheze_Toasty_Orca" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Sootheze_Toasty_Orca" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Sootheze_Toasty_Orca" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Sootheze_Toasty_Orca" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Sootheze_Toasty_Orca" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Sootheze_Toasty_Orca" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Sootheze_Toasty_Orca" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Sootheze_Toasty_Orca" type="mesh" group="3" />
+    </body>

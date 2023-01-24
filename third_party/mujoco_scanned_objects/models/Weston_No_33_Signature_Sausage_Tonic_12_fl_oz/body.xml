@@ -1,0 +1,36 @@
+<body childclass="Weston_No_33_Signature_Sausage_Tonic_12_fl_oz_base" name="Weston_No_33_Signature_Sausage_Tonic_12_fl_oz1">
+        <geom class="Weston_No_33_Signature_Sausage_Tonic_12_fl_oz_col" name="{geom_name}" type="mesh" mesh="model_Weston_No_33_Signature_Sausage_Tonic_12_fl_oz" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Weston_No_33_Signature_Sausage_Tonic_12_fl_oz" mesh="model_Weston_No_33_Signature_Sausage_Tonic_12_fl_oz" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Weston_No_33_Signature_Sausage_Tonic_12_fl_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Weston_No_33_Signature_Sausage_Tonic_12_fl_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Weston_No_33_Signature_Sausage_Tonic_12_fl_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Weston_No_33_Signature_Sausage_Tonic_12_fl_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Weston_No_33_Signature_Sausage_Tonic_12_fl_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Weston_No_33_Signature_Sausage_Tonic_12_fl_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Weston_No_33_Signature_Sausage_Tonic_12_fl_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Weston_No_33_Signature_Sausage_Tonic_12_fl_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Weston_No_33_Signature_Sausage_Tonic_12_fl_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Weston_No_33_Signature_Sausage_Tonic_12_fl_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Weston_No_33_Signature_Sausage_Tonic_12_fl_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Weston_No_33_Signature_Sausage_Tonic_12_fl_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Weston_No_33_Signature_Sausage_Tonic_12_fl_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Weston_No_33_Signature_Sausage_Tonic_12_fl_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Weston_No_33_Signature_Sausage_Tonic_12_fl_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Weston_No_33_Signature_Sausage_Tonic_12_fl_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Weston_No_33_Signature_Sausage_Tonic_12_fl_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Weston_No_33_Signature_Sausage_Tonic_12_fl_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Weston_No_33_Signature_Sausage_Tonic_12_fl_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Weston_No_33_Signature_Sausage_Tonic_12_fl_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Weston_No_33_Signature_Sausage_Tonic_12_fl_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Weston_No_33_Signature_Sausage_Tonic_12_fl_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Weston_No_33_Signature_Sausage_Tonic_12_fl_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Weston_No_33_Signature_Sausage_Tonic_12_fl_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Weston_No_33_Signature_Sausage_Tonic_12_fl_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Weston_No_33_Signature_Sausage_Tonic_12_fl_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Weston_No_33_Signature_Sausage_Tonic_12_fl_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Weston_No_33_Signature_Sausage_Tonic_12_fl_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Weston_No_33_Signature_Sausage_Tonic_12_fl_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Weston_No_33_Signature_Sausage_Tonic_12_fl_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Weston_No_33_Signature_Sausage_Tonic_12_fl_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Weston_No_33_Signature_Sausage_Tonic_12_fl_oz" type="mesh" group="3" />
+    </body>

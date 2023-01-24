@@ -1,0 +1,36 @@
+<body childclass="AllergenFree_JarroDophilus_base" name="AllergenFree_JarroDophilus1">
+        <geom class="AllergenFree_JarroDophilus_col" name="{geom_name}" type="mesh" mesh="model_AllergenFree_JarroDophilus" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_AllergenFree_JarroDophilus" mesh="model_AllergenFree_JarroDophilus" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_AllergenFree_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_1_AllergenFree_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_2_AllergenFree_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_3_AllergenFree_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_4_AllergenFree_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_5_AllergenFree_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_6_AllergenFree_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_7_AllergenFree_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_8_AllergenFree_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_9_AllergenFree_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_10_AllergenFree_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_11_AllergenFree_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_12_AllergenFree_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_13_AllergenFree_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_14_AllergenFree_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_15_AllergenFree_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_16_AllergenFree_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_17_AllergenFree_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_18_AllergenFree_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_19_AllergenFree_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_20_AllergenFree_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_21_AllergenFree_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_22_AllergenFree_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_23_AllergenFree_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_24_AllergenFree_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_25_AllergenFree_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_26_AllergenFree_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_27_AllergenFree_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_28_AllergenFree_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_29_AllergenFree_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_30_AllergenFree_JarroDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_31_AllergenFree_JarroDophilus" type="mesh" group="3" />
+    </body>

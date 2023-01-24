@@ -1,0 +1,36 @@
+<body childclass="Tetris_Link_Game_base" name="Tetris_Link_Game1">
+        <geom class="Tetris_Link_Game_col" name="{geom_name}" type="mesh" mesh="model_Tetris_Link_Game" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Tetris_Link_Game" mesh="model_Tetris_Link_Game" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Tetris_Link_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Tetris_Link_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Tetris_Link_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Tetris_Link_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Tetris_Link_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Tetris_Link_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Tetris_Link_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Tetris_Link_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Tetris_Link_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Tetris_Link_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Tetris_Link_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Tetris_Link_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Tetris_Link_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Tetris_Link_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Tetris_Link_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Tetris_Link_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Tetris_Link_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Tetris_Link_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Tetris_Link_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Tetris_Link_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Tetris_Link_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Tetris_Link_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Tetris_Link_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Tetris_Link_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Tetris_Link_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Tetris_Link_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Tetris_Link_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Tetris_Link_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Tetris_Link_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Tetris_Link_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Tetris_Link_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Tetris_Link_Game" type="mesh" group="3" />
+    </body>

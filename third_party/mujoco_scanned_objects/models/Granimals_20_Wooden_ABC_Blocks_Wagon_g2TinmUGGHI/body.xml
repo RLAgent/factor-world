@@ -1,0 +1,36 @@
+<body childclass="Granimals_20_Wooden_ABC_Blocks_Wagon_g2TinmUGGHI_base" name="Granimals_20_Wooden_ABC_Blocks_Wagon_g2TinmUGGHI1">
+        <geom class="Granimals_20_Wooden_ABC_Blocks_Wagon_g2TinmUGGHI_col" name="{geom_name}" type="mesh" mesh="model_Granimals_20_Wooden_ABC_Blocks_Wagon_g2TinmUGGHI" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Granimals_20_Wooden_ABC_Blocks_Wagon_g2TinmUGGHI" mesh="model_Granimals_20_Wooden_ABC_Blocks_Wagon_g2TinmUGGHI" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Granimals_20_Wooden_ABC_Blocks_Wagon_g2TinmUGGHI" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Granimals_20_Wooden_ABC_Blocks_Wagon_g2TinmUGGHI" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Granimals_20_Wooden_ABC_Blocks_Wagon_g2TinmUGGHI" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Granimals_20_Wooden_ABC_Blocks_Wagon_g2TinmUGGHI" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Granimals_20_Wooden_ABC_Blocks_Wagon_g2TinmUGGHI" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Granimals_20_Wooden_ABC_Blocks_Wagon_g2TinmUGGHI" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Granimals_20_Wooden_ABC_Blocks_Wagon_g2TinmUGGHI" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Granimals_20_Wooden_ABC_Blocks_Wagon_g2TinmUGGHI" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Granimals_20_Wooden_ABC_Blocks_Wagon_g2TinmUGGHI" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Granimals_20_Wooden_ABC_Blocks_Wagon_g2TinmUGGHI" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Granimals_20_Wooden_ABC_Blocks_Wagon_g2TinmUGGHI" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Granimals_20_Wooden_ABC_Blocks_Wagon_g2TinmUGGHI" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Granimals_20_Wooden_ABC_Blocks_Wagon_g2TinmUGGHI" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Granimals_20_Wooden_ABC_Blocks_Wagon_g2TinmUGGHI" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Granimals_20_Wooden_ABC_Blocks_Wagon_g2TinmUGGHI" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Granimals_20_Wooden_ABC_Blocks_Wagon_g2TinmUGGHI" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Granimals_20_Wooden_ABC_Blocks_Wagon_g2TinmUGGHI" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Granimals_20_Wooden_ABC_Blocks_Wagon_g2TinmUGGHI" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Granimals_20_Wooden_ABC_Blocks_Wagon_g2TinmUGGHI" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Granimals_20_Wooden_ABC_Blocks_Wagon_g2TinmUGGHI" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Granimals_20_Wooden_ABC_Blocks_Wagon_g2TinmUGGHI" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Granimals_20_Wooden_ABC_Blocks_Wagon_g2TinmUGGHI" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Granimals_20_Wooden_ABC_Blocks_Wagon_g2TinmUGGHI" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Granimals_20_Wooden_ABC_Blocks_Wagon_g2TinmUGGHI" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Granimals_20_Wooden_ABC_Blocks_Wagon_g2TinmUGGHI" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Granimals_20_Wooden_ABC_Blocks_Wagon_g2TinmUGGHI" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Granimals_20_Wooden_ABC_Blocks_Wagon_g2TinmUGGHI" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Granimals_20_Wooden_ABC_Blocks_Wagon_g2TinmUGGHI" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Granimals_20_Wooden_ABC_Blocks_Wagon_g2TinmUGGHI" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Granimals_20_Wooden_ABC_Blocks_Wagon_g2TinmUGGHI" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Granimals_20_Wooden_ABC_Blocks_Wagon_g2TinmUGGHI" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Granimals_20_Wooden_ABC_Blocks_Wagon_g2TinmUGGHI" type="mesh" group="3" />
+    </body>

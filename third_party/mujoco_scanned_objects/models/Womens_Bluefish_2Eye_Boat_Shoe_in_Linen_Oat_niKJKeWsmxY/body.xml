@@ -1,0 +1,36 @@
+<body childclass="Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY_base" name="Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY1">
+        <geom class="Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY_col" name="{geom_name}" type="mesh" mesh="model_Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY" mesh="model_Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY" type="mesh" group="3" />
+    </body>

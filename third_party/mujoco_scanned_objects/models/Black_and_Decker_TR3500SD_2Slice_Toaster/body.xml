@@ -1,0 +1,36 @@
+<body childclass="Black_and_Decker_TR3500SD_2Slice_Toaster_base" name="Black_and_Decker_TR3500SD_2Slice_Toaster1">
+        <geom class="Black_and_Decker_TR3500SD_2Slice_Toaster_col" name="{geom_name}" type="mesh" mesh="model_Black_and_Decker_TR3500SD_2Slice_Toaster" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Black_and_Decker_TR3500SD_2Slice_Toaster" mesh="model_Black_and_Decker_TR3500SD_2Slice_Toaster" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Black_and_Decker_TR3500SD_2Slice_Toaster" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Black_and_Decker_TR3500SD_2Slice_Toaster" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Black_and_Decker_TR3500SD_2Slice_Toaster" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Black_and_Decker_TR3500SD_2Slice_Toaster" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Black_and_Decker_TR3500SD_2Slice_Toaster" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Black_and_Decker_TR3500SD_2Slice_Toaster" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Black_and_Decker_TR3500SD_2Slice_Toaster" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Black_and_Decker_TR3500SD_2Slice_Toaster" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Black_and_Decker_TR3500SD_2Slice_Toaster" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Black_and_Decker_TR3500SD_2Slice_Toaster" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Black_and_Decker_TR3500SD_2Slice_Toaster" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Black_and_Decker_TR3500SD_2Slice_Toaster" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Black_and_Decker_TR3500SD_2Slice_Toaster" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Black_and_Decker_TR3500SD_2Slice_Toaster" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Black_and_Decker_TR3500SD_2Slice_Toaster" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Black_and_Decker_TR3500SD_2Slice_Toaster" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Black_and_Decker_TR3500SD_2Slice_Toaster" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Black_and_Decker_TR3500SD_2Slice_Toaster" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Black_and_Decker_TR3500SD_2Slice_Toaster" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Black_and_Decker_TR3500SD_2Slice_Toaster" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Black_and_Decker_TR3500SD_2Slice_Toaster" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Black_and_Decker_TR3500SD_2Slice_Toaster" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Black_and_Decker_TR3500SD_2Slice_Toaster" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Black_and_Decker_TR3500SD_2Slice_Toaster" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Black_and_Decker_TR3500SD_2Slice_Toaster" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Black_and_Decker_TR3500SD_2Slice_Toaster" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Black_and_Decker_TR3500SD_2Slice_Toaster" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Black_and_Decker_TR3500SD_2Slice_Toaster" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Black_and_Decker_TR3500SD_2Slice_Toaster" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Black_and_Decker_TR3500SD_2Slice_Toaster" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Black_and_Decker_TR3500SD_2Slice_Toaster" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Black_and_Decker_TR3500SD_2Slice_Toaster" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="LEUCIPPUS_ADIPURE_base" name="LEUCIPPUS_ADIPURE1">
+        <geom class="LEUCIPPUS_ADIPURE_col" name="{geom_name}" type="mesh" mesh="model_LEUCIPPUS_ADIPURE" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_LEUCIPPUS_ADIPURE" mesh="model_LEUCIPPUS_ADIPURE" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_LEUCIPPUS_ADIPURE" type="mesh" group="3" />
+      <geom mesh="model_collision_1_LEUCIPPUS_ADIPURE" type="mesh" group="3" />
+      <geom mesh="model_collision_2_LEUCIPPUS_ADIPURE" type="mesh" group="3" />
+      <geom mesh="model_collision_3_LEUCIPPUS_ADIPURE" type="mesh" group="3" />
+      <geom mesh="model_collision_4_LEUCIPPUS_ADIPURE" type="mesh" group="3" />
+      <geom mesh="model_collision_5_LEUCIPPUS_ADIPURE" type="mesh" group="3" />
+      <geom mesh="model_collision_6_LEUCIPPUS_ADIPURE" type="mesh" group="3" />
+      <geom mesh="model_collision_7_LEUCIPPUS_ADIPURE" type="mesh" group="3" />
+      <geom mesh="model_collision_8_LEUCIPPUS_ADIPURE" type="mesh" group="3" />
+      <geom mesh="model_collision_9_LEUCIPPUS_ADIPURE" type="mesh" group="3" />
+      <geom mesh="model_collision_10_LEUCIPPUS_ADIPURE" type="mesh" group="3" />
+      <geom mesh="model_collision_11_LEUCIPPUS_ADIPURE" type="mesh" group="3" />
+      <geom mesh="model_collision_12_LEUCIPPUS_ADIPURE" type="mesh" group="3" />
+      <geom mesh="model_collision_13_LEUCIPPUS_ADIPURE" type="mesh" group="3" />
+      <geom mesh="model_collision_14_LEUCIPPUS_ADIPURE" type="mesh" group="3" />
+      <geom mesh="model_collision_15_LEUCIPPUS_ADIPURE" type="mesh" group="3" />
+      <geom mesh="model_collision_16_LEUCIPPUS_ADIPURE" type="mesh" group="3" />
+      <geom mesh="model_collision_17_LEUCIPPUS_ADIPURE" type="mesh" group="3" />
+      <geom mesh="model_collision_18_LEUCIPPUS_ADIPURE" type="mesh" group="3" />
+      <geom mesh="model_collision_19_LEUCIPPUS_ADIPURE" type="mesh" group="3" />
+      <geom mesh="model_collision_20_LEUCIPPUS_ADIPURE" type="mesh" group="3" />
+      <geom mesh="model_collision_21_LEUCIPPUS_ADIPURE" type="mesh" group="3" />
+      <geom mesh="model_collision_22_LEUCIPPUS_ADIPURE" type="mesh" group="3" />
+      <geom mesh="model_collision_23_LEUCIPPUS_ADIPURE" type="mesh" group="3" />
+      <geom mesh="model_collision_24_LEUCIPPUS_ADIPURE" type="mesh" group="3" />
+      <geom mesh="model_collision_25_LEUCIPPUS_ADIPURE" type="mesh" group="3" />
+      <geom mesh="model_collision_26_LEUCIPPUS_ADIPURE" type="mesh" group="3" />
+      <geom mesh="model_collision_27_LEUCIPPUS_ADIPURE" type="mesh" group="3" />
+      <geom mesh="model_collision_28_LEUCIPPUS_ADIPURE" type="mesh" group="3" />
+      <geom mesh="model_collision_29_LEUCIPPUS_ADIPURE" type="mesh" group="3" />
+      <geom mesh="model_collision_30_LEUCIPPUS_ADIPURE" type="mesh" group="3" />
+      <geom mesh="model_collision_31_LEUCIPPUS_ADIPURE" type="mesh" group="3" />
+    </body>

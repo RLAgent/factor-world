@@ -1,0 +1,36 @@
+<body childclass="BAGEL_WITH_CHEESE_base" name="BAGEL_WITH_CHEESE1">
+        <geom class="BAGEL_WITH_CHEESE_col" name="{geom_name}" type="mesh" mesh="model_BAGEL_WITH_CHEESE" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_BAGEL_WITH_CHEESE" mesh="model_BAGEL_WITH_CHEESE" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_BAGEL_WITH_CHEESE" type="mesh" group="3" />
+      <geom mesh="model_collision_1_BAGEL_WITH_CHEESE" type="mesh" group="3" />
+      <geom mesh="model_collision_2_BAGEL_WITH_CHEESE" type="mesh" group="3" />
+      <geom mesh="model_collision_3_BAGEL_WITH_CHEESE" type="mesh" group="3" />
+      <geom mesh="model_collision_4_BAGEL_WITH_CHEESE" type="mesh" group="3" />
+      <geom mesh="model_collision_5_BAGEL_WITH_CHEESE" type="mesh" group="3" />
+      <geom mesh="model_collision_6_BAGEL_WITH_CHEESE" type="mesh" group="3" />
+      <geom mesh="model_collision_7_BAGEL_WITH_CHEESE" type="mesh" group="3" />
+      <geom mesh="model_collision_8_BAGEL_WITH_CHEESE" type="mesh" group="3" />
+      <geom mesh="model_collision_9_BAGEL_WITH_CHEESE" type="mesh" group="3" />
+      <geom mesh="model_collision_10_BAGEL_WITH_CHEESE" type="mesh" group="3" />
+      <geom mesh="model_collision_11_BAGEL_WITH_CHEESE" type="mesh" group="3" />
+      <geom mesh="model_collision_12_BAGEL_WITH_CHEESE" type="mesh" group="3" />
+      <geom mesh="model_collision_13_BAGEL_WITH_CHEESE" type="mesh" group="3" />
+      <geom mesh="model_collision_14_BAGEL_WITH_CHEESE" type="mesh" group="3" />
+      <geom mesh="model_collision_15_BAGEL_WITH_CHEESE" type="mesh" group="3" />
+      <geom mesh="model_collision_16_BAGEL_WITH_CHEESE" type="mesh" group="3" />
+      <geom mesh="model_collision_17_BAGEL_WITH_CHEESE" type="mesh" group="3" />
+      <geom mesh="model_collision_18_BAGEL_WITH_CHEESE" type="mesh" group="3" />
+      <geom mesh="model_collision_19_BAGEL_WITH_CHEESE" type="mesh" group="3" />
+      <geom mesh="model_collision_20_BAGEL_WITH_CHEESE" type="mesh" group="3" />
+      <geom mesh="model_collision_21_BAGEL_WITH_CHEESE" type="mesh" group="3" />
+      <geom mesh="model_collision_22_BAGEL_WITH_CHEESE" type="mesh" group="3" />
+      <geom mesh="model_collision_23_BAGEL_WITH_CHEESE" type="mesh" group="3" />
+      <geom mesh="model_collision_24_BAGEL_WITH_CHEESE" type="mesh" group="3" />
+      <geom mesh="model_collision_25_BAGEL_WITH_CHEESE" type="mesh" group="3" />
+      <geom mesh="model_collision_26_BAGEL_WITH_CHEESE" type="mesh" group="3" />
+      <geom mesh="model_collision_27_BAGEL_WITH_CHEESE" type="mesh" group="3" />
+      <geom mesh="model_collision_28_BAGEL_WITH_CHEESE" type="mesh" group="3" />
+      <geom mesh="model_collision_29_BAGEL_WITH_CHEESE" type="mesh" group="3" />
+      <geom mesh="model_collision_30_BAGEL_WITH_CHEESE" type="mesh" group="3" />
+      <geom mesh="model_collision_31_BAGEL_WITH_CHEESE" type="mesh" group="3" />
+    </body>

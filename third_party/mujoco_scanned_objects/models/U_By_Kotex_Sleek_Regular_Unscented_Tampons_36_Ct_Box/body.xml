@@ -1,0 +1,36 @@
+<body childclass="U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box_base" name="U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box1">
+        <geom class="U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box_col" name="{geom_name}" type="mesh" mesh="model_U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box" mesh="model_U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_1_U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_2_U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_3_U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_4_U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_5_U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_6_U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_7_U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_8_U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_9_U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_10_U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_11_U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_12_U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_13_U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_14_U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_15_U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_16_U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_17_U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_18_U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_19_U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_20_U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_21_U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_22_U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_23_U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_24_U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_25_U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_26_U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_27_U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_28_U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_29_U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_30_U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_31_U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box" type="mesh" group="3" />
+    </body>

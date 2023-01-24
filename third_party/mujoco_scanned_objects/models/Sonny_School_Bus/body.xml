@@ -1,0 +1,36 @@
+<body childclass="Sonny_School_Bus_base" name="Sonny_School_Bus1">
+        <geom class="Sonny_School_Bus_col" name="{geom_name}" type="mesh" mesh="model_Sonny_School_Bus" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Sonny_School_Bus" mesh="model_Sonny_School_Bus" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Sonny_School_Bus" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Sonny_School_Bus" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Sonny_School_Bus" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Sonny_School_Bus" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Sonny_School_Bus" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Sonny_School_Bus" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Sonny_School_Bus" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Sonny_School_Bus" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Sonny_School_Bus" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Sonny_School_Bus" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Sonny_School_Bus" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Sonny_School_Bus" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Sonny_School_Bus" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Sonny_School_Bus" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Sonny_School_Bus" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Sonny_School_Bus" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Sonny_School_Bus" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Sonny_School_Bus" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Sonny_School_Bus" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Sonny_School_Bus" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Sonny_School_Bus" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Sonny_School_Bus" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Sonny_School_Bus" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Sonny_School_Bus" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Sonny_School_Bus" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Sonny_School_Bus" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Sonny_School_Bus" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Sonny_School_Bus" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Sonny_School_Bus" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Sonny_School_Bus" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Sonny_School_Bus" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Sonny_School_Bus" type="mesh" group="3" />
+    </body>

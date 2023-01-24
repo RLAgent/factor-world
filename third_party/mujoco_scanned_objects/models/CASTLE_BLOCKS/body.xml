@@ -1,0 +1,36 @@
+<body childclass="CASTLE_BLOCKS_base" name="CASTLE_BLOCKS1">
+        <geom class="CASTLE_BLOCKS_col" name="{geom_name}" type="mesh" mesh="model_CASTLE_BLOCKS" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_CASTLE_BLOCKS" mesh="model_CASTLE_BLOCKS" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_CASTLE_BLOCKS" type="mesh" group="3" />
+      <geom mesh="model_collision_1_CASTLE_BLOCKS" type="mesh" group="3" />
+      <geom mesh="model_collision_2_CASTLE_BLOCKS" type="mesh" group="3" />
+      <geom mesh="model_collision_3_CASTLE_BLOCKS" type="mesh" group="3" />
+      <geom mesh="model_collision_4_CASTLE_BLOCKS" type="mesh" group="3" />
+      <geom mesh="model_collision_5_CASTLE_BLOCKS" type="mesh" group="3" />
+      <geom mesh="model_collision_6_CASTLE_BLOCKS" type="mesh" group="3" />
+      <geom mesh="model_collision_7_CASTLE_BLOCKS" type="mesh" group="3" />
+      <geom mesh="model_collision_8_CASTLE_BLOCKS" type="mesh" group="3" />
+      <geom mesh="model_collision_9_CASTLE_BLOCKS" type="mesh" group="3" />
+      <geom mesh="model_collision_10_CASTLE_BLOCKS" type="mesh" group="3" />
+      <geom mesh="model_collision_11_CASTLE_BLOCKS" type="mesh" group="3" />
+      <geom mesh="model_collision_12_CASTLE_BLOCKS" type="mesh" group="3" />
+      <geom mesh="model_collision_13_CASTLE_BLOCKS" type="mesh" group="3" />
+      <geom mesh="model_collision_14_CASTLE_BLOCKS" type="mesh" group="3" />
+      <geom mesh="model_collision_15_CASTLE_BLOCKS" type="mesh" group="3" />
+      <geom mesh="model_collision_16_CASTLE_BLOCKS" type="mesh" group="3" />
+      <geom mesh="model_collision_17_CASTLE_BLOCKS" type="mesh" group="3" />
+      <geom mesh="model_collision_18_CASTLE_BLOCKS" type="mesh" group="3" />
+      <geom mesh="model_collision_19_CASTLE_BLOCKS" type="mesh" group="3" />
+      <geom mesh="model_collision_20_CASTLE_BLOCKS" type="mesh" group="3" />
+      <geom mesh="model_collision_21_CASTLE_BLOCKS" type="mesh" group="3" />
+      <geom mesh="model_collision_22_CASTLE_BLOCKS" type="mesh" group="3" />
+      <geom mesh="model_collision_23_CASTLE_BLOCKS" type="mesh" group="3" />
+      <geom mesh="model_collision_24_CASTLE_BLOCKS" type="mesh" group="3" />
+      <geom mesh="model_collision_25_CASTLE_BLOCKS" type="mesh" group="3" />
+      <geom mesh="model_collision_26_CASTLE_BLOCKS" type="mesh" group="3" />
+      <geom mesh="model_collision_27_CASTLE_BLOCKS" type="mesh" group="3" />
+      <geom mesh="model_collision_28_CASTLE_BLOCKS" type="mesh" group="3" />
+      <geom mesh="model_collision_29_CASTLE_BLOCKS" type="mesh" group="3" />
+      <geom mesh="model_collision_30_CASTLE_BLOCKS" type="mesh" group="3" />
+      <geom mesh="model_collision_31_CASTLE_BLOCKS" type="mesh" group="3" />
+    </body>

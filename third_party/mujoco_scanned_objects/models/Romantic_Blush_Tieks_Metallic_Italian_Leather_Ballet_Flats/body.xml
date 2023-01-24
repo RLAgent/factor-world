@@ -1,0 +1,36 @@
+<body childclass="Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats_base" name="Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats1">
+        <geom class="Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats_col" name="{geom_name}" type="mesh" mesh="model_Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats" mesh="model_Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="NUTS_BOLTS_base" name="NUTS_BOLTS1">
+        <geom class="NUTS_BOLTS_col" name="{geom_name}" type="mesh" mesh="model_NUTS_BOLTS" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_NUTS_BOLTS" mesh="model_NUTS_BOLTS" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_NUTS_BOLTS" type="mesh" group="3" />
+      <geom mesh="model_collision_1_NUTS_BOLTS" type="mesh" group="3" />
+      <geom mesh="model_collision_2_NUTS_BOLTS" type="mesh" group="3" />
+      <geom mesh="model_collision_3_NUTS_BOLTS" type="mesh" group="3" />
+      <geom mesh="model_collision_4_NUTS_BOLTS" type="mesh" group="3" />
+      <geom mesh="model_collision_5_NUTS_BOLTS" type="mesh" group="3" />
+      <geom mesh="model_collision_6_NUTS_BOLTS" type="mesh" group="3" />
+      <geom mesh="model_collision_7_NUTS_BOLTS" type="mesh" group="3" />
+      <geom mesh="model_collision_8_NUTS_BOLTS" type="mesh" group="3" />
+      <geom mesh="model_collision_9_NUTS_BOLTS" type="mesh" group="3" />
+      <geom mesh="model_collision_10_NUTS_BOLTS" type="mesh" group="3" />
+      <geom mesh="model_collision_11_NUTS_BOLTS" type="mesh" group="3" />
+      <geom mesh="model_collision_12_NUTS_BOLTS" type="mesh" group="3" />
+      <geom mesh="model_collision_13_NUTS_BOLTS" type="mesh" group="3" />
+      <geom mesh="model_collision_14_NUTS_BOLTS" type="mesh" group="3" />
+      <geom mesh="model_collision_15_NUTS_BOLTS" type="mesh" group="3" />
+      <geom mesh="model_collision_16_NUTS_BOLTS" type="mesh" group="3" />
+      <geom mesh="model_collision_17_NUTS_BOLTS" type="mesh" group="3" />
+      <geom mesh="model_collision_18_NUTS_BOLTS" type="mesh" group="3" />
+      <geom mesh="model_collision_19_NUTS_BOLTS" type="mesh" group="3" />
+      <geom mesh="model_collision_20_NUTS_BOLTS" type="mesh" group="3" />
+      <geom mesh="model_collision_21_NUTS_BOLTS" type="mesh" group="3" />
+      <geom mesh="model_collision_22_NUTS_BOLTS" type="mesh" group="3" />
+      <geom mesh="model_collision_23_NUTS_BOLTS" type="mesh" group="3" />
+      <geom mesh="model_collision_24_NUTS_BOLTS" type="mesh" group="3" />
+      <geom mesh="model_collision_25_NUTS_BOLTS" type="mesh" group="3" />
+      <geom mesh="model_collision_26_NUTS_BOLTS" type="mesh" group="3" />
+      <geom mesh="model_collision_27_NUTS_BOLTS" type="mesh" group="3" />
+      <geom mesh="model_collision_28_NUTS_BOLTS" type="mesh" group="3" />
+      <geom mesh="model_collision_29_NUTS_BOLTS" type="mesh" group="3" />
+      <geom mesh="model_collision_30_NUTS_BOLTS" type="mesh" group="3" />
+      <geom mesh="model_collision_31_NUTS_BOLTS" type="mesh" group="3" />
+    </body>

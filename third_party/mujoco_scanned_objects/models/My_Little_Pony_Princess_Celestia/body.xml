@@ -1,0 +1,36 @@
+<body childclass="My_Little_Pony_Princess_Celestia_base" name="My_Little_Pony_Princess_Celestia1">
+        <geom class="My_Little_Pony_Princess_Celestia_col" name="{geom_name}" type="mesh" mesh="model_My_Little_Pony_Princess_Celestia" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_My_Little_Pony_Princess_Celestia" mesh="model_My_Little_Pony_Princess_Celestia" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_My_Little_Pony_Princess_Celestia" type="mesh" group="3" />
+      <geom mesh="model_collision_1_My_Little_Pony_Princess_Celestia" type="mesh" group="3" />
+      <geom mesh="model_collision_2_My_Little_Pony_Princess_Celestia" type="mesh" group="3" />
+      <geom mesh="model_collision_3_My_Little_Pony_Princess_Celestia" type="mesh" group="3" />
+      <geom mesh="model_collision_4_My_Little_Pony_Princess_Celestia" type="mesh" group="3" />
+      <geom mesh="model_collision_5_My_Little_Pony_Princess_Celestia" type="mesh" group="3" />
+      <geom mesh="model_collision_6_My_Little_Pony_Princess_Celestia" type="mesh" group="3" />
+      <geom mesh="model_collision_7_My_Little_Pony_Princess_Celestia" type="mesh" group="3" />
+      <geom mesh="model_collision_8_My_Little_Pony_Princess_Celestia" type="mesh" group="3" />
+      <geom mesh="model_collision_9_My_Little_Pony_Princess_Celestia" type="mesh" group="3" />
+      <geom mesh="model_collision_10_My_Little_Pony_Princess_Celestia" type="mesh" group="3" />
+      <geom mesh="model_collision_11_My_Little_Pony_Princess_Celestia" type="mesh" group="3" />
+      <geom mesh="model_collision_12_My_Little_Pony_Princess_Celestia" type="mesh" group="3" />
+      <geom mesh="model_collision_13_My_Little_Pony_Princess_Celestia" type="mesh" group="3" />
+      <geom mesh="model_collision_14_My_Little_Pony_Princess_Celestia" type="mesh" group="3" />
+      <geom mesh="model_collision_15_My_Little_Pony_Princess_Celestia" type="mesh" group="3" />
+      <geom mesh="model_collision_16_My_Little_Pony_Princess_Celestia" type="mesh" group="3" />
+      <geom mesh="model_collision_17_My_Little_Pony_Princess_Celestia" type="mesh" group="3" />
+      <geom mesh="model_collision_18_My_Little_Pony_Princess_Celestia" type="mesh" group="3" />
+      <geom mesh="model_collision_19_My_Little_Pony_Princess_Celestia" type="mesh" group="3" />
+      <geom mesh="model_collision_20_My_Little_Pony_Princess_Celestia" type="mesh" group="3" />
+      <geom mesh="model_collision_21_My_Little_Pony_Princess_Celestia" type="mesh" group="3" />
+      <geom mesh="model_collision_22_My_Little_Pony_Princess_Celestia" type="mesh" group="3" />
+      <geom mesh="model_collision_23_My_Little_Pony_Princess_Celestia" type="mesh" group="3" />
+      <geom mesh="model_collision_24_My_Little_Pony_Princess_Celestia" type="mesh" group="3" />
+      <geom mesh="model_collision_25_My_Little_Pony_Princess_Celestia" type="mesh" group="3" />
+      <geom mesh="model_collision_26_My_Little_Pony_Princess_Celestia" type="mesh" group="3" />
+      <geom mesh="model_collision_27_My_Little_Pony_Princess_Celestia" type="mesh" group="3" />
+      <geom mesh="model_collision_28_My_Little_Pony_Princess_Celestia" type="mesh" group="3" />
+      <geom mesh="model_collision_29_My_Little_Pony_Princess_Celestia" type="mesh" group="3" />
+      <geom mesh="model_collision_30_My_Little_Pony_Princess_Celestia" type="mesh" group="3" />
+      <geom mesh="model_collision_31_My_Little_Pony_Princess_Celestia" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="BREAKFAST_MENU_base" name="BREAKFAST_MENU1">
+        <geom class="BREAKFAST_MENU_col" name="{geom_name}" type="mesh" mesh="model_BREAKFAST_MENU" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_BREAKFAST_MENU" mesh="model_BREAKFAST_MENU" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_BREAKFAST_MENU" type="mesh" group="3" />
+      <geom mesh="model_collision_1_BREAKFAST_MENU" type="mesh" group="3" />
+      <geom mesh="model_collision_2_BREAKFAST_MENU" type="mesh" group="3" />
+      <geom mesh="model_collision_3_BREAKFAST_MENU" type="mesh" group="3" />
+      <geom mesh="model_collision_4_BREAKFAST_MENU" type="mesh" group="3" />
+      <geom mesh="model_collision_5_BREAKFAST_MENU" type="mesh" group="3" />
+      <geom mesh="model_collision_6_BREAKFAST_MENU" type="mesh" group="3" />
+      <geom mesh="model_collision_7_BREAKFAST_MENU" type="mesh" group="3" />
+      <geom mesh="model_collision_8_BREAKFAST_MENU" type="mesh" group="3" />
+      <geom mesh="model_collision_9_BREAKFAST_MENU" type="mesh" group="3" />
+      <geom mesh="model_collision_10_BREAKFAST_MENU" type="mesh" group="3" />
+      <geom mesh="model_collision_11_BREAKFAST_MENU" type="mesh" group="3" />
+      <geom mesh="model_collision_12_BREAKFAST_MENU" type="mesh" group="3" />
+      <geom mesh="model_collision_13_BREAKFAST_MENU" type="mesh" group="3" />
+      <geom mesh="model_collision_14_BREAKFAST_MENU" type="mesh" group="3" />
+      <geom mesh="model_collision_15_BREAKFAST_MENU" type="mesh" group="3" />
+      <geom mesh="model_collision_16_BREAKFAST_MENU" type="mesh" group="3" />
+      <geom mesh="model_collision_17_BREAKFAST_MENU" type="mesh" group="3" />
+      <geom mesh="model_collision_18_BREAKFAST_MENU" type="mesh" group="3" />
+      <geom mesh="model_collision_19_BREAKFAST_MENU" type="mesh" group="3" />
+      <geom mesh="model_collision_20_BREAKFAST_MENU" type="mesh" group="3" />
+      <geom mesh="model_collision_21_BREAKFAST_MENU" type="mesh" group="3" />
+      <geom mesh="model_collision_22_BREAKFAST_MENU" type="mesh" group="3" />
+      <geom mesh="model_collision_23_BREAKFAST_MENU" type="mesh" group="3" />
+      <geom mesh="model_collision_24_BREAKFAST_MENU" type="mesh" group="3" />
+      <geom mesh="model_collision_25_BREAKFAST_MENU" type="mesh" group="3" />
+      <geom mesh="model_collision_26_BREAKFAST_MENU" type="mesh" group="3" />
+      <geom mesh="model_collision_27_BREAKFAST_MENU" type="mesh" group="3" />
+      <geom mesh="model_collision_28_BREAKFAST_MENU" type="mesh" group="3" />
+      <geom mesh="model_collision_29_BREAKFAST_MENU" type="mesh" group="3" />
+      <geom mesh="model_collision_30_BREAKFAST_MENU" type="mesh" group="3" />
+      <geom mesh="model_collision_31_BREAKFAST_MENU" type="mesh" group="3" />
+    </body>

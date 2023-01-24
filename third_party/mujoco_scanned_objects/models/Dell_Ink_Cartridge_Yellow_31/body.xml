@@ -1,0 +1,36 @@
+<body childclass="Dell_Ink_Cartridge_Yellow_31_base" name="Dell_Ink_Cartridge_Yellow_311">
+        <geom class="Dell_Ink_Cartridge_Yellow_31_col" name="{geom_name}" type="mesh" mesh="model_Dell_Ink_Cartridge_Yellow_31" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Dell_Ink_Cartridge_Yellow_31" mesh="model_Dell_Ink_Cartridge_Yellow_31" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Dell_Ink_Cartridge_Yellow_31" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Dell_Ink_Cartridge_Yellow_31" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Dell_Ink_Cartridge_Yellow_31" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Dell_Ink_Cartridge_Yellow_31" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Dell_Ink_Cartridge_Yellow_31" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Dell_Ink_Cartridge_Yellow_31" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Dell_Ink_Cartridge_Yellow_31" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Dell_Ink_Cartridge_Yellow_31" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Dell_Ink_Cartridge_Yellow_31" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Dell_Ink_Cartridge_Yellow_31" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Dell_Ink_Cartridge_Yellow_31" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Dell_Ink_Cartridge_Yellow_31" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Dell_Ink_Cartridge_Yellow_31" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Dell_Ink_Cartridge_Yellow_31" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Dell_Ink_Cartridge_Yellow_31" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Dell_Ink_Cartridge_Yellow_31" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Dell_Ink_Cartridge_Yellow_31" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Dell_Ink_Cartridge_Yellow_31" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Dell_Ink_Cartridge_Yellow_31" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Dell_Ink_Cartridge_Yellow_31" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Dell_Ink_Cartridge_Yellow_31" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Dell_Ink_Cartridge_Yellow_31" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Dell_Ink_Cartridge_Yellow_31" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Dell_Ink_Cartridge_Yellow_31" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Dell_Ink_Cartridge_Yellow_31" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Dell_Ink_Cartridge_Yellow_31" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Dell_Ink_Cartridge_Yellow_31" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Dell_Ink_Cartridge_Yellow_31" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Dell_Ink_Cartridge_Yellow_31" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Dell_Ink_Cartridge_Yellow_31" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Dell_Ink_Cartridge_Yellow_31" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Dell_Ink_Cartridge_Yellow_31" type="mesh" group="3" />
+    </body>

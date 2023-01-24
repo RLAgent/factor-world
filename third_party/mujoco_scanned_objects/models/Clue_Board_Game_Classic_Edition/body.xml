@@ -1,0 +1,36 @@
+<body childclass="Clue_Board_Game_Classic_Edition_base" name="Clue_Board_Game_Classic_Edition1">
+        <geom class="Clue_Board_Game_Classic_Edition_col" name="{geom_name}" type="mesh" mesh="model_Clue_Board_Game_Classic_Edition" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Clue_Board_Game_Classic_Edition" mesh="model_Clue_Board_Game_Classic_Edition" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Clue_Board_Game_Classic_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Clue_Board_Game_Classic_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Clue_Board_Game_Classic_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Clue_Board_Game_Classic_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Clue_Board_Game_Classic_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Clue_Board_Game_Classic_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Clue_Board_Game_Classic_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Clue_Board_Game_Classic_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Clue_Board_Game_Classic_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Clue_Board_Game_Classic_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Clue_Board_Game_Classic_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Clue_Board_Game_Classic_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Clue_Board_Game_Classic_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Clue_Board_Game_Classic_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Clue_Board_Game_Classic_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Clue_Board_Game_Classic_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Clue_Board_Game_Classic_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Clue_Board_Game_Classic_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Clue_Board_Game_Classic_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Clue_Board_Game_Classic_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Clue_Board_Game_Classic_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Clue_Board_Game_Classic_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Clue_Board_Game_Classic_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Clue_Board_Game_Classic_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Clue_Board_Game_Classic_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Clue_Board_Game_Classic_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Clue_Board_Game_Classic_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Clue_Board_Game_Classic_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Clue_Board_Game_Classic_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Clue_Board_Game_Classic_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Clue_Board_Game_Classic_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Clue_Board_Game_Classic_Edition" type="mesh" group="3" />
+    </body>

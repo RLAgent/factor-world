@@ -1,0 +1,36 @@
+<body childclass="Nestl_Crunch_Girl_Scouts_Cookie_Flavors_Caramel_Coconut_78_oz_box_base" name="Nestl_Crunch_Girl_Scouts_Cookie_Flavors_Caramel_Coconut_78_oz_box1">
+        <geom class="Nestl_Crunch_Girl_Scouts_Cookie_Flavors_Caramel_Coconut_78_oz_box_col" name="{geom_name}" type="mesh" mesh="model_Nestl_Crunch_Girl_Scouts_Cookie_Flavors_Caramel_Coconut_78_oz_box" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Nestl_Crunch_Girl_Scouts_Cookie_Flavors_Caramel_Coconut_78_oz_box" mesh="model_Nestl_Crunch_Girl_Scouts_Cookie_Flavors_Caramel_Coconut_78_oz_box" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Nestl_Crunch_Girl_Scouts_Cookie_Flavors_Caramel_Coconut_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Nestl_Crunch_Girl_Scouts_Cookie_Flavors_Caramel_Coconut_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Nestl_Crunch_Girl_Scouts_Cookie_Flavors_Caramel_Coconut_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Nestl_Crunch_Girl_Scouts_Cookie_Flavors_Caramel_Coconut_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Nestl_Crunch_Girl_Scouts_Cookie_Flavors_Caramel_Coconut_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Nestl_Crunch_Girl_Scouts_Cookie_Flavors_Caramel_Coconut_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Nestl_Crunch_Girl_Scouts_Cookie_Flavors_Caramel_Coconut_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Nestl_Crunch_Girl_Scouts_Cookie_Flavors_Caramel_Coconut_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Nestl_Crunch_Girl_Scouts_Cookie_Flavors_Caramel_Coconut_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Nestl_Crunch_Girl_Scouts_Cookie_Flavors_Caramel_Coconut_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Nestl_Crunch_Girl_Scouts_Cookie_Flavors_Caramel_Coconut_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Nestl_Crunch_Girl_Scouts_Cookie_Flavors_Caramel_Coconut_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Nestl_Crunch_Girl_Scouts_Cookie_Flavors_Caramel_Coconut_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Nestl_Crunch_Girl_Scouts_Cookie_Flavors_Caramel_Coconut_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Nestl_Crunch_Girl_Scouts_Cookie_Flavors_Caramel_Coconut_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Nestl_Crunch_Girl_Scouts_Cookie_Flavors_Caramel_Coconut_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Nestl_Crunch_Girl_Scouts_Cookie_Flavors_Caramel_Coconut_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Nestl_Crunch_Girl_Scouts_Cookie_Flavors_Caramel_Coconut_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Nestl_Crunch_Girl_Scouts_Cookie_Flavors_Caramel_Coconut_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Nestl_Crunch_Girl_Scouts_Cookie_Flavors_Caramel_Coconut_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Nestl_Crunch_Girl_Scouts_Cookie_Flavors_Caramel_Coconut_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Nestl_Crunch_Girl_Scouts_Cookie_Flavors_Caramel_Coconut_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Nestl_Crunch_Girl_Scouts_Cookie_Flavors_Caramel_Coconut_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Nestl_Crunch_Girl_Scouts_Cookie_Flavors_Caramel_Coconut_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Nestl_Crunch_Girl_Scouts_Cookie_Flavors_Caramel_Coconut_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Nestl_Crunch_Girl_Scouts_Cookie_Flavors_Caramel_Coconut_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Nestl_Crunch_Girl_Scouts_Cookie_Flavors_Caramel_Coconut_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Nestl_Crunch_Girl_Scouts_Cookie_Flavors_Caramel_Coconut_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Nestl_Crunch_Girl_Scouts_Cookie_Flavors_Caramel_Coconut_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Nestl_Crunch_Girl_Scouts_Cookie_Flavors_Caramel_Coconut_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Nestl_Crunch_Girl_Scouts_Cookie_Flavors_Caramel_Coconut_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Nestl_Crunch_Girl_Scouts_Cookie_Flavors_Caramel_Coconut_78_oz_box" type="mesh" group="3" />
+    </body>

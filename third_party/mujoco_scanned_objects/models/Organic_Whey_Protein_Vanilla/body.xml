@@ -1,0 +1,36 @@
+<body childclass="Organic_Whey_Protein_Vanilla_base" name="Organic_Whey_Protein_Vanilla1">
+        <geom class="Organic_Whey_Protein_Vanilla_col" name="{geom_name}" type="mesh" mesh="model_Organic_Whey_Protein_Vanilla" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Organic_Whey_Protein_Vanilla" mesh="model_Organic_Whey_Protein_Vanilla" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Organic_Whey_Protein_Vanilla" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Organic_Whey_Protein_Vanilla" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Organic_Whey_Protein_Vanilla" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Organic_Whey_Protein_Vanilla" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Organic_Whey_Protein_Vanilla" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Organic_Whey_Protein_Vanilla" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Organic_Whey_Protein_Vanilla" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Organic_Whey_Protein_Vanilla" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Organic_Whey_Protein_Vanilla" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Organic_Whey_Protein_Vanilla" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Organic_Whey_Protein_Vanilla" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Organic_Whey_Protein_Vanilla" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Organic_Whey_Protein_Vanilla" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Organic_Whey_Protein_Vanilla" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Organic_Whey_Protein_Vanilla" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Organic_Whey_Protein_Vanilla" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Organic_Whey_Protein_Vanilla" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Organic_Whey_Protein_Vanilla" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Organic_Whey_Protein_Vanilla" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Organic_Whey_Protein_Vanilla" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Organic_Whey_Protein_Vanilla" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Organic_Whey_Protein_Vanilla" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Organic_Whey_Protein_Vanilla" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Organic_Whey_Protein_Vanilla" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Organic_Whey_Protein_Vanilla" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Organic_Whey_Protein_Vanilla" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Organic_Whey_Protein_Vanilla" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Organic_Whey_Protein_Vanilla" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Organic_Whey_Protein_Vanilla" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Organic_Whey_Protein_Vanilla" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Organic_Whey_Protein_Vanilla" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Organic_Whey_Protein_Vanilla" type="mesh" group="3" />
+    </body>

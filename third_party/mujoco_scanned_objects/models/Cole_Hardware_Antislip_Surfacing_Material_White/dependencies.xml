@@ -1,0 +1,13 @@
+<mujocoinclude>
+        <compiler angle="radian" inertiafromgeom="auto" inertiagrouprange="4 5" />
+        <default>
+          <default class="Cole_Hardware_Antislip_Surfacing_Material_White_base">
+            <joint armature="0.001" damping="2" limited="true" />
+            <geom conaffinity="0" contype="0" group="1" type="mesh" />
+            <position ctrllimited="true" ctrlrange="0 1.57" />
+            <default class="Cole_Hardware_Antislip_Surfacing_Material_White_col">
+              <geom conaffinity="1" condim="4" contype="1" group="4" material="material_0_Cole_Hardware_Antislip_Surfacing_Material_White" solimp="0.99 0.99 0.01" solref="0.01 1" />
+            </default>
+          </default>
+        </default>
+      </mujocoinclude>

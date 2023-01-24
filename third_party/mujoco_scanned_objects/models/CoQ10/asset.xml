@@ -1,0 +1,38 @@
+<asset>
+    <texture type="2d" name="texture_CoQ10" file="../../../../../mujoco_scanned_objects/models/CoQ10/texture.png" />
+    <material name="material_0_CoQ10" texture="texture_CoQ10" specular="0.5" shininess="0.5" />
+    <mesh name="model_CoQ10" file="../../../../../mujoco_scanned_objects/models/CoQ10/model.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_0_CoQ10" file="../../../../../mujoco_scanned_objects/models/CoQ10/model_collision_0.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_1_CoQ10" file="../../../../../mujoco_scanned_objects/models/CoQ10/model_collision_1.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_2_CoQ10" file="../../../../../mujoco_scanned_objects/models/CoQ10/model_collision_2.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_3_CoQ10" file="../../../../../mujoco_scanned_objects/models/CoQ10/model_collision_3.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_4_CoQ10" file="../../../../../mujoco_scanned_objects/models/CoQ10/model_collision_4.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_5_CoQ10" file="../../../../../mujoco_scanned_objects/models/CoQ10/model_collision_5.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_6_CoQ10" file="../../../../../mujoco_scanned_objects/models/CoQ10/model_collision_6.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_7_CoQ10" file="../../../../../mujoco_scanned_objects/models/CoQ10/model_collision_7.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_8_CoQ10" file="../../../../../mujoco_scanned_objects/models/CoQ10/model_collision_8.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_9_CoQ10" file="../../../../../mujoco_scanned_objects/models/CoQ10/model_collision_9.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_10_CoQ10" file="../../../../../mujoco_scanned_objects/models/CoQ10/model_collision_10.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_11_CoQ10" file="../../../../../mujoco_scanned_objects/models/CoQ10/model_collision_11.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_12_CoQ10" file="../../../../../mujoco_scanned_objects/models/CoQ10/model_collision_12.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_13_CoQ10" file="../../../../../mujoco_scanned_objects/models/CoQ10/model_collision_13.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_14_CoQ10" file="../../../../../mujoco_scanned_objects/models/CoQ10/model_collision_14.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_15_CoQ10" file="../../../../../mujoco_scanned_objects/models/CoQ10/model_collision_15.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_16_CoQ10" file="../../../../../mujoco_scanned_objects/models/CoQ10/model_collision_16.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_17_CoQ10" file="../../../../../mujoco_scanned_objects/models/CoQ10/model_collision_17.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_18_CoQ10" file="../../../../../mujoco_scanned_objects/models/CoQ10/model_collision_18.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_19_CoQ10" file="../../../../../mujoco_scanned_objects/models/CoQ10/model_collision_19.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_20_CoQ10" file="../../../../../mujoco_scanned_objects/models/CoQ10/model_collision_20.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_21_CoQ10" file="../../../../../mujoco_scanned_objects/models/CoQ10/model_collision_21.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_22_CoQ10" file="../../../../../mujoco_scanned_objects/models/CoQ10/model_collision_22.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_23_CoQ10" file="../../../../../mujoco_scanned_objects/models/CoQ10/model_collision_23.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_24_CoQ10" file="../../../../../mujoco_scanned_objects/models/CoQ10/model_collision_24.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_25_CoQ10" file="../../../../../mujoco_scanned_objects/models/CoQ10/model_collision_25.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_26_CoQ10" file="../../../../../mujoco_scanned_objects/models/CoQ10/model_collision_26.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_27_CoQ10" file="../../../../../mujoco_scanned_objects/models/CoQ10/model_collision_27.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_28_CoQ10" file="../../../../../mujoco_scanned_objects/models/CoQ10/model_collision_28.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_29_CoQ10" file="../../../../../mujoco_scanned_objects/models/CoQ10/model_collision_29.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_30_CoQ10" file="../../../../../mujoco_scanned_objects/models/CoQ10/model_collision_30.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_31_CoQ10" file="../../../../../mujoco_scanned_objects/models/CoQ10/model_collision_31.stl" scale="{scale} {scale} {scale}" />
+  </asset>
+  

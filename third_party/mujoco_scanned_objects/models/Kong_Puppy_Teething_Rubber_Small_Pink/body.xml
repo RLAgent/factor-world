@@ -1,0 +1,36 @@
+<body childclass="Kong_Puppy_Teething_Rubber_Small_Pink_base" name="Kong_Puppy_Teething_Rubber_Small_Pink1">
+        <geom class="Kong_Puppy_Teething_Rubber_Small_Pink_col" name="{geom_name}" type="mesh" mesh="model_Kong_Puppy_Teething_Rubber_Small_Pink" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Kong_Puppy_Teething_Rubber_Small_Pink" mesh="model_Kong_Puppy_Teething_Rubber_Small_Pink" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Kong_Puppy_Teething_Rubber_Small_Pink" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Kong_Puppy_Teething_Rubber_Small_Pink" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Kong_Puppy_Teething_Rubber_Small_Pink" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Kong_Puppy_Teething_Rubber_Small_Pink" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Kong_Puppy_Teething_Rubber_Small_Pink" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Kong_Puppy_Teething_Rubber_Small_Pink" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Kong_Puppy_Teething_Rubber_Small_Pink" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Kong_Puppy_Teething_Rubber_Small_Pink" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Kong_Puppy_Teething_Rubber_Small_Pink" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Kong_Puppy_Teething_Rubber_Small_Pink" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Kong_Puppy_Teething_Rubber_Small_Pink" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Kong_Puppy_Teething_Rubber_Small_Pink" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Kong_Puppy_Teething_Rubber_Small_Pink" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Kong_Puppy_Teething_Rubber_Small_Pink" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Kong_Puppy_Teething_Rubber_Small_Pink" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Kong_Puppy_Teething_Rubber_Small_Pink" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Kong_Puppy_Teething_Rubber_Small_Pink" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Kong_Puppy_Teething_Rubber_Small_Pink" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Kong_Puppy_Teething_Rubber_Small_Pink" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Kong_Puppy_Teething_Rubber_Small_Pink" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Kong_Puppy_Teething_Rubber_Small_Pink" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Kong_Puppy_Teething_Rubber_Small_Pink" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Kong_Puppy_Teething_Rubber_Small_Pink" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Kong_Puppy_Teething_Rubber_Small_Pink" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Kong_Puppy_Teething_Rubber_Small_Pink" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Kong_Puppy_Teething_Rubber_Small_Pink" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Kong_Puppy_Teething_Rubber_Small_Pink" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Kong_Puppy_Teething_Rubber_Small_Pink" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Kong_Puppy_Teething_Rubber_Small_Pink" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Kong_Puppy_Teething_Rubber_Small_Pink" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Kong_Puppy_Teething_Rubber_Small_Pink" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Kong_Puppy_Teething_Rubber_Small_Pink" type="mesh" group="3" />
+    </body>

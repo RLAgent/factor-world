@@ -1,0 +1,36 @@
+<body childclass="Squirrel_base" name="Squirrel1">
+        <geom class="Squirrel_col" name="{geom_name}" type="mesh" mesh="model_Squirrel" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Squirrel" mesh="model_Squirrel" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Squirrel" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Squirrel" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Squirrel" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Squirrel" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Squirrel" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Squirrel" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Squirrel" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Squirrel" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Squirrel" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Squirrel" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Squirrel" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Squirrel" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Squirrel" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Squirrel" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Squirrel" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Squirrel" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Squirrel" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Squirrel" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Squirrel" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Squirrel" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Squirrel" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Squirrel" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Squirrel" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Squirrel" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Squirrel" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Squirrel" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Squirrel" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Squirrel" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Squirrel" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Squirrel" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Squirrel" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Squirrel" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes_base" name="White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes1">
+        <geom class="White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes_col" name="{geom_name}" type="mesh" mesh="model_White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" mesh="model_White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_1_White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_2_White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_3_White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_4_White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_5_White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_6_White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_7_White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_8_White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_9_White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_10_White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_11_White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_12_White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_13_White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_14_White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_15_White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_16_White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_17_White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_18_White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_19_White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_20_White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_21_White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_22_White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_23_White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_24_White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_25_White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_26_White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_27_White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_28_White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_29_White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_30_White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_31_White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+    </body>

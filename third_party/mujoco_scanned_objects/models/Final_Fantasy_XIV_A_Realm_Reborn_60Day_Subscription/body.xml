@@ -1,0 +1,36 @@
+<body childclass="Final_Fantasy_XIV_A_Realm_Reborn_60Day_Subscription_base" name="Final_Fantasy_XIV_A_Realm_Reborn_60Day_Subscription1">
+        <geom class="Final_Fantasy_XIV_A_Realm_Reborn_60Day_Subscription_col" name="{geom_name}" type="mesh" mesh="model_Final_Fantasy_XIV_A_Realm_Reborn_60Day_Subscription" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Final_Fantasy_XIV_A_Realm_Reborn_60Day_Subscription" mesh="model_Final_Fantasy_XIV_A_Realm_Reborn_60Day_Subscription" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Final_Fantasy_XIV_A_Realm_Reborn_60Day_Subscription" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Final_Fantasy_XIV_A_Realm_Reborn_60Day_Subscription" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Final_Fantasy_XIV_A_Realm_Reborn_60Day_Subscription" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Final_Fantasy_XIV_A_Realm_Reborn_60Day_Subscription" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Final_Fantasy_XIV_A_Realm_Reborn_60Day_Subscription" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Final_Fantasy_XIV_A_Realm_Reborn_60Day_Subscription" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Final_Fantasy_XIV_A_Realm_Reborn_60Day_Subscription" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Final_Fantasy_XIV_A_Realm_Reborn_60Day_Subscription" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Final_Fantasy_XIV_A_Realm_Reborn_60Day_Subscription" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Final_Fantasy_XIV_A_Realm_Reborn_60Day_Subscription" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Final_Fantasy_XIV_A_Realm_Reborn_60Day_Subscription" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Final_Fantasy_XIV_A_Realm_Reborn_60Day_Subscription" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Final_Fantasy_XIV_A_Realm_Reborn_60Day_Subscription" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Final_Fantasy_XIV_A_Realm_Reborn_60Day_Subscription" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Final_Fantasy_XIV_A_Realm_Reborn_60Day_Subscription" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Final_Fantasy_XIV_A_Realm_Reborn_60Day_Subscription" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Final_Fantasy_XIV_A_Realm_Reborn_60Day_Subscription" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Final_Fantasy_XIV_A_Realm_Reborn_60Day_Subscription" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Final_Fantasy_XIV_A_Realm_Reborn_60Day_Subscription" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Final_Fantasy_XIV_A_Realm_Reborn_60Day_Subscription" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Final_Fantasy_XIV_A_Realm_Reborn_60Day_Subscription" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Final_Fantasy_XIV_A_Realm_Reborn_60Day_Subscription" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Final_Fantasy_XIV_A_Realm_Reborn_60Day_Subscription" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Final_Fantasy_XIV_A_Realm_Reborn_60Day_Subscription" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Final_Fantasy_XIV_A_Realm_Reborn_60Day_Subscription" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Final_Fantasy_XIV_A_Realm_Reborn_60Day_Subscription" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Final_Fantasy_XIV_A_Realm_Reborn_60Day_Subscription" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Final_Fantasy_XIV_A_Realm_Reborn_60Day_Subscription" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Final_Fantasy_XIV_A_Realm_Reborn_60Day_Subscription" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Final_Fantasy_XIV_A_Realm_Reborn_60Day_Subscription" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Final_Fantasy_XIV_A_Realm_Reborn_60Day_Subscription" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Final_Fantasy_XIV_A_Realm_Reborn_60Day_Subscription" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="PHEEHAN_RUN_base" name="PHEEHAN_RUN1">
+        <geom class="PHEEHAN_RUN_col" name="{geom_name}" type="mesh" mesh="model_PHEEHAN_RUN" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_PHEEHAN_RUN" mesh="model_PHEEHAN_RUN" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_PHEEHAN_RUN" type="mesh" group="3" />
+      <geom mesh="model_collision_1_PHEEHAN_RUN" type="mesh" group="3" />
+      <geom mesh="model_collision_2_PHEEHAN_RUN" type="mesh" group="3" />
+      <geom mesh="model_collision_3_PHEEHAN_RUN" type="mesh" group="3" />
+      <geom mesh="model_collision_4_PHEEHAN_RUN" type="mesh" group="3" />
+      <geom mesh="model_collision_5_PHEEHAN_RUN" type="mesh" group="3" />
+      <geom mesh="model_collision_6_PHEEHAN_RUN" type="mesh" group="3" />
+      <geom mesh="model_collision_7_PHEEHAN_RUN" type="mesh" group="3" />
+      <geom mesh="model_collision_8_PHEEHAN_RUN" type="mesh" group="3" />
+      <geom mesh="model_collision_9_PHEEHAN_RUN" type="mesh" group="3" />
+      <geom mesh="model_collision_10_PHEEHAN_RUN" type="mesh" group="3" />
+      <geom mesh="model_collision_11_PHEEHAN_RUN" type="mesh" group="3" />
+      <geom mesh="model_collision_12_PHEEHAN_RUN" type="mesh" group="3" />
+      <geom mesh="model_collision_13_PHEEHAN_RUN" type="mesh" group="3" />
+      <geom mesh="model_collision_14_PHEEHAN_RUN" type="mesh" group="3" />
+      <geom mesh="model_collision_15_PHEEHAN_RUN" type="mesh" group="3" />
+      <geom mesh="model_collision_16_PHEEHAN_RUN" type="mesh" group="3" />
+      <geom mesh="model_collision_17_PHEEHAN_RUN" type="mesh" group="3" />
+      <geom mesh="model_collision_18_PHEEHAN_RUN" type="mesh" group="3" />
+      <geom mesh="model_collision_19_PHEEHAN_RUN" type="mesh" group="3" />
+      <geom mesh="model_collision_20_PHEEHAN_RUN" type="mesh" group="3" />
+      <geom mesh="model_collision_21_PHEEHAN_RUN" type="mesh" group="3" />
+      <geom mesh="model_collision_22_PHEEHAN_RUN" type="mesh" group="3" />
+      <geom mesh="model_collision_23_PHEEHAN_RUN" type="mesh" group="3" />
+      <geom mesh="model_collision_24_PHEEHAN_RUN" type="mesh" group="3" />
+      <geom mesh="model_collision_25_PHEEHAN_RUN" type="mesh" group="3" />
+      <geom mesh="model_collision_26_PHEEHAN_RUN" type="mesh" group="3" />
+      <geom mesh="model_collision_27_PHEEHAN_RUN" type="mesh" group="3" />
+      <geom mesh="model_collision_28_PHEEHAN_RUN" type="mesh" group="3" />
+      <geom mesh="model_collision_29_PHEEHAN_RUN" type="mesh" group="3" />
+      <geom mesh="model_collision_30_PHEEHAN_RUN" type="mesh" group="3" />
+      <geom mesh="model_collision_31_PHEEHAN_RUN" type="mesh" group="3" />
+    </body>

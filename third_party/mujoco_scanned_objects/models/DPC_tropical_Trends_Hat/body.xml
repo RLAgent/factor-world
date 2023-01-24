@@ -1,0 +1,36 @@
+<body childclass="DPC_tropical_Trends_Hat_base" name="DPC_tropical_Trends_Hat1">
+        <geom class="DPC_tropical_Trends_Hat_col" name="{geom_name}" type="mesh" mesh="model_DPC_tropical_Trends_Hat" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_DPC_tropical_Trends_Hat" mesh="model_DPC_tropical_Trends_Hat" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_DPC_tropical_Trends_Hat" type="mesh" group="3" />
+      <geom mesh="model_collision_1_DPC_tropical_Trends_Hat" type="mesh" group="3" />
+      <geom mesh="model_collision_2_DPC_tropical_Trends_Hat" type="mesh" group="3" />
+      <geom mesh="model_collision_3_DPC_tropical_Trends_Hat" type="mesh" group="3" />
+      <geom mesh="model_collision_4_DPC_tropical_Trends_Hat" type="mesh" group="3" />
+      <geom mesh="model_collision_5_DPC_tropical_Trends_Hat" type="mesh" group="3" />
+      <geom mesh="model_collision_6_DPC_tropical_Trends_Hat" type="mesh" group="3" />
+      <geom mesh="model_collision_7_DPC_tropical_Trends_Hat" type="mesh" group="3" />
+      <geom mesh="model_collision_8_DPC_tropical_Trends_Hat" type="mesh" group="3" />
+      <geom mesh="model_collision_9_DPC_tropical_Trends_Hat" type="mesh" group="3" />
+      <geom mesh="model_collision_10_DPC_tropical_Trends_Hat" type="mesh" group="3" />
+      <geom mesh="model_collision_11_DPC_tropical_Trends_Hat" type="mesh" group="3" />
+      <geom mesh="model_collision_12_DPC_tropical_Trends_Hat" type="mesh" group="3" />
+      <geom mesh="model_collision_13_DPC_tropical_Trends_Hat" type="mesh" group="3" />
+      <geom mesh="model_collision_14_DPC_tropical_Trends_Hat" type="mesh" group="3" />
+      <geom mesh="model_collision_15_DPC_tropical_Trends_Hat" type="mesh" group="3" />
+      <geom mesh="model_collision_16_DPC_tropical_Trends_Hat" type="mesh" group="3" />
+      <geom mesh="model_collision_17_DPC_tropical_Trends_Hat" type="mesh" group="3" />
+      <geom mesh="model_collision_18_DPC_tropical_Trends_Hat" type="mesh" group="3" />
+      <geom mesh="model_collision_19_DPC_tropical_Trends_Hat" type="mesh" group="3" />
+      <geom mesh="model_collision_20_DPC_tropical_Trends_Hat" type="mesh" group="3" />
+      <geom mesh="model_collision_21_DPC_tropical_Trends_Hat" type="mesh" group="3" />
+      <geom mesh="model_collision_22_DPC_tropical_Trends_Hat" type="mesh" group="3" />
+      <geom mesh="model_collision_23_DPC_tropical_Trends_Hat" type="mesh" group="3" />
+      <geom mesh="model_collision_24_DPC_tropical_Trends_Hat" type="mesh" group="3" />
+      <geom mesh="model_collision_25_DPC_tropical_Trends_Hat" type="mesh" group="3" />
+      <geom mesh="model_collision_26_DPC_tropical_Trends_Hat" type="mesh" group="3" />
+      <geom mesh="model_collision_27_DPC_tropical_Trends_Hat" type="mesh" group="3" />
+      <geom mesh="model_collision_28_DPC_tropical_Trends_Hat" type="mesh" group="3" />
+      <geom mesh="model_collision_29_DPC_tropical_Trends_Hat" type="mesh" group="3" />
+      <geom mesh="model_collision_30_DPC_tropical_Trends_Hat" type="mesh" group="3" />
+      <geom mesh="model_collision_31_DPC_tropical_Trends_Hat" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="BABY_CAR_base" name="BABY_CAR1">
+        <geom class="BABY_CAR_col" name="{geom_name}" type="mesh" mesh="model_BABY_CAR" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_BABY_CAR" mesh="model_BABY_CAR" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_BABY_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_1_BABY_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_2_BABY_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_3_BABY_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_4_BABY_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_5_BABY_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_6_BABY_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_7_BABY_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_8_BABY_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_9_BABY_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_10_BABY_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_11_BABY_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_12_BABY_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_13_BABY_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_14_BABY_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_15_BABY_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_16_BABY_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_17_BABY_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_18_BABY_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_19_BABY_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_20_BABY_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_21_BABY_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_22_BABY_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_23_BABY_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_24_BABY_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_25_BABY_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_26_BABY_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_27_BABY_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_28_BABY_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_29_BABY_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_30_BABY_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_31_BABY_CAR" type="mesh" group="3" />
+    </body>

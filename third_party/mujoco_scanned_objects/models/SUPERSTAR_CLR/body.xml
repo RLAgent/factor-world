@@ -1,0 +1,36 @@
+<body childclass="SUPERSTAR_CLR_base" name="SUPERSTAR_CLR1">
+        <geom class="SUPERSTAR_CLR_col" name="{geom_name}" type="mesh" mesh="model_SUPERSTAR_CLR" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_SUPERSTAR_CLR" mesh="model_SUPERSTAR_CLR" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_SUPERSTAR_CLR" type="mesh" group="3" />
+      <geom mesh="model_collision_1_SUPERSTAR_CLR" type="mesh" group="3" />
+      <geom mesh="model_collision_2_SUPERSTAR_CLR" type="mesh" group="3" />
+      <geom mesh="model_collision_3_SUPERSTAR_CLR" type="mesh" group="3" />
+      <geom mesh="model_collision_4_SUPERSTAR_CLR" type="mesh" group="3" />
+      <geom mesh="model_collision_5_SUPERSTAR_CLR" type="mesh" group="3" />
+      <geom mesh="model_collision_6_SUPERSTAR_CLR" type="mesh" group="3" />
+      <geom mesh="model_collision_7_SUPERSTAR_CLR" type="mesh" group="3" />
+      <geom mesh="model_collision_8_SUPERSTAR_CLR" type="mesh" group="3" />
+      <geom mesh="model_collision_9_SUPERSTAR_CLR" type="mesh" group="3" />
+      <geom mesh="model_collision_10_SUPERSTAR_CLR" type="mesh" group="3" />
+      <geom mesh="model_collision_11_SUPERSTAR_CLR" type="mesh" group="3" />
+      <geom mesh="model_collision_12_SUPERSTAR_CLR" type="mesh" group="3" />
+      <geom mesh="model_collision_13_SUPERSTAR_CLR" type="mesh" group="3" />
+      <geom mesh="model_collision_14_SUPERSTAR_CLR" type="mesh" group="3" />
+      <geom mesh="model_collision_15_SUPERSTAR_CLR" type="mesh" group="3" />
+      <geom mesh="model_collision_16_SUPERSTAR_CLR" type="mesh" group="3" />
+      <geom mesh="model_collision_17_SUPERSTAR_CLR" type="mesh" group="3" />
+      <geom mesh="model_collision_18_SUPERSTAR_CLR" type="mesh" group="3" />
+      <geom mesh="model_collision_19_SUPERSTAR_CLR" type="mesh" group="3" />
+      <geom mesh="model_collision_20_SUPERSTAR_CLR" type="mesh" group="3" />
+      <geom mesh="model_collision_21_SUPERSTAR_CLR" type="mesh" group="3" />
+      <geom mesh="model_collision_22_SUPERSTAR_CLR" type="mesh" group="3" />
+      <geom mesh="model_collision_23_SUPERSTAR_CLR" type="mesh" group="3" />
+      <geom mesh="model_collision_24_SUPERSTAR_CLR" type="mesh" group="3" />
+      <geom mesh="model_collision_25_SUPERSTAR_CLR" type="mesh" group="3" />
+      <geom mesh="model_collision_26_SUPERSTAR_CLR" type="mesh" group="3" />
+      <geom mesh="model_collision_27_SUPERSTAR_CLR" type="mesh" group="3" />
+      <geom mesh="model_collision_28_SUPERSTAR_CLR" type="mesh" group="3" />
+      <geom mesh="model_collision_29_SUPERSTAR_CLR" type="mesh" group="3" />
+      <geom mesh="model_collision_30_SUPERSTAR_CLR" type="mesh" group="3" />
+      <geom mesh="model_collision_31_SUPERSTAR_CLR" type="mesh" group="3" />
+    </body>

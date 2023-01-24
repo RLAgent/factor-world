@@ -1,0 +1,36 @@
+<body childclass="Craftsman_Grip_Screwdriver_Phillips_Cushion_base" name="Craftsman_Grip_Screwdriver_Phillips_Cushion1">
+        <geom class="Craftsman_Grip_Screwdriver_Phillips_Cushion_col" name="{geom_name}" type="mesh" mesh="model_Craftsman_Grip_Screwdriver_Phillips_Cushion" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Craftsman_Grip_Screwdriver_Phillips_Cushion" mesh="model_Craftsman_Grip_Screwdriver_Phillips_Cushion" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Craftsman_Grip_Screwdriver_Phillips_Cushion" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Craftsman_Grip_Screwdriver_Phillips_Cushion" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Craftsman_Grip_Screwdriver_Phillips_Cushion" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Craftsman_Grip_Screwdriver_Phillips_Cushion" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Craftsman_Grip_Screwdriver_Phillips_Cushion" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Craftsman_Grip_Screwdriver_Phillips_Cushion" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Craftsman_Grip_Screwdriver_Phillips_Cushion" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Craftsman_Grip_Screwdriver_Phillips_Cushion" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Craftsman_Grip_Screwdriver_Phillips_Cushion" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Craftsman_Grip_Screwdriver_Phillips_Cushion" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Craftsman_Grip_Screwdriver_Phillips_Cushion" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Craftsman_Grip_Screwdriver_Phillips_Cushion" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Craftsman_Grip_Screwdriver_Phillips_Cushion" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Craftsman_Grip_Screwdriver_Phillips_Cushion" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Craftsman_Grip_Screwdriver_Phillips_Cushion" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Craftsman_Grip_Screwdriver_Phillips_Cushion" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Craftsman_Grip_Screwdriver_Phillips_Cushion" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Craftsman_Grip_Screwdriver_Phillips_Cushion" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Craftsman_Grip_Screwdriver_Phillips_Cushion" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Craftsman_Grip_Screwdriver_Phillips_Cushion" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Craftsman_Grip_Screwdriver_Phillips_Cushion" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Craftsman_Grip_Screwdriver_Phillips_Cushion" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Craftsman_Grip_Screwdriver_Phillips_Cushion" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Craftsman_Grip_Screwdriver_Phillips_Cushion" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Craftsman_Grip_Screwdriver_Phillips_Cushion" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Craftsman_Grip_Screwdriver_Phillips_Cushion" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Craftsman_Grip_Screwdriver_Phillips_Cushion" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Craftsman_Grip_Screwdriver_Phillips_Cushion" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Craftsman_Grip_Screwdriver_Phillips_Cushion" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Craftsman_Grip_Screwdriver_Phillips_Cushion" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Craftsman_Grip_Screwdriver_Phillips_Cushion" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Craftsman_Grip_Screwdriver_Phillips_Cushion" type="mesh" group="3" />
+    </body>

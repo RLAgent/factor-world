@@ -1,0 +1,36 @@
+<body childclass="MONKEY_BOWLING_base" name="MONKEY_BOWLING1">
+        <geom class="MONKEY_BOWLING_col" name="{geom_name}" type="mesh" mesh="model_MONKEY_BOWLING" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_MONKEY_BOWLING" mesh="model_MONKEY_BOWLING" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_MONKEY_BOWLING" type="mesh" group="3" />
+      <geom mesh="model_collision_1_MONKEY_BOWLING" type="mesh" group="3" />
+      <geom mesh="model_collision_2_MONKEY_BOWLING" type="mesh" group="3" />
+      <geom mesh="model_collision_3_MONKEY_BOWLING" type="mesh" group="3" />
+      <geom mesh="model_collision_4_MONKEY_BOWLING" type="mesh" group="3" />
+      <geom mesh="model_collision_5_MONKEY_BOWLING" type="mesh" group="3" />
+      <geom mesh="model_collision_6_MONKEY_BOWLING" type="mesh" group="3" />
+      <geom mesh="model_collision_7_MONKEY_BOWLING" type="mesh" group="3" />
+      <geom mesh="model_collision_8_MONKEY_BOWLING" type="mesh" group="3" />
+      <geom mesh="model_collision_9_MONKEY_BOWLING" type="mesh" group="3" />
+      <geom mesh="model_collision_10_MONKEY_BOWLING" type="mesh" group="3" />
+      <geom mesh="model_collision_11_MONKEY_BOWLING" type="mesh" group="3" />
+      <geom mesh="model_collision_12_MONKEY_BOWLING" type="mesh" group="3" />
+      <geom mesh="model_collision_13_MONKEY_BOWLING" type="mesh" group="3" />
+      <geom mesh="model_collision_14_MONKEY_BOWLING" type="mesh" group="3" />
+      <geom mesh="model_collision_15_MONKEY_BOWLING" type="mesh" group="3" />
+      <geom mesh="model_collision_16_MONKEY_BOWLING" type="mesh" group="3" />
+      <geom mesh="model_collision_17_MONKEY_BOWLING" type="mesh" group="3" />
+      <geom mesh="model_collision_18_MONKEY_BOWLING" type="mesh" group="3" />
+      <geom mesh="model_collision_19_MONKEY_BOWLING" type="mesh" group="3" />
+      <geom mesh="model_collision_20_MONKEY_BOWLING" type="mesh" group="3" />
+      <geom mesh="model_collision_21_MONKEY_BOWLING" type="mesh" group="3" />
+      <geom mesh="model_collision_22_MONKEY_BOWLING" type="mesh" group="3" />
+      <geom mesh="model_collision_23_MONKEY_BOWLING" type="mesh" group="3" />
+      <geom mesh="model_collision_24_MONKEY_BOWLING" type="mesh" group="3" />
+      <geom mesh="model_collision_25_MONKEY_BOWLING" type="mesh" group="3" />
+      <geom mesh="model_collision_26_MONKEY_BOWLING" type="mesh" group="3" />
+      <geom mesh="model_collision_27_MONKEY_BOWLING" type="mesh" group="3" />
+      <geom mesh="model_collision_28_MONKEY_BOWLING" type="mesh" group="3" />
+      <geom mesh="model_collision_29_MONKEY_BOWLING" type="mesh" group="3" />
+      <geom mesh="model_collision_30_MONKEY_BOWLING" type="mesh" group="3" />
+      <geom mesh="model_collision_31_MONKEY_BOWLING" type="mesh" group="3" />
+    </body>

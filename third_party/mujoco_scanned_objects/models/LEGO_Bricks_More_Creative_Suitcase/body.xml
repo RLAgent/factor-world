@@ -1,0 +1,36 @@
+<body childclass="LEGO_Bricks_More_Creative_Suitcase_base" name="LEGO_Bricks_More_Creative_Suitcase1">
+        <geom class="LEGO_Bricks_More_Creative_Suitcase_col" name="{geom_name}" type="mesh" mesh="model_LEGO_Bricks_More_Creative_Suitcase" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_LEGO_Bricks_More_Creative_Suitcase" mesh="model_LEGO_Bricks_More_Creative_Suitcase" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_LEGO_Bricks_More_Creative_Suitcase" type="mesh" group="3" />
+      <geom mesh="model_collision_1_LEGO_Bricks_More_Creative_Suitcase" type="mesh" group="3" />
+      <geom mesh="model_collision_2_LEGO_Bricks_More_Creative_Suitcase" type="mesh" group="3" />
+      <geom mesh="model_collision_3_LEGO_Bricks_More_Creative_Suitcase" type="mesh" group="3" />
+      <geom mesh="model_collision_4_LEGO_Bricks_More_Creative_Suitcase" type="mesh" group="3" />
+      <geom mesh="model_collision_5_LEGO_Bricks_More_Creative_Suitcase" type="mesh" group="3" />
+      <geom mesh="model_collision_6_LEGO_Bricks_More_Creative_Suitcase" type="mesh" group="3" />
+      <geom mesh="model_collision_7_LEGO_Bricks_More_Creative_Suitcase" type="mesh" group="3" />
+      <geom mesh="model_collision_8_LEGO_Bricks_More_Creative_Suitcase" type="mesh" group="3" />
+      <geom mesh="model_collision_9_LEGO_Bricks_More_Creative_Suitcase" type="mesh" group="3" />
+      <geom mesh="model_collision_10_LEGO_Bricks_More_Creative_Suitcase" type="mesh" group="3" />
+      <geom mesh="model_collision_11_LEGO_Bricks_More_Creative_Suitcase" type="mesh" group="3" />
+      <geom mesh="model_collision_12_LEGO_Bricks_More_Creative_Suitcase" type="mesh" group="3" />
+      <geom mesh="model_collision_13_LEGO_Bricks_More_Creative_Suitcase" type="mesh" group="3" />
+      <geom mesh="model_collision_14_LEGO_Bricks_More_Creative_Suitcase" type="mesh" group="3" />
+      <geom mesh="model_collision_15_LEGO_Bricks_More_Creative_Suitcase" type="mesh" group="3" />
+      <geom mesh="model_collision_16_LEGO_Bricks_More_Creative_Suitcase" type="mesh" group="3" />
+      <geom mesh="model_collision_17_LEGO_Bricks_More_Creative_Suitcase" type="mesh" group="3" />
+      <geom mesh="model_collision_18_LEGO_Bricks_More_Creative_Suitcase" type="mesh" group="3" />
+      <geom mesh="model_collision_19_LEGO_Bricks_More_Creative_Suitcase" type="mesh" group="3" />
+      <geom mesh="model_collision_20_LEGO_Bricks_More_Creative_Suitcase" type="mesh" group="3" />
+      <geom mesh="model_collision_21_LEGO_Bricks_More_Creative_Suitcase" type="mesh" group="3" />
+      <geom mesh="model_collision_22_LEGO_Bricks_More_Creative_Suitcase" type="mesh" group="3" />
+      <geom mesh="model_collision_23_LEGO_Bricks_More_Creative_Suitcase" type="mesh" group="3" />
+      <geom mesh="model_collision_24_LEGO_Bricks_More_Creative_Suitcase" type="mesh" group="3" />
+      <geom mesh="model_collision_25_LEGO_Bricks_More_Creative_Suitcase" type="mesh" group="3" />
+      <geom mesh="model_collision_26_LEGO_Bricks_More_Creative_Suitcase" type="mesh" group="3" />
+      <geom mesh="model_collision_27_LEGO_Bricks_More_Creative_Suitcase" type="mesh" group="3" />
+      <geom mesh="model_collision_28_LEGO_Bricks_More_Creative_Suitcase" type="mesh" group="3" />
+      <geom mesh="model_collision_29_LEGO_Bricks_More_Creative_Suitcase" type="mesh" group="3" />
+      <geom mesh="model_collision_30_LEGO_Bricks_More_Creative_Suitcase" type="mesh" group="3" />
+      <geom mesh="model_collision_31_LEGO_Bricks_More_Creative_Suitcase" type="mesh" group="3" />
+    </body>

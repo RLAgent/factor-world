@@ -1,0 +1,36 @@
+<body childclass="MOSAIC_base" name="MOSAIC1">
+        <geom class="MOSAIC_col" name="{geom_name}" type="mesh" mesh="model_MOSAIC" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_MOSAIC" mesh="model_MOSAIC" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_MOSAIC" type="mesh" group="3" />
+      <geom mesh="model_collision_1_MOSAIC" type="mesh" group="3" />
+      <geom mesh="model_collision_2_MOSAIC" type="mesh" group="3" />
+      <geom mesh="model_collision_3_MOSAIC" type="mesh" group="3" />
+      <geom mesh="model_collision_4_MOSAIC" type="mesh" group="3" />
+      <geom mesh="model_collision_5_MOSAIC" type="mesh" group="3" />
+      <geom mesh="model_collision_6_MOSAIC" type="mesh" group="3" />
+      <geom mesh="model_collision_7_MOSAIC" type="mesh" group="3" />
+      <geom mesh="model_collision_8_MOSAIC" type="mesh" group="3" />
+      <geom mesh="model_collision_9_MOSAIC" type="mesh" group="3" />
+      <geom mesh="model_collision_10_MOSAIC" type="mesh" group="3" />
+      <geom mesh="model_collision_11_MOSAIC" type="mesh" group="3" />
+      <geom mesh="model_collision_12_MOSAIC" type="mesh" group="3" />
+      <geom mesh="model_collision_13_MOSAIC" type="mesh" group="3" />
+      <geom mesh="model_collision_14_MOSAIC" type="mesh" group="3" />
+      <geom mesh="model_collision_15_MOSAIC" type="mesh" group="3" />
+      <geom mesh="model_collision_16_MOSAIC" type="mesh" group="3" />
+      <geom mesh="model_collision_17_MOSAIC" type="mesh" group="3" />
+      <geom mesh="model_collision_18_MOSAIC" type="mesh" group="3" />
+      <geom mesh="model_collision_19_MOSAIC" type="mesh" group="3" />
+      <geom mesh="model_collision_20_MOSAIC" type="mesh" group="3" />
+      <geom mesh="model_collision_21_MOSAIC" type="mesh" group="3" />
+      <geom mesh="model_collision_22_MOSAIC" type="mesh" group="3" />
+      <geom mesh="model_collision_23_MOSAIC" type="mesh" group="3" />
+      <geom mesh="model_collision_24_MOSAIC" type="mesh" group="3" />
+      <geom mesh="model_collision_25_MOSAIC" type="mesh" group="3" />
+      <geom mesh="model_collision_26_MOSAIC" type="mesh" group="3" />
+      <geom mesh="model_collision_27_MOSAIC" type="mesh" group="3" />
+      <geom mesh="model_collision_28_MOSAIC" type="mesh" group="3" />
+      <geom mesh="model_collision_29_MOSAIC" type="mesh" group="3" />
+      <geom mesh="model_collision_30_MOSAIC" type="mesh" group="3" />
+      <geom mesh="model_collision_31_MOSAIC" type="mesh" group="3" />
+    </body>

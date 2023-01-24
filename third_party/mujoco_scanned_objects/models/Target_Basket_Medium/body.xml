@@ -1,0 +1,36 @@
+<body childclass="Target_Basket_Medium_base" name="Target_Basket_Medium1">
+        <geom class="Target_Basket_Medium_col" name="{geom_name}" type="mesh" mesh="model_Target_Basket_Medium" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Target_Basket_Medium" mesh="model_Target_Basket_Medium" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Target_Basket_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Target_Basket_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Target_Basket_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Target_Basket_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Target_Basket_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Target_Basket_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Target_Basket_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Target_Basket_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Target_Basket_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Target_Basket_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Target_Basket_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Target_Basket_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Target_Basket_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Target_Basket_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Target_Basket_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Target_Basket_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Target_Basket_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Target_Basket_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Target_Basket_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Target_Basket_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Target_Basket_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Target_Basket_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Target_Basket_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Target_Basket_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Target_Basket_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Target_Basket_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Target_Basket_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Target_Basket_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Target_Basket_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Target_Basket_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Target_Basket_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Target_Basket_Medium" type="mesh" group="3" />
+    </body>

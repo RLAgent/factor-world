@@ -1,0 +1,36 @@
+<body childclass="Shurtape_Gaffers_Tape_Silver_2_x_60_yd_base" name="Shurtape_Gaffers_Tape_Silver_2_x_60_yd1">
+        <geom class="Shurtape_Gaffers_Tape_Silver_2_x_60_yd_col" name="{geom_name}" type="mesh" mesh="model_Shurtape_Gaffers_Tape_Silver_2_x_60_yd" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Shurtape_Gaffers_Tape_Silver_2_x_60_yd" mesh="model_Shurtape_Gaffers_Tape_Silver_2_x_60_yd" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Shurtape_Gaffers_Tape_Silver_2_x_60_yd" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Shurtape_Gaffers_Tape_Silver_2_x_60_yd" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Shurtape_Gaffers_Tape_Silver_2_x_60_yd" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Shurtape_Gaffers_Tape_Silver_2_x_60_yd" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Shurtape_Gaffers_Tape_Silver_2_x_60_yd" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Shurtape_Gaffers_Tape_Silver_2_x_60_yd" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Shurtape_Gaffers_Tape_Silver_2_x_60_yd" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Shurtape_Gaffers_Tape_Silver_2_x_60_yd" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Shurtape_Gaffers_Tape_Silver_2_x_60_yd" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Shurtape_Gaffers_Tape_Silver_2_x_60_yd" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Shurtape_Gaffers_Tape_Silver_2_x_60_yd" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Shurtape_Gaffers_Tape_Silver_2_x_60_yd" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Shurtape_Gaffers_Tape_Silver_2_x_60_yd" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Shurtape_Gaffers_Tape_Silver_2_x_60_yd" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Shurtape_Gaffers_Tape_Silver_2_x_60_yd" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Shurtape_Gaffers_Tape_Silver_2_x_60_yd" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Shurtape_Gaffers_Tape_Silver_2_x_60_yd" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Shurtape_Gaffers_Tape_Silver_2_x_60_yd" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Shurtape_Gaffers_Tape_Silver_2_x_60_yd" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Shurtape_Gaffers_Tape_Silver_2_x_60_yd" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Shurtape_Gaffers_Tape_Silver_2_x_60_yd" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Shurtape_Gaffers_Tape_Silver_2_x_60_yd" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Shurtape_Gaffers_Tape_Silver_2_x_60_yd" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Shurtape_Gaffers_Tape_Silver_2_x_60_yd" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Shurtape_Gaffers_Tape_Silver_2_x_60_yd" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Shurtape_Gaffers_Tape_Silver_2_x_60_yd" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Shurtape_Gaffers_Tape_Silver_2_x_60_yd" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Shurtape_Gaffers_Tape_Silver_2_x_60_yd" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Shurtape_Gaffers_Tape_Silver_2_x_60_yd" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Shurtape_Gaffers_Tape_Silver_2_x_60_yd" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Shurtape_Gaffers_Tape_Silver_2_x_60_yd" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Shurtape_Gaffers_Tape_Silver_2_x_60_yd" type="mesh" group="3" />
+    </body>

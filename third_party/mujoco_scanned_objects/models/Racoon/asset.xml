@@ -1,0 +1,38 @@
+<asset>
+    <texture type="2d" name="texture_Racoon" file="../../../../../mujoco_scanned_objects/models/Racoon/texture.png" />
+    <material name="material_0_Racoon" texture="texture_Racoon" specular="0.5" shininess="0.5" />
+    <mesh name="model_Racoon" file="../../../../../mujoco_scanned_objects/models/Racoon/model.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_0_Racoon" file="../../../../../mujoco_scanned_objects/models/Racoon/model_collision_0.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_1_Racoon" file="../../../../../mujoco_scanned_objects/models/Racoon/model_collision_1.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_2_Racoon" file="../../../../../mujoco_scanned_objects/models/Racoon/model_collision_2.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_3_Racoon" file="../../../../../mujoco_scanned_objects/models/Racoon/model_collision_3.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_4_Racoon" file="../../../../../mujoco_scanned_objects/models/Racoon/model_collision_4.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_5_Racoon" file="../../../../../mujoco_scanned_objects/models/Racoon/model_collision_5.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_6_Racoon" file="../../../../../mujoco_scanned_objects/models/Racoon/model_collision_6.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_7_Racoon" file="../../../../../mujoco_scanned_objects/models/Racoon/model_collision_7.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_8_Racoon" file="../../../../../mujoco_scanned_objects/models/Racoon/model_collision_8.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_9_Racoon" file="../../../../../mujoco_scanned_objects/models/Racoon/model_collision_9.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_10_Racoon" file="../../../../../mujoco_scanned_objects/models/Racoon/model_collision_10.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_11_Racoon" file="../../../../../mujoco_scanned_objects/models/Racoon/model_collision_11.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_12_Racoon" file="../../../../../mujoco_scanned_objects/models/Racoon/model_collision_12.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_13_Racoon" file="../../../../../mujoco_scanned_objects/models/Racoon/model_collision_13.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_14_Racoon" file="../../../../../mujoco_scanned_objects/models/Racoon/model_collision_14.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_15_Racoon" file="../../../../../mujoco_scanned_objects/models/Racoon/model_collision_15.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_16_Racoon" file="../../../../../mujoco_scanned_objects/models/Racoon/model_collision_16.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_17_Racoon" file="../../../../../mujoco_scanned_objects/models/Racoon/model_collision_17.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_18_Racoon" file="../../../../../mujoco_scanned_objects/models/Racoon/model_collision_18.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_19_Racoon" file="../../../../../mujoco_scanned_objects/models/Racoon/model_collision_19.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_20_Racoon" file="../../../../../mujoco_scanned_objects/models/Racoon/model_collision_20.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_21_Racoon" file="../../../../../mujoco_scanned_objects/models/Racoon/model_collision_21.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_22_Racoon" file="../../../../../mujoco_scanned_objects/models/Racoon/model_collision_22.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_23_Racoon" file="../../../../../mujoco_scanned_objects/models/Racoon/model_collision_23.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_24_Racoon" file="../../../../../mujoco_scanned_objects/models/Racoon/model_collision_24.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_25_Racoon" file="../../../../../mujoco_scanned_objects/models/Racoon/model_collision_25.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_26_Racoon" file="../../../../../mujoco_scanned_objects/models/Racoon/model_collision_26.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_27_Racoon" file="../../../../../mujoco_scanned_objects/models/Racoon/model_collision_27.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_28_Racoon" file="../../../../../mujoco_scanned_objects/models/Racoon/model_collision_28.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_29_Racoon" file="../../../../../mujoco_scanned_objects/models/Racoon/model_collision_29.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_30_Racoon" file="../../../../../mujoco_scanned_objects/models/Racoon/model_collision_30.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_31_Racoon" file="../../../../../mujoco_scanned_objects/models/Racoon/model_collision_31.stl" scale="{scale} {scale} {scale}" />
+  </asset>
+  

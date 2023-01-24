@@ -1,0 +1,36 @@
+<body childclass="Paint_Maker_base" name="Paint_Maker1">
+        <geom class="Paint_Maker_col" name="{geom_name}" type="mesh" mesh="model_Paint_Maker" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Paint_Maker" mesh="model_Paint_Maker" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Paint_Maker" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Paint_Maker" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Paint_Maker" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Paint_Maker" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Paint_Maker" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Paint_Maker" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Paint_Maker" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Paint_Maker" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Paint_Maker" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Paint_Maker" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Paint_Maker" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Paint_Maker" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Paint_Maker" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Paint_Maker" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Paint_Maker" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Paint_Maker" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Paint_Maker" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Paint_Maker" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Paint_Maker" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Paint_Maker" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Paint_Maker" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Paint_Maker" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Paint_Maker" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Paint_Maker" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Paint_Maker" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Paint_Maker" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Paint_Maker" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Paint_Maker" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Paint_Maker" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Paint_Maker" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Paint_Maker" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Paint_Maker" type="mesh" group="3" />
+    </body>

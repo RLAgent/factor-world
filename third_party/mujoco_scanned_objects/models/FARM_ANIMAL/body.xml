@@ -1,0 +1,36 @@
+<body childclass="FARM_ANIMAL_base" name="FARM_ANIMAL1">
+        <geom class="FARM_ANIMAL_col" name="{geom_name}" type="mesh" mesh="model_FARM_ANIMAL" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_FARM_ANIMAL" mesh="model_FARM_ANIMAL" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_FARM_ANIMAL" type="mesh" group="3" />
+      <geom mesh="model_collision_1_FARM_ANIMAL" type="mesh" group="3" />
+      <geom mesh="model_collision_2_FARM_ANIMAL" type="mesh" group="3" />
+      <geom mesh="model_collision_3_FARM_ANIMAL" type="mesh" group="3" />
+      <geom mesh="model_collision_4_FARM_ANIMAL" type="mesh" group="3" />
+      <geom mesh="model_collision_5_FARM_ANIMAL" type="mesh" group="3" />
+      <geom mesh="model_collision_6_FARM_ANIMAL" type="mesh" group="3" />
+      <geom mesh="model_collision_7_FARM_ANIMAL" type="mesh" group="3" />
+      <geom mesh="model_collision_8_FARM_ANIMAL" type="mesh" group="3" />
+      <geom mesh="model_collision_9_FARM_ANIMAL" type="mesh" group="3" />
+      <geom mesh="model_collision_10_FARM_ANIMAL" type="mesh" group="3" />
+      <geom mesh="model_collision_11_FARM_ANIMAL" type="mesh" group="3" />
+      <geom mesh="model_collision_12_FARM_ANIMAL" type="mesh" group="3" />
+      <geom mesh="model_collision_13_FARM_ANIMAL" type="mesh" group="3" />
+      <geom mesh="model_collision_14_FARM_ANIMAL" type="mesh" group="3" />
+      <geom mesh="model_collision_15_FARM_ANIMAL" type="mesh" group="3" />
+      <geom mesh="model_collision_16_FARM_ANIMAL" type="mesh" group="3" />
+      <geom mesh="model_collision_17_FARM_ANIMAL" type="mesh" group="3" />
+      <geom mesh="model_collision_18_FARM_ANIMAL" type="mesh" group="3" />
+      <geom mesh="model_collision_19_FARM_ANIMAL" type="mesh" group="3" />
+      <geom mesh="model_collision_20_FARM_ANIMAL" type="mesh" group="3" />
+      <geom mesh="model_collision_21_FARM_ANIMAL" type="mesh" group="3" />
+      <geom mesh="model_collision_22_FARM_ANIMAL" type="mesh" group="3" />
+      <geom mesh="model_collision_23_FARM_ANIMAL" type="mesh" group="3" />
+      <geom mesh="model_collision_24_FARM_ANIMAL" type="mesh" group="3" />
+      <geom mesh="model_collision_25_FARM_ANIMAL" type="mesh" group="3" />
+      <geom mesh="model_collision_26_FARM_ANIMAL" type="mesh" group="3" />
+      <geom mesh="model_collision_27_FARM_ANIMAL" type="mesh" group="3" />
+      <geom mesh="model_collision_28_FARM_ANIMAL" type="mesh" group="3" />
+      <geom mesh="model_collision_29_FARM_ANIMAL" type="mesh" group="3" />
+      <geom mesh="model_collision_30_FARM_ANIMAL" type="mesh" group="3" />
+      <geom mesh="model_collision_31_FARM_ANIMAL" type="mesh" group="3" />
+    </body>

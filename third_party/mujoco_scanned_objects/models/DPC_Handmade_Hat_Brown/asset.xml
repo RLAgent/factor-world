@@ -1,0 +1,38 @@
+<asset>
+    <texture type="2d" name="texture_DPC_Handmade_Hat_Brown" file="../../../../../mujoco_scanned_objects/models/DPC_Handmade_Hat_Brown/texture.png" />
+    <material name="material_0_DPC_Handmade_Hat_Brown" texture="texture_DPC_Handmade_Hat_Brown" specular="0.05944636666666667" shininess="0.000256441" />
+    <mesh name="model_DPC_Handmade_Hat_Brown" file="../../../../../mujoco_scanned_objects/models/DPC_Handmade_Hat_Brown/model.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_0_DPC_Handmade_Hat_Brown" file="../../../../../mujoco_scanned_objects/models/DPC_Handmade_Hat_Brown/model_collision_0.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_1_DPC_Handmade_Hat_Brown" file="../../../../../mujoco_scanned_objects/models/DPC_Handmade_Hat_Brown/model_collision_1.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_2_DPC_Handmade_Hat_Brown" file="../../../../../mujoco_scanned_objects/models/DPC_Handmade_Hat_Brown/model_collision_2.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_3_DPC_Handmade_Hat_Brown" file="../../../../../mujoco_scanned_objects/models/DPC_Handmade_Hat_Brown/model_collision_3.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_4_DPC_Handmade_Hat_Brown" file="../../../../../mujoco_scanned_objects/models/DPC_Handmade_Hat_Brown/model_collision_4.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_5_DPC_Handmade_Hat_Brown" file="../../../../../mujoco_scanned_objects/models/DPC_Handmade_Hat_Brown/model_collision_5.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_6_DPC_Handmade_Hat_Brown" file="../../../../../mujoco_scanned_objects/models/DPC_Handmade_Hat_Brown/model_collision_6.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_7_DPC_Handmade_Hat_Brown" file="../../../../../mujoco_scanned_objects/models/DPC_Handmade_Hat_Brown/model_collision_7.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_8_DPC_Handmade_Hat_Brown" file="../../../../../mujoco_scanned_objects/models/DPC_Handmade_Hat_Brown/model_collision_8.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_9_DPC_Handmade_Hat_Brown" file="../../../../../mujoco_scanned_objects/models/DPC_Handmade_Hat_Brown/model_collision_9.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_10_DPC_Handmade_Hat_Brown" file="../../../../../mujoco_scanned_objects/models/DPC_Handmade_Hat_Brown/model_collision_10.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_11_DPC_Handmade_Hat_Brown" file="../../../../../mujoco_scanned_objects/models/DPC_Handmade_Hat_Brown/model_collision_11.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_12_DPC_Handmade_Hat_Brown" file="../../../../../mujoco_scanned_objects/models/DPC_Handmade_Hat_Brown/model_collision_12.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_13_DPC_Handmade_Hat_Brown" file="../../../../../mujoco_scanned_objects/models/DPC_Handmade_Hat_Brown/model_collision_13.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_14_DPC_Handmade_Hat_Brown" file="../../../../../mujoco_scanned_objects/models/DPC_Handmade_Hat_Brown/model_collision_14.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_15_DPC_Handmade_Hat_Brown" file="../../../../../mujoco_scanned_objects/models/DPC_Handmade_Hat_Brown/model_collision_15.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_16_DPC_Handmade_Hat_Brown" file="../../../../../mujoco_scanned_objects/models/DPC_Handmade_Hat_Brown/model_collision_16.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_17_DPC_Handmade_Hat_Brown" file="../../../../../mujoco_scanned_objects/models/DPC_Handmade_Hat_Brown/model_collision_17.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_18_DPC_Handmade_Hat_Brown" file="../../../../../mujoco_scanned_objects/models/DPC_Handmade_Hat_Brown/model_collision_18.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_19_DPC_Handmade_Hat_Brown" file="../../../../../mujoco_scanned_objects/models/DPC_Handmade_Hat_Brown/model_collision_19.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_20_DPC_Handmade_Hat_Brown" file="../../../../../mujoco_scanned_objects/models/DPC_Handmade_Hat_Brown/model_collision_20.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_21_DPC_Handmade_Hat_Brown" file="../../../../../mujoco_scanned_objects/models/DPC_Handmade_Hat_Brown/model_collision_21.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_22_DPC_Handmade_Hat_Brown" file="../../../../../mujoco_scanned_objects/models/DPC_Handmade_Hat_Brown/model_collision_22.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_23_DPC_Handmade_Hat_Brown" file="../../../../../mujoco_scanned_objects/models/DPC_Handmade_Hat_Brown/model_collision_23.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_24_DPC_Handmade_Hat_Brown" file="../../../../../mujoco_scanned_objects/models/DPC_Handmade_Hat_Brown/model_collision_24.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_25_DPC_Handmade_Hat_Brown" file="../../../../../mujoco_scanned_objects/models/DPC_Handmade_Hat_Brown/model_collision_25.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_26_DPC_Handmade_Hat_Brown" file="../../../../../mujoco_scanned_objects/models/DPC_Handmade_Hat_Brown/model_collision_26.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_27_DPC_Handmade_Hat_Brown" file="../../../../../mujoco_scanned_objects/models/DPC_Handmade_Hat_Brown/model_collision_27.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_28_DPC_Handmade_Hat_Brown" file="../../../../../mujoco_scanned_objects/models/DPC_Handmade_Hat_Brown/model_collision_28.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_29_DPC_Handmade_Hat_Brown" file="../../../../../mujoco_scanned_objects/models/DPC_Handmade_Hat_Brown/model_collision_29.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_30_DPC_Handmade_Hat_Brown" file="../../../../../mujoco_scanned_objects/models/DPC_Handmade_Hat_Brown/model_collision_30.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_31_DPC_Handmade_Hat_Brown" file="../../../../../mujoco_scanned_objects/models/DPC_Handmade_Hat_Brown/model_collision_31.stl" scale="{scale} {scale} {scale}" />
+  </asset>
+  

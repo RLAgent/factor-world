@@ -1,0 +1,38 @@
+<asset>
+    <texture type="2d" name="texture_Real_Deal_1nIwCHX1MTh" file="../../../../../mujoco_scanned_objects/models/Real_Deal_1nIwCHX1MTh/texture.png" />
+    <material name="material_0_Real_Deal_1nIwCHX1MTh" texture="texture_Real_Deal_1nIwCHX1MTh" specular="0.5" shininess="0.5" />
+    <mesh name="model_Real_Deal_1nIwCHX1MTh" file="../../../../../mujoco_scanned_objects/models/Real_Deal_1nIwCHX1MTh/model.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_0_Real_Deal_1nIwCHX1MTh" file="../../../../../mujoco_scanned_objects/models/Real_Deal_1nIwCHX1MTh/model_collision_0.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_1_Real_Deal_1nIwCHX1MTh" file="../../../../../mujoco_scanned_objects/models/Real_Deal_1nIwCHX1MTh/model_collision_1.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_2_Real_Deal_1nIwCHX1MTh" file="../../../../../mujoco_scanned_objects/models/Real_Deal_1nIwCHX1MTh/model_collision_2.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_3_Real_Deal_1nIwCHX1MTh" file="../../../../../mujoco_scanned_objects/models/Real_Deal_1nIwCHX1MTh/model_collision_3.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_4_Real_Deal_1nIwCHX1MTh" file="../../../../../mujoco_scanned_objects/models/Real_Deal_1nIwCHX1MTh/model_collision_4.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_5_Real_Deal_1nIwCHX1MTh" file="../../../../../mujoco_scanned_objects/models/Real_Deal_1nIwCHX1MTh/model_collision_5.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_6_Real_Deal_1nIwCHX1MTh" file="../../../../../mujoco_scanned_objects/models/Real_Deal_1nIwCHX1MTh/model_collision_6.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_7_Real_Deal_1nIwCHX1MTh" file="../../../../../mujoco_scanned_objects/models/Real_Deal_1nIwCHX1MTh/model_collision_7.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_8_Real_Deal_1nIwCHX1MTh" file="../../../../../mujoco_scanned_objects/models/Real_Deal_1nIwCHX1MTh/model_collision_8.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_9_Real_Deal_1nIwCHX1MTh" file="../../../../../mujoco_scanned_objects/models/Real_Deal_1nIwCHX1MTh/model_collision_9.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_10_Real_Deal_1nIwCHX1MTh" file="../../../../../mujoco_scanned_objects/models/Real_Deal_1nIwCHX1MTh/model_collision_10.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_11_Real_Deal_1nIwCHX1MTh" file="../../../../../mujoco_scanned_objects/models/Real_Deal_1nIwCHX1MTh/model_collision_11.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_12_Real_Deal_1nIwCHX1MTh" file="../../../../../mujoco_scanned_objects/models/Real_Deal_1nIwCHX1MTh/model_collision_12.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_13_Real_Deal_1nIwCHX1MTh" file="../../../../../mujoco_scanned_objects/models/Real_Deal_1nIwCHX1MTh/model_collision_13.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_14_Real_Deal_1nIwCHX1MTh" file="../../../../../mujoco_scanned_objects/models/Real_Deal_1nIwCHX1MTh/model_collision_14.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_15_Real_Deal_1nIwCHX1MTh" file="../../../../../mujoco_scanned_objects/models/Real_Deal_1nIwCHX1MTh/model_collision_15.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_16_Real_Deal_1nIwCHX1MTh" file="../../../../../mujoco_scanned_objects/models/Real_Deal_1nIwCHX1MTh/model_collision_16.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_17_Real_Deal_1nIwCHX1MTh" file="../../../../../mujoco_scanned_objects/models/Real_Deal_1nIwCHX1MTh/model_collision_17.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_18_Real_Deal_1nIwCHX1MTh" file="../../../../../mujoco_scanned_objects/models/Real_Deal_1nIwCHX1MTh/model_collision_18.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_19_Real_Deal_1nIwCHX1MTh" file="../../../../../mujoco_scanned_objects/models/Real_Deal_1nIwCHX1MTh/model_collision_19.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_20_Real_Deal_1nIwCHX1MTh" file="../../../../../mujoco_scanned_objects/models/Real_Deal_1nIwCHX1MTh/model_collision_20.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_21_Real_Deal_1nIwCHX1MTh" file="../../../../../mujoco_scanned_objects/models/Real_Deal_1nIwCHX1MTh/model_collision_21.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_22_Real_Deal_1nIwCHX1MTh" file="../../../../../mujoco_scanned_objects/models/Real_Deal_1nIwCHX1MTh/model_collision_22.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_23_Real_Deal_1nIwCHX1MTh" file="../../../../../mujoco_scanned_objects/models/Real_Deal_1nIwCHX1MTh/model_collision_23.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_24_Real_Deal_1nIwCHX1MTh" file="../../../../../mujoco_scanned_objects/models/Real_Deal_1nIwCHX1MTh/model_collision_24.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_25_Real_Deal_1nIwCHX1MTh" file="../../../../../mujoco_scanned_objects/models/Real_Deal_1nIwCHX1MTh/model_collision_25.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_26_Real_Deal_1nIwCHX1MTh" file="../../../../../mujoco_scanned_objects/models/Real_Deal_1nIwCHX1MTh/model_collision_26.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_27_Real_Deal_1nIwCHX1MTh" file="../../../../../mujoco_scanned_objects/models/Real_Deal_1nIwCHX1MTh/model_collision_27.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_28_Real_Deal_1nIwCHX1MTh" file="../../../../../mujoco_scanned_objects/models/Real_Deal_1nIwCHX1MTh/model_collision_28.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_29_Real_Deal_1nIwCHX1MTh" file="../../../../../mujoco_scanned_objects/models/Real_Deal_1nIwCHX1MTh/model_collision_29.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_30_Real_Deal_1nIwCHX1MTh" file="../../../../../mujoco_scanned_objects/models/Real_Deal_1nIwCHX1MTh/model_collision_30.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_31_Real_Deal_1nIwCHX1MTh" file="../../../../../mujoco_scanned_objects/models/Real_Deal_1nIwCHX1MTh/model_collision_31.stl" scale="{scale} {scale} {scale}" />
+  </asset>
+  

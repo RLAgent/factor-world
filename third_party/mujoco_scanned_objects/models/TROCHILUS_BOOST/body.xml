@@ -1,0 +1,36 @@
+<body childclass="TROCHILUS_BOOST_base" name="TROCHILUS_BOOST1">
+        <geom class="TROCHILUS_BOOST_col" name="{geom_name}" type="mesh" mesh="model_TROCHILUS_BOOST" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_TROCHILUS_BOOST" mesh="model_TROCHILUS_BOOST" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_TROCHILUS_BOOST" type="mesh" group="3" />
+      <geom mesh="model_collision_1_TROCHILUS_BOOST" type="mesh" group="3" />
+      <geom mesh="model_collision_2_TROCHILUS_BOOST" type="mesh" group="3" />
+      <geom mesh="model_collision_3_TROCHILUS_BOOST" type="mesh" group="3" />
+      <geom mesh="model_collision_4_TROCHILUS_BOOST" type="mesh" group="3" />
+      <geom mesh="model_collision_5_TROCHILUS_BOOST" type="mesh" group="3" />
+      <geom mesh="model_collision_6_TROCHILUS_BOOST" type="mesh" group="3" />
+      <geom mesh="model_collision_7_TROCHILUS_BOOST" type="mesh" group="3" />
+      <geom mesh="model_collision_8_TROCHILUS_BOOST" type="mesh" group="3" />
+      <geom mesh="model_collision_9_TROCHILUS_BOOST" type="mesh" group="3" />
+      <geom mesh="model_collision_10_TROCHILUS_BOOST" type="mesh" group="3" />
+      <geom mesh="model_collision_11_TROCHILUS_BOOST" type="mesh" group="3" />
+      <geom mesh="model_collision_12_TROCHILUS_BOOST" type="mesh" group="3" />
+      <geom mesh="model_collision_13_TROCHILUS_BOOST" type="mesh" group="3" />
+      <geom mesh="model_collision_14_TROCHILUS_BOOST" type="mesh" group="3" />
+      <geom mesh="model_collision_15_TROCHILUS_BOOST" type="mesh" group="3" />
+      <geom mesh="model_collision_16_TROCHILUS_BOOST" type="mesh" group="3" />
+      <geom mesh="model_collision_17_TROCHILUS_BOOST" type="mesh" group="3" />
+      <geom mesh="model_collision_18_TROCHILUS_BOOST" type="mesh" group="3" />
+      <geom mesh="model_collision_19_TROCHILUS_BOOST" type="mesh" group="3" />
+      <geom mesh="model_collision_20_TROCHILUS_BOOST" type="mesh" group="3" />
+      <geom mesh="model_collision_21_TROCHILUS_BOOST" type="mesh" group="3" />
+      <geom mesh="model_collision_22_TROCHILUS_BOOST" type="mesh" group="3" />
+      <geom mesh="model_collision_23_TROCHILUS_BOOST" type="mesh" group="3" />
+      <geom mesh="model_collision_24_TROCHILUS_BOOST" type="mesh" group="3" />
+      <geom mesh="model_collision_25_TROCHILUS_BOOST" type="mesh" group="3" />
+      <geom mesh="model_collision_26_TROCHILUS_BOOST" type="mesh" group="3" />
+      <geom mesh="model_collision_27_TROCHILUS_BOOST" type="mesh" group="3" />
+      <geom mesh="model_collision_28_TROCHILUS_BOOST" type="mesh" group="3" />
+      <geom mesh="model_collision_29_TROCHILUS_BOOST" type="mesh" group="3" />
+      <geom mesh="model_collision_30_TROCHILUS_BOOST" type="mesh" group="3" />
+      <geom mesh="model_collision_31_TROCHILUS_BOOST" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="Nintendo_2DS_Crimson_Red_base" name="Nintendo_2DS_Crimson_Red1">
+        <geom class="Nintendo_2DS_Crimson_Red_col" name="{geom_name}" type="mesh" mesh="model_Nintendo_2DS_Crimson_Red" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Nintendo_2DS_Crimson_Red" mesh="model_Nintendo_2DS_Crimson_Red" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Nintendo_2DS_Crimson_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Nintendo_2DS_Crimson_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Nintendo_2DS_Crimson_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Nintendo_2DS_Crimson_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Nintendo_2DS_Crimson_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Nintendo_2DS_Crimson_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Nintendo_2DS_Crimson_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Nintendo_2DS_Crimson_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Nintendo_2DS_Crimson_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Nintendo_2DS_Crimson_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Nintendo_2DS_Crimson_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Nintendo_2DS_Crimson_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Nintendo_2DS_Crimson_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Nintendo_2DS_Crimson_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Nintendo_2DS_Crimson_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Nintendo_2DS_Crimson_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Nintendo_2DS_Crimson_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Nintendo_2DS_Crimson_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Nintendo_2DS_Crimson_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Nintendo_2DS_Crimson_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Nintendo_2DS_Crimson_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Nintendo_2DS_Crimson_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Nintendo_2DS_Crimson_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Nintendo_2DS_Crimson_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Nintendo_2DS_Crimson_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Nintendo_2DS_Crimson_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Nintendo_2DS_Crimson_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Nintendo_2DS_Crimson_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Nintendo_2DS_Crimson_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Nintendo_2DS_Crimson_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Nintendo_2DS_Crimson_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Nintendo_2DS_Crimson_Red" type="mesh" group="3" />
+    </body>

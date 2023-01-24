@@ -1,0 +1,36 @@
+<body childclass="INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count_base" name="INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count1">
+        <geom class="INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count_col" name="{geom_name}" type="mesh" mesh="model_INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count" mesh="model_INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count" type="mesh" group="3" />
+      <geom mesh="model_collision_1_INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count" type="mesh" group="3" />
+      <geom mesh="model_collision_2_INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count" type="mesh" group="3" />
+      <geom mesh="model_collision_3_INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count" type="mesh" group="3" />
+      <geom mesh="model_collision_4_INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count" type="mesh" group="3" />
+      <geom mesh="model_collision_5_INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count" type="mesh" group="3" />
+      <geom mesh="model_collision_6_INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count" type="mesh" group="3" />
+      <geom mesh="model_collision_7_INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count" type="mesh" group="3" />
+      <geom mesh="model_collision_8_INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count" type="mesh" group="3" />
+      <geom mesh="model_collision_9_INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count" type="mesh" group="3" />
+      <geom mesh="model_collision_10_INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count" type="mesh" group="3" />
+      <geom mesh="model_collision_11_INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count" type="mesh" group="3" />
+      <geom mesh="model_collision_12_INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count" type="mesh" group="3" />
+      <geom mesh="model_collision_13_INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count" type="mesh" group="3" />
+      <geom mesh="model_collision_14_INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count" type="mesh" group="3" />
+      <geom mesh="model_collision_15_INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count" type="mesh" group="3" />
+      <geom mesh="model_collision_16_INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count" type="mesh" group="3" />
+      <geom mesh="model_collision_17_INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count" type="mesh" group="3" />
+      <geom mesh="model_collision_18_INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count" type="mesh" group="3" />
+      <geom mesh="model_collision_19_INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count" type="mesh" group="3" />
+      <geom mesh="model_collision_20_INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count" type="mesh" group="3" />
+      <geom mesh="model_collision_21_INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count" type="mesh" group="3" />
+      <geom mesh="model_collision_22_INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count" type="mesh" group="3" />
+      <geom mesh="model_collision_23_INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count" type="mesh" group="3" />
+      <geom mesh="model_collision_24_INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count" type="mesh" group="3" />
+      <geom mesh="model_collision_25_INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count" type="mesh" group="3" />
+      <geom mesh="model_collision_26_INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count" type="mesh" group="3" />
+      <geom mesh="model_collision_27_INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count" type="mesh" group="3" />
+      <geom mesh="model_collision_28_INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count" type="mesh" group="3" />
+      <geom mesh="model_collision_29_INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count" type="mesh" group="3" />
+      <geom mesh="model_collision_30_INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count" type="mesh" group="3" />
+      <geom mesh="model_collision_31_INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="UGG_Classic_Tall_Womens_Boots_Grey_7_base" name="UGG_Classic_Tall_Womens_Boots_Grey_71">
+        <geom class="UGG_Classic_Tall_Womens_Boots_Grey_7_col" name="{geom_name}" type="mesh" mesh="model_UGG_Classic_Tall_Womens_Boots_Grey_7" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_UGG_Classic_Tall_Womens_Boots_Grey_7" mesh="model_UGG_Classic_Tall_Womens_Boots_Grey_7" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_UGG_Classic_Tall_Womens_Boots_Grey_7" type="mesh" group="3" />
+      <geom mesh="model_collision_1_UGG_Classic_Tall_Womens_Boots_Grey_7" type="mesh" group="3" />
+      <geom mesh="model_collision_2_UGG_Classic_Tall_Womens_Boots_Grey_7" type="mesh" group="3" />
+      <geom mesh="model_collision_3_UGG_Classic_Tall_Womens_Boots_Grey_7" type="mesh" group="3" />
+      <geom mesh="model_collision_4_UGG_Classic_Tall_Womens_Boots_Grey_7" type="mesh" group="3" />
+      <geom mesh="model_collision_5_UGG_Classic_Tall_Womens_Boots_Grey_7" type="mesh" group="3" />
+      <geom mesh="model_collision_6_UGG_Classic_Tall_Womens_Boots_Grey_7" type="mesh" group="3" />
+      <geom mesh="model_collision_7_UGG_Classic_Tall_Womens_Boots_Grey_7" type="mesh" group="3" />
+      <geom mesh="model_collision_8_UGG_Classic_Tall_Womens_Boots_Grey_7" type="mesh" group="3" />
+      <geom mesh="model_collision_9_UGG_Classic_Tall_Womens_Boots_Grey_7" type="mesh" group="3" />
+      <geom mesh="model_collision_10_UGG_Classic_Tall_Womens_Boots_Grey_7" type="mesh" group="3" />
+      <geom mesh="model_collision_11_UGG_Classic_Tall_Womens_Boots_Grey_7" type="mesh" group="3" />
+      <geom mesh="model_collision_12_UGG_Classic_Tall_Womens_Boots_Grey_7" type="mesh" group="3" />
+      <geom mesh="model_collision_13_UGG_Classic_Tall_Womens_Boots_Grey_7" type="mesh" group="3" />
+      <geom mesh="model_collision_14_UGG_Classic_Tall_Womens_Boots_Grey_7" type="mesh" group="3" />
+      <geom mesh="model_collision_15_UGG_Classic_Tall_Womens_Boots_Grey_7" type="mesh" group="3" />
+      <geom mesh="model_collision_16_UGG_Classic_Tall_Womens_Boots_Grey_7" type="mesh" group="3" />
+      <geom mesh="model_collision_17_UGG_Classic_Tall_Womens_Boots_Grey_7" type="mesh" group="3" />
+      <geom mesh="model_collision_18_UGG_Classic_Tall_Womens_Boots_Grey_7" type="mesh" group="3" />
+      <geom mesh="model_collision_19_UGG_Classic_Tall_Womens_Boots_Grey_7" type="mesh" group="3" />
+      <geom mesh="model_collision_20_UGG_Classic_Tall_Womens_Boots_Grey_7" type="mesh" group="3" />
+      <geom mesh="model_collision_21_UGG_Classic_Tall_Womens_Boots_Grey_7" type="mesh" group="3" />
+      <geom mesh="model_collision_22_UGG_Classic_Tall_Womens_Boots_Grey_7" type="mesh" group="3" />
+      <geom mesh="model_collision_23_UGG_Classic_Tall_Womens_Boots_Grey_7" type="mesh" group="3" />
+      <geom mesh="model_collision_24_UGG_Classic_Tall_Womens_Boots_Grey_7" type="mesh" group="3" />
+      <geom mesh="model_collision_25_UGG_Classic_Tall_Womens_Boots_Grey_7" type="mesh" group="3" />
+      <geom mesh="model_collision_26_UGG_Classic_Tall_Womens_Boots_Grey_7" type="mesh" group="3" />
+      <geom mesh="model_collision_27_UGG_Classic_Tall_Womens_Boots_Grey_7" type="mesh" group="3" />
+      <geom mesh="model_collision_28_UGG_Classic_Tall_Womens_Boots_Grey_7" type="mesh" group="3" />
+      <geom mesh="model_collision_29_UGG_Classic_Tall_Womens_Boots_Grey_7" type="mesh" group="3" />
+      <geom mesh="model_collision_30_UGG_Classic_Tall_Womens_Boots_Grey_7" type="mesh" group="3" />
+      <geom mesh="model_collision_31_UGG_Classic_Tall_Womens_Boots_Grey_7" type="mesh" group="3" />
+    </body>

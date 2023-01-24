@@ -1,0 +1,36 @@
+<body childclass="SAPPHIRE_R7_260X_OC_base" name="SAPPHIRE_R7_260X_OC1">
+        <geom class="SAPPHIRE_R7_260X_OC_col" name="{geom_name}" type="mesh" mesh="model_SAPPHIRE_R7_260X_OC" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_SAPPHIRE_R7_260X_OC" mesh="model_SAPPHIRE_R7_260X_OC" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_SAPPHIRE_R7_260X_OC" type="mesh" group="3" />
+      <geom mesh="model_collision_1_SAPPHIRE_R7_260X_OC" type="mesh" group="3" />
+      <geom mesh="model_collision_2_SAPPHIRE_R7_260X_OC" type="mesh" group="3" />
+      <geom mesh="model_collision_3_SAPPHIRE_R7_260X_OC" type="mesh" group="3" />
+      <geom mesh="model_collision_4_SAPPHIRE_R7_260X_OC" type="mesh" group="3" />
+      <geom mesh="model_collision_5_SAPPHIRE_R7_260X_OC" type="mesh" group="3" />
+      <geom mesh="model_collision_6_SAPPHIRE_R7_260X_OC" type="mesh" group="3" />
+      <geom mesh="model_collision_7_SAPPHIRE_R7_260X_OC" type="mesh" group="3" />
+      <geom mesh="model_collision_8_SAPPHIRE_R7_260X_OC" type="mesh" group="3" />
+      <geom mesh="model_collision_9_SAPPHIRE_R7_260X_OC" type="mesh" group="3" />
+      <geom mesh="model_collision_10_SAPPHIRE_R7_260X_OC" type="mesh" group="3" />
+      <geom mesh="model_collision_11_SAPPHIRE_R7_260X_OC" type="mesh" group="3" />
+      <geom mesh="model_collision_12_SAPPHIRE_R7_260X_OC" type="mesh" group="3" />
+      <geom mesh="model_collision_13_SAPPHIRE_R7_260X_OC" type="mesh" group="3" />
+      <geom mesh="model_collision_14_SAPPHIRE_R7_260X_OC" type="mesh" group="3" />
+      <geom mesh="model_collision_15_SAPPHIRE_R7_260X_OC" type="mesh" group="3" />
+      <geom mesh="model_collision_16_SAPPHIRE_R7_260X_OC" type="mesh" group="3" />
+      <geom mesh="model_collision_17_SAPPHIRE_R7_260X_OC" type="mesh" group="3" />
+      <geom mesh="model_collision_18_SAPPHIRE_R7_260X_OC" type="mesh" group="3" />
+      <geom mesh="model_collision_19_SAPPHIRE_R7_260X_OC" type="mesh" group="3" />
+      <geom mesh="model_collision_20_SAPPHIRE_R7_260X_OC" type="mesh" group="3" />
+      <geom mesh="model_collision_21_SAPPHIRE_R7_260X_OC" type="mesh" group="3" />
+      <geom mesh="model_collision_22_SAPPHIRE_R7_260X_OC" type="mesh" group="3" />
+      <geom mesh="model_collision_23_SAPPHIRE_R7_260X_OC" type="mesh" group="3" />
+      <geom mesh="model_collision_24_SAPPHIRE_R7_260X_OC" type="mesh" group="3" />
+      <geom mesh="model_collision_25_SAPPHIRE_R7_260X_OC" type="mesh" group="3" />
+      <geom mesh="model_collision_26_SAPPHIRE_R7_260X_OC" type="mesh" group="3" />
+      <geom mesh="model_collision_27_SAPPHIRE_R7_260X_OC" type="mesh" group="3" />
+      <geom mesh="model_collision_28_SAPPHIRE_R7_260X_OC" type="mesh" group="3" />
+      <geom mesh="model_collision_29_SAPPHIRE_R7_260X_OC" type="mesh" group="3" />
+      <geom mesh="model_collision_30_SAPPHIRE_R7_260X_OC" type="mesh" group="3" />
+      <geom mesh="model_collision_31_SAPPHIRE_R7_260X_OC" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="FISHING_GAME_base" name="FISHING_GAME1">
+        <geom class="FISHING_GAME_col" name="{geom_name}" type="mesh" mesh="model_FISHING_GAME" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_FISHING_GAME" mesh="model_FISHING_GAME" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_FISHING_GAME" type="mesh" group="3" />
+      <geom mesh="model_collision_1_FISHING_GAME" type="mesh" group="3" />
+      <geom mesh="model_collision_2_FISHING_GAME" type="mesh" group="3" />
+      <geom mesh="model_collision_3_FISHING_GAME" type="mesh" group="3" />
+      <geom mesh="model_collision_4_FISHING_GAME" type="mesh" group="3" />
+      <geom mesh="model_collision_5_FISHING_GAME" type="mesh" group="3" />
+      <geom mesh="model_collision_6_FISHING_GAME" type="mesh" group="3" />
+      <geom mesh="model_collision_7_FISHING_GAME" type="mesh" group="3" />
+      <geom mesh="model_collision_8_FISHING_GAME" type="mesh" group="3" />
+      <geom mesh="model_collision_9_FISHING_GAME" type="mesh" group="3" />
+      <geom mesh="model_collision_10_FISHING_GAME" type="mesh" group="3" />
+      <geom mesh="model_collision_11_FISHING_GAME" type="mesh" group="3" />
+      <geom mesh="model_collision_12_FISHING_GAME" type="mesh" group="3" />
+      <geom mesh="model_collision_13_FISHING_GAME" type="mesh" group="3" />
+      <geom mesh="model_collision_14_FISHING_GAME" type="mesh" group="3" />
+      <geom mesh="model_collision_15_FISHING_GAME" type="mesh" group="3" />
+      <geom mesh="model_collision_16_FISHING_GAME" type="mesh" group="3" />
+      <geom mesh="model_collision_17_FISHING_GAME" type="mesh" group="3" />
+      <geom mesh="model_collision_18_FISHING_GAME" type="mesh" group="3" />
+      <geom mesh="model_collision_19_FISHING_GAME" type="mesh" group="3" />
+      <geom mesh="model_collision_20_FISHING_GAME" type="mesh" group="3" />
+      <geom mesh="model_collision_21_FISHING_GAME" type="mesh" group="3" />
+      <geom mesh="model_collision_22_FISHING_GAME" type="mesh" group="3" />
+      <geom mesh="model_collision_23_FISHING_GAME" type="mesh" group="3" />
+      <geom mesh="model_collision_24_FISHING_GAME" type="mesh" group="3" />
+      <geom mesh="model_collision_25_FISHING_GAME" type="mesh" group="3" />
+      <geom mesh="model_collision_26_FISHING_GAME" type="mesh" group="3" />
+      <geom mesh="model_collision_27_FISHING_GAME" type="mesh" group="3" />
+      <geom mesh="model_collision_28_FISHING_GAME" type="mesh" group="3" />
+      <geom mesh="model_collision_29_FISHING_GAME" type="mesh" group="3" />
+      <geom mesh="model_collision_30_FISHING_GAME" type="mesh" group="3" />
+      <geom mesh="model_collision_31_FISHING_GAME" type="mesh" group="3" />
+    </body>

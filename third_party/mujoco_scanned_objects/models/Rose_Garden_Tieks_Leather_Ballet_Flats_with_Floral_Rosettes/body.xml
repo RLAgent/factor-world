@@ -1,0 +1,36 @@
+<body childclass="Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes_base" name="Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes1">
+        <geom class="Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes_col" name="{geom_name}" type="mesh" mesh="model_Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" mesh="model_Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes" type="mesh" group="3" />
+    </body>

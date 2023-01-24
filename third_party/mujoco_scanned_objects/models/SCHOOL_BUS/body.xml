@@ -1,0 +1,36 @@
+<body childclass="SCHOOL_BUS_base" name="SCHOOL_BUS1">
+        <geom class="SCHOOL_BUS_col" name="{geom_name}" type="mesh" mesh="model_SCHOOL_BUS" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_SCHOOL_BUS" mesh="model_SCHOOL_BUS" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_SCHOOL_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_1_SCHOOL_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_2_SCHOOL_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_3_SCHOOL_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_4_SCHOOL_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_5_SCHOOL_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_6_SCHOOL_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_7_SCHOOL_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_8_SCHOOL_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_9_SCHOOL_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_10_SCHOOL_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_11_SCHOOL_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_12_SCHOOL_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_13_SCHOOL_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_14_SCHOOL_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_15_SCHOOL_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_16_SCHOOL_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_17_SCHOOL_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_18_SCHOOL_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_19_SCHOOL_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_20_SCHOOL_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_21_SCHOOL_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_22_SCHOOL_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_23_SCHOOL_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_24_SCHOOL_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_25_SCHOOL_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_26_SCHOOL_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_27_SCHOOL_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_28_SCHOOL_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_29_SCHOOL_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_30_SCHOOL_BUS" type="mesh" group="3" />
+      <geom mesh="model_collision_31_SCHOOL_BUS" type="mesh" group="3" />
+    </body>

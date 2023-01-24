@@ -1,0 +1,36 @@
+<body childclass="Shaxon_100_Molded_Category_6_RJ45RJ45_Shielded_Patch_Cord_White_base" name="Shaxon_100_Molded_Category_6_RJ45RJ45_Shielded_Patch_Cord_White1">
+        <geom class="Shaxon_100_Molded_Category_6_RJ45RJ45_Shielded_Patch_Cord_White_col" name="{geom_name}" type="mesh" mesh="model_Shaxon_100_Molded_Category_6_RJ45RJ45_Shielded_Patch_Cord_White" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Shaxon_100_Molded_Category_6_RJ45RJ45_Shielded_Patch_Cord_White" mesh="model_Shaxon_100_Molded_Category_6_RJ45RJ45_Shielded_Patch_Cord_White" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Shaxon_100_Molded_Category_6_RJ45RJ45_Shielded_Patch_Cord_White" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Shaxon_100_Molded_Category_6_RJ45RJ45_Shielded_Patch_Cord_White" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Shaxon_100_Molded_Category_6_RJ45RJ45_Shielded_Patch_Cord_White" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Shaxon_100_Molded_Category_6_RJ45RJ45_Shielded_Patch_Cord_White" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Shaxon_100_Molded_Category_6_RJ45RJ45_Shielded_Patch_Cord_White" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Shaxon_100_Molded_Category_6_RJ45RJ45_Shielded_Patch_Cord_White" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Shaxon_100_Molded_Category_6_RJ45RJ45_Shielded_Patch_Cord_White" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Shaxon_100_Molded_Category_6_RJ45RJ45_Shielded_Patch_Cord_White" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Shaxon_100_Molded_Category_6_RJ45RJ45_Shielded_Patch_Cord_White" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Shaxon_100_Molded_Category_6_RJ45RJ45_Shielded_Patch_Cord_White" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Shaxon_100_Molded_Category_6_RJ45RJ45_Shielded_Patch_Cord_White" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Shaxon_100_Molded_Category_6_RJ45RJ45_Shielded_Patch_Cord_White" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Shaxon_100_Molded_Category_6_RJ45RJ45_Shielded_Patch_Cord_White" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Shaxon_100_Molded_Category_6_RJ45RJ45_Shielded_Patch_Cord_White" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Shaxon_100_Molded_Category_6_RJ45RJ45_Shielded_Patch_Cord_White" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Shaxon_100_Molded_Category_6_RJ45RJ45_Shielded_Patch_Cord_White" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Shaxon_100_Molded_Category_6_RJ45RJ45_Shielded_Patch_Cord_White" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Shaxon_100_Molded_Category_6_RJ45RJ45_Shielded_Patch_Cord_White" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Shaxon_100_Molded_Category_6_RJ45RJ45_Shielded_Patch_Cord_White" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Shaxon_100_Molded_Category_6_RJ45RJ45_Shielded_Patch_Cord_White" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Shaxon_100_Molded_Category_6_RJ45RJ45_Shielded_Patch_Cord_White" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Shaxon_100_Molded_Category_6_RJ45RJ45_Shielded_Patch_Cord_White" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Shaxon_100_Molded_Category_6_RJ45RJ45_Shielded_Patch_Cord_White" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Shaxon_100_Molded_Category_6_RJ45RJ45_Shielded_Patch_Cord_White" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Shaxon_100_Molded_Category_6_RJ45RJ45_Shielded_Patch_Cord_White" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Shaxon_100_Molded_Category_6_RJ45RJ45_Shielded_Patch_Cord_White" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Shaxon_100_Molded_Category_6_RJ45RJ45_Shielded_Patch_Cord_White" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Shaxon_100_Molded_Category_6_RJ45RJ45_Shielded_Patch_Cord_White" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Shaxon_100_Molded_Category_6_RJ45RJ45_Shielded_Patch_Cord_White" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Shaxon_100_Molded_Category_6_RJ45RJ45_Shielded_Patch_Cord_White" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Shaxon_100_Molded_Category_6_RJ45RJ45_Shielded_Patch_Cord_White" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Shaxon_100_Molded_Category_6_RJ45RJ45_Shielded_Patch_Cord_White" type="mesh" group="3" />
+    </body>

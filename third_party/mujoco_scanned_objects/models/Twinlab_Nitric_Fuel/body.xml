@@ -1,0 +1,36 @@
+<body childclass="Twinlab_Nitric_Fuel_base" name="Twinlab_Nitric_Fuel1">
+        <geom class="Twinlab_Nitric_Fuel_col" name="{geom_name}" type="mesh" mesh="model_Twinlab_Nitric_Fuel" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Twinlab_Nitric_Fuel" mesh="model_Twinlab_Nitric_Fuel" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Twinlab_Nitric_Fuel" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Twinlab_Nitric_Fuel" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Twinlab_Nitric_Fuel" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Twinlab_Nitric_Fuel" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Twinlab_Nitric_Fuel" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Twinlab_Nitric_Fuel" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Twinlab_Nitric_Fuel" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Twinlab_Nitric_Fuel" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Twinlab_Nitric_Fuel" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Twinlab_Nitric_Fuel" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Twinlab_Nitric_Fuel" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Twinlab_Nitric_Fuel" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Twinlab_Nitric_Fuel" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Twinlab_Nitric_Fuel" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Twinlab_Nitric_Fuel" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Twinlab_Nitric_Fuel" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Twinlab_Nitric_Fuel" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Twinlab_Nitric_Fuel" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Twinlab_Nitric_Fuel" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Twinlab_Nitric_Fuel" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Twinlab_Nitric_Fuel" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Twinlab_Nitric_Fuel" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Twinlab_Nitric_Fuel" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Twinlab_Nitric_Fuel" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Twinlab_Nitric_Fuel" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Twinlab_Nitric_Fuel" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Twinlab_Nitric_Fuel" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Twinlab_Nitric_Fuel" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Twinlab_Nitric_Fuel" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Twinlab_Nitric_Fuel" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Twinlab_Nitric_Fuel" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Twinlab_Nitric_Fuel" type="mesh" group="3" />
+    </body>

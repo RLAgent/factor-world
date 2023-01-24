@@ -1,0 +1,36 @@
+<body childclass="Pokmon_Y_Nintendo_3DS_Game_base" name="Pokmon_Y_Nintendo_3DS_Game1">
+        <geom class="Pokmon_Y_Nintendo_3DS_Game_col" name="{geom_name}" type="mesh" mesh="model_Pokmon_Y_Nintendo_3DS_Game" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Pokmon_Y_Nintendo_3DS_Game" mesh="model_Pokmon_Y_Nintendo_3DS_Game" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Pokmon_Y_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Pokmon_Y_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Pokmon_Y_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Pokmon_Y_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Pokmon_Y_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Pokmon_Y_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Pokmon_Y_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Pokmon_Y_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Pokmon_Y_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Pokmon_Y_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Pokmon_Y_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Pokmon_Y_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Pokmon_Y_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Pokmon_Y_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Pokmon_Y_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Pokmon_Y_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Pokmon_Y_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Pokmon_Y_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Pokmon_Y_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Pokmon_Y_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Pokmon_Y_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Pokmon_Y_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Pokmon_Y_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Pokmon_Y_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Pokmon_Y_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Pokmon_Y_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Pokmon_Y_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Pokmon_Y_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Pokmon_Y_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Pokmon_Y_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Pokmon_Y_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Pokmon_Y_Nintendo_3DS_Game" type="mesh" group="3" />
+    </body>

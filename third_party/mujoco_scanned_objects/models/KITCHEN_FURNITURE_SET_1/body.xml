@@ -1,0 +1,36 @@
+<body childclass="KITCHEN_FURNITURE_SET_1_base" name="KITCHEN_FURNITURE_SET_11">
+        <geom class="KITCHEN_FURNITURE_SET_1_col" name="{geom_name}" type="mesh" mesh="model_KITCHEN_FURNITURE_SET_1" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_KITCHEN_FURNITURE_SET_1" mesh="model_KITCHEN_FURNITURE_SET_1" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_KITCHEN_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_1_KITCHEN_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_2_KITCHEN_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_3_KITCHEN_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_4_KITCHEN_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_5_KITCHEN_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_6_KITCHEN_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_7_KITCHEN_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_8_KITCHEN_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_9_KITCHEN_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_10_KITCHEN_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_11_KITCHEN_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_12_KITCHEN_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_13_KITCHEN_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_14_KITCHEN_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_15_KITCHEN_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_16_KITCHEN_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_17_KITCHEN_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_18_KITCHEN_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_19_KITCHEN_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_20_KITCHEN_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_21_KITCHEN_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_22_KITCHEN_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_23_KITCHEN_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_24_KITCHEN_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_25_KITCHEN_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_26_KITCHEN_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_27_KITCHEN_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_28_KITCHEN_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_29_KITCHEN_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_30_KITCHEN_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_31_KITCHEN_FURNITURE_SET_1" type="mesh" group="3" />
+    </body>

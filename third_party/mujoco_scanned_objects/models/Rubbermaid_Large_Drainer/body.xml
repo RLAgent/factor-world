@@ -1,0 +1,36 @@
+<body childclass="Rubbermaid_Large_Drainer_base" name="Rubbermaid_Large_Drainer1">
+        <geom class="Rubbermaid_Large_Drainer_col" name="{geom_name}" type="mesh" mesh="model_Rubbermaid_Large_Drainer" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Rubbermaid_Large_Drainer" mesh="model_Rubbermaid_Large_Drainer" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Rubbermaid_Large_Drainer" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Rubbermaid_Large_Drainer" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Rubbermaid_Large_Drainer" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Rubbermaid_Large_Drainer" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Rubbermaid_Large_Drainer" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Rubbermaid_Large_Drainer" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Rubbermaid_Large_Drainer" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Rubbermaid_Large_Drainer" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Rubbermaid_Large_Drainer" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Rubbermaid_Large_Drainer" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Rubbermaid_Large_Drainer" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Rubbermaid_Large_Drainer" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Rubbermaid_Large_Drainer" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Rubbermaid_Large_Drainer" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Rubbermaid_Large_Drainer" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Rubbermaid_Large_Drainer" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Rubbermaid_Large_Drainer" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Rubbermaid_Large_Drainer" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Rubbermaid_Large_Drainer" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Rubbermaid_Large_Drainer" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Rubbermaid_Large_Drainer" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Rubbermaid_Large_Drainer" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Rubbermaid_Large_Drainer" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Rubbermaid_Large_Drainer" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Rubbermaid_Large_Drainer" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Rubbermaid_Large_Drainer" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Rubbermaid_Large_Drainer" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Rubbermaid_Large_Drainer" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Rubbermaid_Large_Drainer" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Rubbermaid_Large_Drainer" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Rubbermaid_Large_Drainer" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Rubbermaid_Large_Drainer" type="mesh" group="3" />
+    </body>

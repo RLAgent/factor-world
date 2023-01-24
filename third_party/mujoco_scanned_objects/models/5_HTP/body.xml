@@ -1,0 +1,36 @@
+<body childclass="5_HTP_base" name="5_HTP1">
+        <geom class="5_HTP_col" name="{geom_name}" type="mesh" mesh="model_5_HTP" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_5_HTP" mesh="model_5_HTP" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_5_HTP" type="mesh" group="3" />
+      <geom mesh="model_collision_1_5_HTP" type="mesh" group="3" />
+      <geom mesh="model_collision_2_5_HTP" type="mesh" group="3" />
+      <geom mesh="model_collision_3_5_HTP" type="mesh" group="3" />
+      <geom mesh="model_collision_4_5_HTP" type="mesh" group="3" />
+      <geom mesh="model_collision_5_5_HTP" type="mesh" group="3" />
+      <geom mesh="model_collision_6_5_HTP" type="mesh" group="3" />
+      <geom mesh="model_collision_7_5_HTP" type="mesh" group="3" />
+      <geom mesh="model_collision_8_5_HTP" type="mesh" group="3" />
+      <geom mesh="model_collision_9_5_HTP" type="mesh" group="3" />
+      <geom mesh="model_collision_10_5_HTP" type="mesh" group="3" />
+      <geom mesh="model_collision_11_5_HTP" type="mesh" group="3" />
+      <geom mesh="model_collision_12_5_HTP" type="mesh" group="3" />
+      <geom mesh="model_collision_13_5_HTP" type="mesh" group="3" />
+      <geom mesh="model_collision_14_5_HTP" type="mesh" group="3" />
+      <geom mesh="model_collision_15_5_HTP" type="mesh" group="3" />
+      <geom mesh="model_collision_16_5_HTP" type="mesh" group="3" />
+      <geom mesh="model_collision_17_5_HTP" type="mesh" group="3" />
+      <geom mesh="model_collision_18_5_HTP" type="mesh" group="3" />
+      <geom mesh="model_collision_19_5_HTP" type="mesh" group="3" />
+      <geom mesh="model_collision_20_5_HTP" type="mesh" group="3" />
+      <geom mesh="model_collision_21_5_HTP" type="mesh" group="3" />
+      <geom mesh="model_collision_22_5_HTP" type="mesh" group="3" />
+      <geom mesh="model_collision_23_5_HTP" type="mesh" group="3" />
+      <geom mesh="model_collision_24_5_HTP" type="mesh" group="3" />
+      <geom mesh="model_collision_25_5_HTP" type="mesh" group="3" />
+      <geom mesh="model_collision_26_5_HTP" type="mesh" group="3" />
+      <geom mesh="model_collision_27_5_HTP" type="mesh" group="3" />
+      <geom mesh="model_collision_28_5_HTP" type="mesh" group="3" />
+      <geom mesh="model_collision_29_5_HTP" type="mesh" group="3" />
+      <geom mesh="model_collision_30_5_HTP" type="mesh" group="3" />
+      <geom mesh="model_collision_31_5_HTP" type="mesh" group="3" />
+    </body>

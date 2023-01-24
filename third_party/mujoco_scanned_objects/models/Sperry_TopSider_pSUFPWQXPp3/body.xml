@@ -1,0 +1,36 @@
+<body childclass="Sperry_TopSider_pSUFPWQXPp3_base" name="Sperry_TopSider_pSUFPWQXPp31">
+        <geom class="Sperry_TopSider_pSUFPWQXPp3_col" name="{geom_name}" type="mesh" mesh="model_Sperry_TopSider_pSUFPWQXPp3" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Sperry_TopSider_pSUFPWQXPp3" mesh="model_Sperry_TopSider_pSUFPWQXPp3" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Sperry_TopSider_pSUFPWQXPp3" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Sperry_TopSider_pSUFPWQXPp3" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Sperry_TopSider_pSUFPWQXPp3" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Sperry_TopSider_pSUFPWQXPp3" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Sperry_TopSider_pSUFPWQXPp3" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Sperry_TopSider_pSUFPWQXPp3" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Sperry_TopSider_pSUFPWQXPp3" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Sperry_TopSider_pSUFPWQXPp3" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Sperry_TopSider_pSUFPWQXPp3" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Sperry_TopSider_pSUFPWQXPp3" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Sperry_TopSider_pSUFPWQXPp3" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Sperry_TopSider_pSUFPWQXPp3" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Sperry_TopSider_pSUFPWQXPp3" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Sperry_TopSider_pSUFPWQXPp3" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Sperry_TopSider_pSUFPWQXPp3" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Sperry_TopSider_pSUFPWQXPp3" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Sperry_TopSider_pSUFPWQXPp3" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Sperry_TopSider_pSUFPWQXPp3" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Sperry_TopSider_pSUFPWQXPp3" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Sperry_TopSider_pSUFPWQXPp3" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Sperry_TopSider_pSUFPWQXPp3" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Sperry_TopSider_pSUFPWQXPp3" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Sperry_TopSider_pSUFPWQXPp3" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Sperry_TopSider_pSUFPWQXPp3" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Sperry_TopSider_pSUFPWQXPp3" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Sperry_TopSider_pSUFPWQXPp3" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Sperry_TopSider_pSUFPWQXPp3" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Sperry_TopSider_pSUFPWQXPp3" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Sperry_TopSider_pSUFPWQXPp3" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Sperry_TopSider_pSUFPWQXPp3" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Sperry_TopSider_pSUFPWQXPp3" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Sperry_TopSider_pSUFPWQXPp3" type="mesh" group="3" />
+    </body>

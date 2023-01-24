@@ -1,0 +1,36 @@
+<body childclass="Beyonc_Life_is_But_a_Dream_DVD_base" name="Beyonc_Life_is_But_a_Dream_DVD1">
+        <geom class="Beyonc_Life_is_But_a_Dream_DVD_col" name="{geom_name}" type="mesh" mesh="model_Beyonc_Life_is_But_a_Dream_DVD" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Beyonc_Life_is_But_a_Dream_DVD" mesh="model_Beyonc_Life_is_But_a_Dream_DVD" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Beyonc_Life_is_But_a_Dream_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Beyonc_Life_is_But_a_Dream_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Beyonc_Life_is_But_a_Dream_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Beyonc_Life_is_But_a_Dream_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Beyonc_Life_is_But_a_Dream_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Beyonc_Life_is_But_a_Dream_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Beyonc_Life_is_But_a_Dream_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Beyonc_Life_is_But_a_Dream_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Beyonc_Life_is_But_a_Dream_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Beyonc_Life_is_But_a_Dream_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Beyonc_Life_is_But_a_Dream_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Beyonc_Life_is_But_a_Dream_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Beyonc_Life_is_But_a_Dream_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Beyonc_Life_is_But_a_Dream_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Beyonc_Life_is_But_a_Dream_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Beyonc_Life_is_But_a_Dream_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Beyonc_Life_is_But_a_Dream_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Beyonc_Life_is_But_a_Dream_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Beyonc_Life_is_But_a_Dream_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Beyonc_Life_is_But_a_Dream_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Beyonc_Life_is_But_a_Dream_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Beyonc_Life_is_But_a_Dream_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Beyonc_Life_is_But_a_Dream_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Beyonc_Life_is_But_a_Dream_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Beyonc_Life_is_But_a_Dream_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Beyonc_Life_is_But_a_Dream_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Beyonc_Life_is_But_a_Dream_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Beyonc_Life_is_But_a_Dream_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Beyonc_Life_is_But_a_Dream_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Beyonc_Life_is_But_a_Dream_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Beyonc_Life_is_But_a_Dream_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Beyonc_Life_is_But_a_Dream_DVD" type="mesh" group="3" />
+    </body>

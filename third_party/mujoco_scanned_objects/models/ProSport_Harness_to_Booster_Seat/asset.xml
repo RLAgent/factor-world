@@ -1,0 +1,38 @@
+<asset>
+    <texture type="2d" name="texture_ProSport_Harness_to_Booster_Seat" file="../../../../../mujoco_scanned_objects/models/ProSport_Harness_to_Booster_Seat/texture.png" />
+    <material name="material_0_ProSport_Harness_to_Booster_Seat" texture="texture_ProSport_Harness_to_Booster_Seat" specular="0.052721333333333335" shininess="4.2704300000000004e-05" />
+    <mesh name="model_ProSport_Harness_to_Booster_Seat" file="../../../../../mujoco_scanned_objects/models/ProSport_Harness_to_Booster_Seat/model.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_0_ProSport_Harness_to_Booster_Seat" file="../../../../../mujoco_scanned_objects/models/ProSport_Harness_to_Booster_Seat/model_collision_0.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_1_ProSport_Harness_to_Booster_Seat" file="../../../../../mujoco_scanned_objects/models/ProSport_Harness_to_Booster_Seat/model_collision_1.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_2_ProSport_Harness_to_Booster_Seat" file="../../../../../mujoco_scanned_objects/models/ProSport_Harness_to_Booster_Seat/model_collision_2.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_3_ProSport_Harness_to_Booster_Seat" file="../../../../../mujoco_scanned_objects/models/ProSport_Harness_to_Booster_Seat/model_collision_3.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_4_ProSport_Harness_to_Booster_Seat" file="../../../../../mujoco_scanned_objects/models/ProSport_Harness_to_Booster_Seat/model_collision_4.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_5_ProSport_Harness_to_Booster_Seat" file="../../../../../mujoco_scanned_objects/models/ProSport_Harness_to_Booster_Seat/model_collision_5.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_6_ProSport_Harness_to_Booster_Seat" file="../../../../../mujoco_scanned_objects/models/ProSport_Harness_to_Booster_Seat/model_collision_6.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_7_ProSport_Harness_to_Booster_Seat" file="../../../../../mujoco_scanned_objects/models/ProSport_Harness_to_Booster_Seat/model_collision_7.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_8_ProSport_Harness_to_Booster_Seat" file="../../../../../mujoco_scanned_objects/models/ProSport_Harness_to_Booster_Seat/model_collision_8.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_9_ProSport_Harness_to_Booster_Seat" file="../../../../../mujoco_scanned_objects/models/ProSport_Harness_to_Booster_Seat/model_collision_9.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_10_ProSport_Harness_to_Booster_Seat" file="../../../../../mujoco_scanned_objects/models/ProSport_Harness_to_Booster_Seat/model_collision_10.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_11_ProSport_Harness_to_Booster_Seat" file="../../../../../mujoco_scanned_objects/models/ProSport_Harness_to_Booster_Seat/model_collision_11.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_12_ProSport_Harness_to_Booster_Seat" file="../../../../../mujoco_scanned_objects/models/ProSport_Harness_to_Booster_Seat/model_collision_12.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_13_ProSport_Harness_to_Booster_Seat" file="../../../../../mujoco_scanned_objects/models/ProSport_Harness_to_Booster_Seat/model_collision_13.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_14_ProSport_Harness_to_Booster_Seat" file="../../../../../mujoco_scanned_objects/models/ProSport_Harness_to_Booster_Seat/model_collision_14.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_15_ProSport_Harness_to_Booster_Seat" file="../../../../../mujoco_scanned_objects/models/ProSport_Harness_to_Booster_Seat/model_collision_15.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_16_ProSport_Harness_to_Booster_Seat" file="../../../../../mujoco_scanned_objects/models/ProSport_Harness_to_Booster_Seat/model_collision_16.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_17_ProSport_Harness_to_Booster_Seat" file="../../../../../mujoco_scanned_objects/models/ProSport_Harness_to_Booster_Seat/model_collision_17.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_18_ProSport_Harness_to_Booster_Seat" file="../../../../../mujoco_scanned_objects/models/ProSport_Harness_to_Booster_Seat/model_collision_18.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_19_ProSport_Harness_to_Booster_Seat" file="../../../../../mujoco_scanned_objects/models/ProSport_Harness_to_Booster_Seat/model_collision_19.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_20_ProSport_Harness_to_Booster_Seat" file="../../../../../mujoco_scanned_objects/models/ProSport_Harness_to_Booster_Seat/model_collision_20.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_21_ProSport_Harness_to_Booster_Seat" file="../../../../../mujoco_scanned_objects/models/ProSport_Harness_to_Booster_Seat/model_collision_21.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_22_ProSport_Harness_to_Booster_Seat" file="../../../../../mujoco_scanned_objects/models/ProSport_Harness_to_Booster_Seat/model_collision_22.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_23_ProSport_Harness_to_Booster_Seat" file="../../../../../mujoco_scanned_objects/models/ProSport_Harness_to_Booster_Seat/model_collision_23.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_24_ProSport_Harness_to_Booster_Seat" file="../../../../../mujoco_scanned_objects/models/ProSport_Harness_to_Booster_Seat/model_collision_24.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_25_ProSport_Harness_to_Booster_Seat" file="../../../../../mujoco_scanned_objects/models/ProSport_Harness_to_Booster_Seat/model_collision_25.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_26_ProSport_Harness_to_Booster_Seat" file="../../../../../mujoco_scanned_objects/models/ProSport_Harness_to_Booster_Seat/model_collision_26.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_27_ProSport_Harness_to_Booster_Seat" file="../../../../../mujoco_scanned_objects/models/ProSport_Harness_to_Booster_Seat/model_collision_27.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_28_ProSport_Harness_to_Booster_Seat" file="../../../../../mujoco_scanned_objects/models/ProSport_Harness_to_Booster_Seat/model_collision_28.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_29_ProSport_Harness_to_Booster_Seat" file="../../../../../mujoco_scanned_objects/models/ProSport_Harness_to_Booster_Seat/model_collision_29.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_30_ProSport_Harness_to_Booster_Seat" file="../../../../../mujoco_scanned_objects/models/ProSport_Harness_to_Booster_Seat/model_collision_30.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_31_ProSport_Harness_to_Booster_Seat" file="../../../../../mujoco_scanned_objects/models/ProSport_Harness_to_Booster_Seat/model_collision_31.stl" scale="{scale} {scale} {scale}" />
+  </asset>
+  

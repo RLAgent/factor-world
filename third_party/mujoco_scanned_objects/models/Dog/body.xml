@@ -1,0 +1,36 @@
+<body childclass="Dog_base" name="Dog1">
+        <geom class="Dog_col" name="{geom_name}" type="mesh" mesh="model_Dog" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Dog" mesh="model_Dog" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Dog" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Dog" type="mesh" group="3" />
+    </body>

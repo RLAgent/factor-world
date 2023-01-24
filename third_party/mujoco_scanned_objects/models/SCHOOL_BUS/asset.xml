@@ -1,0 +1,38 @@
+<asset>
+    <texture type="2d" name="texture_SCHOOL_BUS" file="../../../../../mujoco_scanned_objects/models/SCHOOL_BUS/texture.png" />
+    <material name="material_0_SCHOOL_BUS" texture="texture_SCHOOL_BUS" specular="0.5" shininess="0.5" />
+    <mesh name="model_SCHOOL_BUS" file="../../../../../mujoco_scanned_objects/models/SCHOOL_BUS/model.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_0_SCHOOL_BUS" file="../../../../../mujoco_scanned_objects/models/SCHOOL_BUS/model_collision_0.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_1_SCHOOL_BUS" file="../../../../../mujoco_scanned_objects/models/SCHOOL_BUS/model_collision_1.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_2_SCHOOL_BUS" file="../../../../../mujoco_scanned_objects/models/SCHOOL_BUS/model_collision_2.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_3_SCHOOL_BUS" file="../../../../../mujoco_scanned_objects/models/SCHOOL_BUS/model_collision_3.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_4_SCHOOL_BUS" file="../../../../../mujoco_scanned_objects/models/SCHOOL_BUS/model_collision_4.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_5_SCHOOL_BUS" file="../../../../../mujoco_scanned_objects/models/SCHOOL_BUS/model_collision_5.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_6_SCHOOL_BUS" file="../../../../../mujoco_scanned_objects/models/SCHOOL_BUS/model_collision_6.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_7_SCHOOL_BUS" file="../../../../../mujoco_scanned_objects/models/SCHOOL_BUS/model_collision_7.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_8_SCHOOL_BUS" file="../../../../../mujoco_scanned_objects/models/SCHOOL_BUS/model_collision_8.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_9_SCHOOL_BUS" file="../../../../../mujoco_scanned_objects/models/SCHOOL_BUS/model_collision_9.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_10_SCHOOL_BUS" file="../../../../../mujoco_scanned_objects/models/SCHOOL_BUS/model_collision_10.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_11_SCHOOL_BUS" file="../../../../../mujoco_scanned_objects/models/SCHOOL_BUS/model_collision_11.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_12_SCHOOL_BUS" file="../../../../../mujoco_scanned_objects/models/SCHOOL_BUS/model_collision_12.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_13_SCHOOL_BUS" file="../../../../../mujoco_scanned_objects/models/SCHOOL_BUS/model_collision_13.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_14_SCHOOL_BUS" file="../../../../../mujoco_scanned_objects/models/SCHOOL_BUS/model_collision_14.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_15_SCHOOL_BUS" file="../../../../../mujoco_scanned_objects/models/SCHOOL_BUS/model_collision_15.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_16_SCHOOL_BUS" file="../../../../../mujoco_scanned_objects/models/SCHOOL_BUS/model_collision_16.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_17_SCHOOL_BUS" file="../../../../../mujoco_scanned_objects/models/SCHOOL_BUS/model_collision_17.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_18_SCHOOL_BUS" file="../../../../../mujoco_scanned_objects/models/SCHOOL_BUS/model_collision_18.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_19_SCHOOL_BUS" file="../../../../../mujoco_scanned_objects/models/SCHOOL_BUS/model_collision_19.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_20_SCHOOL_BUS" file="../../../../../mujoco_scanned_objects/models/SCHOOL_BUS/model_collision_20.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_21_SCHOOL_BUS" file="../../../../../mujoco_scanned_objects/models/SCHOOL_BUS/model_collision_21.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_22_SCHOOL_BUS" file="../../../../../mujoco_scanned_objects/models/SCHOOL_BUS/model_collision_22.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_23_SCHOOL_BUS" file="../../../../../mujoco_scanned_objects/models/SCHOOL_BUS/model_collision_23.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_24_SCHOOL_BUS" file="../../../../../mujoco_scanned_objects/models/SCHOOL_BUS/model_collision_24.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_25_SCHOOL_BUS" file="../../../../../mujoco_scanned_objects/models/SCHOOL_BUS/model_collision_25.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_26_SCHOOL_BUS" file="../../../../../mujoco_scanned_objects/models/SCHOOL_BUS/model_collision_26.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_27_SCHOOL_BUS" file="../../../../../mujoco_scanned_objects/models/SCHOOL_BUS/model_collision_27.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_28_SCHOOL_BUS" file="../../../../../mujoco_scanned_objects/models/SCHOOL_BUS/model_collision_28.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_29_SCHOOL_BUS" file="../../../../../mujoco_scanned_objects/models/SCHOOL_BUS/model_collision_29.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_30_SCHOOL_BUS" file="../../../../../mujoco_scanned_objects/models/SCHOOL_BUS/model_collision_30.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_31_SCHOOL_BUS" file="../../../../../mujoco_scanned_objects/models/SCHOOL_BUS/model_collision_31.stl" scale="{scale} {scale} {scale}" />
+  </asset>
+  

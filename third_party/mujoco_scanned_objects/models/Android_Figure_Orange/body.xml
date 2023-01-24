@@ -1,0 +1,36 @@
+<body childclass="Android_Figure_Orange_base" name="Android_Figure_Orange1">
+        <geom class="Android_Figure_Orange_col" name="{geom_name}" type="mesh" mesh="model_Android_Figure_Orange" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Android_Figure_Orange" mesh="model_Android_Figure_Orange" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Android_Figure_Orange" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Android_Figure_Orange" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Android_Figure_Orange" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Android_Figure_Orange" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Android_Figure_Orange" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Android_Figure_Orange" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Android_Figure_Orange" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Android_Figure_Orange" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Android_Figure_Orange" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Android_Figure_Orange" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Android_Figure_Orange" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Android_Figure_Orange" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Android_Figure_Orange" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Android_Figure_Orange" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Android_Figure_Orange" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Android_Figure_Orange" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Android_Figure_Orange" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Android_Figure_Orange" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Android_Figure_Orange" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Android_Figure_Orange" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Android_Figure_Orange" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Android_Figure_Orange" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Android_Figure_Orange" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Android_Figure_Orange" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Android_Figure_Orange" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Android_Figure_Orange" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Android_Figure_Orange" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Android_Figure_Orange" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Android_Figure_Orange" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Android_Figure_Orange" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Android_Figure_Orange" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Android_Figure_Orange" type="mesh" group="3" />
+    </body>

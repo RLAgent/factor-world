@@ -1,0 +1,36 @@
+<body childclass="SpiderMan_Titan_Hero_12Inch_Action_Figure_5Hnn4mtkFsP_base" name="SpiderMan_Titan_Hero_12Inch_Action_Figure_5Hnn4mtkFsP1">
+        <geom class="SpiderMan_Titan_Hero_12Inch_Action_Figure_5Hnn4mtkFsP_col" name="{geom_name}" type="mesh" mesh="model_SpiderMan_Titan_Hero_12Inch_Action_Figure_5Hnn4mtkFsP" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_SpiderMan_Titan_Hero_12Inch_Action_Figure_5Hnn4mtkFsP" mesh="model_SpiderMan_Titan_Hero_12Inch_Action_Figure_5Hnn4mtkFsP" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_SpiderMan_Titan_Hero_12Inch_Action_Figure_5Hnn4mtkFsP" type="mesh" group="3" />
+      <geom mesh="model_collision_1_SpiderMan_Titan_Hero_12Inch_Action_Figure_5Hnn4mtkFsP" type="mesh" group="3" />
+      <geom mesh="model_collision_2_SpiderMan_Titan_Hero_12Inch_Action_Figure_5Hnn4mtkFsP" type="mesh" group="3" />
+      <geom mesh="model_collision_3_SpiderMan_Titan_Hero_12Inch_Action_Figure_5Hnn4mtkFsP" type="mesh" group="3" />
+      <geom mesh="model_collision_4_SpiderMan_Titan_Hero_12Inch_Action_Figure_5Hnn4mtkFsP" type="mesh" group="3" />
+      <geom mesh="model_collision_5_SpiderMan_Titan_Hero_12Inch_Action_Figure_5Hnn4mtkFsP" type="mesh" group="3" />
+      <geom mesh="model_collision_6_SpiderMan_Titan_Hero_12Inch_Action_Figure_5Hnn4mtkFsP" type="mesh" group="3" />
+      <geom mesh="model_collision_7_SpiderMan_Titan_Hero_12Inch_Action_Figure_5Hnn4mtkFsP" type="mesh" group="3" />
+      <geom mesh="model_collision_8_SpiderMan_Titan_Hero_12Inch_Action_Figure_5Hnn4mtkFsP" type="mesh" group="3" />
+      <geom mesh="model_collision_9_SpiderMan_Titan_Hero_12Inch_Action_Figure_5Hnn4mtkFsP" type="mesh" group="3" />
+      <geom mesh="model_collision_10_SpiderMan_Titan_Hero_12Inch_Action_Figure_5Hnn4mtkFsP" type="mesh" group="3" />
+      <geom mesh="model_collision_11_SpiderMan_Titan_Hero_12Inch_Action_Figure_5Hnn4mtkFsP" type="mesh" group="3" />
+      <geom mesh="model_collision_12_SpiderMan_Titan_Hero_12Inch_Action_Figure_5Hnn4mtkFsP" type="mesh" group="3" />
+      <geom mesh="model_collision_13_SpiderMan_Titan_Hero_12Inch_Action_Figure_5Hnn4mtkFsP" type="mesh" group="3" />
+      <geom mesh="model_collision_14_SpiderMan_Titan_Hero_12Inch_Action_Figure_5Hnn4mtkFsP" type="mesh" group="3" />
+      <geom mesh="model_collision_15_SpiderMan_Titan_Hero_12Inch_Action_Figure_5Hnn4mtkFsP" type="mesh" group="3" />
+      <geom mesh="model_collision_16_SpiderMan_Titan_Hero_12Inch_Action_Figure_5Hnn4mtkFsP" type="mesh" group="3" />
+      <geom mesh="model_collision_17_SpiderMan_Titan_Hero_12Inch_Action_Figure_5Hnn4mtkFsP" type="mesh" group="3" />
+      <geom mesh="model_collision_18_SpiderMan_Titan_Hero_12Inch_Action_Figure_5Hnn4mtkFsP" type="mesh" group="3" />
+      <geom mesh="model_collision_19_SpiderMan_Titan_Hero_12Inch_Action_Figure_5Hnn4mtkFsP" type="mesh" group="3" />
+      <geom mesh="model_collision_20_SpiderMan_Titan_Hero_12Inch_Action_Figure_5Hnn4mtkFsP" type="mesh" group="3" />
+      <geom mesh="model_collision_21_SpiderMan_Titan_Hero_12Inch_Action_Figure_5Hnn4mtkFsP" type="mesh" group="3" />
+      <geom mesh="model_collision_22_SpiderMan_Titan_Hero_12Inch_Action_Figure_5Hnn4mtkFsP" type="mesh" group="3" />
+      <geom mesh="model_collision_23_SpiderMan_Titan_Hero_12Inch_Action_Figure_5Hnn4mtkFsP" type="mesh" group="3" />
+      <geom mesh="model_collision_24_SpiderMan_Titan_Hero_12Inch_Action_Figure_5Hnn4mtkFsP" type="mesh" group="3" />
+      <geom mesh="model_collision_25_SpiderMan_Titan_Hero_12Inch_Action_Figure_5Hnn4mtkFsP" type="mesh" group="3" />
+      <geom mesh="model_collision_26_SpiderMan_Titan_Hero_12Inch_Action_Figure_5Hnn4mtkFsP" type="mesh" group="3" />
+      <geom mesh="model_collision_27_SpiderMan_Titan_Hero_12Inch_Action_Figure_5Hnn4mtkFsP" type="mesh" group="3" />
+      <geom mesh="model_collision_28_SpiderMan_Titan_Hero_12Inch_Action_Figure_5Hnn4mtkFsP" type="mesh" group="3" />
+      <geom mesh="model_collision_29_SpiderMan_Titan_Hero_12Inch_Action_Figure_5Hnn4mtkFsP" type="mesh" group="3" />
+      <geom mesh="model_collision_30_SpiderMan_Titan_Hero_12Inch_Action_Figure_5Hnn4mtkFsP" type="mesh" group="3" />
+      <geom mesh="model_collision_31_SpiderMan_Titan_Hero_12Inch_Action_Figure_5Hnn4mtkFsP" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="OVAL_XYLOPHONE_base" name="OVAL_XYLOPHONE1">
+        <geom class="OVAL_XYLOPHONE_col" name="{geom_name}" type="mesh" mesh="model_OVAL_XYLOPHONE" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_OVAL_XYLOPHONE" mesh="model_OVAL_XYLOPHONE" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_OVAL_XYLOPHONE" type="mesh" group="3" />
+      <geom mesh="model_collision_1_OVAL_XYLOPHONE" type="mesh" group="3" />
+      <geom mesh="model_collision_2_OVAL_XYLOPHONE" type="mesh" group="3" />
+      <geom mesh="model_collision_3_OVAL_XYLOPHONE" type="mesh" group="3" />
+      <geom mesh="model_collision_4_OVAL_XYLOPHONE" type="mesh" group="3" />
+      <geom mesh="model_collision_5_OVAL_XYLOPHONE" type="mesh" group="3" />
+      <geom mesh="model_collision_6_OVAL_XYLOPHONE" type="mesh" group="3" />
+      <geom mesh="model_collision_7_OVAL_XYLOPHONE" type="mesh" group="3" />
+      <geom mesh="model_collision_8_OVAL_XYLOPHONE" type="mesh" group="3" />
+      <geom mesh="model_collision_9_OVAL_XYLOPHONE" type="mesh" group="3" />
+      <geom mesh="model_collision_10_OVAL_XYLOPHONE" type="mesh" group="3" />
+      <geom mesh="model_collision_11_OVAL_XYLOPHONE" type="mesh" group="3" />
+      <geom mesh="model_collision_12_OVAL_XYLOPHONE" type="mesh" group="3" />
+      <geom mesh="model_collision_13_OVAL_XYLOPHONE" type="mesh" group="3" />
+      <geom mesh="model_collision_14_OVAL_XYLOPHONE" type="mesh" group="3" />
+      <geom mesh="model_collision_15_OVAL_XYLOPHONE" type="mesh" group="3" />
+      <geom mesh="model_collision_16_OVAL_XYLOPHONE" type="mesh" group="3" />
+      <geom mesh="model_collision_17_OVAL_XYLOPHONE" type="mesh" group="3" />
+      <geom mesh="model_collision_18_OVAL_XYLOPHONE" type="mesh" group="3" />
+      <geom mesh="model_collision_19_OVAL_XYLOPHONE" type="mesh" group="3" />
+      <geom mesh="model_collision_20_OVAL_XYLOPHONE" type="mesh" group="3" />
+      <geom mesh="model_collision_21_OVAL_XYLOPHONE" type="mesh" group="3" />
+      <geom mesh="model_collision_22_OVAL_XYLOPHONE" type="mesh" group="3" />
+      <geom mesh="model_collision_23_OVAL_XYLOPHONE" type="mesh" group="3" />
+      <geom mesh="model_collision_24_OVAL_XYLOPHONE" type="mesh" group="3" />
+      <geom mesh="model_collision_25_OVAL_XYLOPHONE" type="mesh" group="3" />
+      <geom mesh="model_collision_26_OVAL_XYLOPHONE" type="mesh" group="3" />
+      <geom mesh="model_collision_27_OVAL_XYLOPHONE" type="mesh" group="3" />
+      <geom mesh="model_collision_28_OVAL_XYLOPHONE" type="mesh" group="3" />
+      <geom mesh="model_collision_29_OVAL_XYLOPHONE" type="mesh" group="3" />
+      <geom mesh="model_collision_30_OVAL_XYLOPHONE" type="mesh" group="3" />
+      <geom mesh="model_collision_31_OVAL_XYLOPHONE" type="mesh" group="3" />
+    </body>

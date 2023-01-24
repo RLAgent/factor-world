@@ -1,0 +1,36 @@
+<body childclass="Beetle_Adventure_Racing_Nintendo_64_base" name="Beetle_Adventure_Racing_Nintendo_641">
+        <geom class="Beetle_Adventure_Racing_Nintendo_64_col" name="{geom_name}" type="mesh" mesh="model_Beetle_Adventure_Racing_Nintendo_64" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Beetle_Adventure_Racing_Nintendo_64" mesh="model_Beetle_Adventure_Racing_Nintendo_64" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Beetle_Adventure_Racing_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Beetle_Adventure_Racing_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Beetle_Adventure_Racing_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Beetle_Adventure_Racing_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Beetle_Adventure_Racing_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Beetle_Adventure_Racing_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Beetle_Adventure_Racing_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Beetle_Adventure_Racing_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Beetle_Adventure_Racing_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Beetle_Adventure_Racing_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Beetle_Adventure_Racing_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Beetle_Adventure_Racing_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Beetle_Adventure_Racing_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Beetle_Adventure_Racing_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Beetle_Adventure_Racing_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Beetle_Adventure_Racing_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Beetle_Adventure_Racing_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Beetle_Adventure_Racing_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Beetle_Adventure_Racing_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Beetle_Adventure_Racing_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Beetle_Adventure_Racing_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Beetle_Adventure_Racing_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Beetle_Adventure_Racing_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Beetle_Adventure_Racing_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Beetle_Adventure_Racing_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Beetle_Adventure_Racing_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Beetle_Adventure_Racing_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Beetle_Adventure_Racing_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Beetle_Adventure_Racing_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Beetle_Adventure_Racing_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Beetle_Adventure_Racing_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Beetle_Adventure_Racing_Nintendo_64" type="mesh" group="3" />
+    </body>

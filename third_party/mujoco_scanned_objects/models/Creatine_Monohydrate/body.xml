@@ -1,0 +1,36 @@
+<body childclass="Creatine_Monohydrate_base" name="Creatine_Monohydrate1">
+        <geom class="Creatine_Monohydrate_col" name="{geom_name}" type="mesh" mesh="model_Creatine_Monohydrate" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Creatine_Monohydrate" mesh="model_Creatine_Monohydrate" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Creatine_Monohydrate" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Creatine_Monohydrate" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Creatine_Monohydrate" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Creatine_Monohydrate" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Creatine_Monohydrate" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Creatine_Monohydrate" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Creatine_Monohydrate" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Creatine_Monohydrate" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Creatine_Monohydrate" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Creatine_Monohydrate" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Creatine_Monohydrate" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Creatine_Monohydrate" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Creatine_Monohydrate" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Creatine_Monohydrate" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Creatine_Monohydrate" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Creatine_Monohydrate" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Creatine_Monohydrate" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Creatine_Monohydrate" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Creatine_Monohydrate" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Creatine_Monohydrate" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Creatine_Monohydrate" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Creatine_Monohydrate" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Creatine_Monohydrate" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Creatine_Monohydrate" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Creatine_Monohydrate" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Creatine_Monohydrate" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Creatine_Monohydrate" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Creatine_Monohydrate" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Creatine_Monohydrate" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Creatine_Monohydrate" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Creatine_Monohydrate" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Creatine_Monohydrate" type="mesh" group="3" />
+    </body>

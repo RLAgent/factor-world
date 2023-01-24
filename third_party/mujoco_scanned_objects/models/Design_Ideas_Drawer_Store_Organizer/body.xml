@@ -1,0 +1,36 @@
+<body childclass="Design_Ideas_Drawer_Store_Organizer_base" name="Design_Ideas_Drawer_Store_Organizer1">
+        <geom class="Design_Ideas_Drawer_Store_Organizer_col" name="{geom_name}" type="mesh" mesh="model_Design_Ideas_Drawer_Store_Organizer" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Design_Ideas_Drawer_Store_Organizer" mesh="model_Design_Ideas_Drawer_Store_Organizer" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Design_Ideas_Drawer_Store_Organizer" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Design_Ideas_Drawer_Store_Organizer" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Design_Ideas_Drawer_Store_Organizer" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Design_Ideas_Drawer_Store_Organizer" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Design_Ideas_Drawer_Store_Organizer" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Design_Ideas_Drawer_Store_Organizer" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Design_Ideas_Drawer_Store_Organizer" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Design_Ideas_Drawer_Store_Organizer" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Design_Ideas_Drawer_Store_Organizer" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Design_Ideas_Drawer_Store_Organizer" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Design_Ideas_Drawer_Store_Organizer" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Design_Ideas_Drawer_Store_Organizer" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Design_Ideas_Drawer_Store_Organizer" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Design_Ideas_Drawer_Store_Organizer" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Design_Ideas_Drawer_Store_Organizer" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Design_Ideas_Drawer_Store_Organizer" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Design_Ideas_Drawer_Store_Organizer" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Design_Ideas_Drawer_Store_Organizer" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Design_Ideas_Drawer_Store_Organizer" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Design_Ideas_Drawer_Store_Organizer" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Design_Ideas_Drawer_Store_Organizer" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Design_Ideas_Drawer_Store_Organizer" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Design_Ideas_Drawer_Store_Organizer" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Design_Ideas_Drawer_Store_Organizer" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Design_Ideas_Drawer_Store_Organizer" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Design_Ideas_Drawer_Store_Organizer" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Design_Ideas_Drawer_Store_Organizer" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Design_Ideas_Drawer_Store_Organizer" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Design_Ideas_Drawer_Store_Organizer" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Design_Ideas_Drawer_Store_Organizer" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Design_Ideas_Drawer_Store_Organizer" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Design_Ideas_Drawer_Store_Organizer" type="mesh" group="3" />
+    </body>

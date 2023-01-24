@@ -1,0 +1,36 @@
+<body childclass="Chelsea_BlkHeelPMP_DwxLtZNxLZZ_base" name="Chelsea_BlkHeelPMP_DwxLtZNxLZZ1">
+        <geom class="Chelsea_BlkHeelPMP_DwxLtZNxLZZ_col" name="{geom_name}" type="mesh" mesh="model_Chelsea_BlkHeelPMP_DwxLtZNxLZZ" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Chelsea_BlkHeelPMP_DwxLtZNxLZZ" mesh="model_Chelsea_BlkHeelPMP_DwxLtZNxLZZ" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Chelsea_BlkHeelPMP_DwxLtZNxLZZ" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Chelsea_BlkHeelPMP_DwxLtZNxLZZ" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Chelsea_BlkHeelPMP_DwxLtZNxLZZ" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Chelsea_BlkHeelPMP_DwxLtZNxLZZ" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Chelsea_BlkHeelPMP_DwxLtZNxLZZ" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Chelsea_BlkHeelPMP_DwxLtZNxLZZ" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Chelsea_BlkHeelPMP_DwxLtZNxLZZ" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Chelsea_BlkHeelPMP_DwxLtZNxLZZ" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Chelsea_BlkHeelPMP_DwxLtZNxLZZ" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Chelsea_BlkHeelPMP_DwxLtZNxLZZ" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Chelsea_BlkHeelPMP_DwxLtZNxLZZ" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Chelsea_BlkHeelPMP_DwxLtZNxLZZ" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Chelsea_BlkHeelPMP_DwxLtZNxLZZ" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Chelsea_BlkHeelPMP_DwxLtZNxLZZ" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Chelsea_BlkHeelPMP_DwxLtZNxLZZ" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Chelsea_BlkHeelPMP_DwxLtZNxLZZ" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Chelsea_BlkHeelPMP_DwxLtZNxLZZ" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Chelsea_BlkHeelPMP_DwxLtZNxLZZ" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Chelsea_BlkHeelPMP_DwxLtZNxLZZ" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Chelsea_BlkHeelPMP_DwxLtZNxLZZ" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Chelsea_BlkHeelPMP_DwxLtZNxLZZ" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Chelsea_BlkHeelPMP_DwxLtZNxLZZ" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Chelsea_BlkHeelPMP_DwxLtZNxLZZ" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Chelsea_BlkHeelPMP_DwxLtZNxLZZ" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Chelsea_BlkHeelPMP_DwxLtZNxLZZ" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Chelsea_BlkHeelPMP_DwxLtZNxLZZ" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Chelsea_BlkHeelPMP_DwxLtZNxLZZ" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Chelsea_BlkHeelPMP_DwxLtZNxLZZ" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Chelsea_BlkHeelPMP_DwxLtZNxLZZ" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Chelsea_BlkHeelPMP_DwxLtZNxLZZ" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Chelsea_BlkHeelPMP_DwxLtZNxLZZ" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Chelsea_BlkHeelPMP_DwxLtZNxLZZ" type="mesh" group="3" />
+    </body>

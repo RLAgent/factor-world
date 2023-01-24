@@ -1,0 +1,36 @@
+<body childclass="Baby_Elements_Stacking_Cups_base" name="Baby_Elements_Stacking_Cups1">
+        <geom class="Baby_Elements_Stacking_Cups_col" name="{geom_name}" type="mesh" mesh="model_Baby_Elements_Stacking_Cups" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Baby_Elements_Stacking_Cups" mesh="model_Baby_Elements_Stacking_Cups" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Baby_Elements_Stacking_Cups" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Baby_Elements_Stacking_Cups" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Baby_Elements_Stacking_Cups" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Baby_Elements_Stacking_Cups" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Baby_Elements_Stacking_Cups" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Baby_Elements_Stacking_Cups" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Baby_Elements_Stacking_Cups" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Baby_Elements_Stacking_Cups" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Baby_Elements_Stacking_Cups" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Baby_Elements_Stacking_Cups" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Baby_Elements_Stacking_Cups" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Baby_Elements_Stacking_Cups" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Baby_Elements_Stacking_Cups" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Baby_Elements_Stacking_Cups" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Baby_Elements_Stacking_Cups" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Baby_Elements_Stacking_Cups" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Baby_Elements_Stacking_Cups" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Baby_Elements_Stacking_Cups" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Baby_Elements_Stacking_Cups" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Baby_Elements_Stacking_Cups" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Baby_Elements_Stacking_Cups" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Baby_Elements_Stacking_Cups" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Baby_Elements_Stacking_Cups" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Baby_Elements_Stacking_Cups" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Baby_Elements_Stacking_Cups" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Baby_Elements_Stacking_Cups" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Baby_Elements_Stacking_Cups" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Baby_Elements_Stacking_Cups" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Baby_Elements_Stacking_Cups" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Baby_Elements_Stacking_Cups" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Baby_Elements_Stacking_Cups" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Baby_Elements_Stacking_Cups" type="mesh" group="3" />
+    </body>

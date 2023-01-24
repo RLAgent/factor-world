@@ -1,0 +1,38 @@
+<asset>
+    <texture type="2d" name="texture_Pony_C_Clamp_1440" file="../../../../../mujoco_scanned_objects/models/Pony_C_Clamp_1440/texture.png" />
+    <material name="material_0_Pony_C_Clamp_1440" texture="texture_Pony_C_Clamp_1440" specular="0.5" shininess="0.5" />
+    <mesh name="model_Pony_C_Clamp_1440" file="../../../../../mujoco_scanned_objects/models/Pony_C_Clamp_1440/model.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_0_Pony_C_Clamp_1440" file="../../../../../mujoco_scanned_objects/models/Pony_C_Clamp_1440/model_collision_0.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_1_Pony_C_Clamp_1440" file="../../../../../mujoco_scanned_objects/models/Pony_C_Clamp_1440/model_collision_1.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_2_Pony_C_Clamp_1440" file="../../../../../mujoco_scanned_objects/models/Pony_C_Clamp_1440/model_collision_2.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_3_Pony_C_Clamp_1440" file="../../../../../mujoco_scanned_objects/models/Pony_C_Clamp_1440/model_collision_3.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_4_Pony_C_Clamp_1440" file="../../../../../mujoco_scanned_objects/models/Pony_C_Clamp_1440/model_collision_4.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_5_Pony_C_Clamp_1440" file="../../../../../mujoco_scanned_objects/models/Pony_C_Clamp_1440/model_collision_5.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_6_Pony_C_Clamp_1440" file="../../../../../mujoco_scanned_objects/models/Pony_C_Clamp_1440/model_collision_6.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_7_Pony_C_Clamp_1440" file="../../../../../mujoco_scanned_objects/models/Pony_C_Clamp_1440/model_collision_7.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_8_Pony_C_Clamp_1440" file="../../../../../mujoco_scanned_objects/models/Pony_C_Clamp_1440/model_collision_8.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_9_Pony_C_Clamp_1440" file="../../../../../mujoco_scanned_objects/models/Pony_C_Clamp_1440/model_collision_9.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_10_Pony_C_Clamp_1440" file="../../../../../mujoco_scanned_objects/models/Pony_C_Clamp_1440/model_collision_10.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_11_Pony_C_Clamp_1440" file="../../../../../mujoco_scanned_objects/models/Pony_C_Clamp_1440/model_collision_11.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_12_Pony_C_Clamp_1440" file="../../../../../mujoco_scanned_objects/models/Pony_C_Clamp_1440/model_collision_12.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_13_Pony_C_Clamp_1440" file="../../../../../mujoco_scanned_objects/models/Pony_C_Clamp_1440/model_collision_13.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_14_Pony_C_Clamp_1440" file="../../../../../mujoco_scanned_objects/models/Pony_C_Clamp_1440/model_collision_14.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_15_Pony_C_Clamp_1440" file="../../../../../mujoco_scanned_objects/models/Pony_C_Clamp_1440/model_collision_15.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_16_Pony_C_Clamp_1440" file="../../../../../mujoco_scanned_objects/models/Pony_C_Clamp_1440/model_collision_16.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_17_Pony_C_Clamp_1440" file="../../../../../mujoco_scanned_objects/models/Pony_C_Clamp_1440/model_collision_17.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_18_Pony_C_Clamp_1440" file="../../../../../mujoco_scanned_objects/models/Pony_C_Clamp_1440/model_collision_18.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_19_Pony_C_Clamp_1440" file="../../../../../mujoco_scanned_objects/models/Pony_C_Clamp_1440/model_collision_19.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_20_Pony_C_Clamp_1440" file="../../../../../mujoco_scanned_objects/models/Pony_C_Clamp_1440/model_collision_20.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_21_Pony_C_Clamp_1440" file="../../../../../mujoco_scanned_objects/models/Pony_C_Clamp_1440/model_collision_21.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_22_Pony_C_Clamp_1440" file="../../../../../mujoco_scanned_objects/models/Pony_C_Clamp_1440/model_collision_22.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_23_Pony_C_Clamp_1440" file="../../../../../mujoco_scanned_objects/models/Pony_C_Clamp_1440/model_collision_23.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_24_Pony_C_Clamp_1440" file="../../../../../mujoco_scanned_objects/models/Pony_C_Clamp_1440/model_collision_24.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_25_Pony_C_Clamp_1440" file="../../../../../mujoco_scanned_objects/models/Pony_C_Clamp_1440/model_collision_25.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_26_Pony_C_Clamp_1440" file="../../../../../mujoco_scanned_objects/models/Pony_C_Clamp_1440/model_collision_26.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_27_Pony_C_Clamp_1440" file="../../../../../mujoco_scanned_objects/models/Pony_C_Clamp_1440/model_collision_27.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_28_Pony_C_Clamp_1440" file="../../../../../mujoco_scanned_objects/models/Pony_C_Clamp_1440/model_collision_28.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_29_Pony_C_Clamp_1440" file="../../../../../mujoco_scanned_objects/models/Pony_C_Clamp_1440/model_collision_29.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_30_Pony_C_Clamp_1440" file="../../../../../mujoco_scanned_objects/models/Pony_C_Clamp_1440/model_collision_30.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_31_Pony_C_Clamp_1440" file="../../../../../mujoco_scanned_objects/models/Pony_C_Clamp_1440/model_collision_31.stl" scale="{scale} {scale} {scale}" />
+  </asset>
+  

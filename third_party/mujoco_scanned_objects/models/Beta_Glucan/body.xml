@@ -1,0 +1,36 @@
+<body childclass="Beta_Glucan_base" name="Beta_Glucan1">
+        <geom class="Beta_Glucan_col" name="{geom_name}" type="mesh" mesh="model_Beta_Glucan" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Beta_Glucan" mesh="model_Beta_Glucan" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Beta_Glucan" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Beta_Glucan" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Beta_Glucan" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Beta_Glucan" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Beta_Glucan" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Beta_Glucan" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Beta_Glucan" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Beta_Glucan" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Beta_Glucan" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Beta_Glucan" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Beta_Glucan" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Beta_Glucan" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Beta_Glucan" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Beta_Glucan" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Beta_Glucan" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Beta_Glucan" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Beta_Glucan" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Beta_Glucan" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Beta_Glucan" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Beta_Glucan" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Beta_Glucan" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Beta_Glucan" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Beta_Glucan" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Beta_Glucan" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Beta_Glucan" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Beta_Glucan" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Beta_Glucan" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Beta_Glucan" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Beta_Glucan" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Beta_Glucan" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Beta_Glucan" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Beta_Glucan" type="mesh" group="3" />
+    </body>

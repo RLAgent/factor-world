@@ -1,0 +1,36 @@
+<body childclass="CHILDRENS_ROOM_NEO_base" name="CHILDRENS_ROOM_NEO1">
+        <geom class="CHILDRENS_ROOM_NEO_col" name="{geom_name}" type="mesh" mesh="model_CHILDRENS_ROOM_NEO" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_CHILDRENS_ROOM_NEO" mesh="model_CHILDRENS_ROOM_NEO" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_CHILDRENS_ROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_1_CHILDRENS_ROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_2_CHILDRENS_ROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_3_CHILDRENS_ROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_4_CHILDRENS_ROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_5_CHILDRENS_ROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_6_CHILDRENS_ROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_7_CHILDRENS_ROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_8_CHILDRENS_ROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_9_CHILDRENS_ROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_10_CHILDRENS_ROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_11_CHILDRENS_ROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_12_CHILDRENS_ROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_13_CHILDRENS_ROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_14_CHILDRENS_ROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_15_CHILDRENS_ROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_16_CHILDRENS_ROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_17_CHILDRENS_ROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_18_CHILDRENS_ROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_19_CHILDRENS_ROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_20_CHILDRENS_ROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_21_CHILDRENS_ROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_22_CHILDRENS_ROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_23_CHILDRENS_ROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_24_CHILDRENS_ROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_25_CHILDRENS_ROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_26_CHILDRENS_ROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_27_CHILDRENS_ROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_28_CHILDRENS_ROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_29_CHILDRENS_ROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_30_CHILDRENS_ROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_31_CHILDRENS_ROOM_NEO" type="mesh" group="3" />
+    </body>

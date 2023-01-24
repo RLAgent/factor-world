@@ -1,0 +1,36 @@
+<body childclass="Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total_base" name="Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total1">
+        <geom class="Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total_col" name="{geom_name}" type="mesh" mesh="model_Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total" mesh="model_Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="Leap_Frog_Paint_Dabber_Dot_Art_5_paint_bottles_base" name="Leap_Frog_Paint_Dabber_Dot_Art_5_paint_bottles1">
+        <geom class="Leap_Frog_Paint_Dabber_Dot_Art_5_paint_bottles_col" name="{geom_name}" type="mesh" mesh="model_Leap_Frog_Paint_Dabber_Dot_Art_5_paint_bottles" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Leap_Frog_Paint_Dabber_Dot_Art_5_paint_bottles" mesh="model_Leap_Frog_Paint_Dabber_Dot_Art_5_paint_bottles" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Leap_Frog_Paint_Dabber_Dot_Art_5_paint_bottles" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Leap_Frog_Paint_Dabber_Dot_Art_5_paint_bottles" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Leap_Frog_Paint_Dabber_Dot_Art_5_paint_bottles" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Leap_Frog_Paint_Dabber_Dot_Art_5_paint_bottles" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Leap_Frog_Paint_Dabber_Dot_Art_5_paint_bottles" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Leap_Frog_Paint_Dabber_Dot_Art_5_paint_bottles" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Leap_Frog_Paint_Dabber_Dot_Art_5_paint_bottles" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Leap_Frog_Paint_Dabber_Dot_Art_5_paint_bottles" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Leap_Frog_Paint_Dabber_Dot_Art_5_paint_bottles" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Leap_Frog_Paint_Dabber_Dot_Art_5_paint_bottles" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Leap_Frog_Paint_Dabber_Dot_Art_5_paint_bottles" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Leap_Frog_Paint_Dabber_Dot_Art_5_paint_bottles" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Leap_Frog_Paint_Dabber_Dot_Art_5_paint_bottles" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Leap_Frog_Paint_Dabber_Dot_Art_5_paint_bottles" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Leap_Frog_Paint_Dabber_Dot_Art_5_paint_bottles" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Leap_Frog_Paint_Dabber_Dot_Art_5_paint_bottles" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Leap_Frog_Paint_Dabber_Dot_Art_5_paint_bottles" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Leap_Frog_Paint_Dabber_Dot_Art_5_paint_bottles" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Leap_Frog_Paint_Dabber_Dot_Art_5_paint_bottles" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Leap_Frog_Paint_Dabber_Dot_Art_5_paint_bottles" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Leap_Frog_Paint_Dabber_Dot_Art_5_paint_bottles" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Leap_Frog_Paint_Dabber_Dot_Art_5_paint_bottles" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Leap_Frog_Paint_Dabber_Dot_Art_5_paint_bottles" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Leap_Frog_Paint_Dabber_Dot_Art_5_paint_bottles" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Leap_Frog_Paint_Dabber_Dot_Art_5_paint_bottles" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Leap_Frog_Paint_Dabber_Dot_Art_5_paint_bottles" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Leap_Frog_Paint_Dabber_Dot_Art_5_paint_bottles" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Leap_Frog_Paint_Dabber_Dot_Art_5_paint_bottles" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Leap_Frog_Paint_Dabber_Dot_Art_5_paint_bottles" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Leap_Frog_Paint_Dabber_Dot_Art_5_paint_bottles" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Leap_Frog_Paint_Dabber_Dot_Art_5_paint_bottles" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Leap_Frog_Paint_Dabber_Dot_Art_5_paint_bottles" type="mesh" group="3" />
+    </body>

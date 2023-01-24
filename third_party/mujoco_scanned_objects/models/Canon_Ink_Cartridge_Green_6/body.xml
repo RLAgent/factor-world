@@ -1,0 +1,36 @@
+<body childclass="Canon_Ink_Cartridge_Green_6_base" name="Canon_Ink_Cartridge_Green_61">
+        <geom class="Canon_Ink_Cartridge_Green_6_col" name="{geom_name}" type="mesh" mesh="model_Canon_Ink_Cartridge_Green_6" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Canon_Ink_Cartridge_Green_6" mesh="model_Canon_Ink_Cartridge_Green_6" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Canon_Ink_Cartridge_Green_6" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Canon_Ink_Cartridge_Green_6" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Canon_Ink_Cartridge_Green_6" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Canon_Ink_Cartridge_Green_6" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Canon_Ink_Cartridge_Green_6" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Canon_Ink_Cartridge_Green_6" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Canon_Ink_Cartridge_Green_6" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Canon_Ink_Cartridge_Green_6" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Canon_Ink_Cartridge_Green_6" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Canon_Ink_Cartridge_Green_6" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Canon_Ink_Cartridge_Green_6" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Canon_Ink_Cartridge_Green_6" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Canon_Ink_Cartridge_Green_6" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Canon_Ink_Cartridge_Green_6" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Canon_Ink_Cartridge_Green_6" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Canon_Ink_Cartridge_Green_6" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Canon_Ink_Cartridge_Green_6" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Canon_Ink_Cartridge_Green_6" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Canon_Ink_Cartridge_Green_6" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Canon_Ink_Cartridge_Green_6" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Canon_Ink_Cartridge_Green_6" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Canon_Ink_Cartridge_Green_6" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Canon_Ink_Cartridge_Green_6" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Canon_Ink_Cartridge_Green_6" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Canon_Ink_Cartridge_Green_6" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Canon_Ink_Cartridge_Green_6" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Canon_Ink_Cartridge_Green_6" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Canon_Ink_Cartridge_Green_6" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Canon_Ink_Cartridge_Green_6" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Canon_Ink_Cartridge_Green_6" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Canon_Ink_Cartridge_Green_6" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Canon_Ink_Cartridge_Green_6" type="mesh" group="3" />
+    </body>

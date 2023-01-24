@@ -1,0 +1,36 @@
+<body childclass="TOP_TEN_HI_base" name="TOP_TEN_HI1">
+        <geom class="TOP_TEN_HI_col" name="{geom_name}" type="mesh" mesh="model_TOP_TEN_HI" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_TOP_TEN_HI" mesh="model_TOP_TEN_HI" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_TOP_TEN_HI" type="mesh" group="3" />
+      <geom mesh="model_collision_1_TOP_TEN_HI" type="mesh" group="3" />
+      <geom mesh="model_collision_2_TOP_TEN_HI" type="mesh" group="3" />
+      <geom mesh="model_collision_3_TOP_TEN_HI" type="mesh" group="3" />
+      <geom mesh="model_collision_4_TOP_TEN_HI" type="mesh" group="3" />
+      <geom mesh="model_collision_5_TOP_TEN_HI" type="mesh" group="3" />
+      <geom mesh="model_collision_6_TOP_TEN_HI" type="mesh" group="3" />
+      <geom mesh="model_collision_7_TOP_TEN_HI" type="mesh" group="3" />
+      <geom mesh="model_collision_8_TOP_TEN_HI" type="mesh" group="3" />
+      <geom mesh="model_collision_9_TOP_TEN_HI" type="mesh" group="3" />
+      <geom mesh="model_collision_10_TOP_TEN_HI" type="mesh" group="3" />
+      <geom mesh="model_collision_11_TOP_TEN_HI" type="mesh" group="3" />
+      <geom mesh="model_collision_12_TOP_TEN_HI" type="mesh" group="3" />
+      <geom mesh="model_collision_13_TOP_TEN_HI" type="mesh" group="3" />
+      <geom mesh="model_collision_14_TOP_TEN_HI" type="mesh" group="3" />
+      <geom mesh="model_collision_15_TOP_TEN_HI" type="mesh" group="3" />
+      <geom mesh="model_collision_16_TOP_TEN_HI" type="mesh" group="3" />
+      <geom mesh="model_collision_17_TOP_TEN_HI" type="mesh" group="3" />
+      <geom mesh="model_collision_18_TOP_TEN_HI" type="mesh" group="3" />
+      <geom mesh="model_collision_19_TOP_TEN_HI" type="mesh" group="3" />
+      <geom mesh="model_collision_20_TOP_TEN_HI" type="mesh" group="3" />
+      <geom mesh="model_collision_21_TOP_TEN_HI" type="mesh" group="3" />
+      <geom mesh="model_collision_22_TOP_TEN_HI" type="mesh" group="3" />
+      <geom mesh="model_collision_23_TOP_TEN_HI" type="mesh" group="3" />
+      <geom mesh="model_collision_24_TOP_TEN_HI" type="mesh" group="3" />
+      <geom mesh="model_collision_25_TOP_TEN_HI" type="mesh" group="3" />
+      <geom mesh="model_collision_26_TOP_TEN_HI" type="mesh" group="3" />
+      <geom mesh="model_collision_27_TOP_TEN_HI" type="mesh" group="3" />
+      <geom mesh="model_collision_28_TOP_TEN_HI" type="mesh" group="3" />
+      <geom mesh="model_collision_29_TOP_TEN_HI" type="mesh" group="3" />
+      <geom mesh="model_collision_30_TOP_TEN_HI" type="mesh" group="3" />
+      <geom mesh="model_collision_31_TOP_TEN_HI" type="mesh" group="3" />
+    </body>

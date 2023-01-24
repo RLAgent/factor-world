@@ -1,0 +1,36 @@
+<body childclass="Crayola_Crayons_120_crayons_base" name="Crayola_Crayons_120_crayons1">
+        <geom class="Crayola_Crayons_120_crayons_col" name="{geom_name}" type="mesh" mesh="model_Crayola_Crayons_120_crayons" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Crayola_Crayons_120_crayons" mesh="model_Crayola_Crayons_120_crayons" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Crayola_Crayons_120_crayons" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Crayola_Crayons_120_crayons" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Crayola_Crayons_120_crayons" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Crayola_Crayons_120_crayons" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Crayola_Crayons_120_crayons" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Crayola_Crayons_120_crayons" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Crayola_Crayons_120_crayons" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Crayola_Crayons_120_crayons" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Crayola_Crayons_120_crayons" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Crayola_Crayons_120_crayons" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Crayola_Crayons_120_crayons" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Crayola_Crayons_120_crayons" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Crayola_Crayons_120_crayons" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Crayola_Crayons_120_crayons" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Crayola_Crayons_120_crayons" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Crayola_Crayons_120_crayons" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Crayola_Crayons_120_crayons" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Crayola_Crayons_120_crayons" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Crayola_Crayons_120_crayons" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Crayola_Crayons_120_crayons" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Crayola_Crayons_120_crayons" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Crayola_Crayons_120_crayons" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Crayola_Crayons_120_crayons" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Crayola_Crayons_120_crayons" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Crayola_Crayons_120_crayons" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Crayola_Crayons_120_crayons" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Crayola_Crayons_120_crayons" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Crayola_Crayons_120_crayons" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Crayola_Crayons_120_crayons" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Crayola_Crayons_120_crayons" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Crayola_Crayons_120_crayons" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Crayola_Crayons_120_crayons" type="mesh" group="3" />
+    </body>

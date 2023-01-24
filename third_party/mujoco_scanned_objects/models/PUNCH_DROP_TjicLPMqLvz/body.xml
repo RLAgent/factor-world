@@ -1,0 +1,36 @@
+<body childclass="PUNCH_DROP_TjicLPMqLvz_base" name="PUNCH_DROP_TjicLPMqLvz1">
+        <geom class="PUNCH_DROP_TjicLPMqLvz_col" name="{geom_name}" type="mesh" mesh="model_PUNCH_DROP_TjicLPMqLvz" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_PUNCH_DROP_TjicLPMqLvz" mesh="model_PUNCH_DROP_TjicLPMqLvz" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_PUNCH_DROP_TjicLPMqLvz" type="mesh" group="3" />
+      <geom mesh="model_collision_1_PUNCH_DROP_TjicLPMqLvz" type="mesh" group="3" />
+      <geom mesh="model_collision_2_PUNCH_DROP_TjicLPMqLvz" type="mesh" group="3" />
+      <geom mesh="model_collision_3_PUNCH_DROP_TjicLPMqLvz" type="mesh" group="3" />
+      <geom mesh="model_collision_4_PUNCH_DROP_TjicLPMqLvz" type="mesh" group="3" />
+      <geom mesh="model_collision_5_PUNCH_DROP_TjicLPMqLvz" type="mesh" group="3" />
+      <geom mesh="model_collision_6_PUNCH_DROP_TjicLPMqLvz" type="mesh" group="3" />
+      <geom mesh="model_collision_7_PUNCH_DROP_TjicLPMqLvz" type="mesh" group="3" />
+      <geom mesh="model_collision_8_PUNCH_DROP_TjicLPMqLvz" type="mesh" group="3" />
+      <geom mesh="model_collision_9_PUNCH_DROP_TjicLPMqLvz" type="mesh" group="3" />
+      <geom mesh="model_collision_10_PUNCH_DROP_TjicLPMqLvz" type="mesh" group="3" />
+      <geom mesh="model_collision_11_PUNCH_DROP_TjicLPMqLvz" type="mesh" group="3" />
+      <geom mesh="model_collision_12_PUNCH_DROP_TjicLPMqLvz" type="mesh" group="3" />
+      <geom mesh="model_collision_13_PUNCH_DROP_TjicLPMqLvz" type="mesh" group="3" />
+      <geom mesh="model_collision_14_PUNCH_DROP_TjicLPMqLvz" type="mesh" group="3" />
+      <geom mesh="model_collision_15_PUNCH_DROP_TjicLPMqLvz" type="mesh" group="3" />
+      <geom mesh="model_collision_16_PUNCH_DROP_TjicLPMqLvz" type="mesh" group="3" />
+      <geom mesh="model_collision_17_PUNCH_DROP_TjicLPMqLvz" type="mesh" group="3" />
+      <geom mesh="model_collision_18_PUNCH_DROP_TjicLPMqLvz" type="mesh" group="3" />
+      <geom mesh="model_collision_19_PUNCH_DROP_TjicLPMqLvz" type="mesh" group="3" />
+      <geom mesh="model_collision_20_PUNCH_DROP_TjicLPMqLvz" type="mesh" group="3" />
+      <geom mesh="model_collision_21_PUNCH_DROP_TjicLPMqLvz" type="mesh" group="3" />
+      <geom mesh="model_collision_22_PUNCH_DROP_TjicLPMqLvz" type="mesh" group="3" />
+      <geom mesh="model_collision_23_PUNCH_DROP_TjicLPMqLvz" type="mesh" group="3" />
+      <geom mesh="model_collision_24_PUNCH_DROP_TjicLPMqLvz" type="mesh" group="3" />
+      <geom mesh="model_collision_25_PUNCH_DROP_TjicLPMqLvz" type="mesh" group="3" />
+      <geom mesh="model_collision_26_PUNCH_DROP_TjicLPMqLvz" type="mesh" group="3" />
+      <geom mesh="model_collision_27_PUNCH_DROP_TjicLPMqLvz" type="mesh" group="3" />
+      <geom mesh="model_collision_28_PUNCH_DROP_TjicLPMqLvz" type="mesh" group="3" />
+      <geom mesh="model_collision_29_PUNCH_DROP_TjicLPMqLvz" type="mesh" group="3" />
+      <geom mesh="model_collision_30_PUNCH_DROP_TjicLPMqLvz" type="mesh" group="3" />
+      <geom mesh="model_collision_31_PUNCH_DROP_TjicLPMqLvz" type="mesh" group="3" />
+    </body>

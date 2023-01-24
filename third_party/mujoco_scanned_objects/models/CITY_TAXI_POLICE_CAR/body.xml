@@ -1,0 +1,36 @@
+<body childclass="CITY_TAXI_POLICE_CAR_base" name="CITY_TAXI_POLICE_CAR1">
+        <geom class="CITY_TAXI_POLICE_CAR_col" name="{geom_name}" type="mesh" mesh="model_CITY_TAXI_POLICE_CAR" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_CITY_TAXI_POLICE_CAR" mesh="model_CITY_TAXI_POLICE_CAR" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_CITY_TAXI_POLICE_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_1_CITY_TAXI_POLICE_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_2_CITY_TAXI_POLICE_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_3_CITY_TAXI_POLICE_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_4_CITY_TAXI_POLICE_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_5_CITY_TAXI_POLICE_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_6_CITY_TAXI_POLICE_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_7_CITY_TAXI_POLICE_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_8_CITY_TAXI_POLICE_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_9_CITY_TAXI_POLICE_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_10_CITY_TAXI_POLICE_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_11_CITY_TAXI_POLICE_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_12_CITY_TAXI_POLICE_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_13_CITY_TAXI_POLICE_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_14_CITY_TAXI_POLICE_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_15_CITY_TAXI_POLICE_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_16_CITY_TAXI_POLICE_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_17_CITY_TAXI_POLICE_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_18_CITY_TAXI_POLICE_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_19_CITY_TAXI_POLICE_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_20_CITY_TAXI_POLICE_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_21_CITY_TAXI_POLICE_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_22_CITY_TAXI_POLICE_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_23_CITY_TAXI_POLICE_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_24_CITY_TAXI_POLICE_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_25_CITY_TAXI_POLICE_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_26_CITY_TAXI_POLICE_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_27_CITY_TAXI_POLICE_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_28_CITY_TAXI_POLICE_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_29_CITY_TAXI_POLICE_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_30_CITY_TAXI_POLICE_CAR" type="mesh" group="3" />
+      <geom mesh="model_collision_31_CITY_TAXI_POLICE_CAR" type="mesh" group="3" />
+    </body>

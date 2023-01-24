@@ -1,0 +1,36 @@
+<body childclass="PETS_ACCESSORIES_base" name="PETS_ACCESSORIES1">
+        <geom class="PETS_ACCESSORIES_col" name="{geom_name}" type="mesh" mesh="model_PETS_ACCESSORIES" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_PETS_ACCESSORIES" mesh="model_PETS_ACCESSORIES" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_PETS_ACCESSORIES" type="mesh" group="3" />
+      <geom mesh="model_collision_1_PETS_ACCESSORIES" type="mesh" group="3" />
+      <geom mesh="model_collision_2_PETS_ACCESSORIES" type="mesh" group="3" />
+      <geom mesh="model_collision_3_PETS_ACCESSORIES" type="mesh" group="3" />
+      <geom mesh="model_collision_4_PETS_ACCESSORIES" type="mesh" group="3" />
+      <geom mesh="model_collision_5_PETS_ACCESSORIES" type="mesh" group="3" />
+      <geom mesh="model_collision_6_PETS_ACCESSORIES" type="mesh" group="3" />
+      <geom mesh="model_collision_7_PETS_ACCESSORIES" type="mesh" group="3" />
+      <geom mesh="model_collision_8_PETS_ACCESSORIES" type="mesh" group="3" />
+      <geom mesh="model_collision_9_PETS_ACCESSORIES" type="mesh" group="3" />
+      <geom mesh="model_collision_10_PETS_ACCESSORIES" type="mesh" group="3" />
+      <geom mesh="model_collision_11_PETS_ACCESSORIES" type="mesh" group="3" />
+      <geom mesh="model_collision_12_PETS_ACCESSORIES" type="mesh" group="3" />
+      <geom mesh="model_collision_13_PETS_ACCESSORIES" type="mesh" group="3" />
+      <geom mesh="model_collision_14_PETS_ACCESSORIES" type="mesh" group="3" />
+      <geom mesh="model_collision_15_PETS_ACCESSORIES" type="mesh" group="3" />
+      <geom mesh="model_collision_16_PETS_ACCESSORIES" type="mesh" group="3" />
+      <geom mesh="model_collision_17_PETS_ACCESSORIES" type="mesh" group="3" />
+      <geom mesh="model_collision_18_PETS_ACCESSORIES" type="mesh" group="3" />
+      <geom mesh="model_collision_19_PETS_ACCESSORIES" type="mesh" group="3" />
+      <geom mesh="model_collision_20_PETS_ACCESSORIES" type="mesh" group="3" />
+      <geom mesh="model_collision_21_PETS_ACCESSORIES" type="mesh" group="3" />
+      <geom mesh="model_collision_22_PETS_ACCESSORIES" type="mesh" group="3" />
+      <geom mesh="model_collision_23_PETS_ACCESSORIES" type="mesh" group="3" />
+      <geom mesh="model_collision_24_PETS_ACCESSORIES" type="mesh" group="3" />
+      <geom mesh="model_collision_25_PETS_ACCESSORIES" type="mesh" group="3" />
+      <geom mesh="model_collision_26_PETS_ACCESSORIES" type="mesh" group="3" />
+      <geom mesh="model_collision_27_PETS_ACCESSORIES" type="mesh" group="3" />
+      <geom mesh="model_collision_28_PETS_ACCESSORIES" type="mesh" group="3" />
+      <geom mesh="model_collision_29_PETS_ACCESSORIES" type="mesh" group="3" />
+      <geom mesh="model_collision_30_PETS_ACCESSORIES" type="mesh" group="3" />
+      <geom mesh="model_collision_31_PETS_ACCESSORIES" type="mesh" group="3" />
+    </body>

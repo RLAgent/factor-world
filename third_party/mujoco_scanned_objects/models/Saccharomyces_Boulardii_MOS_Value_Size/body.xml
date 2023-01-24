@@ -1,0 +1,36 @@
+<body childclass="Saccharomyces_Boulardii_MOS_Value_Size_base" name="Saccharomyces_Boulardii_MOS_Value_Size1">
+        <geom class="Saccharomyces_Boulardii_MOS_Value_Size_col" name="{geom_name}" type="mesh" mesh="model_Saccharomyces_Boulardii_MOS_Value_Size" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Saccharomyces_Boulardii_MOS_Value_Size" mesh="model_Saccharomyces_Boulardii_MOS_Value_Size" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Saccharomyces_Boulardii_MOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Saccharomyces_Boulardii_MOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Saccharomyces_Boulardii_MOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Saccharomyces_Boulardii_MOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Saccharomyces_Boulardii_MOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Saccharomyces_Boulardii_MOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Saccharomyces_Boulardii_MOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Saccharomyces_Boulardii_MOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Saccharomyces_Boulardii_MOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Saccharomyces_Boulardii_MOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Saccharomyces_Boulardii_MOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Saccharomyces_Boulardii_MOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Saccharomyces_Boulardii_MOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Saccharomyces_Boulardii_MOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Saccharomyces_Boulardii_MOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Saccharomyces_Boulardii_MOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Saccharomyces_Boulardii_MOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Saccharomyces_Boulardii_MOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Saccharomyces_Boulardii_MOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Saccharomyces_Boulardii_MOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Saccharomyces_Boulardii_MOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Saccharomyces_Boulardii_MOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Saccharomyces_Boulardii_MOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Saccharomyces_Boulardii_MOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Saccharomyces_Boulardii_MOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Saccharomyces_Boulardii_MOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Saccharomyces_Boulardii_MOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Saccharomyces_Boulardii_MOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Saccharomyces_Boulardii_MOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Saccharomyces_Boulardii_MOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Saccharomyces_Boulardii_MOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Saccharomyces_Boulardii_MOS_Value_Size" type="mesh" group="3" />
+    </body>

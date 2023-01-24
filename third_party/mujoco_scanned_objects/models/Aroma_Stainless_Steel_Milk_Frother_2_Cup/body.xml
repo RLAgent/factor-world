@@ -1,0 +1,36 @@
+<body childclass="Aroma_Stainless_Steel_Milk_Frother_2_Cup_base" name="Aroma_Stainless_Steel_Milk_Frother_2_Cup1">
+        <geom class="Aroma_Stainless_Steel_Milk_Frother_2_Cup_col" name="{geom_name}" type="mesh" mesh="model_Aroma_Stainless_Steel_Milk_Frother_2_Cup" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Aroma_Stainless_Steel_Milk_Frother_2_Cup" mesh="model_Aroma_Stainless_Steel_Milk_Frother_2_Cup" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Aroma_Stainless_Steel_Milk_Frother_2_Cup" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Aroma_Stainless_Steel_Milk_Frother_2_Cup" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Aroma_Stainless_Steel_Milk_Frother_2_Cup" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Aroma_Stainless_Steel_Milk_Frother_2_Cup" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Aroma_Stainless_Steel_Milk_Frother_2_Cup" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Aroma_Stainless_Steel_Milk_Frother_2_Cup" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Aroma_Stainless_Steel_Milk_Frother_2_Cup" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Aroma_Stainless_Steel_Milk_Frother_2_Cup" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Aroma_Stainless_Steel_Milk_Frother_2_Cup" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Aroma_Stainless_Steel_Milk_Frother_2_Cup" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Aroma_Stainless_Steel_Milk_Frother_2_Cup" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Aroma_Stainless_Steel_Milk_Frother_2_Cup" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Aroma_Stainless_Steel_Milk_Frother_2_Cup" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Aroma_Stainless_Steel_Milk_Frother_2_Cup" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Aroma_Stainless_Steel_Milk_Frother_2_Cup" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Aroma_Stainless_Steel_Milk_Frother_2_Cup" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Aroma_Stainless_Steel_Milk_Frother_2_Cup" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Aroma_Stainless_Steel_Milk_Frother_2_Cup" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Aroma_Stainless_Steel_Milk_Frother_2_Cup" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Aroma_Stainless_Steel_Milk_Frother_2_Cup" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Aroma_Stainless_Steel_Milk_Frother_2_Cup" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Aroma_Stainless_Steel_Milk_Frother_2_Cup" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Aroma_Stainless_Steel_Milk_Frother_2_Cup" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Aroma_Stainless_Steel_Milk_Frother_2_Cup" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Aroma_Stainless_Steel_Milk_Frother_2_Cup" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Aroma_Stainless_Steel_Milk_Frother_2_Cup" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Aroma_Stainless_Steel_Milk_Frother_2_Cup" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Aroma_Stainless_Steel_Milk_Frother_2_Cup" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Aroma_Stainless_Steel_Milk_Frother_2_Cup" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Aroma_Stainless_Steel_Milk_Frother_2_Cup" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Aroma_Stainless_Steel_Milk_Frother_2_Cup" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Aroma_Stainless_Steel_Milk_Frother_2_Cup" type="mesh" group="3" />
+    </body>

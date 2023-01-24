@@ -1,0 +1,36 @@
+<body childclass="Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct_base" name="Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct1">
+        <geom class="Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct_col" name="{geom_name}" type="mesh" mesh="model_Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct" mesh="model_Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Ocedar_Snap_On_Dust_Pan_And_Brush_1_ct" type="mesh" group="3" />
+    </body>

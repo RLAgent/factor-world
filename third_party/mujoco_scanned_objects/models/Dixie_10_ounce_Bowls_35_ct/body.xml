@@ -1,0 +1,36 @@
+<body childclass="Dixie_10_ounce_Bowls_35_ct_base" name="Dixie_10_ounce_Bowls_35_ct1">
+        <geom class="Dixie_10_ounce_Bowls_35_ct_col" name="{geom_name}" type="mesh" mesh="model_Dixie_10_ounce_Bowls_35_ct" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Dixie_10_ounce_Bowls_35_ct" mesh="model_Dixie_10_ounce_Bowls_35_ct" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Dixie_10_ounce_Bowls_35_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Dixie_10_ounce_Bowls_35_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Dixie_10_ounce_Bowls_35_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Dixie_10_ounce_Bowls_35_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Dixie_10_ounce_Bowls_35_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Dixie_10_ounce_Bowls_35_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Dixie_10_ounce_Bowls_35_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Dixie_10_ounce_Bowls_35_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Dixie_10_ounce_Bowls_35_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Dixie_10_ounce_Bowls_35_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Dixie_10_ounce_Bowls_35_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Dixie_10_ounce_Bowls_35_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Dixie_10_ounce_Bowls_35_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Dixie_10_ounce_Bowls_35_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Dixie_10_ounce_Bowls_35_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Dixie_10_ounce_Bowls_35_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Dixie_10_ounce_Bowls_35_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Dixie_10_ounce_Bowls_35_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Dixie_10_ounce_Bowls_35_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Dixie_10_ounce_Bowls_35_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Dixie_10_ounce_Bowls_35_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Dixie_10_ounce_Bowls_35_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Dixie_10_ounce_Bowls_35_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Dixie_10_ounce_Bowls_35_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Dixie_10_ounce_Bowls_35_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Dixie_10_ounce_Bowls_35_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Dixie_10_ounce_Bowls_35_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Dixie_10_ounce_Bowls_35_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Dixie_10_ounce_Bowls_35_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Dixie_10_ounce_Bowls_35_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Dixie_10_ounce_Bowls_35_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Dixie_10_ounce_Bowls_35_ct" type="mesh" group="3" />
+    </body>

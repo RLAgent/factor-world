@@ -1,0 +1,36 @@
+<body childclass="SPEED_BOAT_base" name="SPEED_BOAT1">
+        <geom class="SPEED_BOAT_col" name="{geom_name}" type="mesh" mesh="model_SPEED_BOAT" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_SPEED_BOAT" mesh="model_SPEED_BOAT" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_SPEED_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_1_SPEED_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_2_SPEED_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_3_SPEED_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_4_SPEED_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_5_SPEED_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_6_SPEED_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_7_SPEED_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_8_SPEED_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_9_SPEED_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_10_SPEED_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_11_SPEED_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_12_SPEED_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_13_SPEED_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_14_SPEED_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_15_SPEED_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_16_SPEED_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_17_SPEED_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_18_SPEED_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_19_SPEED_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_20_SPEED_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_21_SPEED_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_22_SPEED_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_23_SPEED_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_24_SPEED_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_25_SPEED_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_26_SPEED_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_27_SPEED_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_28_SPEED_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_29_SPEED_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_30_SPEED_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_31_SPEED_BOAT" type="mesh" group="3" />
+    </body>

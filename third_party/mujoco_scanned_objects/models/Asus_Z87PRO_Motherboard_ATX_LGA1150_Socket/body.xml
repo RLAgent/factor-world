@@ -1,0 +1,36 @@
+<body childclass="Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket_base" name="Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket1">
+        <geom class="Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket_col" name="{geom_name}" type="mesh" mesh="model_Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket" mesh="model_Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket" type="mesh" group="3" />
+    </body>

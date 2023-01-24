@@ -1,0 +1,36 @@
+<body childclass="FemDophilus_base" name="FemDophilus1">
+        <geom class="FemDophilus_col" name="{geom_name}" type="mesh" mesh="model_FemDophilus" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_FemDophilus" mesh="model_FemDophilus" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_FemDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_1_FemDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_2_FemDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_3_FemDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_4_FemDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_5_FemDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_6_FemDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_7_FemDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_8_FemDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_9_FemDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_10_FemDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_11_FemDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_12_FemDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_13_FemDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_14_FemDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_15_FemDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_16_FemDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_17_FemDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_18_FemDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_19_FemDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_20_FemDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_21_FemDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_22_FemDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_23_FemDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_24_FemDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_25_FemDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_26_FemDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_27_FemDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_28_FemDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_29_FemDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_30_FemDophilus" type="mesh" group="3" />
+      <geom mesh="model_collision_31_FemDophilus" type="mesh" group="3" />
+    </body>

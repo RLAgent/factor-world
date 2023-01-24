@@ -1,0 +1,36 @@
+<body childclass="GEOMETRIC_SORTING_BOARD_MNi4Rbuz9vj_base" name="GEOMETRIC_SORTING_BOARD_MNi4Rbuz9vj1">
+        <geom class="GEOMETRIC_SORTING_BOARD_MNi4Rbuz9vj_col" name="{geom_name}" type="mesh" mesh="model_GEOMETRIC_SORTING_BOARD_MNi4Rbuz9vj" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_GEOMETRIC_SORTING_BOARD_MNi4Rbuz9vj" mesh="model_GEOMETRIC_SORTING_BOARD_MNi4Rbuz9vj" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_GEOMETRIC_SORTING_BOARD_MNi4Rbuz9vj" type="mesh" group="3" />
+      <geom mesh="model_collision_1_GEOMETRIC_SORTING_BOARD_MNi4Rbuz9vj" type="mesh" group="3" />
+      <geom mesh="model_collision_2_GEOMETRIC_SORTING_BOARD_MNi4Rbuz9vj" type="mesh" group="3" />
+      <geom mesh="model_collision_3_GEOMETRIC_SORTING_BOARD_MNi4Rbuz9vj" type="mesh" group="3" />
+      <geom mesh="model_collision_4_GEOMETRIC_SORTING_BOARD_MNi4Rbuz9vj" type="mesh" group="3" />
+      <geom mesh="model_collision_5_GEOMETRIC_SORTING_BOARD_MNi4Rbuz9vj" type="mesh" group="3" />
+      <geom mesh="model_collision_6_GEOMETRIC_SORTING_BOARD_MNi4Rbuz9vj" type="mesh" group="3" />
+      <geom mesh="model_collision_7_GEOMETRIC_SORTING_BOARD_MNi4Rbuz9vj" type="mesh" group="3" />
+      <geom mesh="model_collision_8_GEOMETRIC_SORTING_BOARD_MNi4Rbuz9vj" type="mesh" group="3" />
+      <geom mesh="model_collision_9_GEOMETRIC_SORTING_BOARD_MNi4Rbuz9vj" type="mesh" group="3" />
+      <geom mesh="model_collision_10_GEOMETRIC_SORTING_BOARD_MNi4Rbuz9vj" type="mesh" group="3" />
+      <geom mesh="model_collision_11_GEOMETRIC_SORTING_BOARD_MNi4Rbuz9vj" type="mesh" group="3" />
+      <geom mesh="model_collision_12_GEOMETRIC_SORTING_BOARD_MNi4Rbuz9vj" type="mesh" group="3" />
+      <geom mesh="model_collision_13_GEOMETRIC_SORTING_BOARD_MNi4Rbuz9vj" type="mesh" group="3" />
+      <geom mesh="model_collision_14_GEOMETRIC_SORTING_BOARD_MNi4Rbuz9vj" type="mesh" group="3" />
+      <geom mesh="model_collision_15_GEOMETRIC_SORTING_BOARD_MNi4Rbuz9vj" type="mesh" group="3" />
+      <geom mesh="model_collision_16_GEOMETRIC_SORTING_BOARD_MNi4Rbuz9vj" type="mesh" group="3" />
+      <geom mesh="model_collision_17_GEOMETRIC_SORTING_BOARD_MNi4Rbuz9vj" type="mesh" group="3" />
+      <geom mesh="model_collision_18_GEOMETRIC_SORTING_BOARD_MNi4Rbuz9vj" type="mesh" group="3" />
+      <geom mesh="model_collision_19_GEOMETRIC_SORTING_BOARD_MNi4Rbuz9vj" type="mesh" group="3" />
+      <geom mesh="model_collision_20_GEOMETRIC_SORTING_BOARD_MNi4Rbuz9vj" type="mesh" group="3" />
+      <geom mesh="model_collision_21_GEOMETRIC_SORTING_BOARD_MNi4Rbuz9vj" type="mesh" group="3" />
+      <geom mesh="model_collision_22_GEOMETRIC_SORTING_BOARD_MNi4Rbuz9vj" type="mesh" group="3" />
+      <geom mesh="model_collision_23_GEOMETRIC_SORTING_BOARD_MNi4Rbuz9vj" type="mesh" group="3" />
+      <geom mesh="model_collision_24_GEOMETRIC_SORTING_BOARD_MNi4Rbuz9vj" type="mesh" group="3" />
+      <geom mesh="model_collision_25_GEOMETRIC_SORTING_BOARD_MNi4Rbuz9vj" type="mesh" group="3" />
+      <geom mesh="model_collision_26_GEOMETRIC_SORTING_BOARD_MNi4Rbuz9vj" type="mesh" group="3" />
+      <geom mesh="model_collision_27_GEOMETRIC_SORTING_BOARD_MNi4Rbuz9vj" type="mesh" group="3" />
+      <geom mesh="model_collision_28_GEOMETRIC_SORTING_BOARD_MNi4Rbuz9vj" type="mesh" group="3" />
+      <geom mesh="model_collision_29_GEOMETRIC_SORTING_BOARD_MNi4Rbuz9vj" type="mesh" group="3" />
+      <geom mesh="model_collision_30_GEOMETRIC_SORTING_BOARD_MNi4Rbuz9vj" type="mesh" group="3" />
+      <geom mesh="model_collision_31_GEOMETRIC_SORTING_BOARD_MNi4Rbuz9vj" type="mesh" group="3" />
+    </body>

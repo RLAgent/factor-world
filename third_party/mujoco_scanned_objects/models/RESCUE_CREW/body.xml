@@ -1,0 +1,36 @@
+<body childclass="RESCUE_CREW_base" name="RESCUE_CREW1">
+        <geom class="RESCUE_CREW_col" name="{geom_name}" type="mesh" mesh="model_RESCUE_CREW" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_RESCUE_CREW" mesh="model_RESCUE_CREW" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_RESCUE_CREW" type="mesh" group="3" />
+      <geom mesh="model_collision_1_RESCUE_CREW" type="mesh" group="3" />
+      <geom mesh="model_collision_2_RESCUE_CREW" type="mesh" group="3" />
+      <geom mesh="model_collision_3_RESCUE_CREW" type="mesh" group="3" />
+      <geom mesh="model_collision_4_RESCUE_CREW" type="mesh" group="3" />
+      <geom mesh="model_collision_5_RESCUE_CREW" type="mesh" group="3" />
+      <geom mesh="model_collision_6_RESCUE_CREW" type="mesh" group="3" />
+      <geom mesh="model_collision_7_RESCUE_CREW" type="mesh" group="3" />
+      <geom mesh="model_collision_8_RESCUE_CREW" type="mesh" group="3" />
+      <geom mesh="model_collision_9_RESCUE_CREW" type="mesh" group="3" />
+      <geom mesh="model_collision_10_RESCUE_CREW" type="mesh" group="3" />
+      <geom mesh="model_collision_11_RESCUE_CREW" type="mesh" group="3" />
+      <geom mesh="model_collision_12_RESCUE_CREW" type="mesh" group="3" />
+      <geom mesh="model_collision_13_RESCUE_CREW" type="mesh" group="3" />
+      <geom mesh="model_collision_14_RESCUE_CREW" type="mesh" group="3" />
+      <geom mesh="model_collision_15_RESCUE_CREW" type="mesh" group="3" />
+      <geom mesh="model_collision_16_RESCUE_CREW" type="mesh" group="3" />
+      <geom mesh="model_collision_17_RESCUE_CREW" type="mesh" group="3" />
+      <geom mesh="model_collision_18_RESCUE_CREW" type="mesh" group="3" />
+      <geom mesh="model_collision_19_RESCUE_CREW" type="mesh" group="3" />
+      <geom mesh="model_collision_20_RESCUE_CREW" type="mesh" group="3" />
+      <geom mesh="model_collision_21_RESCUE_CREW" type="mesh" group="3" />
+      <geom mesh="model_collision_22_RESCUE_CREW" type="mesh" group="3" />
+      <geom mesh="model_collision_23_RESCUE_CREW" type="mesh" group="3" />
+      <geom mesh="model_collision_24_RESCUE_CREW" type="mesh" group="3" />
+      <geom mesh="model_collision_25_RESCUE_CREW" type="mesh" group="3" />
+      <geom mesh="model_collision_26_RESCUE_CREW" type="mesh" group="3" />
+      <geom mesh="model_collision_27_RESCUE_CREW" type="mesh" group="3" />
+      <geom mesh="model_collision_28_RESCUE_CREW" type="mesh" group="3" />
+      <geom mesh="model_collision_29_RESCUE_CREW" type="mesh" group="3" />
+      <geom mesh="model_collision_30_RESCUE_CREW" type="mesh" group="3" />
+      <geom mesh="model_collision_31_RESCUE_CREW" type="mesh" group="3" />
+    </body>

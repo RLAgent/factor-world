@@ -1,0 +1,36 @@
+<body childclass="Dell_Series_9_Color_Ink_Cartridge_MK993_High_Yield_base" name="Dell_Series_9_Color_Ink_Cartridge_MK993_High_Yield1">
+        <geom class="Dell_Series_9_Color_Ink_Cartridge_MK993_High_Yield_col" name="{geom_name}" type="mesh" mesh="model_Dell_Series_9_Color_Ink_Cartridge_MK993_High_Yield" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Dell_Series_9_Color_Ink_Cartridge_MK993_High_Yield" mesh="model_Dell_Series_9_Color_Ink_Cartridge_MK993_High_Yield" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Dell_Series_9_Color_Ink_Cartridge_MK993_High_Yield" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Dell_Series_9_Color_Ink_Cartridge_MK993_High_Yield" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Dell_Series_9_Color_Ink_Cartridge_MK993_High_Yield" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Dell_Series_9_Color_Ink_Cartridge_MK993_High_Yield" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Dell_Series_9_Color_Ink_Cartridge_MK993_High_Yield" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Dell_Series_9_Color_Ink_Cartridge_MK993_High_Yield" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Dell_Series_9_Color_Ink_Cartridge_MK993_High_Yield" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Dell_Series_9_Color_Ink_Cartridge_MK993_High_Yield" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Dell_Series_9_Color_Ink_Cartridge_MK993_High_Yield" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Dell_Series_9_Color_Ink_Cartridge_MK993_High_Yield" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Dell_Series_9_Color_Ink_Cartridge_MK993_High_Yield" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Dell_Series_9_Color_Ink_Cartridge_MK993_High_Yield" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Dell_Series_9_Color_Ink_Cartridge_MK993_High_Yield" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Dell_Series_9_Color_Ink_Cartridge_MK993_High_Yield" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Dell_Series_9_Color_Ink_Cartridge_MK993_High_Yield" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Dell_Series_9_Color_Ink_Cartridge_MK993_High_Yield" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Dell_Series_9_Color_Ink_Cartridge_MK993_High_Yield" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Dell_Series_9_Color_Ink_Cartridge_MK993_High_Yield" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Dell_Series_9_Color_Ink_Cartridge_MK993_High_Yield" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Dell_Series_9_Color_Ink_Cartridge_MK993_High_Yield" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Dell_Series_9_Color_Ink_Cartridge_MK993_High_Yield" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Dell_Series_9_Color_Ink_Cartridge_MK993_High_Yield" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Dell_Series_9_Color_Ink_Cartridge_MK993_High_Yield" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Dell_Series_9_Color_Ink_Cartridge_MK993_High_Yield" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Dell_Series_9_Color_Ink_Cartridge_MK993_High_Yield" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Dell_Series_9_Color_Ink_Cartridge_MK993_High_Yield" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Dell_Series_9_Color_Ink_Cartridge_MK993_High_Yield" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Dell_Series_9_Color_Ink_Cartridge_MK993_High_Yield" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Dell_Series_9_Color_Ink_Cartridge_MK993_High_Yield" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Dell_Series_9_Color_Ink_Cartridge_MK993_High_Yield" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Dell_Series_9_Color_Ink_Cartridge_MK993_High_Yield" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Dell_Series_9_Color_Ink_Cartridge_MK993_High_Yield" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="Markings_Letter_Holder_base" name="Markings_Letter_Holder1">
+        <geom class="Markings_Letter_Holder_col" name="{geom_name}" type="mesh" mesh="model_Markings_Letter_Holder" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Markings_Letter_Holder" mesh="model_Markings_Letter_Holder" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Markings_Letter_Holder" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Markings_Letter_Holder" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Markings_Letter_Holder" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Markings_Letter_Holder" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Markings_Letter_Holder" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Markings_Letter_Holder" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Markings_Letter_Holder" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Markings_Letter_Holder" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Markings_Letter_Holder" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Markings_Letter_Holder" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Markings_Letter_Holder" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Markings_Letter_Holder" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Markings_Letter_Holder" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Markings_Letter_Holder" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Markings_Letter_Holder" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Markings_Letter_Holder" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Markings_Letter_Holder" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Markings_Letter_Holder" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Markings_Letter_Holder" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Markings_Letter_Holder" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Markings_Letter_Holder" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Markings_Letter_Holder" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Markings_Letter_Holder" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Markings_Letter_Holder" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Markings_Letter_Holder" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Markings_Letter_Holder" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Markings_Letter_Holder" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Markings_Letter_Holder" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Markings_Letter_Holder" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Markings_Letter_Holder" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Markings_Letter_Holder" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Markings_Letter_Holder" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="SNAIL_MEASURING_TAPE_base" name="SNAIL_MEASURING_TAPE1">
+        <geom class="SNAIL_MEASURING_TAPE_col" name="{geom_name}" type="mesh" mesh="model_SNAIL_MEASURING_TAPE" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_SNAIL_MEASURING_TAPE" mesh="model_SNAIL_MEASURING_TAPE" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_SNAIL_MEASURING_TAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_1_SNAIL_MEASURING_TAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_2_SNAIL_MEASURING_TAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_3_SNAIL_MEASURING_TAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_4_SNAIL_MEASURING_TAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_5_SNAIL_MEASURING_TAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_6_SNAIL_MEASURING_TAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_7_SNAIL_MEASURING_TAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_8_SNAIL_MEASURING_TAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_9_SNAIL_MEASURING_TAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_10_SNAIL_MEASURING_TAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_11_SNAIL_MEASURING_TAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_12_SNAIL_MEASURING_TAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_13_SNAIL_MEASURING_TAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_14_SNAIL_MEASURING_TAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_15_SNAIL_MEASURING_TAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_16_SNAIL_MEASURING_TAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_17_SNAIL_MEASURING_TAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_18_SNAIL_MEASURING_TAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_19_SNAIL_MEASURING_TAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_20_SNAIL_MEASURING_TAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_21_SNAIL_MEASURING_TAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_22_SNAIL_MEASURING_TAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_23_SNAIL_MEASURING_TAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_24_SNAIL_MEASURING_TAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_25_SNAIL_MEASURING_TAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_26_SNAIL_MEASURING_TAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_27_SNAIL_MEASURING_TAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_28_SNAIL_MEASURING_TAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_29_SNAIL_MEASURING_TAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_30_SNAIL_MEASURING_TAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_31_SNAIL_MEASURING_TAPE" type="mesh" group="3" />
+    </body>

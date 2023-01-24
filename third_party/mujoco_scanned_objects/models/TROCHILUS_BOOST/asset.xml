@@ -1,0 +1,38 @@
+<asset>
+    <texture type="2d" name="texture_TROCHILUS_BOOST" file="../../../../../mujoco_scanned_objects/models/TROCHILUS_BOOST/texture.png" />
+    <material name="material_0_TROCHILUS_BOOST" texture="texture_TROCHILUS_BOOST" specular="0.5" shininess="0.5" />
+    <mesh name="model_TROCHILUS_BOOST" file="../../../../../mujoco_scanned_objects/models/TROCHILUS_BOOST/model.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_0_TROCHILUS_BOOST" file="../../../../../mujoco_scanned_objects/models/TROCHILUS_BOOST/model_collision_0.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_1_TROCHILUS_BOOST" file="../../../../../mujoco_scanned_objects/models/TROCHILUS_BOOST/model_collision_1.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_2_TROCHILUS_BOOST" file="../../../../../mujoco_scanned_objects/models/TROCHILUS_BOOST/model_collision_2.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_3_TROCHILUS_BOOST" file="../../../../../mujoco_scanned_objects/models/TROCHILUS_BOOST/model_collision_3.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_4_TROCHILUS_BOOST" file="../../../../../mujoco_scanned_objects/models/TROCHILUS_BOOST/model_collision_4.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_5_TROCHILUS_BOOST" file="../../../../../mujoco_scanned_objects/models/TROCHILUS_BOOST/model_collision_5.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_6_TROCHILUS_BOOST" file="../../../../../mujoco_scanned_objects/models/TROCHILUS_BOOST/model_collision_6.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_7_TROCHILUS_BOOST" file="../../../../../mujoco_scanned_objects/models/TROCHILUS_BOOST/model_collision_7.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_8_TROCHILUS_BOOST" file="../../../../../mujoco_scanned_objects/models/TROCHILUS_BOOST/model_collision_8.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_9_TROCHILUS_BOOST" file="../../../../../mujoco_scanned_objects/models/TROCHILUS_BOOST/model_collision_9.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_10_TROCHILUS_BOOST" file="../../../../../mujoco_scanned_objects/models/TROCHILUS_BOOST/model_collision_10.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_11_TROCHILUS_BOOST" file="../../../../../mujoco_scanned_objects/models/TROCHILUS_BOOST/model_collision_11.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_12_TROCHILUS_BOOST" file="../../../../../mujoco_scanned_objects/models/TROCHILUS_BOOST/model_collision_12.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_13_TROCHILUS_BOOST" file="../../../../../mujoco_scanned_objects/models/TROCHILUS_BOOST/model_collision_13.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_14_TROCHILUS_BOOST" file="../../../../../mujoco_scanned_objects/models/TROCHILUS_BOOST/model_collision_14.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_15_TROCHILUS_BOOST" file="../../../../../mujoco_scanned_objects/models/TROCHILUS_BOOST/model_collision_15.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_16_TROCHILUS_BOOST" file="../../../../../mujoco_scanned_objects/models/TROCHILUS_BOOST/model_collision_16.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_17_TROCHILUS_BOOST" file="../../../../../mujoco_scanned_objects/models/TROCHILUS_BOOST/model_collision_17.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_18_TROCHILUS_BOOST" file="../../../../../mujoco_scanned_objects/models/TROCHILUS_BOOST/model_collision_18.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_19_TROCHILUS_BOOST" file="../../../../../mujoco_scanned_objects/models/TROCHILUS_BOOST/model_collision_19.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_20_TROCHILUS_BOOST" file="../../../../../mujoco_scanned_objects/models/TROCHILUS_BOOST/model_collision_20.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_21_TROCHILUS_BOOST" file="../../../../../mujoco_scanned_objects/models/TROCHILUS_BOOST/model_collision_21.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_22_TROCHILUS_BOOST" file="../../../../../mujoco_scanned_objects/models/TROCHILUS_BOOST/model_collision_22.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_23_TROCHILUS_BOOST" file="../../../../../mujoco_scanned_objects/models/TROCHILUS_BOOST/model_collision_23.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_24_TROCHILUS_BOOST" file="../../../../../mujoco_scanned_objects/models/TROCHILUS_BOOST/model_collision_24.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_25_TROCHILUS_BOOST" file="../../../../../mujoco_scanned_objects/models/TROCHILUS_BOOST/model_collision_25.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_26_TROCHILUS_BOOST" file="../../../../../mujoco_scanned_objects/models/TROCHILUS_BOOST/model_collision_26.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_27_TROCHILUS_BOOST" file="../../../../../mujoco_scanned_objects/models/TROCHILUS_BOOST/model_collision_27.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_28_TROCHILUS_BOOST" file="../../../../../mujoco_scanned_objects/models/TROCHILUS_BOOST/model_collision_28.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_29_TROCHILUS_BOOST" file="../../../../../mujoco_scanned_objects/models/TROCHILUS_BOOST/model_collision_29.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_30_TROCHILUS_BOOST" file="../../../../../mujoco_scanned_objects/models/TROCHILUS_BOOST/model_collision_30.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_31_TROCHILUS_BOOST" file="../../../../../mujoco_scanned_objects/models/TROCHILUS_BOOST/model_collision_31.stl" scale="{scale} {scale} {scale}" />
+  </asset>
+  

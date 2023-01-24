@@ -1,0 +1,36 @@
+<body childclass="Squirtin_Barnyard_Friends_4pk_base" name="Squirtin_Barnyard_Friends_4pk1">
+        <geom class="Squirtin_Barnyard_Friends_4pk_col" name="{geom_name}" type="mesh" mesh="model_Squirtin_Barnyard_Friends_4pk" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Squirtin_Barnyard_Friends_4pk" mesh="model_Squirtin_Barnyard_Friends_4pk" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Squirtin_Barnyard_Friends_4pk" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Squirtin_Barnyard_Friends_4pk" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Squirtin_Barnyard_Friends_4pk" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Squirtin_Barnyard_Friends_4pk" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Squirtin_Barnyard_Friends_4pk" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Squirtin_Barnyard_Friends_4pk" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Squirtin_Barnyard_Friends_4pk" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Squirtin_Barnyard_Friends_4pk" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Squirtin_Barnyard_Friends_4pk" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Squirtin_Barnyard_Friends_4pk" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Squirtin_Barnyard_Friends_4pk" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Squirtin_Barnyard_Friends_4pk" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Squirtin_Barnyard_Friends_4pk" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Squirtin_Barnyard_Friends_4pk" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Squirtin_Barnyard_Friends_4pk" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Squirtin_Barnyard_Friends_4pk" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Squirtin_Barnyard_Friends_4pk" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Squirtin_Barnyard_Friends_4pk" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Squirtin_Barnyard_Friends_4pk" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Squirtin_Barnyard_Friends_4pk" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Squirtin_Barnyard_Friends_4pk" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Squirtin_Barnyard_Friends_4pk" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Squirtin_Barnyard_Friends_4pk" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Squirtin_Barnyard_Friends_4pk" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Squirtin_Barnyard_Friends_4pk" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Squirtin_Barnyard_Friends_4pk" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Squirtin_Barnyard_Friends_4pk" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Squirtin_Barnyard_Friends_4pk" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Squirtin_Barnyard_Friends_4pk" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Squirtin_Barnyard_Friends_4pk" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Squirtin_Barnyard_Friends_4pk" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Squirtin_Barnyard_Friends_4pk" type="mesh" group="3" />
+    </body>

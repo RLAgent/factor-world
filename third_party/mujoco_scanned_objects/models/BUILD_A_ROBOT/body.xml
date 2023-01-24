@@ -1,0 +1,36 @@
+<body childclass="BUILD_A_ROBOT_base" name="BUILD_A_ROBOT1">
+        <geom class="BUILD_A_ROBOT_col" name="{geom_name}" type="mesh" mesh="model_BUILD_A_ROBOT" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_BUILD_A_ROBOT" mesh="model_BUILD_A_ROBOT" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_BUILD_A_ROBOT" type="mesh" group="3" />
+      <geom mesh="model_collision_1_BUILD_A_ROBOT" type="mesh" group="3" />
+      <geom mesh="model_collision_2_BUILD_A_ROBOT" type="mesh" group="3" />
+      <geom mesh="model_collision_3_BUILD_A_ROBOT" type="mesh" group="3" />
+      <geom mesh="model_collision_4_BUILD_A_ROBOT" type="mesh" group="3" />
+      <geom mesh="model_collision_5_BUILD_A_ROBOT" type="mesh" group="3" />
+      <geom mesh="model_collision_6_BUILD_A_ROBOT" type="mesh" group="3" />
+      <geom mesh="model_collision_7_BUILD_A_ROBOT" type="mesh" group="3" />
+      <geom mesh="model_collision_8_BUILD_A_ROBOT" type="mesh" group="3" />
+      <geom mesh="model_collision_9_BUILD_A_ROBOT" type="mesh" group="3" />
+      <geom mesh="model_collision_10_BUILD_A_ROBOT" type="mesh" group="3" />
+      <geom mesh="model_collision_11_BUILD_A_ROBOT" type="mesh" group="3" />
+      <geom mesh="model_collision_12_BUILD_A_ROBOT" type="mesh" group="3" />
+      <geom mesh="model_collision_13_BUILD_A_ROBOT" type="mesh" group="3" />
+      <geom mesh="model_collision_14_BUILD_A_ROBOT" type="mesh" group="3" />
+      <geom mesh="model_collision_15_BUILD_A_ROBOT" type="mesh" group="3" />
+      <geom mesh="model_collision_16_BUILD_A_ROBOT" type="mesh" group="3" />
+      <geom mesh="model_collision_17_BUILD_A_ROBOT" type="mesh" group="3" />
+      <geom mesh="model_collision_18_BUILD_A_ROBOT" type="mesh" group="3" />
+      <geom mesh="model_collision_19_BUILD_A_ROBOT" type="mesh" group="3" />
+      <geom mesh="model_collision_20_BUILD_A_ROBOT" type="mesh" group="3" />
+      <geom mesh="model_collision_21_BUILD_A_ROBOT" type="mesh" group="3" />
+      <geom mesh="model_collision_22_BUILD_A_ROBOT" type="mesh" group="3" />
+      <geom mesh="model_collision_23_BUILD_A_ROBOT" type="mesh" group="3" />
+      <geom mesh="model_collision_24_BUILD_A_ROBOT" type="mesh" group="3" />
+      <geom mesh="model_collision_25_BUILD_A_ROBOT" type="mesh" group="3" />
+      <geom mesh="model_collision_26_BUILD_A_ROBOT" type="mesh" group="3" />
+      <geom mesh="model_collision_27_BUILD_A_ROBOT" type="mesh" group="3" />
+      <geom mesh="model_collision_28_BUILD_A_ROBOT" type="mesh" group="3" />
+      <geom mesh="model_collision_29_BUILD_A_ROBOT" type="mesh" group="3" />
+      <geom mesh="model_collision_30_BUILD_A_ROBOT" type="mesh" group="3" />
+      <geom mesh="model_collision_31_BUILD_A_ROBOT" type="mesh" group="3" />
+    </body>

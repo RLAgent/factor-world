@@ -1,0 +1,38 @@
+<asset>
+    <texture type="2d" name="texture_FOOD_BEVERAGE_SET" file="../../../../../mujoco_scanned_objects/models/FOOD_BEVERAGE_SET/texture.png" />
+    <material name="material_0_FOOD_BEVERAGE_SET" texture="texture_FOOD_BEVERAGE_SET" specular="0.5" shininess="0.5" />
+    <mesh name="model_FOOD_BEVERAGE_SET" file="../../../../../mujoco_scanned_objects/models/FOOD_BEVERAGE_SET/model.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_0_FOOD_BEVERAGE_SET" file="../../../../../mujoco_scanned_objects/models/FOOD_BEVERAGE_SET/model_collision_0.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_1_FOOD_BEVERAGE_SET" file="../../../../../mujoco_scanned_objects/models/FOOD_BEVERAGE_SET/model_collision_1.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_2_FOOD_BEVERAGE_SET" file="../../../../../mujoco_scanned_objects/models/FOOD_BEVERAGE_SET/model_collision_2.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_3_FOOD_BEVERAGE_SET" file="../../../../../mujoco_scanned_objects/models/FOOD_BEVERAGE_SET/model_collision_3.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_4_FOOD_BEVERAGE_SET" file="../../../../../mujoco_scanned_objects/models/FOOD_BEVERAGE_SET/model_collision_4.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_5_FOOD_BEVERAGE_SET" file="../../../../../mujoco_scanned_objects/models/FOOD_BEVERAGE_SET/model_collision_5.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_6_FOOD_BEVERAGE_SET" file="../../../../../mujoco_scanned_objects/models/FOOD_BEVERAGE_SET/model_collision_6.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_7_FOOD_BEVERAGE_SET" file="../../../../../mujoco_scanned_objects/models/FOOD_BEVERAGE_SET/model_collision_7.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_8_FOOD_BEVERAGE_SET" file="../../../../../mujoco_scanned_objects/models/FOOD_BEVERAGE_SET/model_collision_8.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_9_FOOD_BEVERAGE_SET" file="../../../../../mujoco_scanned_objects/models/FOOD_BEVERAGE_SET/model_collision_9.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_10_FOOD_BEVERAGE_SET" file="../../../../../mujoco_scanned_objects/models/FOOD_BEVERAGE_SET/model_collision_10.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_11_FOOD_BEVERAGE_SET" file="../../../../../mujoco_scanned_objects/models/FOOD_BEVERAGE_SET/model_collision_11.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_12_FOOD_BEVERAGE_SET" file="../../../../../mujoco_scanned_objects/models/FOOD_BEVERAGE_SET/model_collision_12.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_13_FOOD_BEVERAGE_SET" file="../../../../../mujoco_scanned_objects/models/FOOD_BEVERAGE_SET/model_collision_13.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_14_FOOD_BEVERAGE_SET" file="../../../../../mujoco_scanned_objects/models/FOOD_BEVERAGE_SET/model_collision_14.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_15_FOOD_BEVERAGE_SET" file="../../../../../mujoco_scanned_objects/models/FOOD_BEVERAGE_SET/model_collision_15.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_16_FOOD_BEVERAGE_SET" file="../../../../../mujoco_scanned_objects/models/FOOD_BEVERAGE_SET/model_collision_16.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_17_FOOD_BEVERAGE_SET" file="../../../../../mujoco_scanned_objects/models/FOOD_BEVERAGE_SET/model_collision_17.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_18_FOOD_BEVERAGE_SET" file="../../../../../mujoco_scanned_objects/models/FOOD_BEVERAGE_SET/model_collision_18.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_19_FOOD_BEVERAGE_SET" file="../../../../../mujoco_scanned_objects/models/FOOD_BEVERAGE_SET/model_collision_19.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_20_FOOD_BEVERAGE_SET" file="../../../../../mujoco_scanned_objects/models/FOOD_BEVERAGE_SET/model_collision_20.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_21_FOOD_BEVERAGE_SET" file="../../../../../mujoco_scanned_objects/models/FOOD_BEVERAGE_SET/model_collision_21.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_22_FOOD_BEVERAGE_SET" file="../../../../../mujoco_scanned_objects/models/FOOD_BEVERAGE_SET/model_collision_22.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_23_FOOD_BEVERAGE_SET" file="../../../../../mujoco_scanned_objects/models/FOOD_BEVERAGE_SET/model_collision_23.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_24_FOOD_BEVERAGE_SET" file="../../../../../mujoco_scanned_objects/models/FOOD_BEVERAGE_SET/model_collision_24.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_25_FOOD_BEVERAGE_SET" file="../../../../../mujoco_scanned_objects/models/FOOD_BEVERAGE_SET/model_collision_25.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_26_FOOD_BEVERAGE_SET" file="../../../../../mujoco_scanned_objects/models/FOOD_BEVERAGE_SET/model_collision_26.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_27_FOOD_BEVERAGE_SET" file="../../../../../mujoco_scanned_objects/models/FOOD_BEVERAGE_SET/model_collision_27.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_28_FOOD_BEVERAGE_SET" file="../../../../../mujoco_scanned_objects/models/FOOD_BEVERAGE_SET/model_collision_28.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_29_FOOD_BEVERAGE_SET" file="../../../../../mujoco_scanned_objects/models/FOOD_BEVERAGE_SET/model_collision_29.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_30_FOOD_BEVERAGE_SET" file="../../../../../mujoco_scanned_objects/models/FOOD_BEVERAGE_SET/model_collision_30.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_31_FOOD_BEVERAGE_SET" file="../../../../../mujoco_scanned_objects/models/FOOD_BEVERAGE_SET/model_collision_31.stl" scale="{scale} {scale} {scale}" />
+  </asset>
+  

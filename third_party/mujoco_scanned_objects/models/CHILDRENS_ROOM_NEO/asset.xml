@@ -1,0 +1,38 @@
+<asset>
+    <texture type="2d" name="texture_CHILDRENS_ROOM_NEO" file="../../../../../mujoco_scanned_objects/models/CHILDRENS_ROOM_NEO/texture.png" />
+    <material name="material_0_CHILDRENS_ROOM_NEO" texture="texture_CHILDRENS_ROOM_NEO" specular="0.5" shininess="0.5" />
+    <mesh name="model_CHILDRENS_ROOM_NEO" file="../../../../../mujoco_scanned_objects/models/CHILDRENS_ROOM_NEO/model.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_0_CHILDRENS_ROOM_NEO" file="../../../../../mujoco_scanned_objects/models/CHILDRENS_ROOM_NEO/model_collision_0.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_1_CHILDRENS_ROOM_NEO" file="../../../../../mujoco_scanned_objects/models/CHILDRENS_ROOM_NEO/model_collision_1.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_2_CHILDRENS_ROOM_NEO" file="../../../../../mujoco_scanned_objects/models/CHILDRENS_ROOM_NEO/model_collision_2.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_3_CHILDRENS_ROOM_NEO" file="../../../../../mujoco_scanned_objects/models/CHILDRENS_ROOM_NEO/model_collision_3.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_4_CHILDRENS_ROOM_NEO" file="../../../../../mujoco_scanned_objects/models/CHILDRENS_ROOM_NEO/model_collision_4.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_5_CHILDRENS_ROOM_NEO" file="../../../../../mujoco_scanned_objects/models/CHILDRENS_ROOM_NEO/model_collision_5.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_6_CHILDRENS_ROOM_NEO" file="../../../../../mujoco_scanned_objects/models/CHILDRENS_ROOM_NEO/model_collision_6.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_7_CHILDRENS_ROOM_NEO" file="../../../../../mujoco_scanned_objects/models/CHILDRENS_ROOM_NEO/model_collision_7.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_8_CHILDRENS_ROOM_NEO" file="../../../../../mujoco_scanned_objects/models/CHILDRENS_ROOM_NEO/model_collision_8.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_9_CHILDRENS_ROOM_NEO" file="../../../../../mujoco_scanned_objects/models/CHILDRENS_ROOM_NEO/model_collision_9.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_10_CHILDRENS_ROOM_NEO" file="../../../../../mujoco_scanned_objects/models/CHILDRENS_ROOM_NEO/model_collision_10.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_11_CHILDRENS_ROOM_NEO" file="../../../../../mujoco_scanned_objects/models/CHILDRENS_ROOM_NEO/model_collision_11.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_12_CHILDRENS_ROOM_NEO" file="../../../../../mujoco_scanned_objects/models/CHILDRENS_ROOM_NEO/model_collision_12.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_13_CHILDRENS_ROOM_NEO" file="../../../../../mujoco_scanned_objects/models/CHILDRENS_ROOM_NEO/model_collision_13.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_14_CHILDRENS_ROOM_NEO" file="../../../../../mujoco_scanned_objects/models/CHILDRENS_ROOM_NEO/model_collision_14.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_15_CHILDRENS_ROOM_NEO" file="../../../../../mujoco_scanned_objects/models/CHILDRENS_ROOM_NEO/model_collision_15.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_16_CHILDRENS_ROOM_NEO" file="../../../../../mujoco_scanned_objects/models/CHILDRENS_ROOM_NEO/model_collision_16.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_17_CHILDRENS_ROOM_NEO" file="../../../../../mujoco_scanned_objects/models/CHILDRENS_ROOM_NEO/model_collision_17.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_18_CHILDRENS_ROOM_NEO" file="../../../../../mujoco_scanned_objects/models/CHILDRENS_ROOM_NEO/model_collision_18.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_19_CHILDRENS_ROOM_NEO" file="../../../../../mujoco_scanned_objects/models/CHILDRENS_ROOM_NEO/model_collision_19.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_20_CHILDRENS_ROOM_NEO" file="../../../../../mujoco_scanned_objects/models/CHILDRENS_ROOM_NEO/model_collision_20.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_21_CHILDRENS_ROOM_NEO" file="../../../../../mujoco_scanned_objects/models/CHILDRENS_ROOM_NEO/model_collision_21.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_22_CHILDRENS_ROOM_NEO" file="../../../../../mujoco_scanned_objects/models/CHILDRENS_ROOM_NEO/model_collision_22.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_23_CHILDRENS_ROOM_NEO" file="../../../../../mujoco_scanned_objects/models/CHILDRENS_ROOM_NEO/model_collision_23.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_24_CHILDRENS_ROOM_NEO" file="../../../../../mujoco_scanned_objects/models/CHILDRENS_ROOM_NEO/model_collision_24.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_25_CHILDRENS_ROOM_NEO" file="../../../../../mujoco_scanned_objects/models/CHILDRENS_ROOM_NEO/model_collision_25.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_26_CHILDRENS_ROOM_NEO" file="../../../../../mujoco_scanned_objects/models/CHILDRENS_ROOM_NEO/model_collision_26.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_27_CHILDRENS_ROOM_NEO" file="../../../../../mujoco_scanned_objects/models/CHILDRENS_ROOM_NEO/model_collision_27.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_28_CHILDRENS_ROOM_NEO" file="../../../../../mujoco_scanned_objects/models/CHILDRENS_ROOM_NEO/model_collision_28.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_29_CHILDRENS_ROOM_NEO" file="../../../../../mujoco_scanned_objects/models/CHILDRENS_ROOM_NEO/model_collision_29.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_30_CHILDRENS_ROOM_NEO" file="../../../../../mujoco_scanned_objects/models/CHILDRENS_ROOM_NEO/model_collision_30.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_31_CHILDRENS_ROOM_NEO" file="../../../../../mujoco_scanned_objects/models/CHILDRENS_ROOM_NEO/model_collision_31.stl" scale="{scale} {scale} {scale}" />
+  </asset>
+  

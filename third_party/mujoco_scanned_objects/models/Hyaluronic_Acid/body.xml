@@ -1,0 +1,36 @@
+<body childclass="Hyaluronic_Acid_base" name="Hyaluronic_Acid1">
+        <geom class="Hyaluronic_Acid_col" name="{geom_name}" type="mesh" mesh="model_Hyaluronic_Acid" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Hyaluronic_Acid" mesh="model_Hyaluronic_Acid" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Hyaluronic_Acid" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Hyaluronic_Acid" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Hyaluronic_Acid" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Hyaluronic_Acid" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Hyaluronic_Acid" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Hyaluronic_Acid" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Hyaluronic_Acid" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Hyaluronic_Acid" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Hyaluronic_Acid" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Hyaluronic_Acid" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Hyaluronic_Acid" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Hyaluronic_Acid" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Hyaluronic_Acid" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Hyaluronic_Acid" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Hyaluronic_Acid" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Hyaluronic_Acid" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Hyaluronic_Acid" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Hyaluronic_Acid" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Hyaluronic_Acid" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Hyaluronic_Acid" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Hyaluronic_Acid" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Hyaluronic_Acid" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Hyaluronic_Acid" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Hyaluronic_Acid" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Hyaluronic_Acid" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Hyaluronic_Acid" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Hyaluronic_Acid" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Hyaluronic_Acid" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Hyaluronic_Acid" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Hyaluronic_Acid" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Hyaluronic_Acid" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Hyaluronic_Acid" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="Seagate_1TB_Backup_Plus_portable_drive_Silver_base" name="Seagate_1TB_Backup_Plus_portable_drive_Silver1">
+        <geom class="Seagate_1TB_Backup_Plus_portable_drive_Silver_col" name="{geom_name}" type="mesh" mesh="model_Seagate_1TB_Backup_Plus_portable_drive_Silver" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Seagate_1TB_Backup_Plus_portable_drive_Silver" mesh="model_Seagate_1TB_Backup_Plus_portable_drive_Silver" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Seagate_1TB_Backup_Plus_portable_drive_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Seagate_1TB_Backup_Plus_portable_drive_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Seagate_1TB_Backup_Plus_portable_drive_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Seagate_1TB_Backup_Plus_portable_drive_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Seagate_1TB_Backup_Plus_portable_drive_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Seagate_1TB_Backup_Plus_portable_drive_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Seagate_1TB_Backup_Plus_portable_drive_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Seagate_1TB_Backup_Plus_portable_drive_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Seagate_1TB_Backup_Plus_portable_drive_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Seagate_1TB_Backup_Plus_portable_drive_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Seagate_1TB_Backup_Plus_portable_drive_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Seagate_1TB_Backup_Plus_portable_drive_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Seagate_1TB_Backup_Plus_portable_drive_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Seagate_1TB_Backup_Plus_portable_drive_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Seagate_1TB_Backup_Plus_portable_drive_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Seagate_1TB_Backup_Plus_portable_drive_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Seagate_1TB_Backup_Plus_portable_drive_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Seagate_1TB_Backup_Plus_portable_drive_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Seagate_1TB_Backup_Plus_portable_drive_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Seagate_1TB_Backup_Plus_portable_drive_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Seagate_1TB_Backup_Plus_portable_drive_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Seagate_1TB_Backup_Plus_portable_drive_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Seagate_1TB_Backup_Plus_portable_drive_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Seagate_1TB_Backup_Plus_portable_drive_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Seagate_1TB_Backup_Plus_portable_drive_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Seagate_1TB_Backup_Plus_portable_drive_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Seagate_1TB_Backup_Plus_portable_drive_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Seagate_1TB_Backup_Plus_portable_drive_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Seagate_1TB_Backup_Plus_portable_drive_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Seagate_1TB_Backup_Plus_portable_drive_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Seagate_1TB_Backup_Plus_portable_drive_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Seagate_1TB_Backup_Plus_portable_drive_Silver" type="mesh" group="3" />
+    </body>

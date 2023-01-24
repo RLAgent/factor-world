@@ -1,0 +1,36 @@
+<body childclass="Fruity_Friends_base" name="Fruity_Friends1">
+        <geom class="Fruity_Friends_col" name="{geom_name}" type="mesh" mesh="model_Fruity_Friends" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Fruity_Friends" mesh="model_Fruity_Friends" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Fruity_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Fruity_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Fruity_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Fruity_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Fruity_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Fruity_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Fruity_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Fruity_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Fruity_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Fruity_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Fruity_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Fruity_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Fruity_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Fruity_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Fruity_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Fruity_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Fruity_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Fruity_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Fruity_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Fruity_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Fruity_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Fruity_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Fruity_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Fruity_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Fruity_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Fruity_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Fruity_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Fruity_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Fruity_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Fruity_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Fruity_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Fruity_Friends" type="mesh" group="3" />
+    </body>

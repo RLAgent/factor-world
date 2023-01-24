@@ -1,0 +1,36 @@
+<body childclass="3M_Antislip_Surfacing_Light_Duty_White_base" name="3M_Antislip_Surfacing_Light_Duty_White1">
+        <geom class="3M_Antislip_Surfacing_Light_Duty_White_col" name="{geom_name}" type="mesh" mesh="model_3M_Antislip_Surfacing_Light_Duty_White" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_3M_Antislip_Surfacing_Light_Duty_White" mesh="model_3M_Antislip_Surfacing_Light_Duty_White" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_3M_Antislip_Surfacing_Light_Duty_White" type="mesh" group="3" />
+      <geom mesh="model_collision_1_3M_Antislip_Surfacing_Light_Duty_White" type="mesh" group="3" />
+      <geom mesh="model_collision_2_3M_Antislip_Surfacing_Light_Duty_White" type="mesh" group="3" />
+      <geom mesh="model_collision_3_3M_Antislip_Surfacing_Light_Duty_White" type="mesh" group="3" />
+      <geom mesh="model_collision_4_3M_Antislip_Surfacing_Light_Duty_White" type="mesh" group="3" />
+      <geom mesh="model_collision_5_3M_Antislip_Surfacing_Light_Duty_White" type="mesh" group="3" />
+      <geom mesh="model_collision_6_3M_Antislip_Surfacing_Light_Duty_White" type="mesh" group="3" />
+      <geom mesh="model_collision_7_3M_Antislip_Surfacing_Light_Duty_White" type="mesh" group="3" />
+      <geom mesh="model_collision_8_3M_Antislip_Surfacing_Light_Duty_White" type="mesh" group="3" />
+      <geom mesh="model_collision_9_3M_Antislip_Surfacing_Light_Duty_White" type="mesh" group="3" />
+      <geom mesh="model_collision_10_3M_Antislip_Surfacing_Light_Duty_White" type="mesh" group="3" />
+      <geom mesh="model_collision_11_3M_Antislip_Surfacing_Light_Duty_White" type="mesh" group="3" />
+      <geom mesh="model_collision_12_3M_Antislip_Surfacing_Light_Duty_White" type="mesh" group="3" />
+      <geom mesh="model_collision_13_3M_Antislip_Surfacing_Light_Duty_White" type="mesh" group="3" />
+      <geom mesh="model_collision_14_3M_Antislip_Surfacing_Light_Duty_White" type="mesh" group="3" />
+      <geom mesh="model_collision_15_3M_Antislip_Surfacing_Light_Duty_White" type="mesh" group="3" />
+      <geom mesh="model_collision_16_3M_Antislip_Surfacing_Light_Duty_White" type="mesh" group="3" />
+      <geom mesh="model_collision_17_3M_Antislip_Surfacing_Light_Duty_White" type="mesh" group="3" />
+      <geom mesh="model_collision_18_3M_Antislip_Surfacing_Light_Duty_White" type="mesh" group="3" />
+      <geom mesh="model_collision_19_3M_Antislip_Surfacing_Light_Duty_White" type="mesh" group="3" />
+      <geom mesh="model_collision_20_3M_Antislip_Surfacing_Light_Duty_White" type="mesh" group="3" />
+      <geom mesh="model_collision_21_3M_Antislip_Surfacing_Light_Duty_White" type="mesh" group="3" />
+      <geom mesh="model_collision_22_3M_Antislip_Surfacing_Light_Duty_White" type="mesh" group="3" />
+      <geom mesh="model_collision_23_3M_Antislip_Surfacing_Light_Duty_White" type="mesh" group="3" />
+      <geom mesh="model_collision_24_3M_Antislip_Surfacing_Light_Duty_White" type="mesh" group="3" />
+      <geom mesh="model_collision_25_3M_Antislip_Surfacing_Light_Duty_White" type="mesh" group="3" />
+      <geom mesh="model_collision_26_3M_Antislip_Surfacing_Light_Duty_White" type="mesh" group="3" />
+      <geom mesh="model_collision_27_3M_Antislip_Surfacing_Light_Duty_White" type="mesh" group="3" />
+      <geom mesh="model_collision_28_3M_Antislip_Surfacing_Light_Duty_White" type="mesh" group="3" />
+      <geom mesh="model_collision_29_3M_Antislip_Surfacing_Light_Duty_White" type="mesh" group="3" />
+      <geom mesh="model_collision_30_3M_Antislip_Surfacing_Light_Duty_White" type="mesh" group="3" />
+      <geom mesh="model_collision_31_3M_Antislip_Surfacing_Light_Duty_White" type="mesh" group="3" />
+    </body>

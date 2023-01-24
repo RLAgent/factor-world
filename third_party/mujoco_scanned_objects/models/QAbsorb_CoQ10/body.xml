@@ -1,0 +1,36 @@
+<body childclass="QAbsorb_CoQ10_base" name="QAbsorb_CoQ101">
+        <geom class="QAbsorb_CoQ10_col" name="{geom_name}" type="mesh" mesh="model_QAbsorb_CoQ10" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_QAbsorb_CoQ10" mesh="model_QAbsorb_CoQ10" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_QAbsorb_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_1_QAbsorb_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_2_QAbsorb_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_3_QAbsorb_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_4_QAbsorb_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_5_QAbsorb_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_6_QAbsorb_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_7_QAbsorb_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_8_QAbsorb_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_9_QAbsorb_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_10_QAbsorb_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_11_QAbsorb_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_12_QAbsorb_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_13_QAbsorb_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_14_QAbsorb_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_15_QAbsorb_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_16_QAbsorb_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_17_QAbsorb_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_18_QAbsorb_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_19_QAbsorb_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_20_QAbsorb_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_21_QAbsorb_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_22_QAbsorb_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_23_QAbsorb_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_24_QAbsorb_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_25_QAbsorb_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_26_QAbsorb_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_27_QAbsorb_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_28_QAbsorb_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_29_QAbsorb_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_30_QAbsorb_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_31_QAbsorb_CoQ10" type="mesh" group="3" />
+    </body>

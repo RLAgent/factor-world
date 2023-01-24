@@ -1,0 +1,36 @@
+<body childclass="Progressive_Rubber_Spatulas_3_count_base" name="Progressive_Rubber_Spatulas_3_count1">
+        <geom class="Progressive_Rubber_Spatulas_3_count_col" name="{geom_name}" type="mesh" mesh="model_Progressive_Rubber_Spatulas_3_count" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Progressive_Rubber_Spatulas_3_count" mesh="model_Progressive_Rubber_Spatulas_3_count" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Progressive_Rubber_Spatulas_3_count" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Progressive_Rubber_Spatulas_3_count" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Progressive_Rubber_Spatulas_3_count" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Progressive_Rubber_Spatulas_3_count" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Progressive_Rubber_Spatulas_3_count" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Progressive_Rubber_Spatulas_3_count" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Progressive_Rubber_Spatulas_3_count" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Progressive_Rubber_Spatulas_3_count" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Progressive_Rubber_Spatulas_3_count" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Progressive_Rubber_Spatulas_3_count" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Progressive_Rubber_Spatulas_3_count" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Progressive_Rubber_Spatulas_3_count" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Progressive_Rubber_Spatulas_3_count" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Progressive_Rubber_Spatulas_3_count" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Progressive_Rubber_Spatulas_3_count" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Progressive_Rubber_Spatulas_3_count" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Progressive_Rubber_Spatulas_3_count" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Progressive_Rubber_Spatulas_3_count" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Progressive_Rubber_Spatulas_3_count" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Progressive_Rubber_Spatulas_3_count" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Progressive_Rubber_Spatulas_3_count" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Progressive_Rubber_Spatulas_3_count" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Progressive_Rubber_Spatulas_3_count" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Progressive_Rubber_Spatulas_3_count" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Progressive_Rubber_Spatulas_3_count" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Progressive_Rubber_Spatulas_3_count" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Progressive_Rubber_Spatulas_3_count" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Progressive_Rubber_Spatulas_3_count" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Progressive_Rubber_Spatulas_3_count" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Progressive_Rubber_Spatulas_3_count" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Progressive_Rubber_Spatulas_3_count" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Progressive_Rubber_Spatulas_3_count" type="mesh" group="3" />
+    </body>

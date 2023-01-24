@@ -1,0 +1,36 @@
+<body childclass="GIRLS_DECKHAND_base" name="GIRLS_DECKHAND1">
+        <geom class="GIRLS_DECKHAND_col" name="{geom_name}" type="mesh" mesh="model_GIRLS_DECKHAND" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_GIRLS_DECKHAND" mesh="model_GIRLS_DECKHAND" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_GIRLS_DECKHAND" type="mesh" group="3" />
+      <geom mesh="model_collision_1_GIRLS_DECKHAND" type="mesh" group="3" />
+      <geom mesh="model_collision_2_GIRLS_DECKHAND" type="mesh" group="3" />
+      <geom mesh="model_collision_3_GIRLS_DECKHAND" type="mesh" group="3" />
+      <geom mesh="model_collision_4_GIRLS_DECKHAND" type="mesh" group="3" />
+      <geom mesh="model_collision_5_GIRLS_DECKHAND" type="mesh" group="3" />
+      <geom mesh="model_collision_6_GIRLS_DECKHAND" type="mesh" group="3" />
+      <geom mesh="model_collision_7_GIRLS_DECKHAND" type="mesh" group="3" />
+      <geom mesh="model_collision_8_GIRLS_DECKHAND" type="mesh" group="3" />
+      <geom mesh="model_collision_9_GIRLS_DECKHAND" type="mesh" group="3" />
+      <geom mesh="model_collision_10_GIRLS_DECKHAND" type="mesh" group="3" />
+      <geom mesh="model_collision_11_GIRLS_DECKHAND" type="mesh" group="3" />
+      <geom mesh="model_collision_12_GIRLS_DECKHAND" type="mesh" group="3" />
+      <geom mesh="model_collision_13_GIRLS_DECKHAND" type="mesh" group="3" />
+      <geom mesh="model_collision_14_GIRLS_DECKHAND" type="mesh" group="3" />
+      <geom mesh="model_collision_15_GIRLS_DECKHAND" type="mesh" group="3" />
+      <geom mesh="model_collision_16_GIRLS_DECKHAND" type="mesh" group="3" />
+      <geom mesh="model_collision_17_GIRLS_DECKHAND" type="mesh" group="3" />
+      <geom mesh="model_collision_18_GIRLS_DECKHAND" type="mesh" group="3" />
+      <geom mesh="model_collision_19_GIRLS_DECKHAND" type="mesh" group="3" />
+      <geom mesh="model_collision_20_GIRLS_DECKHAND" type="mesh" group="3" />
+      <geom mesh="model_collision_21_GIRLS_DECKHAND" type="mesh" group="3" />
+      <geom mesh="model_collision_22_GIRLS_DECKHAND" type="mesh" group="3" />
+      <geom mesh="model_collision_23_GIRLS_DECKHAND" type="mesh" group="3" />
+      <geom mesh="model_collision_24_GIRLS_DECKHAND" type="mesh" group="3" />
+      <geom mesh="model_collision_25_GIRLS_DECKHAND" type="mesh" group="3" />
+      <geom mesh="model_collision_26_GIRLS_DECKHAND" type="mesh" group="3" />
+      <geom mesh="model_collision_27_GIRLS_DECKHAND" type="mesh" group="3" />
+      <geom mesh="model_collision_28_GIRLS_DECKHAND" type="mesh" group="3" />
+      <geom mesh="model_collision_29_GIRLS_DECKHAND" type="mesh" group="3" />
+      <geom mesh="model_collision_30_GIRLS_DECKHAND" type="mesh" group="3" />
+      <geom mesh="model_collision_31_GIRLS_DECKHAND" type="mesh" group="3" />
+    </body>

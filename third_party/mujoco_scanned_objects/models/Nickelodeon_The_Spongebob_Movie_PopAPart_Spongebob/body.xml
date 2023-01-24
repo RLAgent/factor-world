@@ -1,0 +1,36 @@
+<body childclass="Nickelodeon_The_Spongebob_Movie_PopAPart_Spongebob_base" name="Nickelodeon_The_Spongebob_Movie_PopAPart_Spongebob1">
+        <geom class="Nickelodeon_The_Spongebob_Movie_PopAPart_Spongebob_col" name="{geom_name}" type="mesh" mesh="model_Nickelodeon_The_Spongebob_Movie_PopAPart_Spongebob" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Nickelodeon_The_Spongebob_Movie_PopAPart_Spongebob" mesh="model_Nickelodeon_The_Spongebob_Movie_PopAPart_Spongebob" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Nickelodeon_The_Spongebob_Movie_PopAPart_Spongebob" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Nickelodeon_The_Spongebob_Movie_PopAPart_Spongebob" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Nickelodeon_The_Spongebob_Movie_PopAPart_Spongebob" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Nickelodeon_The_Spongebob_Movie_PopAPart_Spongebob" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Nickelodeon_The_Spongebob_Movie_PopAPart_Spongebob" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Nickelodeon_The_Spongebob_Movie_PopAPart_Spongebob" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Nickelodeon_The_Spongebob_Movie_PopAPart_Spongebob" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Nickelodeon_The_Spongebob_Movie_PopAPart_Spongebob" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Nickelodeon_The_Spongebob_Movie_PopAPart_Spongebob" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Nickelodeon_The_Spongebob_Movie_PopAPart_Spongebob" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Nickelodeon_The_Spongebob_Movie_PopAPart_Spongebob" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Nickelodeon_The_Spongebob_Movie_PopAPart_Spongebob" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Nickelodeon_The_Spongebob_Movie_PopAPart_Spongebob" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Nickelodeon_The_Spongebob_Movie_PopAPart_Spongebob" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Nickelodeon_The_Spongebob_Movie_PopAPart_Spongebob" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Nickelodeon_The_Spongebob_Movie_PopAPart_Spongebob" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Nickelodeon_The_Spongebob_Movie_PopAPart_Spongebob" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Nickelodeon_The_Spongebob_Movie_PopAPart_Spongebob" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Nickelodeon_The_Spongebob_Movie_PopAPart_Spongebob" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Nickelodeon_The_Spongebob_Movie_PopAPart_Spongebob" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Nickelodeon_The_Spongebob_Movie_PopAPart_Spongebob" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Nickelodeon_The_Spongebob_Movie_PopAPart_Spongebob" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Nickelodeon_The_Spongebob_Movie_PopAPart_Spongebob" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Nickelodeon_The_Spongebob_Movie_PopAPart_Spongebob" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Nickelodeon_The_Spongebob_Movie_PopAPart_Spongebob" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Nickelodeon_The_Spongebob_Movie_PopAPart_Spongebob" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Nickelodeon_The_Spongebob_Movie_PopAPart_Spongebob" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Nickelodeon_The_Spongebob_Movie_PopAPart_Spongebob" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Nickelodeon_The_Spongebob_Movie_PopAPart_Spongebob" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Nickelodeon_The_Spongebob_Movie_PopAPart_Spongebob" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Nickelodeon_The_Spongebob_Movie_PopAPart_Spongebob" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Nickelodeon_The_Spongebob_Movie_PopAPart_Spongebob" type="mesh" group="3" />
+    </body>

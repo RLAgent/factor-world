@@ -1,0 +1,36 @@
+<body childclass="Whey_Protein_Chocolate_12_Packets_base" name="Whey_Protein_Chocolate_12_Packets1">
+        <geom class="Whey_Protein_Chocolate_12_Packets_col" name="{geom_name}" type="mesh" mesh="model_Whey_Protein_Chocolate_12_Packets" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Whey_Protein_Chocolate_12_Packets" mesh="model_Whey_Protein_Chocolate_12_Packets" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Whey_Protein_Chocolate_12_Packets" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Whey_Protein_Chocolate_12_Packets" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Whey_Protein_Chocolate_12_Packets" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Whey_Protein_Chocolate_12_Packets" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Whey_Protein_Chocolate_12_Packets" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Whey_Protein_Chocolate_12_Packets" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Whey_Protein_Chocolate_12_Packets" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Whey_Protein_Chocolate_12_Packets" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Whey_Protein_Chocolate_12_Packets" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Whey_Protein_Chocolate_12_Packets" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Whey_Protein_Chocolate_12_Packets" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Whey_Protein_Chocolate_12_Packets" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Whey_Protein_Chocolate_12_Packets" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Whey_Protein_Chocolate_12_Packets" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Whey_Protein_Chocolate_12_Packets" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Whey_Protein_Chocolate_12_Packets" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Whey_Protein_Chocolate_12_Packets" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Whey_Protein_Chocolate_12_Packets" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Whey_Protein_Chocolate_12_Packets" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Whey_Protein_Chocolate_12_Packets" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Whey_Protein_Chocolate_12_Packets" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Whey_Protein_Chocolate_12_Packets" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Whey_Protein_Chocolate_12_Packets" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Whey_Protein_Chocolate_12_Packets" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Whey_Protein_Chocolate_12_Packets" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Whey_Protein_Chocolate_12_Packets" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Whey_Protein_Chocolate_12_Packets" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Whey_Protein_Chocolate_12_Packets" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Whey_Protein_Chocolate_12_Packets" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Whey_Protein_Chocolate_12_Packets" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Whey_Protein_Chocolate_12_Packets" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Whey_Protein_Chocolate_12_Packets" type="mesh" group="3" />
+    </body>

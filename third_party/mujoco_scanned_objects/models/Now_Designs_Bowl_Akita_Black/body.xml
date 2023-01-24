@@ -1,0 +1,36 @@
+<body childclass="Now_Designs_Bowl_Akita_Black_base" name="Now_Designs_Bowl_Akita_Black1">
+        <geom class="Now_Designs_Bowl_Akita_Black_col" name="{geom_name}" type="mesh" mesh="model_Now_Designs_Bowl_Akita_Black" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Now_Designs_Bowl_Akita_Black" mesh="model_Now_Designs_Bowl_Akita_Black" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Now_Designs_Bowl_Akita_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Now_Designs_Bowl_Akita_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Now_Designs_Bowl_Akita_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Now_Designs_Bowl_Akita_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Now_Designs_Bowl_Akita_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Now_Designs_Bowl_Akita_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Now_Designs_Bowl_Akita_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Now_Designs_Bowl_Akita_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Now_Designs_Bowl_Akita_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Now_Designs_Bowl_Akita_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Now_Designs_Bowl_Akita_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Now_Designs_Bowl_Akita_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Now_Designs_Bowl_Akita_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Now_Designs_Bowl_Akita_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Now_Designs_Bowl_Akita_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Now_Designs_Bowl_Akita_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Now_Designs_Bowl_Akita_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Now_Designs_Bowl_Akita_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Now_Designs_Bowl_Akita_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Now_Designs_Bowl_Akita_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Now_Designs_Bowl_Akita_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Now_Designs_Bowl_Akita_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Now_Designs_Bowl_Akita_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Now_Designs_Bowl_Akita_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Now_Designs_Bowl_Akita_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Now_Designs_Bowl_Akita_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Now_Designs_Bowl_Akita_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Now_Designs_Bowl_Akita_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Now_Designs_Bowl_Akita_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Now_Designs_Bowl_Akita_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Now_Designs_Bowl_Akita_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Now_Designs_Bowl_Akita_Black" type="mesh" group="3" />
+    </body>

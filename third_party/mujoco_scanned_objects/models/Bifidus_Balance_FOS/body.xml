@@ -1,0 +1,36 @@
+<body childclass="Bifidus_Balance_FOS_base" name="Bifidus_Balance_FOS1">
+        <geom class="Bifidus_Balance_FOS_col" name="{geom_name}" type="mesh" mesh="model_Bifidus_Balance_FOS" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Bifidus_Balance_FOS" mesh="model_Bifidus_Balance_FOS" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Bifidus_Balance_FOS" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Bifidus_Balance_FOS" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Bifidus_Balance_FOS" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Bifidus_Balance_FOS" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Bifidus_Balance_FOS" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Bifidus_Balance_FOS" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Bifidus_Balance_FOS" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Bifidus_Balance_FOS" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Bifidus_Balance_FOS" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Bifidus_Balance_FOS" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Bifidus_Balance_FOS" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Bifidus_Balance_FOS" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Bifidus_Balance_FOS" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Bifidus_Balance_FOS" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Bifidus_Balance_FOS" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Bifidus_Balance_FOS" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Bifidus_Balance_FOS" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Bifidus_Balance_FOS" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Bifidus_Balance_FOS" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Bifidus_Balance_FOS" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Bifidus_Balance_FOS" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Bifidus_Balance_FOS" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Bifidus_Balance_FOS" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Bifidus_Balance_FOS" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Bifidus_Balance_FOS" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Bifidus_Balance_FOS" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Bifidus_Balance_FOS" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Bifidus_Balance_FOS" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Bifidus_Balance_FOS" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Bifidus_Balance_FOS" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Bifidus_Balance_FOS" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Bifidus_Balance_FOS" type="mesh" group="3" />
+    </body>

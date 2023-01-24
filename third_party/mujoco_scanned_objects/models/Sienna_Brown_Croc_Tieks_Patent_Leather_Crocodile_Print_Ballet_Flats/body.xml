@@ -1,0 +1,36 @@
+<body childclass="Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats_base" name="Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats1">
+        <geom class="Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats_col" name="{geom_name}" type="mesh" mesh="model_Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats" mesh="model_Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats" type="mesh" group="3" />
+    </body>

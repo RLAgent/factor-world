@@ -1,0 +1,36 @@
+<body childclass="Chef_Style_Round_Cake_Pan_9_inch_pan_base" name="Chef_Style_Round_Cake_Pan_9_inch_pan1">
+        <geom class="Chef_Style_Round_Cake_Pan_9_inch_pan_col" name="{geom_name}" type="mesh" mesh="model_Chef_Style_Round_Cake_Pan_9_inch_pan" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Chef_Style_Round_Cake_Pan_9_inch_pan" mesh="model_Chef_Style_Round_Cake_Pan_9_inch_pan" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Chef_Style_Round_Cake_Pan_9_inch_pan" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Chef_Style_Round_Cake_Pan_9_inch_pan" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Chef_Style_Round_Cake_Pan_9_inch_pan" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Chef_Style_Round_Cake_Pan_9_inch_pan" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Chef_Style_Round_Cake_Pan_9_inch_pan" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Chef_Style_Round_Cake_Pan_9_inch_pan" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Chef_Style_Round_Cake_Pan_9_inch_pan" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Chef_Style_Round_Cake_Pan_9_inch_pan" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Chef_Style_Round_Cake_Pan_9_inch_pan" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Chef_Style_Round_Cake_Pan_9_inch_pan" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Chef_Style_Round_Cake_Pan_9_inch_pan" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Chef_Style_Round_Cake_Pan_9_inch_pan" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Chef_Style_Round_Cake_Pan_9_inch_pan" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Chef_Style_Round_Cake_Pan_9_inch_pan" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Chef_Style_Round_Cake_Pan_9_inch_pan" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Chef_Style_Round_Cake_Pan_9_inch_pan" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Chef_Style_Round_Cake_Pan_9_inch_pan" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Chef_Style_Round_Cake_Pan_9_inch_pan" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Chef_Style_Round_Cake_Pan_9_inch_pan" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Chef_Style_Round_Cake_Pan_9_inch_pan" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Chef_Style_Round_Cake_Pan_9_inch_pan" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Chef_Style_Round_Cake_Pan_9_inch_pan" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Chef_Style_Round_Cake_Pan_9_inch_pan" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Chef_Style_Round_Cake_Pan_9_inch_pan" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Chef_Style_Round_Cake_Pan_9_inch_pan" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Chef_Style_Round_Cake_Pan_9_inch_pan" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Chef_Style_Round_Cake_Pan_9_inch_pan" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Chef_Style_Round_Cake_Pan_9_inch_pan" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Chef_Style_Round_Cake_Pan_9_inch_pan" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Chef_Style_Round_Cake_Pan_9_inch_pan" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Chef_Style_Round_Cake_Pan_9_inch_pan" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Chef_Style_Round_Cake_Pan_9_inch_pan" type="mesh" group="3" />
+    </body>

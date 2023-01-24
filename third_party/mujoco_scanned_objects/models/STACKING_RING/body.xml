@@ -1,0 +1,36 @@
+<body childclass="STACKING_RING_base" name="STACKING_RING1">
+        <geom class="STACKING_RING_col" name="{geom_name}" type="mesh" mesh="model_STACKING_RING" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_STACKING_RING" mesh="model_STACKING_RING" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_STACKING_RING" type="mesh" group="3" />
+      <geom mesh="model_collision_1_STACKING_RING" type="mesh" group="3" />
+      <geom mesh="model_collision_2_STACKING_RING" type="mesh" group="3" />
+      <geom mesh="model_collision_3_STACKING_RING" type="mesh" group="3" />
+      <geom mesh="model_collision_4_STACKING_RING" type="mesh" group="3" />
+      <geom mesh="model_collision_5_STACKING_RING" type="mesh" group="3" />
+      <geom mesh="model_collision_6_STACKING_RING" type="mesh" group="3" />
+      <geom mesh="model_collision_7_STACKING_RING" type="mesh" group="3" />
+      <geom mesh="model_collision_8_STACKING_RING" type="mesh" group="3" />
+      <geom mesh="model_collision_9_STACKING_RING" type="mesh" group="3" />
+      <geom mesh="model_collision_10_STACKING_RING" type="mesh" group="3" />
+      <geom mesh="model_collision_11_STACKING_RING" type="mesh" group="3" />
+      <geom mesh="model_collision_12_STACKING_RING" type="mesh" group="3" />
+      <geom mesh="model_collision_13_STACKING_RING" type="mesh" group="3" />
+      <geom mesh="model_collision_14_STACKING_RING" type="mesh" group="3" />
+      <geom mesh="model_collision_15_STACKING_RING" type="mesh" group="3" />
+      <geom mesh="model_collision_16_STACKING_RING" type="mesh" group="3" />
+      <geom mesh="model_collision_17_STACKING_RING" type="mesh" group="3" />
+      <geom mesh="model_collision_18_STACKING_RING" type="mesh" group="3" />
+      <geom mesh="model_collision_19_STACKING_RING" type="mesh" group="3" />
+      <geom mesh="model_collision_20_STACKING_RING" type="mesh" group="3" />
+      <geom mesh="model_collision_21_STACKING_RING" type="mesh" group="3" />
+      <geom mesh="model_collision_22_STACKING_RING" type="mesh" group="3" />
+      <geom mesh="model_collision_23_STACKING_RING" type="mesh" group="3" />
+      <geom mesh="model_collision_24_STACKING_RING" type="mesh" group="3" />
+      <geom mesh="model_collision_25_STACKING_RING" type="mesh" group="3" />
+      <geom mesh="model_collision_26_STACKING_RING" type="mesh" group="3" />
+      <geom mesh="model_collision_27_STACKING_RING" type="mesh" group="3" />
+      <geom mesh="model_collision_28_STACKING_RING" type="mesh" group="3" />
+      <geom mesh="model_collision_29_STACKING_RING" type="mesh" group="3" />
+      <geom mesh="model_collision_30_STACKING_RING" type="mesh" group="3" />
+      <geom mesh="model_collision_31_STACKING_RING" type="mesh" group="3" />
+    </body>

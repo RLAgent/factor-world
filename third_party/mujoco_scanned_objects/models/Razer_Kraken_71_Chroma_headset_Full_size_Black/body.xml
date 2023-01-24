@@ -1,0 +1,36 @@
+<body childclass="Razer_Kraken_71_Chroma_headset_Full_size_Black_base" name="Razer_Kraken_71_Chroma_headset_Full_size_Black1">
+        <geom class="Razer_Kraken_71_Chroma_headset_Full_size_Black_col" name="{geom_name}" type="mesh" mesh="model_Razer_Kraken_71_Chroma_headset_Full_size_Black" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Razer_Kraken_71_Chroma_headset_Full_size_Black" mesh="model_Razer_Kraken_71_Chroma_headset_Full_size_Black" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Razer_Kraken_71_Chroma_headset_Full_size_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Razer_Kraken_71_Chroma_headset_Full_size_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Razer_Kraken_71_Chroma_headset_Full_size_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Razer_Kraken_71_Chroma_headset_Full_size_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Razer_Kraken_71_Chroma_headset_Full_size_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Razer_Kraken_71_Chroma_headset_Full_size_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Razer_Kraken_71_Chroma_headset_Full_size_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Razer_Kraken_71_Chroma_headset_Full_size_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Razer_Kraken_71_Chroma_headset_Full_size_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Razer_Kraken_71_Chroma_headset_Full_size_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Razer_Kraken_71_Chroma_headset_Full_size_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Razer_Kraken_71_Chroma_headset_Full_size_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Razer_Kraken_71_Chroma_headset_Full_size_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Razer_Kraken_71_Chroma_headset_Full_size_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Razer_Kraken_71_Chroma_headset_Full_size_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Razer_Kraken_71_Chroma_headset_Full_size_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Razer_Kraken_71_Chroma_headset_Full_size_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Razer_Kraken_71_Chroma_headset_Full_size_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Razer_Kraken_71_Chroma_headset_Full_size_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Razer_Kraken_71_Chroma_headset_Full_size_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Razer_Kraken_71_Chroma_headset_Full_size_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Razer_Kraken_71_Chroma_headset_Full_size_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Razer_Kraken_71_Chroma_headset_Full_size_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Razer_Kraken_71_Chroma_headset_Full_size_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Razer_Kraken_71_Chroma_headset_Full_size_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Razer_Kraken_71_Chroma_headset_Full_size_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Razer_Kraken_71_Chroma_headset_Full_size_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Razer_Kraken_71_Chroma_headset_Full_size_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Razer_Kraken_71_Chroma_headset_Full_size_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Razer_Kraken_71_Chroma_headset_Full_size_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Razer_Kraken_71_Chroma_headset_Full_size_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Razer_Kraken_71_Chroma_headset_Full_size_Black" type="mesh" group="3" />
+    </body>

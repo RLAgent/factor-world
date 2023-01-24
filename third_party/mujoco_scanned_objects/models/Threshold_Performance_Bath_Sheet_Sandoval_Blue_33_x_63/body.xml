@@ -1,0 +1,36 @@
+<body childclass="Threshold_Performance_Bath_Sheet_Sandoval_Blue_33_x_63_base" name="Threshold_Performance_Bath_Sheet_Sandoval_Blue_33_x_631">
+        <geom class="Threshold_Performance_Bath_Sheet_Sandoval_Blue_33_x_63_col" name="{geom_name}" type="mesh" mesh="model_Threshold_Performance_Bath_Sheet_Sandoval_Blue_33_x_63" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Threshold_Performance_Bath_Sheet_Sandoval_Blue_33_x_63" mesh="model_Threshold_Performance_Bath_Sheet_Sandoval_Blue_33_x_63" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Threshold_Performance_Bath_Sheet_Sandoval_Blue_33_x_63" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Threshold_Performance_Bath_Sheet_Sandoval_Blue_33_x_63" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Threshold_Performance_Bath_Sheet_Sandoval_Blue_33_x_63" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Threshold_Performance_Bath_Sheet_Sandoval_Blue_33_x_63" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Threshold_Performance_Bath_Sheet_Sandoval_Blue_33_x_63" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Threshold_Performance_Bath_Sheet_Sandoval_Blue_33_x_63" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Threshold_Performance_Bath_Sheet_Sandoval_Blue_33_x_63" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Threshold_Performance_Bath_Sheet_Sandoval_Blue_33_x_63" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Threshold_Performance_Bath_Sheet_Sandoval_Blue_33_x_63" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Threshold_Performance_Bath_Sheet_Sandoval_Blue_33_x_63" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Threshold_Performance_Bath_Sheet_Sandoval_Blue_33_x_63" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Threshold_Performance_Bath_Sheet_Sandoval_Blue_33_x_63" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Threshold_Performance_Bath_Sheet_Sandoval_Blue_33_x_63" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Threshold_Performance_Bath_Sheet_Sandoval_Blue_33_x_63" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Threshold_Performance_Bath_Sheet_Sandoval_Blue_33_x_63" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Threshold_Performance_Bath_Sheet_Sandoval_Blue_33_x_63" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Threshold_Performance_Bath_Sheet_Sandoval_Blue_33_x_63" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Threshold_Performance_Bath_Sheet_Sandoval_Blue_33_x_63" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Threshold_Performance_Bath_Sheet_Sandoval_Blue_33_x_63" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Threshold_Performance_Bath_Sheet_Sandoval_Blue_33_x_63" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Threshold_Performance_Bath_Sheet_Sandoval_Blue_33_x_63" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Threshold_Performance_Bath_Sheet_Sandoval_Blue_33_x_63" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Threshold_Performance_Bath_Sheet_Sandoval_Blue_33_x_63" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Threshold_Performance_Bath_Sheet_Sandoval_Blue_33_x_63" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Threshold_Performance_Bath_Sheet_Sandoval_Blue_33_x_63" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Threshold_Performance_Bath_Sheet_Sandoval_Blue_33_x_63" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Threshold_Performance_Bath_Sheet_Sandoval_Blue_33_x_63" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Threshold_Performance_Bath_Sheet_Sandoval_Blue_33_x_63" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Threshold_Performance_Bath_Sheet_Sandoval_Blue_33_x_63" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Threshold_Performance_Bath_Sheet_Sandoval_Blue_33_x_63" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Threshold_Performance_Bath_Sheet_Sandoval_Blue_33_x_63" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Threshold_Performance_Bath_Sheet_Sandoval_Blue_33_x_63" type="mesh" group="3" />
+    </body>

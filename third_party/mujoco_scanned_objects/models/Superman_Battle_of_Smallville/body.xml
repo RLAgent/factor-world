@@ -1,0 +1,36 @@
+<body childclass="Superman_Battle_of_Smallville_base" name="Superman_Battle_of_Smallville1">
+        <geom class="Superman_Battle_of_Smallville_col" name="{geom_name}" type="mesh" mesh="model_Superman_Battle_of_Smallville" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Superman_Battle_of_Smallville" mesh="model_Superman_Battle_of_Smallville" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Superman_Battle_of_Smallville" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Superman_Battle_of_Smallville" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Superman_Battle_of_Smallville" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Superman_Battle_of_Smallville" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Superman_Battle_of_Smallville" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Superman_Battle_of_Smallville" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Superman_Battle_of_Smallville" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Superman_Battle_of_Smallville" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Superman_Battle_of_Smallville" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Superman_Battle_of_Smallville" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Superman_Battle_of_Smallville" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Superman_Battle_of_Smallville" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Superman_Battle_of_Smallville" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Superman_Battle_of_Smallville" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Superman_Battle_of_Smallville" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Superman_Battle_of_Smallville" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Superman_Battle_of_Smallville" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Superman_Battle_of_Smallville" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Superman_Battle_of_Smallville" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Superman_Battle_of_Smallville" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Superman_Battle_of_Smallville" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Superman_Battle_of_Smallville" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Superman_Battle_of_Smallville" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Superman_Battle_of_Smallville" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Superman_Battle_of_Smallville" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Superman_Battle_of_Smallville" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Superman_Battle_of_Smallville" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Superman_Battle_of_Smallville" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Superman_Battle_of_Smallville" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Superman_Battle_of_Smallville" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Superman_Battle_of_Smallville" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Superman_Battle_of_Smallville" type="mesh" group="3" />
+    </body>

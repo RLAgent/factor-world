@@ -1,0 +1,36 @@
+<body childclass="Dino_5_base" name="Dino_51">
+        <geom class="Dino_5_col" name="{geom_name}" type="mesh" mesh="model_Dino_5" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Dino_5" mesh="model_Dino_5" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Dino_5" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Dino_5" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Dino_5" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Dino_5" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Dino_5" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Dino_5" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Dino_5" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Dino_5" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Dino_5" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Dino_5" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Dino_5" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Dino_5" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Dino_5" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Dino_5" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Dino_5" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Dino_5" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Dino_5" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Dino_5" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Dino_5" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Dino_5" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Dino_5" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Dino_5" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Dino_5" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Dino_5" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Dino_5" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Dino_5" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Dino_5" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Dino_5" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Dino_5" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Dino_5" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Dino_5" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Dino_5" type="mesh" group="3" />
+    </body>

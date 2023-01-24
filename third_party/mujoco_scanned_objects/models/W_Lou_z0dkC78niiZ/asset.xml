@@ -1,0 +1,38 @@
+<asset>
+    <texture type="2d" name="texture_W_Lou_z0dkC78niiZ" file="../../../../../mujoco_scanned_objects/models/W_Lou_z0dkC78niiZ/texture.png" />
+    <material name="material_0_W_Lou_z0dkC78niiZ" texture="texture_W_Lou_z0dkC78niiZ" specular="0.5" shininess="0.5" />
+    <mesh name="model_W_Lou_z0dkC78niiZ" file="../../../../../mujoco_scanned_objects/models/W_Lou_z0dkC78niiZ/model.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_0_W_Lou_z0dkC78niiZ" file="../../../../../mujoco_scanned_objects/models/W_Lou_z0dkC78niiZ/model_collision_0.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_1_W_Lou_z0dkC78niiZ" file="../../../../../mujoco_scanned_objects/models/W_Lou_z0dkC78niiZ/model_collision_1.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_2_W_Lou_z0dkC78niiZ" file="../../../../../mujoco_scanned_objects/models/W_Lou_z0dkC78niiZ/model_collision_2.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_3_W_Lou_z0dkC78niiZ" file="../../../../../mujoco_scanned_objects/models/W_Lou_z0dkC78niiZ/model_collision_3.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_4_W_Lou_z0dkC78niiZ" file="../../../../../mujoco_scanned_objects/models/W_Lou_z0dkC78niiZ/model_collision_4.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_5_W_Lou_z0dkC78niiZ" file="../../../../../mujoco_scanned_objects/models/W_Lou_z0dkC78niiZ/model_collision_5.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_6_W_Lou_z0dkC78niiZ" file="../../../../../mujoco_scanned_objects/models/W_Lou_z0dkC78niiZ/model_collision_6.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_7_W_Lou_z0dkC78niiZ" file="../../../../../mujoco_scanned_objects/models/W_Lou_z0dkC78niiZ/model_collision_7.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_8_W_Lou_z0dkC78niiZ" file="../../../../../mujoco_scanned_objects/models/W_Lou_z0dkC78niiZ/model_collision_8.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_9_W_Lou_z0dkC78niiZ" file="../../../../../mujoco_scanned_objects/models/W_Lou_z0dkC78niiZ/model_collision_9.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_10_W_Lou_z0dkC78niiZ" file="../../../../../mujoco_scanned_objects/models/W_Lou_z0dkC78niiZ/model_collision_10.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_11_W_Lou_z0dkC78niiZ" file="../../../../../mujoco_scanned_objects/models/W_Lou_z0dkC78niiZ/model_collision_11.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_12_W_Lou_z0dkC78niiZ" file="../../../../../mujoco_scanned_objects/models/W_Lou_z0dkC78niiZ/model_collision_12.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_13_W_Lou_z0dkC78niiZ" file="../../../../../mujoco_scanned_objects/models/W_Lou_z0dkC78niiZ/model_collision_13.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_14_W_Lou_z0dkC78niiZ" file="../../../../../mujoco_scanned_objects/models/W_Lou_z0dkC78niiZ/model_collision_14.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_15_W_Lou_z0dkC78niiZ" file="../../../../../mujoco_scanned_objects/models/W_Lou_z0dkC78niiZ/model_collision_15.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_16_W_Lou_z0dkC78niiZ" file="../../../../../mujoco_scanned_objects/models/W_Lou_z0dkC78niiZ/model_collision_16.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_17_W_Lou_z0dkC78niiZ" file="../../../../../mujoco_scanned_objects/models/W_Lou_z0dkC78niiZ/model_collision_17.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_18_W_Lou_z0dkC78niiZ" file="../../../../../mujoco_scanned_objects/models/W_Lou_z0dkC78niiZ/model_collision_18.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_19_W_Lou_z0dkC78niiZ" file="../../../../../mujoco_scanned_objects/models/W_Lou_z0dkC78niiZ/model_collision_19.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_20_W_Lou_z0dkC78niiZ" file="../../../../../mujoco_scanned_objects/models/W_Lou_z0dkC78niiZ/model_collision_20.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_21_W_Lou_z0dkC78niiZ" file="../../../../../mujoco_scanned_objects/models/W_Lou_z0dkC78niiZ/model_collision_21.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_22_W_Lou_z0dkC78niiZ" file="../../../../../mujoco_scanned_objects/models/W_Lou_z0dkC78niiZ/model_collision_22.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_23_W_Lou_z0dkC78niiZ" file="../../../../../mujoco_scanned_objects/models/W_Lou_z0dkC78niiZ/model_collision_23.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_24_W_Lou_z0dkC78niiZ" file="../../../../../mujoco_scanned_objects/models/W_Lou_z0dkC78niiZ/model_collision_24.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_25_W_Lou_z0dkC78niiZ" file="../../../../../mujoco_scanned_objects/models/W_Lou_z0dkC78niiZ/model_collision_25.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_26_W_Lou_z0dkC78niiZ" file="../../../../../mujoco_scanned_objects/models/W_Lou_z0dkC78niiZ/model_collision_26.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_27_W_Lou_z0dkC78niiZ" file="../../../../../mujoco_scanned_objects/models/W_Lou_z0dkC78niiZ/model_collision_27.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_28_W_Lou_z0dkC78niiZ" file="../../../../../mujoco_scanned_objects/models/W_Lou_z0dkC78niiZ/model_collision_28.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_29_W_Lou_z0dkC78niiZ" file="../../../../../mujoco_scanned_objects/models/W_Lou_z0dkC78niiZ/model_collision_29.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_30_W_Lou_z0dkC78niiZ" file="../../../../../mujoco_scanned_objects/models/W_Lou_z0dkC78niiZ/model_collision_30.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_31_W_Lou_z0dkC78niiZ" file="../../../../../mujoco_scanned_objects/models/W_Lou_z0dkC78niiZ/model_collision_31.stl" scale="{scale} {scale} {scale}" />
+  </asset>
+  

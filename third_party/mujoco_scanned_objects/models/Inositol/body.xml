@@ -1,0 +1,36 @@
+<body childclass="Inositol_base" name="Inositol1">
+        <geom class="Inositol_col" name="{geom_name}" type="mesh" mesh="model_Inositol" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Inositol" mesh="model_Inositol" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Inositol" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Inositol" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Inositol" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Inositol" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Inositol" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Inositol" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Inositol" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Inositol" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Inositol" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Inositol" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Inositol" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Inositol" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Inositol" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Inositol" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Inositol" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Inositol" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Inositol" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Inositol" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Inositol" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Inositol" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Inositol" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Inositol" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Inositol" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Inositol" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Inositol" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Inositol" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Inositol" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Inositol" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Inositol" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Inositol" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Inositol" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Inositol" type="mesh" group="3" />
+    </body>

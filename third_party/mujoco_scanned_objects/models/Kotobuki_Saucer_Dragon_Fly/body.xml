@@ -1,0 +1,36 @@
+<body childclass="Kotobuki_Saucer_Dragon_Fly_base" name="Kotobuki_Saucer_Dragon_Fly1">
+        <geom class="Kotobuki_Saucer_Dragon_Fly_col" name="{geom_name}" type="mesh" mesh="model_Kotobuki_Saucer_Dragon_Fly" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Kotobuki_Saucer_Dragon_Fly" mesh="model_Kotobuki_Saucer_Dragon_Fly" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Kotobuki_Saucer_Dragon_Fly" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Kotobuki_Saucer_Dragon_Fly" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Kotobuki_Saucer_Dragon_Fly" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Kotobuki_Saucer_Dragon_Fly" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Kotobuki_Saucer_Dragon_Fly" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Kotobuki_Saucer_Dragon_Fly" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Kotobuki_Saucer_Dragon_Fly" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Kotobuki_Saucer_Dragon_Fly" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Kotobuki_Saucer_Dragon_Fly" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Kotobuki_Saucer_Dragon_Fly" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Kotobuki_Saucer_Dragon_Fly" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Kotobuki_Saucer_Dragon_Fly" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Kotobuki_Saucer_Dragon_Fly" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Kotobuki_Saucer_Dragon_Fly" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Kotobuki_Saucer_Dragon_Fly" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Kotobuki_Saucer_Dragon_Fly" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Kotobuki_Saucer_Dragon_Fly" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Kotobuki_Saucer_Dragon_Fly" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Kotobuki_Saucer_Dragon_Fly" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Kotobuki_Saucer_Dragon_Fly" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Kotobuki_Saucer_Dragon_Fly" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Kotobuki_Saucer_Dragon_Fly" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Kotobuki_Saucer_Dragon_Fly" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Kotobuki_Saucer_Dragon_Fly" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Kotobuki_Saucer_Dragon_Fly" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Kotobuki_Saucer_Dragon_Fly" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Kotobuki_Saucer_Dragon_Fly" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Kotobuki_Saucer_Dragon_Fly" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Kotobuki_Saucer_Dragon_Fly" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Kotobuki_Saucer_Dragon_Fly" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Kotobuki_Saucer_Dragon_Fly" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Kotobuki_Saucer_Dragon_Fly" type="mesh" group="3" />
+    </body>

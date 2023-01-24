@@ -1,0 +1,36 @@
+<body childclass="MODERN_DOLL_FAMILY_base" name="MODERN_DOLL_FAMILY1">
+        <geom class="MODERN_DOLL_FAMILY_col" name="{geom_name}" type="mesh" mesh="model_MODERN_DOLL_FAMILY" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_MODERN_DOLL_FAMILY" mesh="model_MODERN_DOLL_FAMILY" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_MODERN_DOLL_FAMILY" type="mesh" group="3" />
+      <geom mesh="model_collision_1_MODERN_DOLL_FAMILY" type="mesh" group="3" />
+      <geom mesh="model_collision_2_MODERN_DOLL_FAMILY" type="mesh" group="3" />
+      <geom mesh="model_collision_3_MODERN_DOLL_FAMILY" type="mesh" group="3" />
+      <geom mesh="model_collision_4_MODERN_DOLL_FAMILY" type="mesh" group="3" />
+      <geom mesh="model_collision_5_MODERN_DOLL_FAMILY" type="mesh" group="3" />
+      <geom mesh="model_collision_6_MODERN_DOLL_FAMILY" type="mesh" group="3" />
+      <geom mesh="model_collision_7_MODERN_DOLL_FAMILY" type="mesh" group="3" />
+      <geom mesh="model_collision_8_MODERN_DOLL_FAMILY" type="mesh" group="3" />
+      <geom mesh="model_collision_9_MODERN_DOLL_FAMILY" type="mesh" group="3" />
+      <geom mesh="model_collision_10_MODERN_DOLL_FAMILY" type="mesh" group="3" />
+      <geom mesh="model_collision_11_MODERN_DOLL_FAMILY" type="mesh" group="3" />
+      <geom mesh="model_collision_12_MODERN_DOLL_FAMILY" type="mesh" group="3" />
+      <geom mesh="model_collision_13_MODERN_DOLL_FAMILY" type="mesh" group="3" />
+      <geom mesh="model_collision_14_MODERN_DOLL_FAMILY" type="mesh" group="3" />
+      <geom mesh="model_collision_15_MODERN_DOLL_FAMILY" type="mesh" group="3" />
+      <geom mesh="model_collision_16_MODERN_DOLL_FAMILY" type="mesh" group="3" />
+      <geom mesh="model_collision_17_MODERN_DOLL_FAMILY" type="mesh" group="3" />
+      <geom mesh="model_collision_18_MODERN_DOLL_FAMILY" type="mesh" group="3" />
+      <geom mesh="model_collision_19_MODERN_DOLL_FAMILY" type="mesh" group="3" />
+      <geom mesh="model_collision_20_MODERN_DOLL_FAMILY" type="mesh" group="3" />
+      <geom mesh="model_collision_21_MODERN_DOLL_FAMILY" type="mesh" group="3" />
+      <geom mesh="model_collision_22_MODERN_DOLL_FAMILY" type="mesh" group="3" />
+      <geom mesh="model_collision_23_MODERN_DOLL_FAMILY" type="mesh" group="3" />
+      <geom mesh="model_collision_24_MODERN_DOLL_FAMILY" type="mesh" group="3" />
+      <geom mesh="model_collision_25_MODERN_DOLL_FAMILY" type="mesh" group="3" />
+      <geom mesh="model_collision_26_MODERN_DOLL_FAMILY" type="mesh" group="3" />
+      <geom mesh="model_collision_27_MODERN_DOLL_FAMILY" type="mesh" group="3" />
+      <geom mesh="model_collision_28_MODERN_DOLL_FAMILY" type="mesh" group="3" />
+      <geom mesh="model_collision_29_MODERN_DOLL_FAMILY" type="mesh" group="3" />
+      <geom mesh="model_collision_30_MODERN_DOLL_FAMILY" type="mesh" group="3" />
+      <geom mesh="model_collision_31_MODERN_DOLL_FAMILY" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="Nightmare_Before_Christmas_Collectors_Edition_Operation_base" name="Nightmare_Before_Christmas_Collectors_Edition_Operation1">
+        <geom class="Nightmare_Before_Christmas_Collectors_Edition_Operation_col" name="{geom_name}" type="mesh" mesh="model_Nightmare_Before_Christmas_Collectors_Edition_Operation" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Nightmare_Before_Christmas_Collectors_Edition_Operation" mesh="model_Nightmare_Before_Christmas_Collectors_Edition_Operation" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Nightmare_Before_Christmas_Collectors_Edition_Operation" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Nightmare_Before_Christmas_Collectors_Edition_Operation" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Nightmare_Before_Christmas_Collectors_Edition_Operation" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Nightmare_Before_Christmas_Collectors_Edition_Operation" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Nightmare_Before_Christmas_Collectors_Edition_Operation" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Nightmare_Before_Christmas_Collectors_Edition_Operation" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Nightmare_Before_Christmas_Collectors_Edition_Operation" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Nightmare_Before_Christmas_Collectors_Edition_Operation" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Nightmare_Before_Christmas_Collectors_Edition_Operation" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Nightmare_Before_Christmas_Collectors_Edition_Operation" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Nightmare_Before_Christmas_Collectors_Edition_Operation" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Nightmare_Before_Christmas_Collectors_Edition_Operation" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Nightmare_Before_Christmas_Collectors_Edition_Operation" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Nightmare_Before_Christmas_Collectors_Edition_Operation" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Nightmare_Before_Christmas_Collectors_Edition_Operation" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Nightmare_Before_Christmas_Collectors_Edition_Operation" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Nightmare_Before_Christmas_Collectors_Edition_Operation" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Nightmare_Before_Christmas_Collectors_Edition_Operation" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Nightmare_Before_Christmas_Collectors_Edition_Operation" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Nightmare_Before_Christmas_Collectors_Edition_Operation" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Nightmare_Before_Christmas_Collectors_Edition_Operation" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Nightmare_Before_Christmas_Collectors_Edition_Operation" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Nightmare_Before_Christmas_Collectors_Edition_Operation" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Nightmare_Before_Christmas_Collectors_Edition_Operation" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Nightmare_Before_Christmas_Collectors_Edition_Operation" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Nightmare_Before_Christmas_Collectors_Edition_Operation" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Nightmare_Before_Christmas_Collectors_Edition_Operation" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Nightmare_Before_Christmas_Collectors_Edition_Operation" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Nightmare_Before_Christmas_Collectors_Edition_Operation" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Nightmare_Before_Christmas_Collectors_Edition_Operation" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Nightmare_Before_Christmas_Collectors_Edition_Operation" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Nightmare_Before_Christmas_Collectors_Edition_Operation" type="mesh" group="3" />
+    </body>

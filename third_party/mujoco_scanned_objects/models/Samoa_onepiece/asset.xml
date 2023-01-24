@@ -1,0 +1,38 @@
+<asset>
+    <texture type="2d" name="texture_Samoa_onepiece" file="../../../../../mujoco_scanned_objects/models/Samoa_onepiece/texture.png" />
+    <material name="material_0_Samoa_onepiece" texture="texture_Samoa_onepiece" specular="0.5" shininess="0.5" />
+    <mesh name="model_Samoa_onepiece" file="../../../../../mujoco_scanned_objects/models/Samoa_onepiece/model.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_0_Samoa_onepiece" file="../../../../../mujoco_scanned_objects/models/Samoa_onepiece/model_collision_0.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_1_Samoa_onepiece" file="../../../../../mujoco_scanned_objects/models/Samoa_onepiece/model_collision_1.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_2_Samoa_onepiece" file="../../../../../mujoco_scanned_objects/models/Samoa_onepiece/model_collision_2.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_3_Samoa_onepiece" file="../../../../../mujoco_scanned_objects/models/Samoa_onepiece/model_collision_3.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_4_Samoa_onepiece" file="../../../../../mujoco_scanned_objects/models/Samoa_onepiece/model_collision_4.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_5_Samoa_onepiece" file="../../../../../mujoco_scanned_objects/models/Samoa_onepiece/model_collision_5.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_6_Samoa_onepiece" file="../../../../../mujoco_scanned_objects/models/Samoa_onepiece/model_collision_6.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_7_Samoa_onepiece" file="../../../../../mujoco_scanned_objects/models/Samoa_onepiece/model_collision_7.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_8_Samoa_onepiece" file="../../../../../mujoco_scanned_objects/models/Samoa_onepiece/model_collision_8.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_9_Samoa_onepiece" file="../../../../../mujoco_scanned_objects/models/Samoa_onepiece/model_collision_9.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_10_Samoa_onepiece" file="../../../../../mujoco_scanned_objects/models/Samoa_onepiece/model_collision_10.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_11_Samoa_onepiece" file="../../../../../mujoco_scanned_objects/models/Samoa_onepiece/model_collision_11.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_12_Samoa_onepiece" file="../../../../../mujoco_scanned_objects/models/Samoa_onepiece/model_collision_12.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_13_Samoa_onepiece" file="../../../../../mujoco_scanned_objects/models/Samoa_onepiece/model_collision_13.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_14_Samoa_onepiece" file="../../../../../mujoco_scanned_objects/models/Samoa_onepiece/model_collision_14.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_15_Samoa_onepiece" file="../../../../../mujoco_scanned_objects/models/Samoa_onepiece/model_collision_15.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_16_Samoa_onepiece" file="../../../../../mujoco_scanned_objects/models/Samoa_onepiece/model_collision_16.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_17_Samoa_onepiece" file="../../../../../mujoco_scanned_objects/models/Samoa_onepiece/model_collision_17.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_18_Samoa_onepiece" file="../../../../../mujoco_scanned_objects/models/Samoa_onepiece/model_collision_18.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_19_Samoa_onepiece" file="../../../../../mujoco_scanned_objects/models/Samoa_onepiece/model_collision_19.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_20_Samoa_onepiece" file="../../../../../mujoco_scanned_objects/models/Samoa_onepiece/model_collision_20.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_21_Samoa_onepiece" file="../../../../../mujoco_scanned_objects/models/Samoa_onepiece/model_collision_21.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_22_Samoa_onepiece" file="../../../../../mujoco_scanned_objects/models/Samoa_onepiece/model_collision_22.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_23_Samoa_onepiece" file="../../../../../mujoco_scanned_objects/models/Samoa_onepiece/model_collision_23.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_24_Samoa_onepiece" file="../../../../../mujoco_scanned_objects/models/Samoa_onepiece/model_collision_24.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_25_Samoa_onepiece" file="../../../../../mujoco_scanned_objects/models/Samoa_onepiece/model_collision_25.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_26_Samoa_onepiece" file="../../../../../mujoco_scanned_objects/models/Samoa_onepiece/model_collision_26.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_27_Samoa_onepiece" file="../../../../../mujoco_scanned_objects/models/Samoa_onepiece/model_collision_27.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_28_Samoa_onepiece" file="../../../../../mujoco_scanned_objects/models/Samoa_onepiece/model_collision_28.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_29_Samoa_onepiece" file="../../../../../mujoco_scanned_objects/models/Samoa_onepiece/model_collision_29.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_30_Samoa_onepiece" file="../../../../../mujoco_scanned_objects/models/Samoa_onepiece/model_collision_30.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_31_Samoa_onepiece" file="../../../../../mujoco_scanned_objects/models/Samoa_onepiece/model_collision_31.stl" scale="{scale} {scale} {scale}" />
+  </asset>
+  

@@ -1,0 +1,36 @@
+<body childclass="Germanium_GE132_base" name="Germanium_GE1321">
+        <geom class="Germanium_GE132_col" name="{geom_name}" type="mesh" mesh="model_Germanium_GE132" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Germanium_GE132" mesh="model_Germanium_GE132" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Germanium_GE132" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Germanium_GE132" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Germanium_GE132" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Germanium_GE132" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Germanium_GE132" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Germanium_GE132" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Germanium_GE132" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Germanium_GE132" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Germanium_GE132" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Germanium_GE132" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Germanium_GE132" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Germanium_GE132" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Germanium_GE132" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Germanium_GE132" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Germanium_GE132" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Germanium_GE132" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Germanium_GE132" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Germanium_GE132" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Germanium_GE132" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Germanium_GE132" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Germanium_GE132" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Germanium_GE132" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Germanium_GE132" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Germanium_GE132" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Germanium_GE132" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Germanium_GE132" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Germanium_GE132" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Germanium_GE132" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Germanium_GE132" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Germanium_GE132" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Germanium_GE132" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Germanium_GE132" type="mesh" group="3" />
+    </body>

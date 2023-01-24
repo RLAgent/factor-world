@@ -1,0 +1,36 @@
+<body childclass="60_CONSTRUCTION_SET_base" name="60_CONSTRUCTION_SET1">
+        <geom class="60_CONSTRUCTION_SET_col" name="{geom_name}" type="mesh" mesh="model_60_CONSTRUCTION_SET" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_60_CONSTRUCTION_SET" mesh="model_60_CONSTRUCTION_SET" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_60_CONSTRUCTION_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_1_60_CONSTRUCTION_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_2_60_CONSTRUCTION_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_3_60_CONSTRUCTION_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_4_60_CONSTRUCTION_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_5_60_CONSTRUCTION_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_6_60_CONSTRUCTION_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_7_60_CONSTRUCTION_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_8_60_CONSTRUCTION_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_9_60_CONSTRUCTION_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_10_60_CONSTRUCTION_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_11_60_CONSTRUCTION_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_12_60_CONSTRUCTION_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_13_60_CONSTRUCTION_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_14_60_CONSTRUCTION_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_15_60_CONSTRUCTION_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_16_60_CONSTRUCTION_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_17_60_CONSTRUCTION_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_18_60_CONSTRUCTION_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_19_60_CONSTRUCTION_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_20_60_CONSTRUCTION_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_21_60_CONSTRUCTION_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_22_60_CONSTRUCTION_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_23_60_CONSTRUCTION_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_24_60_CONSTRUCTION_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_25_60_CONSTRUCTION_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_26_60_CONSTRUCTION_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_27_60_CONSTRUCTION_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_28_60_CONSTRUCTION_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_29_60_CONSTRUCTION_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_30_60_CONSTRUCTION_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_31_60_CONSTRUCTION_SET" type="mesh" group="3" />
+    </body>

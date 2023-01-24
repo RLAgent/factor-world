@@ -1,0 +1,38 @@
+<asset>
+    <texture type="2d" name="texture_Nestle_Nips_Hard_Candy_Peanut_Butter" file="../../../../../mujoco_scanned_objects/models/Nestle_Nips_Hard_Candy_Peanut_Butter/texture.png" />
+    <material name="material_0_Nestle_Nips_Hard_Candy_Peanut_Butter" texture="texture_Nestle_Nips_Hard_Candy_Peanut_Butter" specular="0.5" shininess="0.5" />
+    <mesh name="model_Nestle_Nips_Hard_Candy_Peanut_Butter" file="../../../../../mujoco_scanned_objects/models/Nestle_Nips_Hard_Candy_Peanut_Butter/model.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_0_Nestle_Nips_Hard_Candy_Peanut_Butter" file="../../../../../mujoco_scanned_objects/models/Nestle_Nips_Hard_Candy_Peanut_Butter/model_collision_0.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_1_Nestle_Nips_Hard_Candy_Peanut_Butter" file="../../../../../mujoco_scanned_objects/models/Nestle_Nips_Hard_Candy_Peanut_Butter/model_collision_1.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_2_Nestle_Nips_Hard_Candy_Peanut_Butter" file="../../../../../mujoco_scanned_objects/models/Nestle_Nips_Hard_Candy_Peanut_Butter/model_collision_2.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_3_Nestle_Nips_Hard_Candy_Peanut_Butter" file="../../../../../mujoco_scanned_objects/models/Nestle_Nips_Hard_Candy_Peanut_Butter/model_collision_3.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_4_Nestle_Nips_Hard_Candy_Peanut_Butter" file="../../../../../mujoco_scanned_objects/models/Nestle_Nips_Hard_Candy_Peanut_Butter/model_collision_4.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_5_Nestle_Nips_Hard_Candy_Peanut_Butter" file="../../../../../mujoco_scanned_objects/models/Nestle_Nips_Hard_Candy_Peanut_Butter/model_collision_5.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_6_Nestle_Nips_Hard_Candy_Peanut_Butter" file="../../../../../mujoco_scanned_objects/models/Nestle_Nips_Hard_Candy_Peanut_Butter/model_collision_6.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_7_Nestle_Nips_Hard_Candy_Peanut_Butter" file="../../../../../mujoco_scanned_objects/models/Nestle_Nips_Hard_Candy_Peanut_Butter/model_collision_7.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_8_Nestle_Nips_Hard_Candy_Peanut_Butter" file="../../../../../mujoco_scanned_objects/models/Nestle_Nips_Hard_Candy_Peanut_Butter/model_collision_8.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_9_Nestle_Nips_Hard_Candy_Peanut_Butter" file="../../../../../mujoco_scanned_objects/models/Nestle_Nips_Hard_Candy_Peanut_Butter/model_collision_9.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_10_Nestle_Nips_Hard_Candy_Peanut_Butter" file="../../../../../mujoco_scanned_objects/models/Nestle_Nips_Hard_Candy_Peanut_Butter/model_collision_10.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_11_Nestle_Nips_Hard_Candy_Peanut_Butter" file="../../../../../mujoco_scanned_objects/models/Nestle_Nips_Hard_Candy_Peanut_Butter/model_collision_11.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_12_Nestle_Nips_Hard_Candy_Peanut_Butter" file="../../../../../mujoco_scanned_objects/models/Nestle_Nips_Hard_Candy_Peanut_Butter/model_collision_12.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_13_Nestle_Nips_Hard_Candy_Peanut_Butter" file="../../../../../mujoco_scanned_objects/models/Nestle_Nips_Hard_Candy_Peanut_Butter/model_collision_13.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_14_Nestle_Nips_Hard_Candy_Peanut_Butter" file="../../../../../mujoco_scanned_objects/models/Nestle_Nips_Hard_Candy_Peanut_Butter/model_collision_14.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_15_Nestle_Nips_Hard_Candy_Peanut_Butter" file="../../../../../mujoco_scanned_objects/models/Nestle_Nips_Hard_Candy_Peanut_Butter/model_collision_15.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_16_Nestle_Nips_Hard_Candy_Peanut_Butter" file="../../../../../mujoco_scanned_objects/models/Nestle_Nips_Hard_Candy_Peanut_Butter/model_collision_16.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_17_Nestle_Nips_Hard_Candy_Peanut_Butter" file="../../../../../mujoco_scanned_objects/models/Nestle_Nips_Hard_Candy_Peanut_Butter/model_collision_17.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_18_Nestle_Nips_Hard_Candy_Peanut_Butter" file="../../../../../mujoco_scanned_objects/models/Nestle_Nips_Hard_Candy_Peanut_Butter/model_collision_18.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_19_Nestle_Nips_Hard_Candy_Peanut_Butter" file="../../../../../mujoco_scanned_objects/models/Nestle_Nips_Hard_Candy_Peanut_Butter/model_collision_19.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_20_Nestle_Nips_Hard_Candy_Peanut_Butter" file="../../../../../mujoco_scanned_objects/models/Nestle_Nips_Hard_Candy_Peanut_Butter/model_collision_20.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_21_Nestle_Nips_Hard_Candy_Peanut_Butter" file="../../../../../mujoco_scanned_objects/models/Nestle_Nips_Hard_Candy_Peanut_Butter/model_collision_21.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_22_Nestle_Nips_Hard_Candy_Peanut_Butter" file="../../../../../mujoco_scanned_objects/models/Nestle_Nips_Hard_Candy_Peanut_Butter/model_collision_22.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_23_Nestle_Nips_Hard_Candy_Peanut_Butter" file="../../../../../mujoco_scanned_objects/models/Nestle_Nips_Hard_Candy_Peanut_Butter/model_collision_23.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_24_Nestle_Nips_Hard_Candy_Peanut_Butter" file="../../../../../mujoco_scanned_objects/models/Nestle_Nips_Hard_Candy_Peanut_Butter/model_collision_24.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_25_Nestle_Nips_Hard_Candy_Peanut_Butter" file="../../../../../mujoco_scanned_objects/models/Nestle_Nips_Hard_Candy_Peanut_Butter/model_collision_25.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_26_Nestle_Nips_Hard_Candy_Peanut_Butter" file="../../../../../mujoco_scanned_objects/models/Nestle_Nips_Hard_Candy_Peanut_Butter/model_collision_26.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_27_Nestle_Nips_Hard_Candy_Peanut_Butter" file="../../../../../mujoco_scanned_objects/models/Nestle_Nips_Hard_Candy_Peanut_Butter/model_collision_27.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_28_Nestle_Nips_Hard_Candy_Peanut_Butter" file="../../../../../mujoco_scanned_objects/models/Nestle_Nips_Hard_Candy_Peanut_Butter/model_collision_28.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_29_Nestle_Nips_Hard_Candy_Peanut_Butter" file="../../../../../mujoco_scanned_objects/models/Nestle_Nips_Hard_Candy_Peanut_Butter/model_collision_29.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_30_Nestle_Nips_Hard_Candy_Peanut_Butter" file="../../../../../mujoco_scanned_objects/models/Nestle_Nips_Hard_Candy_Peanut_Butter/model_collision_30.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_31_Nestle_Nips_Hard_Candy_Peanut_Butter" file="../../../../../mujoco_scanned_objects/models/Nestle_Nips_Hard_Candy_Peanut_Butter/model_collision_31.stl" scale="{scale} {scale} {scale}" />
+  </asset>
+  

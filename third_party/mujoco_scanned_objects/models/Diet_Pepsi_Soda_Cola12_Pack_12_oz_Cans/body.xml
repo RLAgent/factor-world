@@ -1,0 +1,36 @@
+<body childclass="Diet_Pepsi_Soda_Cola12_Pack_12_oz_Cans_base" name="Diet_Pepsi_Soda_Cola12_Pack_12_oz_Cans1">
+        <geom class="Diet_Pepsi_Soda_Cola12_Pack_12_oz_Cans_col" name="{geom_name}" type="mesh" mesh="model_Diet_Pepsi_Soda_Cola12_Pack_12_oz_Cans" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Diet_Pepsi_Soda_Cola12_Pack_12_oz_Cans" mesh="model_Diet_Pepsi_Soda_Cola12_Pack_12_oz_Cans" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Diet_Pepsi_Soda_Cola12_Pack_12_oz_Cans" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Diet_Pepsi_Soda_Cola12_Pack_12_oz_Cans" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Diet_Pepsi_Soda_Cola12_Pack_12_oz_Cans" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Diet_Pepsi_Soda_Cola12_Pack_12_oz_Cans" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Diet_Pepsi_Soda_Cola12_Pack_12_oz_Cans" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Diet_Pepsi_Soda_Cola12_Pack_12_oz_Cans" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Diet_Pepsi_Soda_Cola12_Pack_12_oz_Cans" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Diet_Pepsi_Soda_Cola12_Pack_12_oz_Cans" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Diet_Pepsi_Soda_Cola12_Pack_12_oz_Cans" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Diet_Pepsi_Soda_Cola12_Pack_12_oz_Cans" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Diet_Pepsi_Soda_Cola12_Pack_12_oz_Cans" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Diet_Pepsi_Soda_Cola12_Pack_12_oz_Cans" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Diet_Pepsi_Soda_Cola12_Pack_12_oz_Cans" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Diet_Pepsi_Soda_Cola12_Pack_12_oz_Cans" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Diet_Pepsi_Soda_Cola12_Pack_12_oz_Cans" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Diet_Pepsi_Soda_Cola12_Pack_12_oz_Cans" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Diet_Pepsi_Soda_Cola12_Pack_12_oz_Cans" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Diet_Pepsi_Soda_Cola12_Pack_12_oz_Cans" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Diet_Pepsi_Soda_Cola12_Pack_12_oz_Cans" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Diet_Pepsi_Soda_Cola12_Pack_12_oz_Cans" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Diet_Pepsi_Soda_Cola12_Pack_12_oz_Cans" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Diet_Pepsi_Soda_Cola12_Pack_12_oz_Cans" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Diet_Pepsi_Soda_Cola12_Pack_12_oz_Cans" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Diet_Pepsi_Soda_Cola12_Pack_12_oz_Cans" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Diet_Pepsi_Soda_Cola12_Pack_12_oz_Cans" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Diet_Pepsi_Soda_Cola12_Pack_12_oz_Cans" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Diet_Pepsi_Soda_Cola12_Pack_12_oz_Cans" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Diet_Pepsi_Soda_Cola12_Pack_12_oz_Cans" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Diet_Pepsi_Soda_Cola12_Pack_12_oz_Cans" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Diet_Pepsi_Soda_Cola12_Pack_12_oz_Cans" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Diet_Pepsi_Soda_Cola12_Pack_12_oz_Cans" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Diet_Pepsi_Soda_Cola12_Pack_12_oz_Cans" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="Perricone_MD_OVM_base" name="Perricone_MD_OVM1">
+        <geom class="Perricone_MD_OVM_col" name="{geom_name}" type="mesh" mesh="model_Perricone_MD_OVM" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Perricone_MD_OVM" mesh="model_Perricone_MD_OVM" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Perricone_MD_OVM" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Perricone_MD_OVM" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Perricone_MD_OVM" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Perricone_MD_OVM" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Perricone_MD_OVM" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Perricone_MD_OVM" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Perricone_MD_OVM" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Perricone_MD_OVM" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Perricone_MD_OVM" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Perricone_MD_OVM" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Perricone_MD_OVM" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Perricone_MD_OVM" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Perricone_MD_OVM" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Perricone_MD_OVM" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Perricone_MD_OVM" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Perricone_MD_OVM" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Perricone_MD_OVM" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Perricone_MD_OVM" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Perricone_MD_OVM" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Perricone_MD_OVM" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Perricone_MD_OVM" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Perricone_MD_OVM" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Perricone_MD_OVM" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Perricone_MD_OVM" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Perricone_MD_OVM" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Perricone_MD_OVM" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Perricone_MD_OVM" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Perricone_MD_OVM" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Perricone_MD_OVM" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Perricone_MD_OVM" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Perricone_MD_OVM" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Perricone_MD_OVM" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="Krill_Oil_base" name="Krill_Oil1">
+        <geom class="Krill_Oil_col" name="{geom_name}" type="mesh" mesh="model_Krill_Oil" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Krill_Oil" mesh="model_Krill_Oil" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Krill_Oil" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Krill_Oil" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Krill_Oil" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Krill_Oil" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Krill_Oil" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Krill_Oil" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Krill_Oil" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Krill_Oil" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Krill_Oil" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Krill_Oil" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Krill_Oil" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Krill_Oil" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Krill_Oil" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Krill_Oil" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Krill_Oil" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Krill_Oil" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Krill_Oil" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Krill_Oil" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Krill_Oil" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Krill_Oil" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Krill_Oil" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Krill_Oil" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Krill_Oil" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Krill_Oil" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Krill_Oil" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Krill_Oil" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Krill_Oil" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Krill_Oil" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Krill_Oil" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Krill_Oil" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Krill_Oil" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Krill_Oil" type="mesh" group="3" />
+    </body>

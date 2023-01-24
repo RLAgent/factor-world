@@ -1,0 +1,36 @@
+<body childclass="SAMe_200_KX7ZmOw47co_base" name="SAMe_200_KX7ZmOw47co1">
+        <geom class="SAMe_200_KX7ZmOw47co_col" name="{geom_name}" type="mesh" mesh="model_SAMe_200_KX7ZmOw47co" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_SAMe_200_KX7ZmOw47co" mesh="model_SAMe_200_KX7ZmOw47co" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_SAMe_200_KX7ZmOw47co" type="mesh" group="3" />
+      <geom mesh="model_collision_1_SAMe_200_KX7ZmOw47co" type="mesh" group="3" />
+      <geom mesh="model_collision_2_SAMe_200_KX7ZmOw47co" type="mesh" group="3" />
+      <geom mesh="model_collision_3_SAMe_200_KX7ZmOw47co" type="mesh" group="3" />
+      <geom mesh="model_collision_4_SAMe_200_KX7ZmOw47co" type="mesh" group="3" />
+      <geom mesh="model_collision_5_SAMe_200_KX7ZmOw47co" type="mesh" group="3" />
+      <geom mesh="model_collision_6_SAMe_200_KX7ZmOw47co" type="mesh" group="3" />
+      <geom mesh="model_collision_7_SAMe_200_KX7ZmOw47co" type="mesh" group="3" />
+      <geom mesh="model_collision_8_SAMe_200_KX7ZmOw47co" type="mesh" group="3" />
+      <geom mesh="model_collision_9_SAMe_200_KX7ZmOw47co" type="mesh" group="3" />
+      <geom mesh="model_collision_10_SAMe_200_KX7ZmOw47co" type="mesh" group="3" />
+      <geom mesh="model_collision_11_SAMe_200_KX7ZmOw47co" type="mesh" group="3" />
+      <geom mesh="model_collision_12_SAMe_200_KX7ZmOw47co" type="mesh" group="3" />
+      <geom mesh="model_collision_13_SAMe_200_KX7ZmOw47co" type="mesh" group="3" />
+      <geom mesh="model_collision_14_SAMe_200_KX7ZmOw47co" type="mesh" group="3" />
+      <geom mesh="model_collision_15_SAMe_200_KX7ZmOw47co" type="mesh" group="3" />
+      <geom mesh="model_collision_16_SAMe_200_KX7ZmOw47co" type="mesh" group="3" />
+      <geom mesh="model_collision_17_SAMe_200_KX7ZmOw47co" type="mesh" group="3" />
+      <geom mesh="model_collision_18_SAMe_200_KX7ZmOw47co" type="mesh" group="3" />
+      <geom mesh="model_collision_19_SAMe_200_KX7ZmOw47co" type="mesh" group="3" />
+      <geom mesh="model_collision_20_SAMe_200_KX7ZmOw47co" type="mesh" group="3" />
+      <geom mesh="model_collision_21_SAMe_200_KX7ZmOw47co" type="mesh" group="3" />
+      <geom mesh="model_collision_22_SAMe_200_KX7ZmOw47co" type="mesh" group="3" />
+      <geom mesh="model_collision_23_SAMe_200_KX7ZmOw47co" type="mesh" group="3" />
+      <geom mesh="model_collision_24_SAMe_200_KX7ZmOw47co" type="mesh" group="3" />
+      <geom mesh="model_collision_25_SAMe_200_KX7ZmOw47co" type="mesh" group="3" />
+      <geom mesh="model_collision_26_SAMe_200_KX7ZmOw47co" type="mesh" group="3" />
+      <geom mesh="model_collision_27_SAMe_200_KX7ZmOw47co" type="mesh" group="3" />
+      <geom mesh="model_collision_28_SAMe_200_KX7ZmOw47co" type="mesh" group="3" />
+      <geom mesh="model_collision_29_SAMe_200_KX7ZmOw47co" type="mesh" group="3" />
+      <geom mesh="model_collision_30_SAMe_200_KX7ZmOw47co" type="mesh" group="3" />
+      <geom mesh="model_collision_31_SAMe_200_KX7ZmOw47co" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="DINNING_ROOM_FURNITURE_SET_1_base" name="DINNING_ROOM_FURNITURE_SET_11">
+        <geom class="DINNING_ROOM_FURNITURE_SET_1_col" name="{geom_name}" type="mesh" mesh="model_DINNING_ROOM_FURNITURE_SET_1" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_DINNING_ROOM_FURNITURE_SET_1" mesh="model_DINNING_ROOM_FURNITURE_SET_1" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_DINNING_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_1_DINNING_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_2_DINNING_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_3_DINNING_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_4_DINNING_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_5_DINNING_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_6_DINNING_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_7_DINNING_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_8_DINNING_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_9_DINNING_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_10_DINNING_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_11_DINNING_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_12_DINNING_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_13_DINNING_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_14_DINNING_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_15_DINNING_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_16_DINNING_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_17_DINNING_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_18_DINNING_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_19_DINNING_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_20_DINNING_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_21_DINNING_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_22_DINNING_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_23_DINNING_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_24_DINNING_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_25_DINNING_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_26_DINNING_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_27_DINNING_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_28_DINNING_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_29_DINNING_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_30_DINNING_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_31_DINNING_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+    </body>

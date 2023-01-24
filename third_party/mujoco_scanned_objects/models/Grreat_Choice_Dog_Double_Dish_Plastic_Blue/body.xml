@@ -1,0 +1,36 @@
+<body childclass="Grreat_Choice_Dog_Double_Dish_Plastic_Blue_base" name="Grreat_Choice_Dog_Double_Dish_Plastic_Blue1">
+        <geom class="Grreat_Choice_Dog_Double_Dish_Plastic_Blue_col" name="{geom_name}" type="mesh" mesh="model_Grreat_Choice_Dog_Double_Dish_Plastic_Blue" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Grreat_Choice_Dog_Double_Dish_Plastic_Blue" mesh="model_Grreat_Choice_Dog_Double_Dish_Plastic_Blue" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Grreat_Choice_Dog_Double_Dish_Plastic_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Grreat_Choice_Dog_Double_Dish_Plastic_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Grreat_Choice_Dog_Double_Dish_Plastic_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Grreat_Choice_Dog_Double_Dish_Plastic_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Grreat_Choice_Dog_Double_Dish_Plastic_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Grreat_Choice_Dog_Double_Dish_Plastic_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Grreat_Choice_Dog_Double_Dish_Plastic_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Grreat_Choice_Dog_Double_Dish_Plastic_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Grreat_Choice_Dog_Double_Dish_Plastic_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Grreat_Choice_Dog_Double_Dish_Plastic_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Grreat_Choice_Dog_Double_Dish_Plastic_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Grreat_Choice_Dog_Double_Dish_Plastic_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Grreat_Choice_Dog_Double_Dish_Plastic_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Grreat_Choice_Dog_Double_Dish_Plastic_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Grreat_Choice_Dog_Double_Dish_Plastic_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Grreat_Choice_Dog_Double_Dish_Plastic_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Grreat_Choice_Dog_Double_Dish_Plastic_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Grreat_Choice_Dog_Double_Dish_Plastic_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Grreat_Choice_Dog_Double_Dish_Plastic_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Grreat_Choice_Dog_Double_Dish_Plastic_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Grreat_Choice_Dog_Double_Dish_Plastic_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Grreat_Choice_Dog_Double_Dish_Plastic_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Grreat_Choice_Dog_Double_Dish_Plastic_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Grreat_Choice_Dog_Double_Dish_Plastic_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Grreat_Choice_Dog_Double_Dish_Plastic_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Grreat_Choice_Dog_Double_Dish_Plastic_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Grreat_Choice_Dog_Double_Dish_Plastic_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Grreat_Choice_Dog_Double_Dish_Plastic_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Grreat_Choice_Dog_Double_Dish_Plastic_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Grreat_Choice_Dog_Double_Dish_Plastic_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Grreat_Choice_Dog_Double_Dish_Plastic_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Grreat_Choice_Dog_Double_Dish_Plastic_Blue" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="Reebok_GL_6000_base" name="Reebok_GL_60001">
+        <geom class="Reebok_GL_6000_col" name="{geom_name}" type="mesh" mesh="model_Reebok_GL_6000" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Reebok_GL_6000" mesh="model_Reebok_GL_6000" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Reebok_GL_6000" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Reebok_GL_6000" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Reebok_GL_6000" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Reebok_GL_6000" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Reebok_GL_6000" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Reebok_GL_6000" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Reebok_GL_6000" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Reebok_GL_6000" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Reebok_GL_6000" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Reebok_GL_6000" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Reebok_GL_6000" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Reebok_GL_6000" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Reebok_GL_6000" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Reebok_GL_6000" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Reebok_GL_6000" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Reebok_GL_6000" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Reebok_GL_6000" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Reebok_GL_6000" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Reebok_GL_6000" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Reebok_GL_6000" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Reebok_GL_6000" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Reebok_GL_6000" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Reebok_GL_6000" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Reebok_GL_6000" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Reebok_GL_6000" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Reebok_GL_6000" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Reebok_GL_6000" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Reebok_GL_6000" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Reebok_GL_6000" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Reebok_GL_6000" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Reebok_GL_6000" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Reebok_GL_6000" type="mesh" group="3" />
+    </body>

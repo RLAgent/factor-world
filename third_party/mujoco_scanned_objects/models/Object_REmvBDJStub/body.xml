@@ -1,0 +1,36 @@
+<body childclass="Object_REmvBDJStub_base" name="Object_REmvBDJStub1">
+        <geom class="Object_REmvBDJStub_col" name="{geom_name}" type="mesh" mesh="model_Object_REmvBDJStub" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Object_REmvBDJStub" mesh="model_Object_REmvBDJStub" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Object_REmvBDJStub" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Object_REmvBDJStub" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Object_REmvBDJStub" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Object_REmvBDJStub" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Object_REmvBDJStub" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Object_REmvBDJStub" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Object_REmvBDJStub" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Object_REmvBDJStub" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Object_REmvBDJStub" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Object_REmvBDJStub" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Object_REmvBDJStub" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Object_REmvBDJStub" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Object_REmvBDJStub" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Object_REmvBDJStub" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Object_REmvBDJStub" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Object_REmvBDJStub" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Object_REmvBDJStub" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Object_REmvBDJStub" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Object_REmvBDJStub" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Object_REmvBDJStub" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Object_REmvBDJStub" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Object_REmvBDJStub" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Object_REmvBDJStub" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Object_REmvBDJStub" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Object_REmvBDJStub" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Object_REmvBDJStub" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Object_REmvBDJStub" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Object_REmvBDJStub" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Object_REmvBDJStub" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Object_REmvBDJStub" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Object_REmvBDJStub" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Object_REmvBDJStub" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="Elephant_base" name="Elephant1">
+        <geom class="Elephant_col" name="{geom_name}" type="mesh" mesh="model_Elephant" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Elephant" mesh="model_Elephant" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Elephant" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Elephant" type="mesh" group="3" />
+    </body>

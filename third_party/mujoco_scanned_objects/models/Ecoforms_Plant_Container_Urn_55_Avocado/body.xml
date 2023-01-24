@@ -1,0 +1,36 @@
+<body childclass="Ecoforms_Plant_Container_Urn_55_Avocado_base" name="Ecoforms_Plant_Container_Urn_55_Avocado1">
+        <geom class="Ecoforms_Plant_Container_Urn_55_Avocado_col" name="{geom_name}" type="mesh" mesh="model_Ecoforms_Plant_Container_Urn_55_Avocado" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Ecoforms_Plant_Container_Urn_55_Avocado" mesh="model_Ecoforms_Plant_Container_Urn_55_Avocado" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Ecoforms_Plant_Container_Urn_55_Avocado" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Ecoforms_Plant_Container_Urn_55_Avocado" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Ecoforms_Plant_Container_Urn_55_Avocado" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Ecoforms_Plant_Container_Urn_55_Avocado" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Ecoforms_Plant_Container_Urn_55_Avocado" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Ecoforms_Plant_Container_Urn_55_Avocado" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Ecoforms_Plant_Container_Urn_55_Avocado" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Ecoforms_Plant_Container_Urn_55_Avocado" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Ecoforms_Plant_Container_Urn_55_Avocado" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Ecoforms_Plant_Container_Urn_55_Avocado" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Ecoforms_Plant_Container_Urn_55_Avocado" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Ecoforms_Plant_Container_Urn_55_Avocado" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Ecoforms_Plant_Container_Urn_55_Avocado" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Ecoforms_Plant_Container_Urn_55_Avocado" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Ecoforms_Plant_Container_Urn_55_Avocado" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Ecoforms_Plant_Container_Urn_55_Avocado" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Ecoforms_Plant_Container_Urn_55_Avocado" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Ecoforms_Plant_Container_Urn_55_Avocado" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Ecoforms_Plant_Container_Urn_55_Avocado" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Ecoforms_Plant_Container_Urn_55_Avocado" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Ecoforms_Plant_Container_Urn_55_Avocado" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Ecoforms_Plant_Container_Urn_55_Avocado" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Ecoforms_Plant_Container_Urn_55_Avocado" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Ecoforms_Plant_Container_Urn_55_Avocado" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Ecoforms_Plant_Container_Urn_55_Avocado" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Ecoforms_Plant_Container_Urn_55_Avocado" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Ecoforms_Plant_Container_Urn_55_Avocado" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Ecoforms_Plant_Container_Urn_55_Avocado" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Ecoforms_Plant_Container_Urn_55_Avocado" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Ecoforms_Plant_Container_Urn_55_Avocado" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Ecoforms_Plant_Container_Urn_55_Avocado" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Ecoforms_Plant_Container_Urn_55_Avocado" type="mesh" group="3" />
+    </body>

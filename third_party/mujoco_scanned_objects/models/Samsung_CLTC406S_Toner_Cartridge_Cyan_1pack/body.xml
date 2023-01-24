@@ -1,0 +1,36 @@
+<body childclass="Samsung_CLTC406S_Toner_Cartridge_Cyan_1pack_base" name="Samsung_CLTC406S_Toner_Cartridge_Cyan_1pack1">
+        <geom class="Samsung_CLTC406S_Toner_Cartridge_Cyan_1pack_col" name="{geom_name}" type="mesh" mesh="model_Samsung_CLTC406S_Toner_Cartridge_Cyan_1pack" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Samsung_CLTC406S_Toner_Cartridge_Cyan_1pack" mesh="model_Samsung_CLTC406S_Toner_Cartridge_Cyan_1pack" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Samsung_CLTC406S_Toner_Cartridge_Cyan_1pack" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Samsung_CLTC406S_Toner_Cartridge_Cyan_1pack" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Samsung_CLTC406S_Toner_Cartridge_Cyan_1pack" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Samsung_CLTC406S_Toner_Cartridge_Cyan_1pack" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Samsung_CLTC406S_Toner_Cartridge_Cyan_1pack" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Samsung_CLTC406S_Toner_Cartridge_Cyan_1pack" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Samsung_CLTC406S_Toner_Cartridge_Cyan_1pack" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Samsung_CLTC406S_Toner_Cartridge_Cyan_1pack" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Samsung_CLTC406S_Toner_Cartridge_Cyan_1pack" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Samsung_CLTC406S_Toner_Cartridge_Cyan_1pack" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Samsung_CLTC406S_Toner_Cartridge_Cyan_1pack" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Samsung_CLTC406S_Toner_Cartridge_Cyan_1pack" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Samsung_CLTC406S_Toner_Cartridge_Cyan_1pack" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Samsung_CLTC406S_Toner_Cartridge_Cyan_1pack" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Samsung_CLTC406S_Toner_Cartridge_Cyan_1pack" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Samsung_CLTC406S_Toner_Cartridge_Cyan_1pack" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Samsung_CLTC406S_Toner_Cartridge_Cyan_1pack" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Samsung_CLTC406S_Toner_Cartridge_Cyan_1pack" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Samsung_CLTC406S_Toner_Cartridge_Cyan_1pack" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Samsung_CLTC406S_Toner_Cartridge_Cyan_1pack" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Samsung_CLTC406S_Toner_Cartridge_Cyan_1pack" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Samsung_CLTC406S_Toner_Cartridge_Cyan_1pack" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Samsung_CLTC406S_Toner_Cartridge_Cyan_1pack" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Samsung_CLTC406S_Toner_Cartridge_Cyan_1pack" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Samsung_CLTC406S_Toner_Cartridge_Cyan_1pack" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Samsung_CLTC406S_Toner_Cartridge_Cyan_1pack" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Samsung_CLTC406S_Toner_Cartridge_Cyan_1pack" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Samsung_CLTC406S_Toner_Cartridge_Cyan_1pack" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Samsung_CLTC406S_Toner_Cartridge_Cyan_1pack" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Samsung_CLTC406S_Toner_Cartridge_Cyan_1pack" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Samsung_CLTC406S_Toner_Cartridge_Cyan_1pack" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Samsung_CLTC406S_Toner_Cartridge_Cyan_1pack" type="mesh" group="3" />
+    </body>

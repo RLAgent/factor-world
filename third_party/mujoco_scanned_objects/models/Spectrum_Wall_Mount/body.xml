@@ -1,0 +1,36 @@
+<body childclass="Spectrum_Wall_Mount_base" name="Spectrum_Wall_Mount1">
+        <geom class="Spectrum_Wall_Mount_col" name="{geom_name}" type="mesh" mesh="model_Spectrum_Wall_Mount" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Spectrum_Wall_Mount" mesh="model_Spectrum_Wall_Mount" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Spectrum_Wall_Mount" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Spectrum_Wall_Mount" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Spectrum_Wall_Mount" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Spectrum_Wall_Mount" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Spectrum_Wall_Mount" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Spectrum_Wall_Mount" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Spectrum_Wall_Mount" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Spectrum_Wall_Mount" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Spectrum_Wall_Mount" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Spectrum_Wall_Mount" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Spectrum_Wall_Mount" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Spectrum_Wall_Mount" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Spectrum_Wall_Mount" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Spectrum_Wall_Mount" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Spectrum_Wall_Mount" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Spectrum_Wall_Mount" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Spectrum_Wall_Mount" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Spectrum_Wall_Mount" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Spectrum_Wall_Mount" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Spectrum_Wall_Mount" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Spectrum_Wall_Mount" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Spectrum_Wall_Mount" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Spectrum_Wall_Mount" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Spectrum_Wall_Mount" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Spectrum_Wall_Mount" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Spectrum_Wall_Mount" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Spectrum_Wall_Mount" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Spectrum_Wall_Mount" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Spectrum_Wall_Mount" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Spectrum_Wall_Mount" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Spectrum_Wall_Mount" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Spectrum_Wall_Mount" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001_base" name="Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B0011">
+        <geom class="Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001_col" name="{geom_name}" type="mesh" mesh="model_Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001" mesh="model_Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001" type="mesh" group="3" />
+    </body>

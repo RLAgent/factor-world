@@ -1,0 +1,36 @@
+<body childclass="Mario_Luigi_Dream_Team_Nintendo_3DS_Game_base" name="Mario_Luigi_Dream_Team_Nintendo_3DS_Game1">
+        <geom class="Mario_Luigi_Dream_Team_Nintendo_3DS_Game_col" name="{geom_name}" type="mesh" mesh="model_Mario_Luigi_Dream_Team_Nintendo_3DS_Game" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Mario_Luigi_Dream_Team_Nintendo_3DS_Game" mesh="model_Mario_Luigi_Dream_Team_Nintendo_3DS_Game" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Mario_Luigi_Dream_Team_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Mario_Luigi_Dream_Team_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Mario_Luigi_Dream_Team_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Mario_Luigi_Dream_Team_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Mario_Luigi_Dream_Team_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Mario_Luigi_Dream_Team_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Mario_Luigi_Dream_Team_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Mario_Luigi_Dream_Team_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Mario_Luigi_Dream_Team_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Mario_Luigi_Dream_Team_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Mario_Luigi_Dream_Team_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Mario_Luigi_Dream_Team_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Mario_Luigi_Dream_Team_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Mario_Luigi_Dream_Team_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Mario_Luigi_Dream_Team_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Mario_Luigi_Dream_Team_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Mario_Luigi_Dream_Team_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Mario_Luigi_Dream_Team_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Mario_Luigi_Dream_Team_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Mario_Luigi_Dream_Team_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Mario_Luigi_Dream_Team_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Mario_Luigi_Dream_Team_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Mario_Luigi_Dream_Team_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Mario_Luigi_Dream_Team_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Mario_Luigi_Dream_Team_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Mario_Luigi_Dream_Team_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Mario_Luigi_Dream_Team_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Mario_Luigi_Dream_Team_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Mario_Luigi_Dream_Team_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Mario_Luigi_Dream_Team_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Mario_Luigi_Dream_Team_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Mario_Luigi_Dream_Team_Nintendo_3DS_Game" type="mesh" group="3" />
+    </body>

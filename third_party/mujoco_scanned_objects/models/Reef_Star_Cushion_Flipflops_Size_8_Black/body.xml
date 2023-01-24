@@ -1,0 +1,36 @@
+<body childclass="Reef_Star_Cushion_Flipflops_Size_8_Black_base" name="Reef_Star_Cushion_Flipflops_Size_8_Black1">
+        <geom class="Reef_Star_Cushion_Flipflops_Size_8_Black_col" name="{geom_name}" type="mesh" mesh="model_Reef_Star_Cushion_Flipflops_Size_8_Black" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Reef_Star_Cushion_Flipflops_Size_8_Black" mesh="model_Reef_Star_Cushion_Flipflops_Size_8_Black" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Reef_Star_Cushion_Flipflops_Size_8_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Reef_Star_Cushion_Flipflops_Size_8_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Reef_Star_Cushion_Flipflops_Size_8_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Reef_Star_Cushion_Flipflops_Size_8_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Reef_Star_Cushion_Flipflops_Size_8_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Reef_Star_Cushion_Flipflops_Size_8_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Reef_Star_Cushion_Flipflops_Size_8_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Reef_Star_Cushion_Flipflops_Size_8_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Reef_Star_Cushion_Flipflops_Size_8_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Reef_Star_Cushion_Flipflops_Size_8_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Reef_Star_Cushion_Flipflops_Size_8_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Reef_Star_Cushion_Flipflops_Size_8_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Reef_Star_Cushion_Flipflops_Size_8_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Reef_Star_Cushion_Flipflops_Size_8_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Reef_Star_Cushion_Flipflops_Size_8_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Reef_Star_Cushion_Flipflops_Size_8_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Reef_Star_Cushion_Flipflops_Size_8_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Reef_Star_Cushion_Flipflops_Size_8_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Reef_Star_Cushion_Flipflops_Size_8_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Reef_Star_Cushion_Flipflops_Size_8_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Reef_Star_Cushion_Flipflops_Size_8_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Reef_Star_Cushion_Flipflops_Size_8_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Reef_Star_Cushion_Flipflops_Size_8_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Reef_Star_Cushion_Flipflops_Size_8_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Reef_Star_Cushion_Flipflops_Size_8_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Reef_Star_Cushion_Flipflops_Size_8_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Reef_Star_Cushion_Flipflops_Size_8_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Reef_Star_Cushion_Flipflops_Size_8_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Reef_Star_Cushion_Flipflops_Size_8_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Reef_Star_Cushion_Flipflops_Size_8_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Reef_Star_Cushion_Flipflops_Size_8_Black" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Reef_Star_Cushion_Flipflops_Size_8_Black" type="mesh" group="3" />
+    </body>

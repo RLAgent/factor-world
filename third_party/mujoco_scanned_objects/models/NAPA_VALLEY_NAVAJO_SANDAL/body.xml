@@ -1,0 +1,36 @@
+<body childclass="NAPA_VALLEY_NAVAJO_SANDAL_base" name="NAPA_VALLEY_NAVAJO_SANDAL1">
+        <geom class="NAPA_VALLEY_NAVAJO_SANDAL_col" name="{geom_name}" type="mesh" mesh="model_NAPA_VALLEY_NAVAJO_SANDAL" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_NAPA_VALLEY_NAVAJO_SANDAL" mesh="model_NAPA_VALLEY_NAVAJO_SANDAL" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_NAPA_VALLEY_NAVAJO_SANDAL" type="mesh" group="3" />
+      <geom mesh="model_collision_1_NAPA_VALLEY_NAVAJO_SANDAL" type="mesh" group="3" />
+      <geom mesh="model_collision_2_NAPA_VALLEY_NAVAJO_SANDAL" type="mesh" group="3" />
+      <geom mesh="model_collision_3_NAPA_VALLEY_NAVAJO_SANDAL" type="mesh" group="3" />
+      <geom mesh="model_collision_4_NAPA_VALLEY_NAVAJO_SANDAL" type="mesh" group="3" />
+      <geom mesh="model_collision_5_NAPA_VALLEY_NAVAJO_SANDAL" type="mesh" group="3" />
+      <geom mesh="model_collision_6_NAPA_VALLEY_NAVAJO_SANDAL" type="mesh" group="3" />
+      <geom mesh="model_collision_7_NAPA_VALLEY_NAVAJO_SANDAL" type="mesh" group="3" />
+      <geom mesh="model_collision_8_NAPA_VALLEY_NAVAJO_SANDAL" type="mesh" group="3" />
+      <geom mesh="model_collision_9_NAPA_VALLEY_NAVAJO_SANDAL" type="mesh" group="3" />
+      <geom mesh="model_collision_10_NAPA_VALLEY_NAVAJO_SANDAL" type="mesh" group="3" />
+      <geom mesh="model_collision_11_NAPA_VALLEY_NAVAJO_SANDAL" type="mesh" group="3" />
+      <geom mesh="model_collision_12_NAPA_VALLEY_NAVAJO_SANDAL" type="mesh" group="3" />
+      <geom mesh="model_collision_13_NAPA_VALLEY_NAVAJO_SANDAL" type="mesh" group="3" />
+      <geom mesh="model_collision_14_NAPA_VALLEY_NAVAJO_SANDAL" type="mesh" group="3" />
+      <geom mesh="model_collision_15_NAPA_VALLEY_NAVAJO_SANDAL" type="mesh" group="3" />
+      <geom mesh="model_collision_16_NAPA_VALLEY_NAVAJO_SANDAL" type="mesh" group="3" />
+      <geom mesh="model_collision_17_NAPA_VALLEY_NAVAJO_SANDAL" type="mesh" group="3" />
+      <geom mesh="model_collision_18_NAPA_VALLEY_NAVAJO_SANDAL" type="mesh" group="3" />
+      <geom mesh="model_collision_19_NAPA_VALLEY_NAVAJO_SANDAL" type="mesh" group="3" />
+      <geom mesh="model_collision_20_NAPA_VALLEY_NAVAJO_SANDAL" type="mesh" group="3" />
+      <geom mesh="model_collision_21_NAPA_VALLEY_NAVAJO_SANDAL" type="mesh" group="3" />
+      <geom mesh="model_collision_22_NAPA_VALLEY_NAVAJO_SANDAL" type="mesh" group="3" />
+      <geom mesh="model_collision_23_NAPA_VALLEY_NAVAJO_SANDAL" type="mesh" group="3" />
+      <geom mesh="model_collision_24_NAPA_VALLEY_NAVAJO_SANDAL" type="mesh" group="3" />
+      <geom mesh="model_collision_25_NAPA_VALLEY_NAVAJO_SANDAL" type="mesh" group="3" />
+      <geom mesh="model_collision_26_NAPA_VALLEY_NAVAJO_SANDAL" type="mesh" group="3" />
+      <geom mesh="model_collision_27_NAPA_VALLEY_NAVAJO_SANDAL" type="mesh" group="3" />
+      <geom mesh="model_collision_28_NAPA_VALLEY_NAVAJO_SANDAL" type="mesh" group="3" />
+      <geom mesh="model_collision_29_NAPA_VALLEY_NAVAJO_SANDAL" type="mesh" group="3" />
+      <geom mesh="model_collision_30_NAPA_VALLEY_NAVAJO_SANDAL" type="mesh" group="3" />
+      <geom mesh="model_collision_31_NAPA_VALLEY_NAVAJO_SANDAL" type="mesh" group="3" />
+    </body>

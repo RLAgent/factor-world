@@ -1,0 +1,38 @@
+<asset>
+    <texture type="2d" name="texture_FIRE_TRUCK" file="../../../../../mujoco_scanned_objects/models/FIRE_TRUCK/texture.png" />
+    <material name="material_0_FIRE_TRUCK" texture="texture_FIRE_TRUCK" specular="0.5" shininess="0.5" />
+    <mesh name="model_FIRE_TRUCK" file="../../../../../mujoco_scanned_objects/models/FIRE_TRUCK/model.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_0_FIRE_TRUCK" file="../../../../../mujoco_scanned_objects/models/FIRE_TRUCK/model_collision_0.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_1_FIRE_TRUCK" file="../../../../../mujoco_scanned_objects/models/FIRE_TRUCK/model_collision_1.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_2_FIRE_TRUCK" file="../../../../../mujoco_scanned_objects/models/FIRE_TRUCK/model_collision_2.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_3_FIRE_TRUCK" file="../../../../../mujoco_scanned_objects/models/FIRE_TRUCK/model_collision_3.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_4_FIRE_TRUCK" file="../../../../../mujoco_scanned_objects/models/FIRE_TRUCK/model_collision_4.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_5_FIRE_TRUCK" file="../../../../../mujoco_scanned_objects/models/FIRE_TRUCK/model_collision_5.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_6_FIRE_TRUCK" file="../../../../../mujoco_scanned_objects/models/FIRE_TRUCK/model_collision_6.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_7_FIRE_TRUCK" file="../../../../../mujoco_scanned_objects/models/FIRE_TRUCK/model_collision_7.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_8_FIRE_TRUCK" file="../../../../../mujoco_scanned_objects/models/FIRE_TRUCK/model_collision_8.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_9_FIRE_TRUCK" file="../../../../../mujoco_scanned_objects/models/FIRE_TRUCK/model_collision_9.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_10_FIRE_TRUCK" file="../../../../../mujoco_scanned_objects/models/FIRE_TRUCK/model_collision_10.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_11_FIRE_TRUCK" file="../../../../../mujoco_scanned_objects/models/FIRE_TRUCK/model_collision_11.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_12_FIRE_TRUCK" file="../../../../../mujoco_scanned_objects/models/FIRE_TRUCK/model_collision_12.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_13_FIRE_TRUCK" file="../../../../../mujoco_scanned_objects/models/FIRE_TRUCK/model_collision_13.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_14_FIRE_TRUCK" file="../../../../../mujoco_scanned_objects/models/FIRE_TRUCK/model_collision_14.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_15_FIRE_TRUCK" file="../../../../../mujoco_scanned_objects/models/FIRE_TRUCK/model_collision_15.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_16_FIRE_TRUCK" file="../../../../../mujoco_scanned_objects/models/FIRE_TRUCK/model_collision_16.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_17_FIRE_TRUCK" file="../../../../../mujoco_scanned_objects/models/FIRE_TRUCK/model_collision_17.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_18_FIRE_TRUCK" file="../../../../../mujoco_scanned_objects/models/FIRE_TRUCK/model_collision_18.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_19_FIRE_TRUCK" file="../../../../../mujoco_scanned_objects/models/FIRE_TRUCK/model_collision_19.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_20_FIRE_TRUCK" file="../../../../../mujoco_scanned_objects/models/FIRE_TRUCK/model_collision_20.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_21_FIRE_TRUCK" file="../../../../../mujoco_scanned_objects/models/FIRE_TRUCK/model_collision_21.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_22_FIRE_TRUCK" file="../../../../../mujoco_scanned_objects/models/FIRE_TRUCK/model_collision_22.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_23_FIRE_TRUCK" file="../../../../../mujoco_scanned_objects/models/FIRE_TRUCK/model_collision_23.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_24_FIRE_TRUCK" file="../../../../../mujoco_scanned_objects/models/FIRE_TRUCK/model_collision_24.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_25_FIRE_TRUCK" file="../../../../../mujoco_scanned_objects/models/FIRE_TRUCK/model_collision_25.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_26_FIRE_TRUCK" file="../../../../../mujoco_scanned_objects/models/FIRE_TRUCK/model_collision_26.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_27_FIRE_TRUCK" file="../../../../../mujoco_scanned_objects/models/FIRE_TRUCK/model_collision_27.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_28_FIRE_TRUCK" file="../../../../../mujoco_scanned_objects/models/FIRE_TRUCK/model_collision_28.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_29_FIRE_TRUCK" file="../../../../../mujoco_scanned_objects/models/FIRE_TRUCK/model_collision_29.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_30_FIRE_TRUCK" file="../../../../../mujoco_scanned_objects/models/FIRE_TRUCK/model_collision_30.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_31_FIRE_TRUCK" file="../../../../../mujoco_scanned_objects/models/FIRE_TRUCK/model_collision_31.stl" scale="{scale} {scale} {scale}" />
+  </asset>
+  

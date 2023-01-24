@@ -1,0 +1,38 @@
+<asset>
+    <texture type="2d" name="texture_Sootheze_Toasty_Orca" file="../../../../../mujoco_scanned_objects/models/Sootheze_Toasty_Orca/texture.png" />
+    <material name="material_0_Sootheze_Toasty_Orca" texture="texture_Sootheze_Toasty_Orca" specular="0.5" shininess="0.5" />
+    <mesh name="model_Sootheze_Toasty_Orca" file="../../../../../mujoco_scanned_objects/models/Sootheze_Toasty_Orca/model.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_0_Sootheze_Toasty_Orca" file="../../../../../mujoco_scanned_objects/models/Sootheze_Toasty_Orca/model_collision_0.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_1_Sootheze_Toasty_Orca" file="../../../../../mujoco_scanned_objects/models/Sootheze_Toasty_Orca/model_collision_1.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_2_Sootheze_Toasty_Orca" file="../../../../../mujoco_scanned_objects/models/Sootheze_Toasty_Orca/model_collision_2.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_3_Sootheze_Toasty_Orca" file="../../../../../mujoco_scanned_objects/models/Sootheze_Toasty_Orca/model_collision_3.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_4_Sootheze_Toasty_Orca" file="../../../../../mujoco_scanned_objects/models/Sootheze_Toasty_Orca/model_collision_4.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_5_Sootheze_Toasty_Orca" file="../../../../../mujoco_scanned_objects/models/Sootheze_Toasty_Orca/model_collision_5.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_6_Sootheze_Toasty_Orca" file="../../../../../mujoco_scanned_objects/models/Sootheze_Toasty_Orca/model_collision_6.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_7_Sootheze_Toasty_Orca" file="../../../../../mujoco_scanned_objects/models/Sootheze_Toasty_Orca/model_collision_7.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_8_Sootheze_Toasty_Orca" file="../../../../../mujoco_scanned_objects/models/Sootheze_Toasty_Orca/model_collision_8.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_9_Sootheze_Toasty_Orca" file="../../../../../mujoco_scanned_objects/models/Sootheze_Toasty_Orca/model_collision_9.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_10_Sootheze_Toasty_Orca" file="../../../../../mujoco_scanned_objects/models/Sootheze_Toasty_Orca/model_collision_10.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_11_Sootheze_Toasty_Orca" file="../../../../../mujoco_scanned_objects/models/Sootheze_Toasty_Orca/model_collision_11.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_12_Sootheze_Toasty_Orca" file="../../../../../mujoco_scanned_objects/models/Sootheze_Toasty_Orca/model_collision_12.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_13_Sootheze_Toasty_Orca" file="../../../../../mujoco_scanned_objects/models/Sootheze_Toasty_Orca/model_collision_13.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_14_Sootheze_Toasty_Orca" file="../../../../../mujoco_scanned_objects/models/Sootheze_Toasty_Orca/model_collision_14.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_15_Sootheze_Toasty_Orca" file="../../../../../mujoco_scanned_objects/models/Sootheze_Toasty_Orca/model_collision_15.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_16_Sootheze_Toasty_Orca" file="../../../../../mujoco_scanned_objects/models/Sootheze_Toasty_Orca/model_collision_16.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_17_Sootheze_Toasty_Orca" file="../../../../../mujoco_scanned_objects/models/Sootheze_Toasty_Orca/model_collision_17.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_18_Sootheze_Toasty_Orca" file="../../../../../mujoco_scanned_objects/models/Sootheze_Toasty_Orca/model_collision_18.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_19_Sootheze_Toasty_Orca" file="../../../../../mujoco_scanned_objects/models/Sootheze_Toasty_Orca/model_collision_19.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_20_Sootheze_Toasty_Orca" file="../../../../../mujoco_scanned_objects/models/Sootheze_Toasty_Orca/model_collision_20.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_21_Sootheze_Toasty_Orca" file="../../../../../mujoco_scanned_objects/models/Sootheze_Toasty_Orca/model_collision_21.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_22_Sootheze_Toasty_Orca" file="../../../../../mujoco_scanned_objects/models/Sootheze_Toasty_Orca/model_collision_22.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_23_Sootheze_Toasty_Orca" file="../../../../../mujoco_scanned_objects/models/Sootheze_Toasty_Orca/model_collision_23.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_24_Sootheze_Toasty_Orca" file="../../../../../mujoco_scanned_objects/models/Sootheze_Toasty_Orca/model_collision_24.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_25_Sootheze_Toasty_Orca" file="../../../../../mujoco_scanned_objects/models/Sootheze_Toasty_Orca/model_collision_25.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_26_Sootheze_Toasty_Orca" file="../../../../../mujoco_scanned_objects/models/Sootheze_Toasty_Orca/model_collision_26.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_27_Sootheze_Toasty_Orca" file="../../../../../mujoco_scanned_objects/models/Sootheze_Toasty_Orca/model_collision_27.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_28_Sootheze_Toasty_Orca" file="../../../../../mujoco_scanned_objects/models/Sootheze_Toasty_Orca/model_collision_28.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_29_Sootheze_Toasty_Orca" file="../../../../../mujoco_scanned_objects/models/Sootheze_Toasty_Orca/model_collision_29.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_30_Sootheze_Toasty_Orca" file="../../../../../mujoco_scanned_objects/models/Sootheze_Toasty_Orca/model_collision_30.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_31_Sootheze_Toasty_Orca" file="../../../../../mujoco_scanned_objects/models/Sootheze_Toasty_Orca/model_collision_31.stl" scale="{scale} {scale} {scale}" />
+  </asset>
+  

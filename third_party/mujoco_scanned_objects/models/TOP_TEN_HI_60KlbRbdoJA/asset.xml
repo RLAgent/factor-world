@@ -1,0 +1,38 @@
+<asset>
+    <texture type="2d" name="texture_TOP_TEN_HI_60KlbRbdoJA" file="../../../../../mujoco_scanned_objects/models/TOP_TEN_HI_60KlbRbdoJA/texture.png" />
+    <material name="material_0_TOP_TEN_HI_60KlbRbdoJA" texture="texture_TOP_TEN_HI_60KlbRbdoJA" specular="0.5" shininess="0.5" />
+    <mesh name="model_TOP_TEN_HI_60KlbRbdoJA" file="../../../../../mujoco_scanned_objects/models/TOP_TEN_HI_60KlbRbdoJA/model.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_0_TOP_TEN_HI_60KlbRbdoJA" file="../../../../../mujoco_scanned_objects/models/TOP_TEN_HI_60KlbRbdoJA/model_collision_0.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_1_TOP_TEN_HI_60KlbRbdoJA" file="../../../../../mujoco_scanned_objects/models/TOP_TEN_HI_60KlbRbdoJA/model_collision_1.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_2_TOP_TEN_HI_60KlbRbdoJA" file="../../../../../mujoco_scanned_objects/models/TOP_TEN_HI_60KlbRbdoJA/model_collision_2.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_3_TOP_TEN_HI_60KlbRbdoJA" file="../../../../../mujoco_scanned_objects/models/TOP_TEN_HI_60KlbRbdoJA/model_collision_3.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_4_TOP_TEN_HI_60KlbRbdoJA" file="../../../../../mujoco_scanned_objects/models/TOP_TEN_HI_60KlbRbdoJA/model_collision_4.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_5_TOP_TEN_HI_60KlbRbdoJA" file="../../../../../mujoco_scanned_objects/models/TOP_TEN_HI_60KlbRbdoJA/model_collision_5.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_6_TOP_TEN_HI_60KlbRbdoJA" file="../../../../../mujoco_scanned_objects/models/TOP_TEN_HI_60KlbRbdoJA/model_collision_6.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_7_TOP_TEN_HI_60KlbRbdoJA" file="../../../../../mujoco_scanned_objects/models/TOP_TEN_HI_60KlbRbdoJA/model_collision_7.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_8_TOP_TEN_HI_60KlbRbdoJA" file="../../../../../mujoco_scanned_objects/models/TOP_TEN_HI_60KlbRbdoJA/model_collision_8.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_9_TOP_TEN_HI_60KlbRbdoJA" file="../../../../../mujoco_scanned_objects/models/TOP_TEN_HI_60KlbRbdoJA/model_collision_9.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_10_TOP_TEN_HI_60KlbRbdoJA" file="../../../../../mujoco_scanned_objects/models/TOP_TEN_HI_60KlbRbdoJA/model_collision_10.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_11_TOP_TEN_HI_60KlbRbdoJA" file="../../../../../mujoco_scanned_objects/models/TOP_TEN_HI_60KlbRbdoJA/model_collision_11.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_12_TOP_TEN_HI_60KlbRbdoJA" file="../../../../../mujoco_scanned_objects/models/TOP_TEN_HI_60KlbRbdoJA/model_collision_12.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_13_TOP_TEN_HI_60KlbRbdoJA" file="../../../../../mujoco_scanned_objects/models/TOP_TEN_HI_60KlbRbdoJA/model_collision_13.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_14_TOP_TEN_HI_60KlbRbdoJA" file="../../../../../mujoco_scanned_objects/models/TOP_TEN_HI_60KlbRbdoJA/model_collision_14.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_15_TOP_TEN_HI_60KlbRbdoJA" file="../../../../../mujoco_scanned_objects/models/TOP_TEN_HI_60KlbRbdoJA/model_collision_15.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_16_TOP_TEN_HI_60KlbRbdoJA" file="../../../../../mujoco_scanned_objects/models/TOP_TEN_HI_60KlbRbdoJA/model_collision_16.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_17_TOP_TEN_HI_60KlbRbdoJA" file="../../../../../mujoco_scanned_objects/models/TOP_TEN_HI_60KlbRbdoJA/model_collision_17.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_18_TOP_TEN_HI_60KlbRbdoJA" file="../../../../../mujoco_scanned_objects/models/TOP_TEN_HI_60KlbRbdoJA/model_collision_18.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_19_TOP_TEN_HI_60KlbRbdoJA" file="../../../../../mujoco_scanned_objects/models/TOP_TEN_HI_60KlbRbdoJA/model_collision_19.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_20_TOP_TEN_HI_60KlbRbdoJA" file="../../../../../mujoco_scanned_objects/models/TOP_TEN_HI_60KlbRbdoJA/model_collision_20.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_21_TOP_TEN_HI_60KlbRbdoJA" file="../../../../../mujoco_scanned_objects/models/TOP_TEN_HI_60KlbRbdoJA/model_collision_21.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_22_TOP_TEN_HI_60KlbRbdoJA" file="../../../../../mujoco_scanned_objects/models/TOP_TEN_HI_60KlbRbdoJA/model_collision_22.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_23_TOP_TEN_HI_60KlbRbdoJA" file="../../../../../mujoco_scanned_objects/models/TOP_TEN_HI_60KlbRbdoJA/model_collision_23.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_24_TOP_TEN_HI_60KlbRbdoJA" file="../../../../../mujoco_scanned_objects/models/TOP_TEN_HI_60KlbRbdoJA/model_collision_24.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_25_TOP_TEN_HI_60KlbRbdoJA" file="../../../../../mujoco_scanned_objects/models/TOP_TEN_HI_60KlbRbdoJA/model_collision_25.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_26_TOP_TEN_HI_60KlbRbdoJA" file="../../../../../mujoco_scanned_objects/models/TOP_TEN_HI_60KlbRbdoJA/model_collision_26.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_27_TOP_TEN_HI_60KlbRbdoJA" file="../../../../../mujoco_scanned_objects/models/TOP_TEN_HI_60KlbRbdoJA/model_collision_27.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_28_TOP_TEN_HI_60KlbRbdoJA" file="../../../../../mujoco_scanned_objects/models/TOP_TEN_HI_60KlbRbdoJA/model_collision_28.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_29_TOP_TEN_HI_60KlbRbdoJA" file="../../../../../mujoco_scanned_objects/models/TOP_TEN_HI_60KlbRbdoJA/model_collision_29.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_30_TOP_TEN_HI_60KlbRbdoJA" file="../../../../../mujoco_scanned_objects/models/TOP_TEN_HI_60KlbRbdoJA/model_collision_30.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_31_TOP_TEN_HI_60KlbRbdoJA" file="../../../../../mujoco_scanned_objects/models/TOP_TEN_HI_60KlbRbdoJA/model_collision_31.stl" scale="{scale} {scale} {scale}" />
+  </asset>
+  

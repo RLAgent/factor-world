@@ -1,0 +1,36 @@
+<body childclass="CARSII_base" name="CARSII1">
+        <geom class="CARSII_col" name="{geom_name}" type="mesh" mesh="model_CARSII" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_CARSII" mesh="model_CARSII" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_CARSII" type="mesh" group="3" />
+      <geom mesh="model_collision_1_CARSII" type="mesh" group="3" />
+      <geom mesh="model_collision_2_CARSII" type="mesh" group="3" />
+      <geom mesh="model_collision_3_CARSII" type="mesh" group="3" />
+      <geom mesh="model_collision_4_CARSII" type="mesh" group="3" />
+      <geom mesh="model_collision_5_CARSII" type="mesh" group="3" />
+      <geom mesh="model_collision_6_CARSII" type="mesh" group="3" />
+      <geom mesh="model_collision_7_CARSII" type="mesh" group="3" />
+      <geom mesh="model_collision_8_CARSII" type="mesh" group="3" />
+      <geom mesh="model_collision_9_CARSII" type="mesh" group="3" />
+      <geom mesh="model_collision_10_CARSII" type="mesh" group="3" />
+      <geom mesh="model_collision_11_CARSII" type="mesh" group="3" />
+      <geom mesh="model_collision_12_CARSII" type="mesh" group="3" />
+      <geom mesh="model_collision_13_CARSII" type="mesh" group="3" />
+      <geom mesh="model_collision_14_CARSII" type="mesh" group="3" />
+      <geom mesh="model_collision_15_CARSII" type="mesh" group="3" />
+      <geom mesh="model_collision_16_CARSII" type="mesh" group="3" />
+      <geom mesh="model_collision_17_CARSII" type="mesh" group="3" />
+      <geom mesh="model_collision_18_CARSII" type="mesh" group="3" />
+      <geom mesh="model_collision_19_CARSII" type="mesh" group="3" />
+      <geom mesh="model_collision_20_CARSII" type="mesh" group="3" />
+      <geom mesh="model_collision_21_CARSII" type="mesh" group="3" />
+      <geom mesh="model_collision_22_CARSII" type="mesh" group="3" />
+      <geom mesh="model_collision_23_CARSII" type="mesh" group="3" />
+      <geom mesh="model_collision_24_CARSII" type="mesh" group="3" />
+      <geom mesh="model_collision_25_CARSII" type="mesh" group="3" />
+      <geom mesh="model_collision_26_CARSII" type="mesh" group="3" />
+      <geom mesh="model_collision_27_CARSII" type="mesh" group="3" />
+      <geom mesh="model_collision_28_CARSII" type="mesh" group="3" />
+      <geom mesh="model_collision_29_CARSII" type="mesh" group="3" />
+      <geom mesh="model_collision_30_CARSII" type="mesh" group="3" />
+      <geom mesh="model_collision_31_CARSII" type="mesh" group="3" />
+    </body>

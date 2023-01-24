@@ -1,0 +1,36 @@
+<body childclass="LEGO_Duplo_Build_and_Play_Box_4629_base" name="LEGO_Duplo_Build_and_Play_Box_46291">
+        <geom class="LEGO_Duplo_Build_and_Play_Box_4629_col" name="{geom_name}" type="mesh" mesh="model_LEGO_Duplo_Build_and_Play_Box_4629" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_LEGO_Duplo_Build_and_Play_Box_4629" mesh="model_LEGO_Duplo_Build_and_Play_Box_4629" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_LEGO_Duplo_Build_and_Play_Box_4629" type="mesh" group="3" />
+      <geom mesh="model_collision_1_LEGO_Duplo_Build_and_Play_Box_4629" type="mesh" group="3" />
+      <geom mesh="model_collision_2_LEGO_Duplo_Build_and_Play_Box_4629" type="mesh" group="3" />
+      <geom mesh="model_collision_3_LEGO_Duplo_Build_and_Play_Box_4629" type="mesh" group="3" />
+      <geom mesh="model_collision_4_LEGO_Duplo_Build_and_Play_Box_4629" type="mesh" group="3" />
+      <geom mesh="model_collision_5_LEGO_Duplo_Build_and_Play_Box_4629" type="mesh" group="3" />
+      <geom mesh="model_collision_6_LEGO_Duplo_Build_and_Play_Box_4629" type="mesh" group="3" />
+      <geom mesh="model_collision_7_LEGO_Duplo_Build_and_Play_Box_4629" type="mesh" group="3" />
+      <geom mesh="model_collision_8_LEGO_Duplo_Build_and_Play_Box_4629" type="mesh" group="3" />
+      <geom mesh="model_collision_9_LEGO_Duplo_Build_and_Play_Box_4629" type="mesh" group="3" />
+      <geom mesh="model_collision_10_LEGO_Duplo_Build_and_Play_Box_4629" type="mesh" group="3" />
+      <geom mesh="model_collision_11_LEGO_Duplo_Build_and_Play_Box_4629" type="mesh" group="3" />
+      <geom mesh="model_collision_12_LEGO_Duplo_Build_and_Play_Box_4629" type="mesh" group="3" />
+      <geom mesh="model_collision_13_LEGO_Duplo_Build_and_Play_Box_4629" type="mesh" group="3" />
+      <geom mesh="model_collision_14_LEGO_Duplo_Build_and_Play_Box_4629" type="mesh" group="3" />
+      <geom mesh="model_collision_15_LEGO_Duplo_Build_and_Play_Box_4629" type="mesh" group="3" />
+      <geom mesh="model_collision_16_LEGO_Duplo_Build_and_Play_Box_4629" type="mesh" group="3" />
+      <geom mesh="model_collision_17_LEGO_Duplo_Build_and_Play_Box_4629" type="mesh" group="3" />
+      <geom mesh="model_collision_18_LEGO_Duplo_Build_and_Play_Box_4629" type="mesh" group="3" />
+      <geom mesh="model_collision_19_LEGO_Duplo_Build_and_Play_Box_4629" type="mesh" group="3" />
+      <geom mesh="model_collision_20_LEGO_Duplo_Build_and_Play_Box_4629" type="mesh" group="3" />
+      <geom mesh="model_collision_21_LEGO_Duplo_Build_and_Play_Box_4629" type="mesh" group="3" />
+      <geom mesh="model_collision_22_LEGO_Duplo_Build_and_Play_Box_4629" type="mesh" group="3" />
+      <geom mesh="model_collision_23_LEGO_Duplo_Build_and_Play_Box_4629" type="mesh" group="3" />
+      <geom mesh="model_collision_24_LEGO_Duplo_Build_and_Play_Box_4629" type="mesh" group="3" />
+      <geom mesh="model_collision_25_LEGO_Duplo_Build_and_Play_Box_4629" type="mesh" group="3" />
+      <geom mesh="model_collision_26_LEGO_Duplo_Build_and_Play_Box_4629" type="mesh" group="3" />
+      <geom mesh="model_collision_27_LEGO_Duplo_Build_and_Play_Box_4629" type="mesh" group="3" />
+      <geom mesh="model_collision_28_LEGO_Duplo_Build_and_Play_Box_4629" type="mesh" group="3" />
+      <geom mesh="model_collision_29_LEGO_Duplo_Build_and_Play_Box_4629" type="mesh" group="3" />
+      <geom mesh="model_collision_30_LEGO_Duplo_Build_and_Play_Box_4629" type="mesh" group="3" />
+      <geom mesh="model_collision_31_LEGO_Duplo_Build_and_Play_Box_4629" type="mesh" group="3" />
+    </body>

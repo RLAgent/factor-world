@@ -1,0 +1,36 @@
+<body childclass="Kingston_DT4000MR_G2_Management_Ready_USB_64GB_base" name="Kingston_DT4000MR_G2_Management_Ready_USB_64GB1">
+        <geom class="Kingston_DT4000MR_G2_Management_Ready_USB_64GB_col" name="{geom_name}" type="mesh" mesh="model_Kingston_DT4000MR_G2_Management_Ready_USB_64GB" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Kingston_DT4000MR_G2_Management_Ready_USB_64GB" mesh="model_Kingston_DT4000MR_G2_Management_Ready_USB_64GB" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Kingston_DT4000MR_G2_Management_Ready_USB_64GB" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Kingston_DT4000MR_G2_Management_Ready_USB_64GB" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Kingston_DT4000MR_G2_Management_Ready_USB_64GB" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Kingston_DT4000MR_G2_Management_Ready_USB_64GB" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Kingston_DT4000MR_G2_Management_Ready_USB_64GB" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Kingston_DT4000MR_G2_Management_Ready_USB_64GB" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Kingston_DT4000MR_G2_Management_Ready_USB_64GB" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Kingston_DT4000MR_G2_Management_Ready_USB_64GB" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Kingston_DT4000MR_G2_Management_Ready_USB_64GB" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Kingston_DT4000MR_G2_Management_Ready_USB_64GB" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Kingston_DT4000MR_G2_Management_Ready_USB_64GB" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Kingston_DT4000MR_G2_Management_Ready_USB_64GB" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Kingston_DT4000MR_G2_Management_Ready_USB_64GB" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Kingston_DT4000MR_G2_Management_Ready_USB_64GB" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Kingston_DT4000MR_G2_Management_Ready_USB_64GB" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Kingston_DT4000MR_G2_Management_Ready_USB_64GB" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Kingston_DT4000MR_G2_Management_Ready_USB_64GB" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Kingston_DT4000MR_G2_Management_Ready_USB_64GB" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Kingston_DT4000MR_G2_Management_Ready_USB_64GB" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Kingston_DT4000MR_G2_Management_Ready_USB_64GB" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Kingston_DT4000MR_G2_Management_Ready_USB_64GB" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Kingston_DT4000MR_G2_Management_Ready_USB_64GB" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Kingston_DT4000MR_G2_Management_Ready_USB_64GB" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Kingston_DT4000MR_G2_Management_Ready_USB_64GB" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Kingston_DT4000MR_G2_Management_Ready_USB_64GB" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Kingston_DT4000MR_G2_Management_Ready_USB_64GB" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Kingston_DT4000MR_G2_Management_Ready_USB_64GB" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Kingston_DT4000MR_G2_Management_Ready_USB_64GB" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Kingston_DT4000MR_G2_Management_Ready_USB_64GB" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Kingston_DT4000MR_G2_Management_Ready_USB_64GB" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Kingston_DT4000MR_G2_Management_Ready_USB_64GB" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Kingston_DT4000MR_G2_Management_Ready_USB_64GB" type="mesh" group="3" />
+    </body>

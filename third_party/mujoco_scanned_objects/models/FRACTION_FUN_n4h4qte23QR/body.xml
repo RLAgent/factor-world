@@ -1,0 +1,36 @@
+<body childclass="FRACTION_FUN_n4h4qte23QR_base" name="FRACTION_FUN_n4h4qte23QR1">
+        <geom class="FRACTION_FUN_n4h4qte23QR_col" name="{geom_name}" type="mesh" mesh="model_FRACTION_FUN_n4h4qte23QR" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_FRACTION_FUN_n4h4qte23QR" mesh="model_FRACTION_FUN_n4h4qte23QR" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_FRACTION_FUN_n4h4qte23QR" type="mesh" group="3" />
+      <geom mesh="model_collision_1_FRACTION_FUN_n4h4qte23QR" type="mesh" group="3" />
+      <geom mesh="model_collision_2_FRACTION_FUN_n4h4qte23QR" type="mesh" group="3" />
+      <geom mesh="model_collision_3_FRACTION_FUN_n4h4qte23QR" type="mesh" group="3" />
+      <geom mesh="model_collision_4_FRACTION_FUN_n4h4qte23QR" type="mesh" group="3" />
+      <geom mesh="model_collision_5_FRACTION_FUN_n4h4qte23QR" type="mesh" group="3" />
+      <geom mesh="model_collision_6_FRACTION_FUN_n4h4qte23QR" type="mesh" group="3" />
+      <geom mesh="model_collision_7_FRACTION_FUN_n4h4qte23QR" type="mesh" group="3" />
+      <geom mesh="model_collision_8_FRACTION_FUN_n4h4qte23QR" type="mesh" group="3" />
+      <geom mesh="model_collision_9_FRACTION_FUN_n4h4qte23QR" type="mesh" group="3" />
+      <geom mesh="model_collision_10_FRACTION_FUN_n4h4qte23QR" type="mesh" group="3" />
+      <geom mesh="model_collision_11_FRACTION_FUN_n4h4qte23QR" type="mesh" group="3" />
+      <geom mesh="model_collision_12_FRACTION_FUN_n4h4qte23QR" type="mesh" group="3" />
+      <geom mesh="model_collision_13_FRACTION_FUN_n4h4qte23QR" type="mesh" group="3" />
+      <geom mesh="model_collision_14_FRACTION_FUN_n4h4qte23QR" type="mesh" group="3" />
+      <geom mesh="model_collision_15_FRACTION_FUN_n4h4qte23QR" type="mesh" group="3" />
+      <geom mesh="model_collision_16_FRACTION_FUN_n4h4qte23QR" type="mesh" group="3" />
+      <geom mesh="model_collision_17_FRACTION_FUN_n4h4qte23QR" type="mesh" group="3" />
+      <geom mesh="model_collision_18_FRACTION_FUN_n4h4qte23QR" type="mesh" group="3" />
+      <geom mesh="model_collision_19_FRACTION_FUN_n4h4qte23QR" type="mesh" group="3" />
+      <geom mesh="model_collision_20_FRACTION_FUN_n4h4qte23QR" type="mesh" group="3" />
+      <geom mesh="model_collision_21_FRACTION_FUN_n4h4qte23QR" type="mesh" group="3" />
+      <geom mesh="model_collision_22_FRACTION_FUN_n4h4qte23QR" type="mesh" group="3" />
+      <geom mesh="model_collision_23_FRACTION_FUN_n4h4qte23QR" type="mesh" group="3" />
+      <geom mesh="model_collision_24_FRACTION_FUN_n4h4qte23QR" type="mesh" group="3" />
+      <geom mesh="model_collision_25_FRACTION_FUN_n4h4qte23QR" type="mesh" group="3" />
+      <geom mesh="model_collision_26_FRACTION_FUN_n4h4qte23QR" type="mesh" group="3" />
+      <geom mesh="model_collision_27_FRACTION_FUN_n4h4qte23QR" type="mesh" group="3" />
+      <geom mesh="model_collision_28_FRACTION_FUN_n4h4qte23QR" type="mesh" group="3" />
+      <geom mesh="model_collision_29_FRACTION_FUN_n4h4qte23QR" type="mesh" group="3" />
+      <geom mesh="model_collision_30_FRACTION_FUN_n4h4qte23QR" type="mesh" group="3" />
+      <geom mesh="model_collision_31_FRACTION_FUN_n4h4qte23QR" type="mesh" group="3" />
+    </body>

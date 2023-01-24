@@ -1,0 +1,36 @@
+<body childclass="Marvel_Avengers_Titan_Hero_Series_Doctor_Doom_base" name="Marvel_Avengers_Titan_Hero_Series_Doctor_Doom1">
+        <geom class="Marvel_Avengers_Titan_Hero_Series_Doctor_Doom_col" name="{geom_name}" type="mesh" mesh="model_Marvel_Avengers_Titan_Hero_Series_Doctor_Doom" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Marvel_Avengers_Titan_Hero_Series_Doctor_Doom" mesh="model_Marvel_Avengers_Titan_Hero_Series_Doctor_Doom" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Marvel_Avengers_Titan_Hero_Series_Doctor_Doom" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Marvel_Avengers_Titan_Hero_Series_Doctor_Doom" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Marvel_Avengers_Titan_Hero_Series_Doctor_Doom" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Marvel_Avengers_Titan_Hero_Series_Doctor_Doom" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Marvel_Avengers_Titan_Hero_Series_Doctor_Doom" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Marvel_Avengers_Titan_Hero_Series_Doctor_Doom" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Marvel_Avengers_Titan_Hero_Series_Doctor_Doom" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Marvel_Avengers_Titan_Hero_Series_Doctor_Doom" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Marvel_Avengers_Titan_Hero_Series_Doctor_Doom" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Marvel_Avengers_Titan_Hero_Series_Doctor_Doom" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Marvel_Avengers_Titan_Hero_Series_Doctor_Doom" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Marvel_Avengers_Titan_Hero_Series_Doctor_Doom" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Marvel_Avengers_Titan_Hero_Series_Doctor_Doom" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Marvel_Avengers_Titan_Hero_Series_Doctor_Doom" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Marvel_Avengers_Titan_Hero_Series_Doctor_Doom" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Marvel_Avengers_Titan_Hero_Series_Doctor_Doom" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Marvel_Avengers_Titan_Hero_Series_Doctor_Doom" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Marvel_Avengers_Titan_Hero_Series_Doctor_Doom" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Marvel_Avengers_Titan_Hero_Series_Doctor_Doom" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Marvel_Avengers_Titan_Hero_Series_Doctor_Doom" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Marvel_Avengers_Titan_Hero_Series_Doctor_Doom" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Marvel_Avengers_Titan_Hero_Series_Doctor_Doom" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Marvel_Avengers_Titan_Hero_Series_Doctor_Doom" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Marvel_Avengers_Titan_Hero_Series_Doctor_Doom" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Marvel_Avengers_Titan_Hero_Series_Doctor_Doom" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Marvel_Avengers_Titan_Hero_Series_Doctor_Doom" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Marvel_Avengers_Titan_Hero_Series_Doctor_Doom" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Marvel_Avengers_Titan_Hero_Series_Doctor_Doom" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Marvel_Avengers_Titan_Hero_Series_Doctor_Doom" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Marvel_Avengers_Titan_Hero_Series_Doctor_Doom" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Marvel_Avengers_Titan_Hero_Series_Doctor_Doom" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Marvel_Avengers_Titan_Hero_Series_Doctor_Doom" type="mesh" group="3" />
+    </body>

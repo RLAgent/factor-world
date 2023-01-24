@@ -1,0 +1,36 @@
+<body childclass="TOOL_BELT_base" name="TOOL_BELT1">
+        <geom class="TOOL_BELT_col" name="{geom_name}" type="mesh" mesh="model_TOOL_BELT" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_TOOL_BELT" mesh="model_TOOL_BELT" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_TOOL_BELT" type="mesh" group="3" />
+      <geom mesh="model_collision_1_TOOL_BELT" type="mesh" group="3" />
+      <geom mesh="model_collision_2_TOOL_BELT" type="mesh" group="3" />
+      <geom mesh="model_collision_3_TOOL_BELT" type="mesh" group="3" />
+      <geom mesh="model_collision_4_TOOL_BELT" type="mesh" group="3" />
+      <geom mesh="model_collision_5_TOOL_BELT" type="mesh" group="3" />
+      <geom mesh="model_collision_6_TOOL_BELT" type="mesh" group="3" />
+      <geom mesh="model_collision_7_TOOL_BELT" type="mesh" group="3" />
+      <geom mesh="model_collision_8_TOOL_BELT" type="mesh" group="3" />
+      <geom mesh="model_collision_9_TOOL_BELT" type="mesh" group="3" />
+      <geom mesh="model_collision_10_TOOL_BELT" type="mesh" group="3" />
+      <geom mesh="model_collision_11_TOOL_BELT" type="mesh" group="3" />
+      <geom mesh="model_collision_12_TOOL_BELT" type="mesh" group="3" />
+      <geom mesh="model_collision_13_TOOL_BELT" type="mesh" group="3" />
+      <geom mesh="model_collision_14_TOOL_BELT" type="mesh" group="3" />
+      <geom mesh="model_collision_15_TOOL_BELT" type="mesh" group="3" />
+      <geom mesh="model_collision_16_TOOL_BELT" type="mesh" group="3" />
+      <geom mesh="model_collision_17_TOOL_BELT" type="mesh" group="3" />
+      <geom mesh="model_collision_18_TOOL_BELT" type="mesh" group="3" />
+      <geom mesh="model_collision_19_TOOL_BELT" type="mesh" group="3" />
+      <geom mesh="model_collision_20_TOOL_BELT" type="mesh" group="3" />
+      <geom mesh="model_collision_21_TOOL_BELT" type="mesh" group="3" />
+      <geom mesh="model_collision_22_TOOL_BELT" type="mesh" group="3" />
+      <geom mesh="model_collision_23_TOOL_BELT" type="mesh" group="3" />
+      <geom mesh="model_collision_24_TOOL_BELT" type="mesh" group="3" />
+      <geom mesh="model_collision_25_TOOL_BELT" type="mesh" group="3" />
+      <geom mesh="model_collision_26_TOOL_BELT" type="mesh" group="3" />
+      <geom mesh="model_collision_27_TOOL_BELT" type="mesh" group="3" />
+      <geom mesh="model_collision_28_TOOL_BELT" type="mesh" group="3" />
+      <geom mesh="model_collision_29_TOOL_BELT" type="mesh" group="3" />
+      <geom mesh="model_collision_30_TOOL_BELT" type="mesh" group="3" />
+      <geom mesh="model_collision_31_TOOL_BELT" type="mesh" group="3" />
+    </body>

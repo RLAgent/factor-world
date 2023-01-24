@@ -1,0 +1,36 @@
+<body childclass="Toys_R_Us_Treat_Dispenser_Smart_Puzzle_Foobler_base" name="Toys_R_Us_Treat_Dispenser_Smart_Puzzle_Foobler1">
+        <geom class="Toys_R_Us_Treat_Dispenser_Smart_Puzzle_Foobler_col" name="{geom_name}" type="mesh" mesh="model_Toys_R_Us_Treat_Dispenser_Smart_Puzzle_Foobler" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Toys_R_Us_Treat_Dispenser_Smart_Puzzle_Foobler" mesh="model_Toys_R_Us_Treat_Dispenser_Smart_Puzzle_Foobler" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Toys_R_Us_Treat_Dispenser_Smart_Puzzle_Foobler" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Toys_R_Us_Treat_Dispenser_Smart_Puzzle_Foobler" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Toys_R_Us_Treat_Dispenser_Smart_Puzzle_Foobler" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Toys_R_Us_Treat_Dispenser_Smart_Puzzle_Foobler" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Toys_R_Us_Treat_Dispenser_Smart_Puzzle_Foobler" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Toys_R_Us_Treat_Dispenser_Smart_Puzzle_Foobler" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Toys_R_Us_Treat_Dispenser_Smart_Puzzle_Foobler" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Toys_R_Us_Treat_Dispenser_Smart_Puzzle_Foobler" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Toys_R_Us_Treat_Dispenser_Smart_Puzzle_Foobler" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Toys_R_Us_Treat_Dispenser_Smart_Puzzle_Foobler" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Toys_R_Us_Treat_Dispenser_Smart_Puzzle_Foobler" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Toys_R_Us_Treat_Dispenser_Smart_Puzzle_Foobler" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Toys_R_Us_Treat_Dispenser_Smart_Puzzle_Foobler" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Toys_R_Us_Treat_Dispenser_Smart_Puzzle_Foobler" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Toys_R_Us_Treat_Dispenser_Smart_Puzzle_Foobler" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Toys_R_Us_Treat_Dispenser_Smart_Puzzle_Foobler" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Toys_R_Us_Treat_Dispenser_Smart_Puzzle_Foobler" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Toys_R_Us_Treat_Dispenser_Smart_Puzzle_Foobler" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Toys_R_Us_Treat_Dispenser_Smart_Puzzle_Foobler" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Toys_R_Us_Treat_Dispenser_Smart_Puzzle_Foobler" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Toys_R_Us_Treat_Dispenser_Smart_Puzzle_Foobler" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Toys_R_Us_Treat_Dispenser_Smart_Puzzle_Foobler" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Toys_R_Us_Treat_Dispenser_Smart_Puzzle_Foobler" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Toys_R_Us_Treat_Dispenser_Smart_Puzzle_Foobler" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Toys_R_Us_Treat_Dispenser_Smart_Puzzle_Foobler" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Toys_R_Us_Treat_Dispenser_Smart_Puzzle_Foobler" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Toys_R_Us_Treat_Dispenser_Smart_Puzzle_Foobler" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Toys_R_Us_Treat_Dispenser_Smart_Puzzle_Foobler" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Toys_R_Us_Treat_Dispenser_Smart_Puzzle_Foobler" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Toys_R_Us_Treat_Dispenser_Smart_Puzzle_Foobler" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Toys_R_Us_Treat_Dispenser_Smart_Puzzle_Foobler" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Toys_R_Us_Treat_Dispenser_Smart_Puzzle_Foobler" type="mesh" group="3" />
+    </body>

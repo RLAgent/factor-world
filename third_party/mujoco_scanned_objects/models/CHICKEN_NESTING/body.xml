@@ -1,0 +1,36 @@
+<body childclass="CHICKEN_NESTING_base" name="CHICKEN_NESTING1">
+        <geom class="CHICKEN_NESTING_col" name="{geom_name}" type="mesh" mesh="model_CHICKEN_NESTING" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_CHICKEN_NESTING" mesh="model_CHICKEN_NESTING" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_CHICKEN_NESTING" type="mesh" group="3" />
+      <geom mesh="model_collision_1_CHICKEN_NESTING" type="mesh" group="3" />
+      <geom mesh="model_collision_2_CHICKEN_NESTING" type="mesh" group="3" />
+      <geom mesh="model_collision_3_CHICKEN_NESTING" type="mesh" group="3" />
+      <geom mesh="model_collision_4_CHICKEN_NESTING" type="mesh" group="3" />
+      <geom mesh="model_collision_5_CHICKEN_NESTING" type="mesh" group="3" />
+      <geom mesh="model_collision_6_CHICKEN_NESTING" type="mesh" group="3" />
+      <geom mesh="model_collision_7_CHICKEN_NESTING" type="mesh" group="3" />
+      <geom mesh="model_collision_8_CHICKEN_NESTING" type="mesh" group="3" />
+      <geom mesh="model_collision_9_CHICKEN_NESTING" type="mesh" group="3" />
+      <geom mesh="model_collision_10_CHICKEN_NESTING" type="mesh" group="3" />
+      <geom mesh="model_collision_11_CHICKEN_NESTING" type="mesh" group="3" />
+      <geom mesh="model_collision_12_CHICKEN_NESTING" type="mesh" group="3" />
+      <geom mesh="model_collision_13_CHICKEN_NESTING" type="mesh" group="3" />
+      <geom mesh="model_collision_14_CHICKEN_NESTING" type="mesh" group="3" />
+      <geom mesh="model_collision_15_CHICKEN_NESTING" type="mesh" group="3" />
+      <geom mesh="model_collision_16_CHICKEN_NESTING" type="mesh" group="3" />
+      <geom mesh="model_collision_17_CHICKEN_NESTING" type="mesh" group="3" />
+      <geom mesh="model_collision_18_CHICKEN_NESTING" type="mesh" group="3" />
+      <geom mesh="model_collision_19_CHICKEN_NESTING" type="mesh" group="3" />
+      <geom mesh="model_collision_20_CHICKEN_NESTING" type="mesh" group="3" />
+      <geom mesh="model_collision_21_CHICKEN_NESTING" type="mesh" group="3" />
+      <geom mesh="model_collision_22_CHICKEN_NESTING" type="mesh" group="3" />
+      <geom mesh="model_collision_23_CHICKEN_NESTING" type="mesh" group="3" />
+      <geom mesh="model_collision_24_CHICKEN_NESTING" type="mesh" group="3" />
+      <geom mesh="model_collision_25_CHICKEN_NESTING" type="mesh" group="3" />
+      <geom mesh="model_collision_26_CHICKEN_NESTING" type="mesh" group="3" />
+      <geom mesh="model_collision_27_CHICKEN_NESTING" type="mesh" group="3" />
+      <geom mesh="model_collision_28_CHICKEN_NESTING" type="mesh" group="3" />
+      <geom mesh="model_collision_29_CHICKEN_NESTING" type="mesh" group="3" />
+      <geom mesh="model_collision_30_CHICKEN_NESTING" type="mesh" group="3" />
+      <geom mesh="model_collision_31_CHICKEN_NESTING" type="mesh" group="3" />
+    </body>

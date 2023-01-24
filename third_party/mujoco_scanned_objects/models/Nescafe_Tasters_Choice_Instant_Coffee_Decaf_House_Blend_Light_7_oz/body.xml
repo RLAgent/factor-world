@@ -1,0 +1,36 @@
+<body childclass="Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz_base" name="Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz1">
+        <geom class="Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz_col" name="{geom_name}" type="mesh" mesh="model_Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz" mesh="model_Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="JarroSil_Activated_Silicon_base" name="JarroSil_Activated_Silicon1">
+        <geom class="JarroSil_Activated_Silicon_col" name="{geom_name}" type="mesh" mesh="model_JarroSil_Activated_Silicon" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_JarroSil_Activated_Silicon" mesh="model_JarroSil_Activated_Silicon" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_JarroSil_Activated_Silicon" type="mesh" group="3" />
+      <geom mesh="model_collision_1_JarroSil_Activated_Silicon" type="mesh" group="3" />
+      <geom mesh="model_collision_2_JarroSil_Activated_Silicon" type="mesh" group="3" />
+      <geom mesh="model_collision_3_JarroSil_Activated_Silicon" type="mesh" group="3" />
+      <geom mesh="model_collision_4_JarroSil_Activated_Silicon" type="mesh" group="3" />
+      <geom mesh="model_collision_5_JarroSil_Activated_Silicon" type="mesh" group="3" />
+      <geom mesh="model_collision_6_JarroSil_Activated_Silicon" type="mesh" group="3" />
+      <geom mesh="model_collision_7_JarroSil_Activated_Silicon" type="mesh" group="3" />
+      <geom mesh="model_collision_8_JarroSil_Activated_Silicon" type="mesh" group="3" />
+      <geom mesh="model_collision_9_JarroSil_Activated_Silicon" type="mesh" group="3" />
+      <geom mesh="model_collision_10_JarroSil_Activated_Silicon" type="mesh" group="3" />
+      <geom mesh="model_collision_11_JarroSil_Activated_Silicon" type="mesh" group="3" />
+      <geom mesh="model_collision_12_JarroSil_Activated_Silicon" type="mesh" group="3" />
+      <geom mesh="model_collision_13_JarroSil_Activated_Silicon" type="mesh" group="3" />
+      <geom mesh="model_collision_14_JarroSil_Activated_Silicon" type="mesh" group="3" />
+      <geom mesh="model_collision_15_JarroSil_Activated_Silicon" type="mesh" group="3" />
+      <geom mesh="model_collision_16_JarroSil_Activated_Silicon" type="mesh" group="3" />
+      <geom mesh="model_collision_17_JarroSil_Activated_Silicon" type="mesh" group="3" />
+      <geom mesh="model_collision_18_JarroSil_Activated_Silicon" type="mesh" group="3" />
+      <geom mesh="model_collision_19_JarroSil_Activated_Silicon" type="mesh" group="3" />
+      <geom mesh="model_collision_20_JarroSil_Activated_Silicon" type="mesh" group="3" />
+      <geom mesh="model_collision_21_JarroSil_Activated_Silicon" type="mesh" group="3" />
+      <geom mesh="model_collision_22_JarroSil_Activated_Silicon" type="mesh" group="3" />
+      <geom mesh="model_collision_23_JarroSil_Activated_Silicon" type="mesh" group="3" />
+      <geom mesh="model_collision_24_JarroSil_Activated_Silicon" type="mesh" group="3" />
+      <geom mesh="model_collision_25_JarroSil_Activated_Silicon" type="mesh" group="3" />
+      <geom mesh="model_collision_26_JarroSil_Activated_Silicon" type="mesh" group="3" />
+      <geom mesh="model_collision_27_JarroSil_Activated_Silicon" type="mesh" group="3" />
+      <geom mesh="model_collision_28_JarroSil_Activated_Silicon" type="mesh" group="3" />
+      <geom mesh="model_collision_29_JarroSil_Activated_Silicon" type="mesh" group="3" />
+      <geom mesh="model_collision_30_JarroSil_Activated_Silicon" type="mesh" group="3" />
+      <geom mesh="model_collision_31_JarroSil_Activated_Silicon" type="mesh" group="3" />
+    </body>

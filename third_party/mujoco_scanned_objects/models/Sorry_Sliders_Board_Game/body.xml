@@ -1,0 +1,36 @@
+<body childclass="Sorry_Sliders_Board_Game_base" name="Sorry_Sliders_Board_Game1">
+        <geom class="Sorry_Sliders_Board_Game_col" name="{geom_name}" type="mesh" mesh="model_Sorry_Sliders_Board_Game" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Sorry_Sliders_Board_Game" mesh="model_Sorry_Sliders_Board_Game" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Sorry_Sliders_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Sorry_Sliders_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Sorry_Sliders_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Sorry_Sliders_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Sorry_Sliders_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Sorry_Sliders_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Sorry_Sliders_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Sorry_Sliders_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Sorry_Sliders_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Sorry_Sliders_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Sorry_Sliders_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Sorry_Sliders_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Sorry_Sliders_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Sorry_Sliders_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Sorry_Sliders_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Sorry_Sliders_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Sorry_Sliders_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Sorry_Sliders_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Sorry_Sliders_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Sorry_Sliders_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Sorry_Sliders_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Sorry_Sliders_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Sorry_Sliders_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Sorry_Sliders_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Sorry_Sliders_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Sorry_Sliders_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Sorry_Sliders_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Sorry_Sliders_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Sorry_Sliders_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Sorry_Sliders_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Sorry_Sliders_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Sorry_Sliders_Board_Game" type="mesh" group="3" />
+    </body>

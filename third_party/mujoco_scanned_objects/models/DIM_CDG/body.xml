@@ -1,0 +1,36 @@
+<body childclass="DIM_CDG_base" name="DIM_CDG1">
+        <geom class="DIM_CDG_col" name="{geom_name}" type="mesh" mesh="model_DIM_CDG" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_DIM_CDG" mesh="model_DIM_CDG" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_DIM_CDG" type="mesh" group="3" />
+      <geom mesh="model_collision_1_DIM_CDG" type="mesh" group="3" />
+      <geom mesh="model_collision_2_DIM_CDG" type="mesh" group="3" />
+      <geom mesh="model_collision_3_DIM_CDG" type="mesh" group="3" />
+      <geom mesh="model_collision_4_DIM_CDG" type="mesh" group="3" />
+      <geom mesh="model_collision_5_DIM_CDG" type="mesh" group="3" />
+      <geom mesh="model_collision_6_DIM_CDG" type="mesh" group="3" />
+      <geom mesh="model_collision_7_DIM_CDG" type="mesh" group="3" />
+      <geom mesh="model_collision_8_DIM_CDG" type="mesh" group="3" />
+      <geom mesh="model_collision_9_DIM_CDG" type="mesh" group="3" />
+      <geom mesh="model_collision_10_DIM_CDG" type="mesh" group="3" />
+      <geom mesh="model_collision_11_DIM_CDG" type="mesh" group="3" />
+      <geom mesh="model_collision_12_DIM_CDG" type="mesh" group="3" />
+      <geom mesh="model_collision_13_DIM_CDG" type="mesh" group="3" />
+      <geom mesh="model_collision_14_DIM_CDG" type="mesh" group="3" />
+      <geom mesh="model_collision_15_DIM_CDG" type="mesh" group="3" />
+      <geom mesh="model_collision_16_DIM_CDG" type="mesh" group="3" />
+      <geom mesh="model_collision_17_DIM_CDG" type="mesh" group="3" />
+      <geom mesh="model_collision_18_DIM_CDG" type="mesh" group="3" />
+      <geom mesh="model_collision_19_DIM_CDG" type="mesh" group="3" />
+      <geom mesh="model_collision_20_DIM_CDG" type="mesh" group="3" />
+      <geom mesh="model_collision_21_DIM_CDG" type="mesh" group="3" />
+      <geom mesh="model_collision_22_DIM_CDG" type="mesh" group="3" />
+      <geom mesh="model_collision_23_DIM_CDG" type="mesh" group="3" />
+      <geom mesh="model_collision_24_DIM_CDG" type="mesh" group="3" />
+      <geom mesh="model_collision_25_DIM_CDG" type="mesh" group="3" />
+      <geom mesh="model_collision_26_DIM_CDG" type="mesh" group="3" />
+      <geom mesh="model_collision_27_DIM_CDG" type="mesh" group="3" />
+      <geom mesh="model_collision_28_DIM_CDG" type="mesh" group="3" />
+      <geom mesh="model_collision_29_DIM_CDG" type="mesh" group="3" />
+      <geom mesh="model_collision_30_DIM_CDG" type="mesh" group="3" />
+      <geom mesh="model_collision_31_DIM_CDG" type="mesh" group="3" />
+    </body>

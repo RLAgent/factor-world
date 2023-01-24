@@ -1,0 +1,36 @@
+<body childclass="TWISTED_PUZZLE_base" name="TWISTED_PUZZLE1">
+        <geom class="TWISTED_PUZZLE_col" name="{geom_name}" type="mesh" mesh="model_TWISTED_PUZZLE" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_TWISTED_PUZZLE" mesh="model_TWISTED_PUZZLE" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_TWISTED_PUZZLE" type="mesh" group="3" />
+      <geom mesh="model_collision_1_TWISTED_PUZZLE" type="mesh" group="3" />
+      <geom mesh="model_collision_2_TWISTED_PUZZLE" type="mesh" group="3" />
+      <geom mesh="model_collision_3_TWISTED_PUZZLE" type="mesh" group="3" />
+      <geom mesh="model_collision_4_TWISTED_PUZZLE" type="mesh" group="3" />
+      <geom mesh="model_collision_5_TWISTED_PUZZLE" type="mesh" group="3" />
+      <geom mesh="model_collision_6_TWISTED_PUZZLE" type="mesh" group="3" />
+      <geom mesh="model_collision_7_TWISTED_PUZZLE" type="mesh" group="3" />
+      <geom mesh="model_collision_8_TWISTED_PUZZLE" type="mesh" group="3" />
+      <geom mesh="model_collision_9_TWISTED_PUZZLE" type="mesh" group="3" />
+      <geom mesh="model_collision_10_TWISTED_PUZZLE" type="mesh" group="3" />
+      <geom mesh="model_collision_11_TWISTED_PUZZLE" type="mesh" group="3" />
+      <geom mesh="model_collision_12_TWISTED_PUZZLE" type="mesh" group="3" />
+      <geom mesh="model_collision_13_TWISTED_PUZZLE" type="mesh" group="3" />
+      <geom mesh="model_collision_14_TWISTED_PUZZLE" type="mesh" group="3" />
+      <geom mesh="model_collision_15_TWISTED_PUZZLE" type="mesh" group="3" />
+      <geom mesh="model_collision_16_TWISTED_PUZZLE" type="mesh" group="3" />
+      <geom mesh="model_collision_17_TWISTED_PUZZLE" type="mesh" group="3" />
+      <geom mesh="model_collision_18_TWISTED_PUZZLE" type="mesh" group="3" />
+      <geom mesh="model_collision_19_TWISTED_PUZZLE" type="mesh" group="3" />
+      <geom mesh="model_collision_20_TWISTED_PUZZLE" type="mesh" group="3" />
+      <geom mesh="model_collision_21_TWISTED_PUZZLE" type="mesh" group="3" />
+      <geom mesh="model_collision_22_TWISTED_PUZZLE" type="mesh" group="3" />
+      <geom mesh="model_collision_23_TWISTED_PUZZLE" type="mesh" group="3" />
+      <geom mesh="model_collision_24_TWISTED_PUZZLE" type="mesh" group="3" />
+      <geom mesh="model_collision_25_TWISTED_PUZZLE" type="mesh" group="3" />
+      <geom mesh="model_collision_26_TWISTED_PUZZLE" type="mesh" group="3" />
+      <geom mesh="model_collision_27_TWISTED_PUZZLE" type="mesh" group="3" />
+      <geom mesh="model_collision_28_TWISTED_PUZZLE" type="mesh" group="3" />
+      <geom mesh="model_collision_29_TWISTED_PUZZLE" type="mesh" group="3" />
+      <geom mesh="model_collision_30_TWISTED_PUZZLE" type="mesh" group="3" />
+      <geom mesh="model_collision_31_TWISTED_PUZZLE" type="mesh" group="3" />
+    </body>

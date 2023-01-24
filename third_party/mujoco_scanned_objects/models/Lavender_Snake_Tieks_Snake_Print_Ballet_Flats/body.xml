@@ -1,0 +1,36 @@
+<body childclass="Lavender_Snake_Tieks_Snake_Print_Ballet_Flats_base" name="Lavender_Snake_Tieks_Snake_Print_Ballet_Flats1">
+        <geom class="Lavender_Snake_Tieks_Snake_Print_Ballet_Flats_col" name="{geom_name}" type="mesh" mesh="model_Lavender_Snake_Tieks_Snake_Print_Ballet_Flats" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Lavender_Snake_Tieks_Snake_Print_Ballet_Flats" mesh="model_Lavender_Snake_Tieks_Snake_Print_Ballet_Flats" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Lavender_Snake_Tieks_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Lavender_Snake_Tieks_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Lavender_Snake_Tieks_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Lavender_Snake_Tieks_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Lavender_Snake_Tieks_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Lavender_Snake_Tieks_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Lavender_Snake_Tieks_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Lavender_Snake_Tieks_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Lavender_Snake_Tieks_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Lavender_Snake_Tieks_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Lavender_Snake_Tieks_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Lavender_Snake_Tieks_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Lavender_Snake_Tieks_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Lavender_Snake_Tieks_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Lavender_Snake_Tieks_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Lavender_Snake_Tieks_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Lavender_Snake_Tieks_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Lavender_Snake_Tieks_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Lavender_Snake_Tieks_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Lavender_Snake_Tieks_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Lavender_Snake_Tieks_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Lavender_Snake_Tieks_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Lavender_Snake_Tieks_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Lavender_Snake_Tieks_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Lavender_Snake_Tieks_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Lavender_Snake_Tieks_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Lavender_Snake_Tieks_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Lavender_Snake_Tieks_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Lavender_Snake_Tieks_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Lavender_Snake_Tieks_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Lavender_Snake_Tieks_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Lavender_Snake_Tieks_Snake_Print_Ballet_Flats" type="mesh" group="3" />
+    </body>

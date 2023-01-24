@@ -1,0 +1,36 @@
+<body childclass="Sleep_Optimizer_base" name="Sleep_Optimizer1">
+        <geom class="Sleep_Optimizer_col" name="{geom_name}" type="mesh" mesh="model_Sleep_Optimizer" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Sleep_Optimizer" mesh="model_Sleep_Optimizer" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Sleep_Optimizer" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Sleep_Optimizer" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Sleep_Optimizer" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Sleep_Optimizer" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Sleep_Optimizer" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Sleep_Optimizer" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Sleep_Optimizer" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Sleep_Optimizer" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Sleep_Optimizer" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Sleep_Optimizer" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Sleep_Optimizer" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Sleep_Optimizer" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Sleep_Optimizer" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Sleep_Optimizer" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Sleep_Optimizer" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Sleep_Optimizer" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Sleep_Optimizer" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Sleep_Optimizer" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Sleep_Optimizer" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Sleep_Optimizer" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Sleep_Optimizer" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Sleep_Optimizer" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Sleep_Optimizer" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Sleep_Optimizer" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Sleep_Optimizer" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Sleep_Optimizer" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Sleep_Optimizer" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Sleep_Optimizer" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Sleep_Optimizer" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Sleep_Optimizer" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Sleep_Optimizer" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Sleep_Optimizer" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="Curver_Storage_Bin_Black_Small_base" name="Curver_Storage_Bin_Black_Small1">
+        <geom class="Curver_Storage_Bin_Black_Small_col" name="{geom_name}" type="mesh" mesh="model_Curver_Storage_Bin_Black_Small" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Curver_Storage_Bin_Black_Small" mesh="model_Curver_Storage_Bin_Black_Small" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Curver_Storage_Bin_Black_Small" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Curver_Storage_Bin_Black_Small" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Curver_Storage_Bin_Black_Small" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Curver_Storage_Bin_Black_Small" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Curver_Storage_Bin_Black_Small" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Curver_Storage_Bin_Black_Small" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Curver_Storage_Bin_Black_Small" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Curver_Storage_Bin_Black_Small" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Curver_Storage_Bin_Black_Small" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Curver_Storage_Bin_Black_Small" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Curver_Storage_Bin_Black_Small" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Curver_Storage_Bin_Black_Small" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Curver_Storage_Bin_Black_Small" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Curver_Storage_Bin_Black_Small" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Curver_Storage_Bin_Black_Small" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Curver_Storage_Bin_Black_Small" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Curver_Storage_Bin_Black_Small" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Curver_Storage_Bin_Black_Small" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Curver_Storage_Bin_Black_Small" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Curver_Storage_Bin_Black_Small" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Curver_Storage_Bin_Black_Small" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Curver_Storage_Bin_Black_Small" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Curver_Storage_Bin_Black_Small" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Curver_Storage_Bin_Black_Small" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Curver_Storage_Bin_Black_Small" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Curver_Storage_Bin_Black_Small" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Curver_Storage_Bin_Black_Small" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Curver_Storage_Bin_Black_Small" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Curver_Storage_Bin_Black_Small" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Curver_Storage_Bin_Black_Small" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Curver_Storage_Bin_Black_Small" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Curver_Storage_Bin_Black_Small" type="mesh" group="3" />
+    </body>

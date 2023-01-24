@@ -1,0 +1,36 @@
+<body childclass="Little_Debbie_Donut_Sticks_6_cake_donuts_10_oz_total_base" name="Little_Debbie_Donut_Sticks_6_cake_donuts_10_oz_total1">
+        <geom class="Little_Debbie_Donut_Sticks_6_cake_donuts_10_oz_total_col" name="{geom_name}" type="mesh" mesh="model_Little_Debbie_Donut_Sticks_6_cake_donuts_10_oz_total" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Little_Debbie_Donut_Sticks_6_cake_donuts_10_oz_total" mesh="model_Little_Debbie_Donut_Sticks_6_cake_donuts_10_oz_total" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Little_Debbie_Donut_Sticks_6_cake_donuts_10_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Little_Debbie_Donut_Sticks_6_cake_donuts_10_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Little_Debbie_Donut_Sticks_6_cake_donuts_10_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Little_Debbie_Donut_Sticks_6_cake_donuts_10_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Little_Debbie_Donut_Sticks_6_cake_donuts_10_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Little_Debbie_Donut_Sticks_6_cake_donuts_10_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Little_Debbie_Donut_Sticks_6_cake_donuts_10_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Little_Debbie_Donut_Sticks_6_cake_donuts_10_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Little_Debbie_Donut_Sticks_6_cake_donuts_10_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Little_Debbie_Donut_Sticks_6_cake_donuts_10_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Little_Debbie_Donut_Sticks_6_cake_donuts_10_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Little_Debbie_Donut_Sticks_6_cake_donuts_10_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Little_Debbie_Donut_Sticks_6_cake_donuts_10_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Little_Debbie_Donut_Sticks_6_cake_donuts_10_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Little_Debbie_Donut_Sticks_6_cake_donuts_10_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Little_Debbie_Donut_Sticks_6_cake_donuts_10_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Little_Debbie_Donut_Sticks_6_cake_donuts_10_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Little_Debbie_Donut_Sticks_6_cake_donuts_10_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Little_Debbie_Donut_Sticks_6_cake_donuts_10_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Little_Debbie_Donut_Sticks_6_cake_donuts_10_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Little_Debbie_Donut_Sticks_6_cake_donuts_10_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Little_Debbie_Donut_Sticks_6_cake_donuts_10_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Little_Debbie_Donut_Sticks_6_cake_donuts_10_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Little_Debbie_Donut_Sticks_6_cake_donuts_10_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Little_Debbie_Donut_Sticks_6_cake_donuts_10_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Little_Debbie_Donut_Sticks_6_cake_donuts_10_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Little_Debbie_Donut_Sticks_6_cake_donuts_10_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Little_Debbie_Donut_Sticks_6_cake_donuts_10_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Little_Debbie_Donut_Sticks_6_cake_donuts_10_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Little_Debbie_Donut_Sticks_6_cake_donuts_10_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Little_Debbie_Donut_Sticks_6_cake_donuts_10_oz_total" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Little_Debbie_Donut_Sticks_6_cake_donuts_10_oz_total" type="mesh" group="3" />
+    </body>

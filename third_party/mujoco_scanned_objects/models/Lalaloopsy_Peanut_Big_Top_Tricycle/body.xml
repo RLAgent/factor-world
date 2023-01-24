@@ -1,0 +1,36 @@
+<body childclass="Lalaloopsy_Peanut_Big_Top_Tricycle_base" name="Lalaloopsy_Peanut_Big_Top_Tricycle1">
+        <geom class="Lalaloopsy_Peanut_Big_Top_Tricycle_col" name="{geom_name}" type="mesh" mesh="model_Lalaloopsy_Peanut_Big_Top_Tricycle" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Lalaloopsy_Peanut_Big_Top_Tricycle" mesh="model_Lalaloopsy_Peanut_Big_Top_Tricycle" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Lalaloopsy_Peanut_Big_Top_Tricycle" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Lalaloopsy_Peanut_Big_Top_Tricycle" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Lalaloopsy_Peanut_Big_Top_Tricycle" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Lalaloopsy_Peanut_Big_Top_Tricycle" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Lalaloopsy_Peanut_Big_Top_Tricycle" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Lalaloopsy_Peanut_Big_Top_Tricycle" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Lalaloopsy_Peanut_Big_Top_Tricycle" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Lalaloopsy_Peanut_Big_Top_Tricycle" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Lalaloopsy_Peanut_Big_Top_Tricycle" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Lalaloopsy_Peanut_Big_Top_Tricycle" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Lalaloopsy_Peanut_Big_Top_Tricycle" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Lalaloopsy_Peanut_Big_Top_Tricycle" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Lalaloopsy_Peanut_Big_Top_Tricycle" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Lalaloopsy_Peanut_Big_Top_Tricycle" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Lalaloopsy_Peanut_Big_Top_Tricycle" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Lalaloopsy_Peanut_Big_Top_Tricycle" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Lalaloopsy_Peanut_Big_Top_Tricycle" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Lalaloopsy_Peanut_Big_Top_Tricycle" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Lalaloopsy_Peanut_Big_Top_Tricycle" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Lalaloopsy_Peanut_Big_Top_Tricycle" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Lalaloopsy_Peanut_Big_Top_Tricycle" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Lalaloopsy_Peanut_Big_Top_Tricycle" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Lalaloopsy_Peanut_Big_Top_Tricycle" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Lalaloopsy_Peanut_Big_Top_Tricycle" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Lalaloopsy_Peanut_Big_Top_Tricycle" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Lalaloopsy_Peanut_Big_Top_Tricycle" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Lalaloopsy_Peanut_Big_Top_Tricycle" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Lalaloopsy_Peanut_Big_Top_Tricycle" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Lalaloopsy_Peanut_Big_Top_Tricycle" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Lalaloopsy_Peanut_Big_Top_Tricycle" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Lalaloopsy_Peanut_Big_Top_Tricycle" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Lalaloopsy_Peanut_Big_Top_Tricycle" type="mesh" group="3" />
+    </body>

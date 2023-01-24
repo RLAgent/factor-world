@@ -1,0 +1,36 @@
+<body childclass="Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct_base" name="Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct1">
+        <geom class="Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct_col" name="{geom_name}" type="mesh" mesh="model_Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct" mesh="model_Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct" type="mesh" group="3" />
+    </body>

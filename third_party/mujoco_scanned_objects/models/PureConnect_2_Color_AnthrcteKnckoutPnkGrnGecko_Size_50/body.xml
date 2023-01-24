@@ -1,0 +1,36 @@
+<body childclass="PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50_base" name="PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_501">
+        <geom class="PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50_col" name="{geom_name}" type="mesh" mesh="model_PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50" mesh="model_PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_1_PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_2_PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_3_PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_4_PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_5_PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_6_PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_7_PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_8_PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_9_PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_10_PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_11_PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_12_PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_13_PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_14_PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_15_PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_16_PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_17_PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_18_PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_19_PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_20_PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_21_PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_22_PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_23_PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_24_PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_25_PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_26_PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_27_PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_28_PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_29_PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_30_PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_31_PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50" type="mesh" group="3" />
+    </body>

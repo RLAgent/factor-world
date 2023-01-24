@@ -1,0 +1,36 @@
+<body childclass="Playmates_nickelodeon_teenage_mutant_ninja_turtles_shredder_base" name="Playmates_nickelodeon_teenage_mutant_ninja_turtles_shredder1">
+        <geom class="Playmates_nickelodeon_teenage_mutant_ninja_turtles_shredder_col" name="{geom_name}" type="mesh" mesh="model_Playmates_nickelodeon_teenage_mutant_ninja_turtles_shredder" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Playmates_nickelodeon_teenage_mutant_ninja_turtles_shredder" mesh="model_Playmates_nickelodeon_teenage_mutant_ninja_turtles_shredder" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Playmates_nickelodeon_teenage_mutant_ninja_turtles_shredder" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Playmates_nickelodeon_teenage_mutant_ninja_turtles_shredder" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Playmates_nickelodeon_teenage_mutant_ninja_turtles_shredder" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Playmates_nickelodeon_teenage_mutant_ninja_turtles_shredder" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Playmates_nickelodeon_teenage_mutant_ninja_turtles_shredder" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Playmates_nickelodeon_teenage_mutant_ninja_turtles_shredder" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Playmates_nickelodeon_teenage_mutant_ninja_turtles_shredder" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Playmates_nickelodeon_teenage_mutant_ninja_turtles_shredder" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Playmates_nickelodeon_teenage_mutant_ninja_turtles_shredder" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Playmates_nickelodeon_teenage_mutant_ninja_turtles_shredder" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Playmates_nickelodeon_teenage_mutant_ninja_turtles_shredder" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Playmates_nickelodeon_teenage_mutant_ninja_turtles_shredder" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Playmates_nickelodeon_teenage_mutant_ninja_turtles_shredder" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Playmates_nickelodeon_teenage_mutant_ninja_turtles_shredder" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Playmates_nickelodeon_teenage_mutant_ninja_turtles_shredder" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Playmates_nickelodeon_teenage_mutant_ninja_turtles_shredder" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Playmates_nickelodeon_teenage_mutant_ninja_turtles_shredder" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Playmates_nickelodeon_teenage_mutant_ninja_turtles_shredder" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Playmates_nickelodeon_teenage_mutant_ninja_turtles_shredder" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Playmates_nickelodeon_teenage_mutant_ninja_turtles_shredder" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Playmates_nickelodeon_teenage_mutant_ninja_turtles_shredder" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Playmates_nickelodeon_teenage_mutant_ninja_turtles_shredder" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Playmates_nickelodeon_teenage_mutant_ninja_turtles_shredder" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Playmates_nickelodeon_teenage_mutant_ninja_turtles_shredder" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Playmates_nickelodeon_teenage_mutant_ninja_turtles_shredder" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Playmates_nickelodeon_teenage_mutant_ninja_turtles_shredder" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Playmates_nickelodeon_teenage_mutant_ninja_turtles_shredder" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Playmates_nickelodeon_teenage_mutant_ninja_turtles_shredder" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Playmates_nickelodeon_teenage_mutant_ninja_turtles_shredder" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Playmates_nickelodeon_teenage_mutant_ninja_turtles_shredder" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Playmates_nickelodeon_teenage_mutant_ninja_turtles_shredder" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Playmates_nickelodeon_teenage_mutant_ninja_turtles_shredder" type="mesh" group="3" />
+    </body>

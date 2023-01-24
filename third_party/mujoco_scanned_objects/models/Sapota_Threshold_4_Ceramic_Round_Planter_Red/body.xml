@@ -1,0 +1,36 @@
+<body childclass="Sapota_Threshold_4_Ceramic_Round_Planter_Red_base" name="Sapota_Threshold_4_Ceramic_Round_Planter_Red1">
+        <geom class="Sapota_Threshold_4_Ceramic_Round_Planter_Red_col" name="{geom_name}" type="mesh" mesh="model_Sapota_Threshold_4_Ceramic_Round_Planter_Red" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Sapota_Threshold_4_Ceramic_Round_Planter_Red" mesh="model_Sapota_Threshold_4_Ceramic_Round_Planter_Red" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Sapota_Threshold_4_Ceramic_Round_Planter_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Sapota_Threshold_4_Ceramic_Round_Planter_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Sapota_Threshold_4_Ceramic_Round_Planter_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Sapota_Threshold_4_Ceramic_Round_Planter_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Sapota_Threshold_4_Ceramic_Round_Planter_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Sapota_Threshold_4_Ceramic_Round_Planter_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Sapota_Threshold_4_Ceramic_Round_Planter_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Sapota_Threshold_4_Ceramic_Round_Planter_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Sapota_Threshold_4_Ceramic_Round_Planter_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Sapota_Threshold_4_Ceramic_Round_Planter_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Sapota_Threshold_4_Ceramic_Round_Planter_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Sapota_Threshold_4_Ceramic_Round_Planter_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Sapota_Threshold_4_Ceramic_Round_Planter_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Sapota_Threshold_4_Ceramic_Round_Planter_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Sapota_Threshold_4_Ceramic_Round_Planter_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Sapota_Threshold_4_Ceramic_Round_Planter_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Sapota_Threshold_4_Ceramic_Round_Planter_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Sapota_Threshold_4_Ceramic_Round_Planter_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Sapota_Threshold_4_Ceramic_Round_Planter_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Sapota_Threshold_4_Ceramic_Round_Planter_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Sapota_Threshold_4_Ceramic_Round_Planter_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Sapota_Threshold_4_Ceramic_Round_Planter_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Sapota_Threshold_4_Ceramic_Round_Planter_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Sapota_Threshold_4_Ceramic_Round_Planter_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Sapota_Threshold_4_Ceramic_Round_Planter_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Sapota_Threshold_4_Ceramic_Round_Planter_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Sapota_Threshold_4_Ceramic_Round_Planter_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Sapota_Threshold_4_Ceramic_Round_Planter_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Sapota_Threshold_4_Ceramic_Round_Planter_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Sapota_Threshold_4_Ceramic_Round_Planter_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Sapota_Threshold_4_Ceramic_Round_Planter_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Sapota_Threshold_4_Ceramic_Round_Planter_Red" type="mesh" group="3" />
+    </body>

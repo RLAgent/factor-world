@@ -1,0 +1,36 @@
+<body childclass="SLACK_CRUISER_base" name="SLACK_CRUISER1">
+        <geom class="SLACK_CRUISER_col" name="{geom_name}" type="mesh" mesh="model_SLACK_CRUISER" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_SLACK_CRUISER" mesh="model_SLACK_CRUISER" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_SLACK_CRUISER" type="mesh" group="3" />
+      <geom mesh="model_collision_1_SLACK_CRUISER" type="mesh" group="3" />
+      <geom mesh="model_collision_2_SLACK_CRUISER" type="mesh" group="3" />
+      <geom mesh="model_collision_3_SLACK_CRUISER" type="mesh" group="3" />
+      <geom mesh="model_collision_4_SLACK_CRUISER" type="mesh" group="3" />
+      <geom mesh="model_collision_5_SLACK_CRUISER" type="mesh" group="3" />
+      <geom mesh="model_collision_6_SLACK_CRUISER" type="mesh" group="3" />
+      <geom mesh="model_collision_7_SLACK_CRUISER" type="mesh" group="3" />
+      <geom mesh="model_collision_8_SLACK_CRUISER" type="mesh" group="3" />
+      <geom mesh="model_collision_9_SLACK_CRUISER" type="mesh" group="3" />
+      <geom mesh="model_collision_10_SLACK_CRUISER" type="mesh" group="3" />
+      <geom mesh="model_collision_11_SLACK_CRUISER" type="mesh" group="3" />
+      <geom mesh="model_collision_12_SLACK_CRUISER" type="mesh" group="3" />
+      <geom mesh="model_collision_13_SLACK_CRUISER" type="mesh" group="3" />
+      <geom mesh="model_collision_14_SLACK_CRUISER" type="mesh" group="3" />
+      <geom mesh="model_collision_15_SLACK_CRUISER" type="mesh" group="3" />
+      <geom mesh="model_collision_16_SLACK_CRUISER" type="mesh" group="3" />
+      <geom mesh="model_collision_17_SLACK_CRUISER" type="mesh" group="3" />
+      <geom mesh="model_collision_18_SLACK_CRUISER" type="mesh" group="3" />
+      <geom mesh="model_collision_19_SLACK_CRUISER" type="mesh" group="3" />
+      <geom mesh="model_collision_20_SLACK_CRUISER" type="mesh" group="3" />
+      <geom mesh="model_collision_21_SLACK_CRUISER" type="mesh" group="3" />
+      <geom mesh="model_collision_22_SLACK_CRUISER" type="mesh" group="3" />
+      <geom mesh="model_collision_23_SLACK_CRUISER" type="mesh" group="3" />
+      <geom mesh="model_collision_24_SLACK_CRUISER" type="mesh" group="3" />
+      <geom mesh="model_collision_25_SLACK_CRUISER" type="mesh" group="3" />
+      <geom mesh="model_collision_26_SLACK_CRUISER" type="mesh" group="3" />
+      <geom mesh="model_collision_27_SLACK_CRUISER" type="mesh" group="3" />
+      <geom mesh="model_collision_28_SLACK_CRUISER" type="mesh" group="3" />
+      <geom mesh="model_collision_29_SLACK_CRUISER" type="mesh" group="3" />
+      <geom mesh="model_collision_30_SLACK_CRUISER" type="mesh" group="3" />
+      <geom mesh="model_collision_31_SLACK_CRUISER" type="mesh" group="3" />
+    </body>

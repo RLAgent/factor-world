@@ -1,0 +1,36 @@
+<body childclass="Magnifying_Glassassrt_base" name="Magnifying_Glassassrt1">
+        <geom class="Magnifying_Glassassrt_col" name="{geom_name}" type="mesh" mesh="model_Magnifying_Glassassrt" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Magnifying_Glassassrt" mesh="model_Magnifying_Glassassrt" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Magnifying_Glassassrt" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Magnifying_Glassassrt" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Magnifying_Glassassrt" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Magnifying_Glassassrt" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Magnifying_Glassassrt" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Magnifying_Glassassrt" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Magnifying_Glassassrt" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Magnifying_Glassassrt" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Magnifying_Glassassrt" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Magnifying_Glassassrt" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Magnifying_Glassassrt" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Magnifying_Glassassrt" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Magnifying_Glassassrt" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Magnifying_Glassassrt" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Magnifying_Glassassrt" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Magnifying_Glassassrt" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Magnifying_Glassassrt" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Magnifying_Glassassrt" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Magnifying_Glassassrt" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Magnifying_Glassassrt" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Magnifying_Glassassrt" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Magnifying_Glassassrt" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Magnifying_Glassassrt" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Magnifying_Glassassrt" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Magnifying_Glassassrt" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Magnifying_Glassassrt" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Magnifying_Glassassrt" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Magnifying_Glassassrt" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Magnifying_Glassassrt" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Magnifying_Glassassrt" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Magnifying_Glassassrt" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Magnifying_Glassassrt" type="mesh" group="3" />
+    </body>

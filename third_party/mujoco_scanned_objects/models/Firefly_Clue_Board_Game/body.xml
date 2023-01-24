@@ -1,0 +1,36 @@
+<body childclass="Firefly_Clue_Board_Game_base" name="Firefly_Clue_Board_Game1">
+        <geom class="Firefly_Clue_Board_Game_col" name="{geom_name}" type="mesh" mesh="model_Firefly_Clue_Board_Game" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Firefly_Clue_Board_Game" mesh="model_Firefly_Clue_Board_Game" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Firefly_Clue_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Firefly_Clue_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Firefly_Clue_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Firefly_Clue_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Firefly_Clue_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Firefly_Clue_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Firefly_Clue_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Firefly_Clue_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Firefly_Clue_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Firefly_Clue_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Firefly_Clue_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Firefly_Clue_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Firefly_Clue_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Firefly_Clue_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Firefly_Clue_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Firefly_Clue_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Firefly_Clue_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Firefly_Clue_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Firefly_Clue_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Firefly_Clue_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Firefly_Clue_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Firefly_Clue_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Firefly_Clue_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Firefly_Clue_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Firefly_Clue_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Firefly_Clue_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Firefly_Clue_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Firefly_Clue_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Firefly_Clue_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Firefly_Clue_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Firefly_Clue_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Firefly_Clue_Board_Game" type="mesh" group="3" />
+    </body>

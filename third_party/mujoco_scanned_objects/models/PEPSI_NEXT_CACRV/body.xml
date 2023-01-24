@@ -1,0 +1,36 @@
+<body childclass="PEPSI_NEXT_CACRV_base" name="PEPSI_NEXT_CACRV1">
+        <geom class="PEPSI_NEXT_CACRV_col" name="{geom_name}" type="mesh" mesh="model_PEPSI_NEXT_CACRV" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_PEPSI_NEXT_CACRV" mesh="model_PEPSI_NEXT_CACRV" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_PEPSI_NEXT_CACRV" type="mesh" group="3" />
+      <geom mesh="model_collision_1_PEPSI_NEXT_CACRV" type="mesh" group="3" />
+      <geom mesh="model_collision_2_PEPSI_NEXT_CACRV" type="mesh" group="3" />
+      <geom mesh="model_collision_3_PEPSI_NEXT_CACRV" type="mesh" group="3" />
+      <geom mesh="model_collision_4_PEPSI_NEXT_CACRV" type="mesh" group="3" />
+      <geom mesh="model_collision_5_PEPSI_NEXT_CACRV" type="mesh" group="3" />
+      <geom mesh="model_collision_6_PEPSI_NEXT_CACRV" type="mesh" group="3" />
+      <geom mesh="model_collision_7_PEPSI_NEXT_CACRV" type="mesh" group="3" />
+      <geom mesh="model_collision_8_PEPSI_NEXT_CACRV" type="mesh" group="3" />
+      <geom mesh="model_collision_9_PEPSI_NEXT_CACRV" type="mesh" group="3" />
+      <geom mesh="model_collision_10_PEPSI_NEXT_CACRV" type="mesh" group="3" />
+      <geom mesh="model_collision_11_PEPSI_NEXT_CACRV" type="mesh" group="3" />
+      <geom mesh="model_collision_12_PEPSI_NEXT_CACRV" type="mesh" group="3" />
+      <geom mesh="model_collision_13_PEPSI_NEXT_CACRV" type="mesh" group="3" />
+      <geom mesh="model_collision_14_PEPSI_NEXT_CACRV" type="mesh" group="3" />
+      <geom mesh="model_collision_15_PEPSI_NEXT_CACRV" type="mesh" group="3" />
+      <geom mesh="model_collision_16_PEPSI_NEXT_CACRV" type="mesh" group="3" />
+      <geom mesh="model_collision_17_PEPSI_NEXT_CACRV" type="mesh" group="3" />
+      <geom mesh="model_collision_18_PEPSI_NEXT_CACRV" type="mesh" group="3" />
+      <geom mesh="model_collision_19_PEPSI_NEXT_CACRV" type="mesh" group="3" />
+      <geom mesh="model_collision_20_PEPSI_NEXT_CACRV" type="mesh" group="3" />
+      <geom mesh="model_collision_21_PEPSI_NEXT_CACRV" type="mesh" group="3" />
+      <geom mesh="model_collision_22_PEPSI_NEXT_CACRV" type="mesh" group="3" />
+      <geom mesh="model_collision_23_PEPSI_NEXT_CACRV" type="mesh" group="3" />
+      <geom mesh="model_collision_24_PEPSI_NEXT_CACRV" type="mesh" group="3" />
+      <geom mesh="model_collision_25_PEPSI_NEXT_CACRV" type="mesh" group="3" />
+      <geom mesh="model_collision_26_PEPSI_NEXT_CACRV" type="mesh" group="3" />
+      <geom mesh="model_collision_27_PEPSI_NEXT_CACRV" type="mesh" group="3" />
+      <geom mesh="model_collision_28_PEPSI_NEXT_CACRV" type="mesh" group="3" />
+      <geom mesh="model_collision_29_PEPSI_NEXT_CACRV" type="mesh" group="3" />
+      <geom mesh="model_collision_30_PEPSI_NEXT_CACRV" type="mesh" group="3" />
+      <geom mesh="model_collision_31_PEPSI_NEXT_CACRV" type="mesh" group="3" />
+    </body>

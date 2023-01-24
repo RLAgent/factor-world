@@ -1,0 +1,36 @@
+<body childclass="NattoMax_base" name="NattoMax1">
+        <geom class="NattoMax_col" name="{geom_name}" type="mesh" mesh="model_NattoMax" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_NattoMax" mesh="model_NattoMax" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_NattoMax" type="mesh" group="3" />
+      <geom mesh="model_collision_1_NattoMax" type="mesh" group="3" />
+      <geom mesh="model_collision_2_NattoMax" type="mesh" group="3" />
+      <geom mesh="model_collision_3_NattoMax" type="mesh" group="3" />
+      <geom mesh="model_collision_4_NattoMax" type="mesh" group="3" />
+      <geom mesh="model_collision_5_NattoMax" type="mesh" group="3" />
+      <geom mesh="model_collision_6_NattoMax" type="mesh" group="3" />
+      <geom mesh="model_collision_7_NattoMax" type="mesh" group="3" />
+      <geom mesh="model_collision_8_NattoMax" type="mesh" group="3" />
+      <geom mesh="model_collision_9_NattoMax" type="mesh" group="3" />
+      <geom mesh="model_collision_10_NattoMax" type="mesh" group="3" />
+      <geom mesh="model_collision_11_NattoMax" type="mesh" group="3" />
+      <geom mesh="model_collision_12_NattoMax" type="mesh" group="3" />
+      <geom mesh="model_collision_13_NattoMax" type="mesh" group="3" />
+      <geom mesh="model_collision_14_NattoMax" type="mesh" group="3" />
+      <geom mesh="model_collision_15_NattoMax" type="mesh" group="3" />
+      <geom mesh="model_collision_16_NattoMax" type="mesh" group="3" />
+      <geom mesh="model_collision_17_NattoMax" type="mesh" group="3" />
+      <geom mesh="model_collision_18_NattoMax" type="mesh" group="3" />
+      <geom mesh="model_collision_19_NattoMax" type="mesh" group="3" />
+      <geom mesh="model_collision_20_NattoMax" type="mesh" group="3" />
+      <geom mesh="model_collision_21_NattoMax" type="mesh" group="3" />
+      <geom mesh="model_collision_22_NattoMax" type="mesh" group="3" />
+      <geom mesh="model_collision_23_NattoMax" type="mesh" group="3" />
+      <geom mesh="model_collision_24_NattoMax" type="mesh" group="3" />
+      <geom mesh="model_collision_25_NattoMax" type="mesh" group="3" />
+      <geom mesh="model_collision_26_NattoMax" type="mesh" group="3" />
+      <geom mesh="model_collision_27_NattoMax" type="mesh" group="3" />
+      <geom mesh="model_collision_28_NattoMax" type="mesh" group="3" />
+      <geom mesh="model_collision_29_NattoMax" type="mesh" group="3" />
+      <geom mesh="model_collision_30_NattoMax" type="mesh" group="3" />
+      <geom mesh="model_collision_31_NattoMax" type="mesh" group="3" />
+    </body>

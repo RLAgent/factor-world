@@ -1,0 +1,36 @@
+<body childclass="BIRD_RATTLE_base" name="BIRD_RATTLE1">
+        <geom class="BIRD_RATTLE_col" name="{geom_name}" type="mesh" mesh="model_BIRD_RATTLE" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_BIRD_RATTLE" mesh="model_BIRD_RATTLE" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_BIRD_RATTLE" type="mesh" group="3" />
+      <geom mesh="model_collision_1_BIRD_RATTLE" type="mesh" group="3" />
+      <geom mesh="model_collision_2_BIRD_RATTLE" type="mesh" group="3" />
+      <geom mesh="model_collision_3_BIRD_RATTLE" type="mesh" group="3" />
+      <geom mesh="model_collision_4_BIRD_RATTLE" type="mesh" group="3" />
+      <geom mesh="model_collision_5_BIRD_RATTLE" type="mesh" group="3" />
+      <geom mesh="model_collision_6_BIRD_RATTLE" type="mesh" group="3" />
+      <geom mesh="model_collision_7_BIRD_RATTLE" type="mesh" group="3" />
+      <geom mesh="model_collision_8_BIRD_RATTLE" type="mesh" group="3" />
+      <geom mesh="model_collision_9_BIRD_RATTLE" type="mesh" group="3" />
+      <geom mesh="model_collision_10_BIRD_RATTLE" type="mesh" group="3" />
+      <geom mesh="model_collision_11_BIRD_RATTLE" type="mesh" group="3" />
+      <geom mesh="model_collision_12_BIRD_RATTLE" type="mesh" group="3" />
+      <geom mesh="model_collision_13_BIRD_RATTLE" type="mesh" group="3" />
+      <geom mesh="model_collision_14_BIRD_RATTLE" type="mesh" group="3" />
+      <geom mesh="model_collision_15_BIRD_RATTLE" type="mesh" group="3" />
+      <geom mesh="model_collision_16_BIRD_RATTLE" type="mesh" group="3" />
+      <geom mesh="model_collision_17_BIRD_RATTLE" type="mesh" group="3" />
+      <geom mesh="model_collision_18_BIRD_RATTLE" type="mesh" group="3" />
+      <geom mesh="model_collision_19_BIRD_RATTLE" type="mesh" group="3" />
+      <geom mesh="model_collision_20_BIRD_RATTLE" type="mesh" group="3" />
+      <geom mesh="model_collision_21_BIRD_RATTLE" type="mesh" group="3" />
+      <geom mesh="model_collision_22_BIRD_RATTLE" type="mesh" group="3" />
+      <geom mesh="model_collision_23_BIRD_RATTLE" type="mesh" group="3" />
+      <geom mesh="model_collision_24_BIRD_RATTLE" type="mesh" group="3" />
+      <geom mesh="model_collision_25_BIRD_RATTLE" type="mesh" group="3" />
+      <geom mesh="model_collision_26_BIRD_RATTLE" type="mesh" group="3" />
+      <geom mesh="model_collision_27_BIRD_RATTLE" type="mesh" group="3" />
+      <geom mesh="model_collision_28_BIRD_RATTLE" type="mesh" group="3" />
+      <geom mesh="model_collision_29_BIRD_RATTLE" type="mesh" group="3" />
+      <geom mesh="model_collision_30_BIRD_RATTLE" type="mesh" group="3" />
+      <geom mesh="model_collision_31_BIRD_RATTLE" type="mesh" group="3" />
+    </body>

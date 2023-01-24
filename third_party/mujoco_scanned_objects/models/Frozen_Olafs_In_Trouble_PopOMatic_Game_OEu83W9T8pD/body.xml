@@ -1,0 +1,36 @@
+<body childclass="Frozen_Olafs_In_Trouble_PopOMatic_Game_OEu83W9T8pD_base" name="Frozen_Olafs_In_Trouble_PopOMatic_Game_OEu83W9T8pD1">
+        <geom class="Frozen_Olafs_In_Trouble_PopOMatic_Game_OEu83W9T8pD_col" name="{geom_name}" type="mesh" mesh="model_Frozen_Olafs_In_Trouble_PopOMatic_Game_OEu83W9T8pD" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Frozen_Olafs_In_Trouble_PopOMatic_Game_OEu83W9T8pD" mesh="model_Frozen_Olafs_In_Trouble_PopOMatic_Game_OEu83W9T8pD" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Frozen_Olafs_In_Trouble_PopOMatic_Game_OEu83W9T8pD" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Frozen_Olafs_In_Trouble_PopOMatic_Game_OEu83W9T8pD" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Frozen_Olafs_In_Trouble_PopOMatic_Game_OEu83W9T8pD" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Frozen_Olafs_In_Trouble_PopOMatic_Game_OEu83W9T8pD" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Frozen_Olafs_In_Trouble_PopOMatic_Game_OEu83W9T8pD" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Frozen_Olafs_In_Trouble_PopOMatic_Game_OEu83W9T8pD" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Frozen_Olafs_In_Trouble_PopOMatic_Game_OEu83W9T8pD" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Frozen_Olafs_In_Trouble_PopOMatic_Game_OEu83W9T8pD" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Frozen_Olafs_In_Trouble_PopOMatic_Game_OEu83W9T8pD" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Frozen_Olafs_In_Trouble_PopOMatic_Game_OEu83W9T8pD" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Frozen_Olafs_In_Trouble_PopOMatic_Game_OEu83W9T8pD" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Frozen_Olafs_In_Trouble_PopOMatic_Game_OEu83W9T8pD" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Frozen_Olafs_In_Trouble_PopOMatic_Game_OEu83W9T8pD" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Frozen_Olafs_In_Trouble_PopOMatic_Game_OEu83W9T8pD" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Frozen_Olafs_In_Trouble_PopOMatic_Game_OEu83W9T8pD" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Frozen_Olafs_In_Trouble_PopOMatic_Game_OEu83W9T8pD" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Frozen_Olafs_In_Trouble_PopOMatic_Game_OEu83W9T8pD" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Frozen_Olafs_In_Trouble_PopOMatic_Game_OEu83W9T8pD" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Frozen_Olafs_In_Trouble_PopOMatic_Game_OEu83W9T8pD" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Frozen_Olafs_In_Trouble_PopOMatic_Game_OEu83W9T8pD" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Frozen_Olafs_In_Trouble_PopOMatic_Game_OEu83W9T8pD" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Frozen_Olafs_In_Trouble_PopOMatic_Game_OEu83W9T8pD" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Frozen_Olafs_In_Trouble_PopOMatic_Game_OEu83W9T8pD" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Frozen_Olafs_In_Trouble_PopOMatic_Game_OEu83W9T8pD" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Frozen_Olafs_In_Trouble_PopOMatic_Game_OEu83W9T8pD" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Frozen_Olafs_In_Trouble_PopOMatic_Game_OEu83W9T8pD" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Frozen_Olafs_In_Trouble_PopOMatic_Game_OEu83W9T8pD" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Frozen_Olafs_In_Trouble_PopOMatic_Game_OEu83W9T8pD" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Frozen_Olafs_In_Trouble_PopOMatic_Game_OEu83W9T8pD" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Frozen_Olafs_In_Trouble_PopOMatic_Game_OEu83W9T8pD" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Frozen_Olafs_In_Trouble_PopOMatic_Game_OEu83W9T8pD" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Frozen_Olafs_In_Trouble_PopOMatic_Game_OEu83W9T8pD" type="mesh" group="3" />
+    </body>

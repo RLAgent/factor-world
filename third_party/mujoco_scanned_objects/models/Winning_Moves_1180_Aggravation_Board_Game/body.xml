@@ -1,0 +1,36 @@
+<body childclass="Winning_Moves_1180_Aggravation_Board_Game_base" name="Winning_Moves_1180_Aggravation_Board_Game1">
+        <geom class="Winning_Moves_1180_Aggravation_Board_Game_col" name="{geom_name}" type="mesh" mesh="model_Winning_Moves_1180_Aggravation_Board_Game" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Winning_Moves_1180_Aggravation_Board_Game" mesh="model_Winning_Moves_1180_Aggravation_Board_Game" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Winning_Moves_1180_Aggravation_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Winning_Moves_1180_Aggravation_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Winning_Moves_1180_Aggravation_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Winning_Moves_1180_Aggravation_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Winning_Moves_1180_Aggravation_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Winning_Moves_1180_Aggravation_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Winning_Moves_1180_Aggravation_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Winning_Moves_1180_Aggravation_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Winning_Moves_1180_Aggravation_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Winning_Moves_1180_Aggravation_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Winning_Moves_1180_Aggravation_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Winning_Moves_1180_Aggravation_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Winning_Moves_1180_Aggravation_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Winning_Moves_1180_Aggravation_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Winning_Moves_1180_Aggravation_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Winning_Moves_1180_Aggravation_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Winning_Moves_1180_Aggravation_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Winning_Moves_1180_Aggravation_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Winning_Moves_1180_Aggravation_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Winning_Moves_1180_Aggravation_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Winning_Moves_1180_Aggravation_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Winning_Moves_1180_Aggravation_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Winning_Moves_1180_Aggravation_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Winning_Moves_1180_Aggravation_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Winning_Moves_1180_Aggravation_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Winning_Moves_1180_Aggravation_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Winning_Moves_1180_Aggravation_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Winning_Moves_1180_Aggravation_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Winning_Moves_1180_Aggravation_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Winning_Moves_1180_Aggravation_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Winning_Moves_1180_Aggravation_Board_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Winning_Moves_1180_Aggravation_Board_Game" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="Ortho_Forward_Facing_CkAW6rL25xH_base" name="Ortho_Forward_Facing_CkAW6rL25xH1">
+        <geom class="Ortho_Forward_Facing_CkAW6rL25xH_col" name="{geom_name}" type="mesh" mesh="model_Ortho_Forward_Facing_CkAW6rL25xH" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Ortho_Forward_Facing_CkAW6rL25xH" mesh="model_Ortho_Forward_Facing_CkAW6rL25xH" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Ortho_Forward_Facing_CkAW6rL25xH" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Ortho_Forward_Facing_CkAW6rL25xH" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Ortho_Forward_Facing_CkAW6rL25xH" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Ortho_Forward_Facing_CkAW6rL25xH" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Ortho_Forward_Facing_CkAW6rL25xH" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Ortho_Forward_Facing_CkAW6rL25xH" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Ortho_Forward_Facing_CkAW6rL25xH" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Ortho_Forward_Facing_CkAW6rL25xH" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Ortho_Forward_Facing_CkAW6rL25xH" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Ortho_Forward_Facing_CkAW6rL25xH" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Ortho_Forward_Facing_CkAW6rL25xH" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Ortho_Forward_Facing_CkAW6rL25xH" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Ortho_Forward_Facing_CkAW6rL25xH" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Ortho_Forward_Facing_CkAW6rL25xH" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Ortho_Forward_Facing_CkAW6rL25xH" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Ortho_Forward_Facing_CkAW6rL25xH" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Ortho_Forward_Facing_CkAW6rL25xH" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Ortho_Forward_Facing_CkAW6rL25xH" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Ortho_Forward_Facing_CkAW6rL25xH" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Ortho_Forward_Facing_CkAW6rL25xH" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Ortho_Forward_Facing_CkAW6rL25xH" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Ortho_Forward_Facing_CkAW6rL25xH" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Ortho_Forward_Facing_CkAW6rL25xH" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Ortho_Forward_Facing_CkAW6rL25xH" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Ortho_Forward_Facing_CkAW6rL25xH" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Ortho_Forward_Facing_CkAW6rL25xH" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Ortho_Forward_Facing_CkAW6rL25xH" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Ortho_Forward_Facing_CkAW6rL25xH" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Ortho_Forward_Facing_CkAW6rL25xH" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Ortho_Forward_Facing_CkAW6rL25xH" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Ortho_Forward_Facing_CkAW6rL25xH" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Ortho_Forward_Facing_CkAW6rL25xH" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="ASSORTED_VEGETABLE_SET_base" name="ASSORTED_VEGETABLE_SET1">
+        <geom class="ASSORTED_VEGETABLE_SET_col" name="{geom_name}" type="mesh" mesh="model_ASSORTED_VEGETABLE_SET" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_ASSORTED_VEGETABLE_SET" mesh="model_ASSORTED_VEGETABLE_SET" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_ASSORTED_VEGETABLE_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_1_ASSORTED_VEGETABLE_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_2_ASSORTED_VEGETABLE_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_3_ASSORTED_VEGETABLE_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_4_ASSORTED_VEGETABLE_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_5_ASSORTED_VEGETABLE_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_6_ASSORTED_VEGETABLE_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_7_ASSORTED_VEGETABLE_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_8_ASSORTED_VEGETABLE_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_9_ASSORTED_VEGETABLE_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_10_ASSORTED_VEGETABLE_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_11_ASSORTED_VEGETABLE_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_12_ASSORTED_VEGETABLE_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_13_ASSORTED_VEGETABLE_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_14_ASSORTED_VEGETABLE_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_15_ASSORTED_VEGETABLE_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_16_ASSORTED_VEGETABLE_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_17_ASSORTED_VEGETABLE_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_18_ASSORTED_VEGETABLE_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_19_ASSORTED_VEGETABLE_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_20_ASSORTED_VEGETABLE_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_21_ASSORTED_VEGETABLE_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_22_ASSORTED_VEGETABLE_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_23_ASSORTED_VEGETABLE_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_24_ASSORTED_VEGETABLE_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_25_ASSORTED_VEGETABLE_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_26_ASSORTED_VEGETABLE_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_27_ASSORTED_VEGETABLE_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_28_ASSORTED_VEGETABLE_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_29_ASSORTED_VEGETABLE_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_30_ASSORTED_VEGETABLE_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_31_ASSORTED_VEGETABLE_SET" type="mesh" group="3" />
+    </body>

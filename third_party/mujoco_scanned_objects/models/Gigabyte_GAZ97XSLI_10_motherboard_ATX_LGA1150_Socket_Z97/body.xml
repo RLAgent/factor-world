@@ -1,0 +1,36 @@
+<body childclass="Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97_base" name="Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z971">
+        <geom class="Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97_col" name="{geom_name}" type="mesh" mesh="model_Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97" mesh="model_Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97" type="mesh" group="3" />
+    </body>

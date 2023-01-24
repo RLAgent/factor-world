@@ -1,0 +1,38 @@
+<asset>
+    <texture type="2d" name="texture_BlackBlack_Nintendo_3DSXL" file="../../../../../mujoco_scanned_objects/models/BlackBlack_Nintendo_3DSXL/texture.png" />
+    <material name="material_0_BlackBlack_Nintendo_3DSXL" texture="texture_BlackBlack_Nintendo_3DSXL" specular="0.29313133333333335" shininess="0.000200509" />
+    <mesh name="model_BlackBlack_Nintendo_3DSXL" file="../../../../../mujoco_scanned_objects/models/BlackBlack_Nintendo_3DSXL/model.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_0_BlackBlack_Nintendo_3DSXL" file="../../../../../mujoco_scanned_objects/models/BlackBlack_Nintendo_3DSXL/model_collision_0.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_1_BlackBlack_Nintendo_3DSXL" file="../../../../../mujoco_scanned_objects/models/BlackBlack_Nintendo_3DSXL/model_collision_1.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_2_BlackBlack_Nintendo_3DSXL" file="../../../../../mujoco_scanned_objects/models/BlackBlack_Nintendo_3DSXL/model_collision_2.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_3_BlackBlack_Nintendo_3DSXL" file="../../../../../mujoco_scanned_objects/models/BlackBlack_Nintendo_3DSXL/model_collision_3.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_4_BlackBlack_Nintendo_3DSXL" file="../../../../../mujoco_scanned_objects/models/BlackBlack_Nintendo_3DSXL/model_collision_4.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_5_BlackBlack_Nintendo_3DSXL" file="../../../../../mujoco_scanned_objects/models/BlackBlack_Nintendo_3DSXL/model_collision_5.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_6_BlackBlack_Nintendo_3DSXL" file="../../../../../mujoco_scanned_objects/models/BlackBlack_Nintendo_3DSXL/model_collision_6.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_7_BlackBlack_Nintendo_3DSXL" file="../../../../../mujoco_scanned_objects/models/BlackBlack_Nintendo_3DSXL/model_collision_7.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_8_BlackBlack_Nintendo_3DSXL" file="../../../../../mujoco_scanned_objects/models/BlackBlack_Nintendo_3DSXL/model_collision_8.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_9_BlackBlack_Nintendo_3DSXL" file="../../../../../mujoco_scanned_objects/models/BlackBlack_Nintendo_3DSXL/model_collision_9.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_10_BlackBlack_Nintendo_3DSXL" file="../../../../../mujoco_scanned_objects/models/BlackBlack_Nintendo_3DSXL/model_collision_10.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_11_BlackBlack_Nintendo_3DSXL" file="../../../../../mujoco_scanned_objects/models/BlackBlack_Nintendo_3DSXL/model_collision_11.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_12_BlackBlack_Nintendo_3DSXL" file="../../../../../mujoco_scanned_objects/models/BlackBlack_Nintendo_3DSXL/model_collision_12.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_13_BlackBlack_Nintendo_3DSXL" file="../../../../../mujoco_scanned_objects/models/BlackBlack_Nintendo_3DSXL/model_collision_13.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_14_BlackBlack_Nintendo_3DSXL" file="../../../../../mujoco_scanned_objects/models/BlackBlack_Nintendo_3DSXL/model_collision_14.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_15_BlackBlack_Nintendo_3DSXL" file="../../../../../mujoco_scanned_objects/models/BlackBlack_Nintendo_3DSXL/model_collision_15.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_16_BlackBlack_Nintendo_3DSXL" file="../../../../../mujoco_scanned_objects/models/BlackBlack_Nintendo_3DSXL/model_collision_16.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_17_BlackBlack_Nintendo_3DSXL" file="../../../../../mujoco_scanned_objects/models/BlackBlack_Nintendo_3DSXL/model_collision_17.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_18_BlackBlack_Nintendo_3DSXL" file="../../../../../mujoco_scanned_objects/models/BlackBlack_Nintendo_3DSXL/model_collision_18.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_19_BlackBlack_Nintendo_3DSXL" file="../../../../../mujoco_scanned_objects/models/BlackBlack_Nintendo_3DSXL/model_collision_19.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_20_BlackBlack_Nintendo_3DSXL" file="../../../../../mujoco_scanned_objects/models/BlackBlack_Nintendo_3DSXL/model_collision_20.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_21_BlackBlack_Nintendo_3DSXL" file="../../../../../mujoco_scanned_objects/models/BlackBlack_Nintendo_3DSXL/model_collision_21.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_22_BlackBlack_Nintendo_3DSXL" file="../../../../../mujoco_scanned_objects/models/BlackBlack_Nintendo_3DSXL/model_collision_22.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_23_BlackBlack_Nintendo_3DSXL" file="../../../../../mujoco_scanned_objects/models/BlackBlack_Nintendo_3DSXL/model_collision_23.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_24_BlackBlack_Nintendo_3DSXL" file="../../../../../mujoco_scanned_objects/models/BlackBlack_Nintendo_3DSXL/model_collision_24.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_25_BlackBlack_Nintendo_3DSXL" file="../../../../../mujoco_scanned_objects/models/BlackBlack_Nintendo_3DSXL/model_collision_25.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_26_BlackBlack_Nintendo_3DSXL" file="../../../../../mujoco_scanned_objects/models/BlackBlack_Nintendo_3DSXL/model_collision_26.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_27_BlackBlack_Nintendo_3DSXL" file="../../../../../mujoco_scanned_objects/models/BlackBlack_Nintendo_3DSXL/model_collision_27.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_28_BlackBlack_Nintendo_3DSXL" file="../../../../../mujoco_scanned_objects/models/BlackBlack_Nintendo_3DSXL/model_collision_28.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_29_BlackBlack_Nintendo_3DSXL" file="../../../../../mujoco_scanned_objects/models/BlackBlack_Nintendo_3DSXL/model_collision_29.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_30_BlackBlack_Nintendo_3DSXL" file="../../../../../mujoco_scanned_objects/models/BlackBlack_Nintendo_3DSXL/model_collision_30.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_31_BlackBlack_Nintendo_3DSXL" file="../../../../../mujoco_scanned_objects/models/BlackBlack_Nintendo_3DSXL/model_collision_31.stl" scale="{scale} {scale} {scale}" />
+  </asset>
+  

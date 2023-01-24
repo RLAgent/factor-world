@@ -1,0 +1,36 @@
+<body childclass="Remington_1_12_inch_Hair_Straightener_base" name="Remington_1_12_inch_Hair_Straightener1">
+        <geom class="Remington_1_12_inch_Hair_Straightener_col" name="{geom_name}" type="mesh" mesh="model_Remington_1_12_inch_Hair_Straightener" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Remington_1_12_inch_Hair_Straightener" mesh="model_Remington_1_12_inch_Hair_Straightener" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Remington_1_12_inch_Hair_Straightener" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Remington_1_12_inch_Hair_Straightener" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Remington_1_12_inch_Hair_Straightener" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Remington_1_12_inch_Hair_Straightener" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Remington_1_12_inch_Hair_Straightener" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Remington_1_12_inch_Hair_Straightener" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Remington_1_12_inch_Hair_Straightener" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Remington_1_12_inch_Hair_Straightener" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Remington_1_12_inch_Hair_Straightener" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Remington_1_12_inch_Hair_Straightener" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Remington_1_12_inch_Hair_Straightener" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Remington_1_12_inch_Hair_Straightener" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Remington_1_12_inch_Hair_Straightener" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Remington_1_12_inch_Hair_Straightener" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Remington_1_12_inch_Hair_Straightener" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Remington_1_12_inch_Hair_Straightener" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Remington_1_12_inch_Hair_Straightener" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Remington_1_12_inch_Hair_Straightener" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Remington_1_12_inch_Hair_Straightener" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Remington_1_12_inch_Hair_Straightener" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Remington_1_12_inch_Hair_Straightener" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Remington_1_12_inch_Hair_Straightener" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Remington_1_12_inch_Hair_Straightener" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Remington_1_12_inch_Hair_Straightener" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Remington_1_12_inch_Hair_Straightener" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Remington_1_12_inch_Hair_Straightener" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Remington_1_12_inch_Hair_Straightener" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Remington_1_12_inch_Hair_Straightener" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Remington_1_12_inch_Hair_Straightener" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Remington_1_12_inch_Hair_Straightener" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Remington_1_12_inch_Hair_Straightener" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Remington_1_12_inch_Hair_Straightener" type="mesh" group="3" />
+    </body>

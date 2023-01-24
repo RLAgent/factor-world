@@ -1,0 +1,36 @@
+<body childclass="MEAT_SET_base" name="MEAT_SET1">
+        <geom class="MEAT_SET_col" name="{geom_name}" type="mesh" mesh="model_MEAT_SET" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_MEAT_SET" mesh="model_MEAT_SET" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_MEAT_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_1_MEAT_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_2_MEAT_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_3_MEAT_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_4_MEAT_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_5_MEAT_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_6_MEAT_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_7_MEAT_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_8_MEAT_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_9_MEAT_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_10_MEAT_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_11_MEAT_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_12_MEAT_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_13_MEAT_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_14_MEAT_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_15_MEAT_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_16_MEAT_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_17_MEAT_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_18_MEAT_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_19_MEAT_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_20_MEAT_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_21_MEAT_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_22_MEAT_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_23_MEAT_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_24_MEAT_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_25_MEAT_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_26_MEAT_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_27_MEAT_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_28_MEAT_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_29_MEAT_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_30_MEAT_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_31_MEAT_SET" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure_base" name="Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure1">
+        <geom class="Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure_col" name="{geom_name}" type="mesh" mesh="model_Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure" mesh="model_Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure" type="mesh" group="3" />
+    </body>

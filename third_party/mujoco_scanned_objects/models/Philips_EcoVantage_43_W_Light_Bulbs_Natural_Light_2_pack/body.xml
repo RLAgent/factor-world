@@ -1,0 +1,36 @@
+<body childclass="Philips_EcoVantage_43_W_Light_Bulbs_Natural_Light_2_pack_base" name="Philips_EcoVantage_43_W_Light_Bulbs_Natural_Light_2_pack1">
+        <geom class="Philips_EcoVantage_43_W_Light_Bulbs_Natural_Light_2_pack_col" name="{geom_name}" type="mesh" mesh="model_Philips_EcoVantage_43_W_Light_Bulbs_Natural_Light_2_pack" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Philips_EcoVantage_43_W_Light_Bulbs_Natural_Light_2_pack" mesh="model_Philips_EcoVantage_43_W_Light_Bulbs_Natural_Light_2_pack" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Philips_EcoVantage_43_W_Light_Bulbs_Natural_Light_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Philips_EcoVantage_43_W_Light_Bulbs_Natural_Light_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Philips_EcoVantage_43_W_Light_Bulbs_Natural_Light_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Philips_EcoVantage_43_W_Light_Bulbs_Natural_Light_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Philips_EcoVantage_43_W_Light_Bulbs_Natural_Light_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Philips_EcoVantage_43_W_Light_Bulbs_Natural_Light_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Philips_EcoVantage_43_W_Light_Bulbs_Natural_Light_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Philips_EcoVantage_43_W_Light_Bulbs_Natural_Light_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Philips_EcoVantage_43_W_Light_Bulbs_Natural_Light_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Philips_EcoVantage_43_W_Light_Bulbs_Natural_Light_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Philips_EcoVantage_43_W_Light_Bulbs_Natural_Light_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Philips_EcoVantage_43_W_Light_Bulbs_Natural_Light_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Philips_EcoVantage_43_W_Light_Bulbs_Natural_Light_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Philips_EcoVantage_43_W_Light_Bulbs_Natural_Light_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Philips_EcoVantage_43_W_Light_Bulbs_Natural_Light_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Philips_EcoVantage_43_W_Light_Bulbs_Natural_Light_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Philips_EcoVantage_43_W_Light_Bulbs_Natural_Light_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Philips_EcoVantage_43_W_Light_Bulbs_Natural_Light_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Philips_EcoVantage_43_W_Light_Bulbs_Natural_Light_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Philips_EcoVantage_43_W_Light_Bulbs_Natural_Light_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Philips_EcoVantage_43_W_Light_Bulbs_Natural_Light_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Philips_EcoVantage_43_W_Light_Bulbs_Natural_Light_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Philips_EcoVantage_43_W_Light_Bulbs_Natural_Light_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Philips_EcoVantage_43_W_Light_Bulbs_Natural_Light_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Philips_EcoVantage_43_W_Light_Bulbs_Natural_Light_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Philips_EcoVantage_43_W_Light_Bulbs_Natural_Light_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Philips_EcoVantage_43_W_Light_Bulbs_Natural_Light_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Philips_EcoVantage_43_W_Light_Bulbs_Natural_Light_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Philips_EcoVantage_43_W_Light_Bulbs_Natural_Light_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Philips_EcoVantage_43_W_Light_Bulbs_Natural_Light_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Philips_EcoVantage_43_W_Light_Bulbs_Natural_Light_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Philips_EcoVantage_43_W_Light_Bulbs_Natural_Light_2_pack" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70_base" name="Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_701">
+        <geom class="Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70_col" name="{geom_name}" type="mesh" mesh="model_Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70" mesh="model_Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70" type="mesh" group="3" />
+    </body>

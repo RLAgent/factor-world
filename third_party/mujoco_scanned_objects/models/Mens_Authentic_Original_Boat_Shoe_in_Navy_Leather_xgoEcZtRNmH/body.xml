@@ -1,0 +1,36 @@
+<body childclass="Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH_base" name="Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH1">
+        <geom class="Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH_col" name="{geom_name}" type="mesh" mesh="model_Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH" mesh="model_Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH" type="mesh" group="3" />
+    </body>

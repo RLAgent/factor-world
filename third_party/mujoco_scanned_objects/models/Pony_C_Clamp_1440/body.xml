@@ -1,0 +1,36 @@
+<body childclass="Pony_C_Clamp_1440_base" name="Pony_C_Clamp_14401">
+        <geom class="Pony_C_Clamp_1440_col" name="{geom_name}" type="mesh" mesh="model_Pony_C_Clamp_1440" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Pony_C_Clamp_1440" mesh="model_Pony_C_Clamp_1440" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Pony_C_Clamp_1440" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Pony_C_Clamp_1440" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Pony_C_Clamp_1440" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Pony_C_Clamp_1440" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Pony_C_Clamp_1440" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Pony_C_Clamp_1440" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Pony_C_Clamp_1440" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Pony_C_Clamp_1440" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Pony_C_Clamp_1440" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Pony_C_Clamp_1440" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Pony_C_Clamp_1440" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Pony_C_Clamp_1440" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Pony_C_Clamp_1440" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Pony_C_Clamp_1440" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Pony_C_Clamp_1440" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Pony_C_Clamp_1440" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Pony_C_Clamp_1440" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Pony_C_Clamp_1440" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Pony_C_Clamp_1440" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Pony_C_Clamp_1440" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Pony_C_Clamp_1440" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Pony_C_Clamp_1440" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Pony_C_Clamp_1440" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Pony_C_Clamp_1440" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Pony_C_Clamp_1440" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Pony_C_Clamp_1440" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Pony_C_Clamp_1440" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Pony_C_Clamp_1440" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Pony_C_Clamp_1440" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Pony_C_Clamp_1440" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Pony_C_Clamp_1440" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Pony_C_Clamp_1440" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="Olive_Kids_Mermaids_Pack_n_Snack_Backpack_base" name="Olive_Kids_Mermaids_Pack_n_Snack_Backpack1">
+        <geom class="Olive_Kids_Mermaids_Pack_n_Snack_Backpack_col" name="{geom_name}" type="mesh" mesh="model_Olive_Kids_Mermaids_Pack_n_Snack_Backpack" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Olive_Kids_Mermaids_Pack_n_Snack_Backpack" mesh="model_Olive_Kids_Mermaids_Pack_n_Snack_Backpack" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Olive_Kids_Mermaids_Pack_n_Snack_Backpack" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Olive_Kids_Mermaids_Pack_n_Snack_Backpack" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Olive_Kids_Mermaids_Pack_n_Snack_Backpack" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Olive_Kids_Mermaids_Pack_n_Snack_Backpack" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Olive_Kids_Mermaids_Pack_n_Snack_Backpack" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Olive_Kids_Mermaids_Pack_n_Snack_Backpack" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Olive_Kids_Mermaids_Pack_n_Snack_Backpack" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Olive_Kids_Mermaids_Pack_n_Snack_Backpack" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Olive_Kids_Mermaids_Pack_n_Snack_Backpack" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Olive_Kids_Mermaids_Pack_n_Snack_Backpack" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Olive_Kids_Mermaids_Pack_n_Snack_Backpack" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Olive_Kids_Mermaids_Pack_n_Snack_Backpack" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Olive_Kids_Mermaids_Pack_n_Snack_Backpack" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Olive_Kids_Mermaids_Pack_n_Snack_Backpack" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Olive_Kids_Mermaids_Pack_n_Snack_Backpack" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Olive_Kids_Mermaids_Pack_n_Snack_Backpack" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Olive_Kids_Mermaids_Pack_n_Snack_Backpack" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Olive_Kids_Mermaids_Pack_n_Snack_Backpack" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Olive_Kids_Mermaids_Pack_n_Snack_Backpack" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Olive_Kids_Mermaids_Pack_n_Snack_Backpack" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Olive_Kids_Mermaids_Pack_n_Snack_Backpack" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Olive_Kids_Mermaids_Pack_n_Snack_Backpack" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Olive_Kids_Mermaids_Pack_n_Snack_Backpack" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Olive_Kids_Mermaids_Pack_n_Snack_Backpack" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Olive_Kids_Mermaids_Pack_n_Snack_Backpack" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Olive_Kids_Mermaids_Pack_n_Snack_Backpack" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Olive_Kids_Mermaids_Pack_n_Snack_Backpack" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Olive_Kids_Mermaids_Pack_n_Snack_Backpack" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Olive_Kids_Mermaids_Pack_n_Snack_Backpack" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Olive_Kids_Mermaids_Pack_n_Snack_Backpack" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Olive_Kids_Mermaids_Pack_n_Snack_Backpack" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Olive_Kids_Mermaids_Pack_n_Snack_Backpack" type="mesh" group="3" />
+    </body>

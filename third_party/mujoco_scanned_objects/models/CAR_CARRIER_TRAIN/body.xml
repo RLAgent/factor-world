@@ -1,0 +1,36 @@
+<body childclass="CAR_CARRIER_TRAIN_base" name="CAR_CARRIER_TRAIN1">
+        <geom class="CAR_CARRIER_TRAIN_col" name="{geom_name}" type="mesh" mesh="model_CAR_CARRIER_TRAIN" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_CAR_CARRIER_TRAIN" mesh="model_CAR_CARRIER_TRAIN" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_CAR_CARRIER_TRAIN" type="mesh" group="3" />
+      <geom mesh="model_collision_1_CAR_CARRIER_TRAIN" type="mesh" group="3" />
+      <geom mesh="model_collision_2_CAR_CARRIER_TRAIN" type="mesh" group="3" />
+      <geom mesh="model_collision_3_CAR_CARRIER_TRAIN" type="mesh" group="3" />
+      <geom mesh="model_collision_4_CAR_CARRIER_TRAIN" type="mesh" group="3" />
+      <geom mesh="model_collision_5_CAR_CARRIER_TRAIN" type="mesh" group="3" />
+      <geom mesh="model_collision_6_CAR_CARRIER_TRAIN" type="mesh" group="3" />
+      <geom mesh="model_collision_7_CAR_CARRIER_TRAIN" type="mesh" group="3" />
+      <geom mesh="model_collision_8_CAR_CARRIER_TRAIN" type="mesh" group="3" />
+      <geom mesh="model_collision_9_CAR_CARRIER_TRAIN" type="mesh" group="3" />
+      <geom mesh="model_collision_10_CAR_CARRIER_TRAIN" type="mesh" group="3" />
+      <geom mesh="model_collision_11_CAR_CARRIER_TRAIN" type="mesh" group="3" />
+      <geom mesh="model_collision_12_CAR_CARRIER_TRAIN" type="mesh" group="3" />
+      <geom mesh="model_collision_13_CAR_CARRIER_TRAIN" type="mesh" group="3" />
+      <geom mesh="model_collision_14_CAR_CARRIER_TRAIN" type="mesh" group="3" />
+      <geom mesh="model_collision_15_CAR_CARRIER_TRAIN" type="mesh" group="3" />
+      <geom mesh="model_collision_16_CAR_CARRIER_TRAIN" type="mesh" group="3" />
+      <geom mesh="model_collision_17_CAR_CARRIER_TRAIN" type="mesh" group="3" />
+      <geom mesh="model_collision_18_CAR_CARRIER_TRAIN" type="mesh" group="3" />
+      <geom mesh="model_collision_19_CAR_CARRIER_TRAIN" type="mesh" group="3" />
+      <geom mesh="model_collision_20_CAR_CARRIER_TRAIN" type="mesh" group="3" />
+      <geom mesh="model_collision_21_CAR_CARRIER_TRAIN" type="mesh" group="3" />
+      <geom mesh="model_collision_22_CAR_CARRIER_TRAIN" type="mesh" group="3" />
+      <geom mesh="model_collision_23_CAR_CARRIER_TRAIN" type="mesh" group="3" />
+      <geom mesh="model_collision_24_CAR_CARRIER_TRAIN" type="mesh" group="3" />
+      <geom mesh="model_collision_25_CAR_CARRIER_TRAIN" type="mesh" group="3" />
+      <geom mesh="model_collision_26_CAR_CARRIER_TRAIN" type="mesh" group="3" />
+      <geom mesh="model_collision_27_CAR_CARRIER_TRAIN" type="mesh" group="3" />
+      <geom mesh="model_collision_28_CAR_CARRIER_TRAIN" type="mesh" group="3" />
+      <geom mesh="model_collision_29_CAR_CARRIER_TRAIN" type="mesh" group="3" />
+      <geom mesh="model_collision_30_CAR_CARRIER_TRAIN" type="mesh" group="3" />
+      <geom mesh="model_collision_31_CAR_CARRIER_TRAIN" type="mesh" group="3" />
+    </body>

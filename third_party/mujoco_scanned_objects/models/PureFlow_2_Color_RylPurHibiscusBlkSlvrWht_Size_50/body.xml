@@ -1,0 +1,36 @@
+<body childclass="PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50_base" name="PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_501">
+        <geom class="PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50_col" name="{geom_name}" type="mesh" mesh="model_PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50" mesh="model_PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_1_PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_2_PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_3_PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_4_PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_5_PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_6_PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_7_PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_8_PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_9_PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_10_PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_11_PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_12_PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_13_PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_14_PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_15_PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_16_PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_17_PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_18_PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_19_PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_20_PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_21_PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_22_PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_23_PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_24_PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_25_PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_26_PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_27_PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_28_PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_29_PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_30_PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_31_PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50" type="mesh" group="3" />
+    </body>

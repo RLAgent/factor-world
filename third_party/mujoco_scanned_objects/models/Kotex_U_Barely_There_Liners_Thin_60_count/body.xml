@@ -1,0 +1,36 @@
+<body childclass="Kotex_U_Barely_There_Liners_Thin_60_count_base" name="Kotex_U_Barely_There_Liners_Thin_60_count1">
+        <geom class="Kotex_U_Barely_There_Liners_Thin_60_count_col" name="{geom_name}" type="mesh" mesh="model_Kotex_U_Barely_There_Liners_Thin_60_count" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Kotex_U_Barely_There_Liners_Thin_60_count" mesh="model_Kotex_U_Barely_There_Liners_Thin_60_count" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Kotex_U_Barely_There_Liners_Thin_60_count" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Kotex_U_Barely_There_Liners_Thin_60_count" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Kotex_U_Barely_There_Liners_Thin_60_count" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Kotex_U_Barely_There_Liners_Thin_60_count" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Kotex_U_Barely_There_Liners_Thin_60_count" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Kotex_U_Barely_There_Liners_Thin_60_count" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Kotex_U_Barely_There_Liners_Thin_60_count" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Kotex_U_Barely_There_Liners_Thin_60_count" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Kotex_U_Barely_There_Liners_Thin_60_count" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Kotex_U_Barely_There_Liners_Thin_60_count" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Kotex_U_Barely_There_Liners_Thin_60_count" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Kotex_U_Barely_There_Liners_Thin_60_count" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Kotex_U_Barely_There_Liners_Thin_60_count" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Kotex_U_Barely_There_Liners_Thin_60_count" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Kotex_U_Barely_There_Liners_Thin_60_count" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Kotex_U_Barely_There_Liners_Thin_60_count" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Kotex_U_Barely_There_Liners_Thin_60_count" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Kotex_U_Barely_There_Liners_Thin_60_count" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Kotex_U_Barely_There_Liners_Thin_60_count" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Kotex_U_Barely_There_Liners_Thin_60_count" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Kotex_U_Barely_There_Liners_Thin_60_count" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Kotex_U_Barely_There_Liners_Thin_60_count" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Kotex_U_Barely_There_Liners_Thin_60_count" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Kotex_U_Barely_There_Liners_Thin_60_count" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Kotex_U_Barely_There_Liners_Thin_60_count" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Kotex_U_Barely_There_Liners_Thin_60_count" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Kotex_U_Barely_There_Liners_Thin_60_count" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Kotex_U_Barely_There_Liners_Thin_60_count" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Kotex_U_Barely_There_Liners_Thin_60_count" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Kotex_U_Barely_There_Liners_Thin_60_count" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Kotex_U_Barely_There_Liners_Thin_60_count" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Kotex_U_Barely_There_Liners_Thin_60_count" type="mesh" group="3" />
+    </body>

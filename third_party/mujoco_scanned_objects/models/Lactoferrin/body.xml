@@ -1,0 +1,36 @@
+<body childclass="Lactoferrin_base" name="Lactoferrin1">
+        <geom class="Lactoferrin_col" name="{geom_name}" type="mesh" mesh="model_Lactoferrin" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Lactoferrin" mesh="model_Lactoferrin" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Lactoferrin" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Lactoferrin" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Lactoferrin" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Lactoferrin" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Lactoferrin" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Lactoferrin" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Lactoferrin" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Lactoferrin" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Lactoferrin" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Lactoferrin" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Lactoferrin" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Lactoferrin" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Lactoferrin" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Lactoferrin" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Lactoferrin" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Lactoferrin" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Lactoferrin" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Lactoferrin" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Lactoferrin" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Lactoferrin" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Lactoferrin" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Lactoferrin" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Lactoferrin" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Lactoferrin" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Lactoferrin" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Lactoferrin" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Lactoferrin" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Lactoferrin" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Lactoferrin" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Lactoferrin" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Lactoferrin" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Lactoferrin" type="mesh" group="3" />
+    </body>

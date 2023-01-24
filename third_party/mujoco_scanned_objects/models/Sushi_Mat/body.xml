@@ -1,0 +1,36 @@
+<body childclass="Sushi_Mat_base" name="Sushi_Mat1">
+        <geom class="Sushi_Mat_col" name="{geom_name}" type="mesh" mesh="model_Sushi_Mat" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Sushi_Mat" mesh="model_Sushi_Mat" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Sushi_Mat" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Sushi_Mat" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Sushi_Mat" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Sushi_Mat" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Sushi_Mat" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Sushi_Mat" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Sushi_Mat" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Sushi_Mat" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Sushi_Mat" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Sushi_Mat" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Sushi_Mat" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Sushi_Mat" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Sushi_Mat" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Sushi_Mat" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Sushi_Mat" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Sushi_Mat" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Sushi_Mat" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Sushi_Mat" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Sushi_Mat" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Sushi_Mat" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Sushi_Mat" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Sushi_Mat" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Sushi_Mat" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Sushi_Mat" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Sushi_Mat" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Sushi_Mat" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Sushi_Mat" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Sushi_Mat" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Sushi_Mat" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Sushi_Mat" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Sushi_Mat" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Sushi_Mat" type="mesh" group="3" />
+    </body>

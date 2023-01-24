@@ -1,0 +1,36 @@
+<body childclass="JarroDophilusFOS_Value_Size_base" name="JarroDophilusFOS_Value_Size1">
+        <geom class="JarroDophilusFOS_Value_Size_col" name="{geom_name}" type="mesh" mesh="model_JarroDophilusFOS_Value_Size" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_JarroDophilusFOS_Value_Size" mesh="model_JarroDophilusFOS_Value_Size" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_JarroDophilusFOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_1_JarroDophilusFOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_2_JarroDophilusFOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_3_JarroDophilusFOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_4_JarroDophilusFOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_5_JarroDophilusFOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_6_JarroDophilusFOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_7_JarroDophilusFOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_8_JarroDophilusFOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_9_JarroDophilusFOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_10_JarroDophilusFOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_11_JarroDophilusFOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_12_JarroDophilusFOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_13_JarroDophilusFOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_14_JarroDophilusFOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_15_JarroDophilusFOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_16_JarroDophilusFOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_17_JarroDophilusFOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_18_JarroDophilusFOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_19_JarroDophilusFOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_20_JarroDophilusFOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_21_JarroDophilusFOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_22_JarroDophilusFOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_23_JarroDophilusFOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_24_JarroDophilusFOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_25_JarroDophilusFOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_26_JarroDophilusFOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_27_JarroDophilusFOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_28_JarroDophilusFOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_29_JarroDophilusFOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_30_JarroDophilusFOS_Value_Size" type="mesh" group="3" />
+      <geom mesh="model_collision_31_JarroDophilusFOS_Value_Size" type="mesh" group="3" />
+    </body>

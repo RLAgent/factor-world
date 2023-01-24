@@ -1,0 +1,38 @@
+<asset>
+    <texture type="2d" name="texture_InterDesign_Over_Door" file="../../../../../mujoco_scanned_objects/models/InterDesign_Over_Door/texture.png" />
+    <material name="material_0_InterDesign_Over_Door" texture="texture_InterDesign_Over_Door" specular="0.5" shininess="0.5" />
+    <mesh name="model_InterDesign_Over_Door" file="../../../../../mujoco_scanned_objects/models/InterDesign_Over_Door/model.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_0_InterDesign_Over_Door" file="../../../../../mujoco_scanned_objects/models/InterDesign_Over_Door/model_collision_0.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_1_InterDesign_Over_Door" file="../../../../../mujoco_scanned_objects/models/InterDesign_Over_Door/model_collision_1.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_2_InterDesign_Over_Door" file="../../../../../mujoco_scanned_objects/models/InterDesign_Over_Door/model_collision_2.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_3_InterDesign_Over_Door" file="../../../../../mujoco_scanned_objects/models/InterDesign_Over_Door/model_collision_3.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_4_InterDesign_Over_Door" file="../../../../../mujoco_scanned_objects/models/InterDesign_Over_Door/model_collision_4.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_5_InterDesign_Over_Door" file="../../../../../mujoco_scanned_objects/models/InterDesign_Over_Door/model_collision_5.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_6_InterDesign_Over_Door" file="../../../../../mujoco_scanned_objects/models/InterDesign_Over_Door/model_collision_6.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_7_InterDesign_Over_Door" file="../../../../../mujoco_scanned_objects/models/InterDesign_Over_Door/model_collision_7.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_8_InterDesign_Over_Door" file="../../../../../mujoco_scanned_objects/models/InterDesign_Over_Door/model_collision_8.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_9_InterDesign_Over_Door" file="../../../../../mujoco_scanned_objects/models/InterDesign_Over_Door/model_collision_9.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_10_InterDesign_Over_Door" file="../../../../../mujoco_scanned_objects/models/InterDesign_Over_Door/model_collision_10.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_11_InterDesign_Over_Door" file="../../../../../mujoco_scanned_objects/models/InterDesign_Over_Door/model_collision_11.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_12_InterDesign_Over_Door" file="../../../../../mujoco_scanned_objects/models/InterDesign_Over_Door/model_collision_12.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_13_InterDesign_Over_Door" file="../../../../../mujoco_scanned_objects/models/InterDesign_Over_Door/model_collision_13.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_14_InterDesign_Over_Door" file="../../../../../mujoco_scanned_objects/models/InterDesign_Over_Door/model_collision_14.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_15_InterDesign_Over_Door" file="../../../../../mujoco_scanned_objects/models/InterDesign_Over_Door/model_collision_15.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_16_InterDesign_Over_Door" file="../../../../../mujoco_scanned_objects/models/InterDesign_Over_Door/model_collision_16.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_17_InterDesign_Over_Door" file="../../../../../mujoco_scanned_objects/models/InterDesign_Over_Door/model_collision_17.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_18_InterDesign_Over_Door" file="../../../../../mujoco_scanned_objects/models/InterDesign_Over_Door/model_collision_18.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_19_InterDesign_Over_Door" file="../../../../../mujoco_scanned_objects/models/InterDesign_Over_Door/model_collision_19.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_20_InterDesign_Over_Door" file="../../../../../mujoco_scanned_objects/models/InterDesign_Over_Door/model_collision_20.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_21_InterDesign_Over_Door" file="../../../../../mujoco_scanned_objects/models/InterDesign_Over_Door/model_collision_21.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_22_InterDesign_Over_Door" file="../../../../../mujoco_scanned_objects/models/InterDesign_Over_Door/model_collision_22.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_23_InterDesign_Over_Door" file="../../../../../mujoco_scanned_objects/models/InterDesign_Over_Door/model_collision_23.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_24_InterDesign_Over_Door" file="../../../../../mujoco_scanned_objects/models/InterDesign_Over_Door/model_collision_24.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_25_InterDesign_Over_Door" file="../../../../../mujoco_scanned_objects/models/InterDesign_Over_Door/model_collision_25.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_26_InterDesign_Over_Door" file="../../../../../mujoco_scanned_objects/models/InterDesign_Over_Door/model_collision_26.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_27_InterDesign_Over_Door" file="../../../../../mujoco_scanned_objects/models/InterDesign_Over_Door/model_collision_27.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_28_InterDesign_Over_Door" file="../../../../../mujoco_scanned_objects/models/InterDesign_Over_Door/model_collision_28.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_29_InterDesign_Over_Door" file="../../../../../mujoco_scanned_objects/models/InterDesign_Over_Door/model_collision_29.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_30_InterDesign_Over_Door" file="../../../../../mujoco_scanned_objects/models/InterDesign_Over_Door/model_collision_30.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_31_InterDesign_Over_Door" file="../../../../../mujoco_scanned_objects/models/InterDesign_Over_Door/model_collision_31.stl" scale="{scale} {scale} {scale}" />
+  </asset>
+  

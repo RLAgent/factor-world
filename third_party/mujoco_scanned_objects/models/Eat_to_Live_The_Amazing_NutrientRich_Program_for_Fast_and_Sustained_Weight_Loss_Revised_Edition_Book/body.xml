@@ -1,0 +1,36 @@
+<body childclass="Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book_base" name="Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book1">
+        <geom class="Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book_col" name="{geom_name}" type="mesh" mesh="model_Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book" mesh="model_Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Eat_to_Live_The_Amazing_NutrientRich_Program_for_Fast_and_Sustained_Weight_Loss_Revised_Edition_Book" type="mesh" group="3" />
+    </body>

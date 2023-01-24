@@ -1,0 +1,36 @@
+<body childclass="Sea_to_Summit_Xl_Bowl_base" name="Sea_to_Summit_Xl_Bowl1">
+        <geom class="Sea_to_Summit_Xl_Bowl_col" name="{geom_name}" type="mesh" mesh="model_Sea_to_Summit_Xl_Bowl" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Sea_to_Summit_Xl_Bowl" mesh="model_Sea_to_Summit_Xl_Bowl" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Sea_to_Summit_Xl_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Sea_to_Summit_Xl_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Sea_to_Summit_Xl_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Sea_to_Summit_Xl_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Sea_to_Summit_Xl_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Sea_to_Summit_Xl_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Sea_to_Summit_Xl_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Sea_to_Summit_Xl_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Sea_to_Summit_Xl_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Sea_to_Summit_Xl_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Sea_to_Summit_Xl_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Sea_to_Summit_Xl_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Sea_to_Summit_Xl_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Sea_to_Summit_Xl_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Sea_to_Summit_Xl_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Sea_to_Summit_Xl_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Sea_to_Summit_Xl_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Sea_to_Summit_Xl_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Sea_to_Summit_Xl_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Sea_to_Summit_Xl_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Sea_to_Summit_Xl_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Sea_to_Summit_Xl_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Sea_to_Summit_Xl_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Sea_to_Summit_Xl_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Sea_to_Summit_Xl_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Sea_to_Summit_Xl_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Sea_to_Summit_Xl_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Sea_to_Summit_Xl_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Sea_to_Summit_Xl_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Sea_to_Summit_Xl_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Sea_to_Summit_Xl_Bowl" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Sea_to_Summit_Xl_Bowl" type="mesh" group="3" />
+    </body>

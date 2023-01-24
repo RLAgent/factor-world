@@ -1,0 +1,36 @@
+<body childclass="Rayna_BootieWP_base" name="Rayna_BootieWP1">
+        <geom class="Rayna_BootieWP_col" name="{geom_name}" type="mesh" mesh="model_Rayna_BootieWP" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Rayna_BootieWP" mesh="model_Rayna_BootieWP" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Rayna_BootieWP" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Rayna_BootieWP" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Rayna_BootieWP" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Rayna_BootieWP" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Rayna_BootieWP" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Rayna_BootieWP" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Rayna_BootieWP" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Rayna_BootieWP" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Rayna_BootieWP" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Rayna_BootieWP" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Rayna_BootieWP" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Rayna_BootieWP" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Rayna_BootieWP" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Rayna_BootieWP" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Rayna_BootieWP" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Rayna_BootieWP" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Rayna_BootieWP" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Rayna_BootieWP" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Rayna_BootieWP" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Rayna_BootieWP" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Rayna_BootieWP" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Rayna_BootieWP" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Rayna_BootieWP" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Rayna_BootieWP" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Rayna_BootieWP" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Rayna_BootieWP" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Rayna_BootieWP" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Rayna_BootieWP" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Rayna_BootieWP" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Rayna_BootieWP" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Rayna_BootieWP" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Rayna_BootieWP" type="mesh" group="3" />
+    </body>

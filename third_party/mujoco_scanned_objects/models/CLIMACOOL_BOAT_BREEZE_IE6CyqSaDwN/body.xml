@@ -1,0 +1,36 @@
+<body childclass="CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN_base" name="CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN1">
+        <geom class="CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN_col" name="{geom_name}" type="mesh" mesh="model_CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN" mesh="model_CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN" type="mesh" group="3" />
+      <geom mesh="model_collision_1_CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN" type="mesh" group="3" />
+      <geom mesh="model_collision_2_CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN" type="mesh" group="3" />
+      <geom mesh="model_collision_3_CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN" type="mesh" group="3" />
+      <geom mesh="model_collision_4_CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN" type="mesh" group="3" />
+      <geom mesh="model_collision_5_CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN" type="mesh" group="3" />
+      <geom mesh="model_collision_6_CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN" type="mesh" group="3" />
+      <geom mesh="model_collision_7_CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN" type="mesh" group="3" />
+      <geom mesh="model_collision_8_CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN" type="mesh" group="3" />
+      <geom mesh="model_collision_9_CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN" type="mesh" group="3" />
+      <geom mesh="model_collision_10_CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN" type="mesh" group="3" />
+      <geom mesh="model_collision_11_CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN" type="mesh" group="3" />
+      <geom mesh="model_collision_12_CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN" type="mesh" group="3" />
+      <geom mesh="model_collision_13_CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN" type="mesh" group="3" />
+      <geom mesh="model_collision_14_CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN" type="mesh" group="3" />
+      <geom mesh="model_collision_15_CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN" type="mesh" group="3" />
+      <geom mesh="model_collision_16_CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN" type="mesh" group="3" />
+      <geom mesh="model_collision_17_CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN" type="mesh" group="3" />
+      <geom mesh="model_collision_18_CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN" type="mesh" group="3" />
+      <geom mesh="model_collision_19_CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN" type="mesh" group="3" />
+      <geom mesh="model_collision_20_CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN" type="mesh" group="3" />
+      <geom mesh="model_collision_21_CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN" type="mesh" group="3" />
+      <geom mesh="model_collision_22_CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN" type="mesh" group="3" />
+      <geom mesh="model_collision_23_CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN" type="mesh" group="3" />
+      <geom mesh="model_collision_24_CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN" type="mesh" group="3" />
+      <geom mesh="model_collision_25_CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN" type="mesh" group="3" />
+      <geom mesh="model_collision_26_CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN" type="mesh" group="3" />
+      <geom mesh="model_collision_27_CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN" type="mesh" group="3" />
+      <geom mesh="model_collision_28_CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN" type="mesh" group="3" />
+      <geom mesh="model_collision_29_CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN" type="mesh" group="3" />
+      <geom mesh="model_collision_30_CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN" type="mesh" group="3" />
+      <geom mesh="model_collision_31_CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN" type="mesh" group="3" />
+    </body>

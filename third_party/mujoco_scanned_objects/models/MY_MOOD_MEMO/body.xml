@@ -1,0 +1,36 @@
+<body childclass="MY_MOOD_MEMO_base" name="MY_MOOD_MEMO1">
+        <geom class="MY_MOOD_MEMO_col" name="{geom_name}" type="mesh" mesh="model_MY_MOOD_MEMO" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_MY_MOOD_MEMO" mesh="model_MY_MOOD_MEMO" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_MY_MOOD_MEMO" type="mesh" group="3" />
+      <geom mesh="model_collision_1_MY_MOOD_MEMO" type="mesh" group="3" />
+      <geom mesh="model_collision_2_MY_MOOD_MEMO" type="mesh" group="3" />
+      <geom mesh="model_collision_3_MY_MOOD_MEMO" type="mesh" group="3" />
+      <geom mesh="model_collision_4_MY_MOOD_MEMO" type="mesh" group="3" />
+      <geom mesh="model_collision_5_MY_MOOD_MEMO" type="mesh" group="3" />
+      <geom mesh="model_collision_6_MY_MOOD_MEMO" type="mesh" group="3" />
+      <geom mesh="model_collision_7_MY_MOOD_MEMO" type="mesh" group="3" />
+      <geom mesh="model_collision_8_MY_MOOD_MEMO" type="mesh" group="3" />
+      <geom mesh="model_collision_9_MY_MOOD_MEMO" type="mesh" group="3" />
+      <geom mesh="model_collision_10_MY_MOOD_MEMO" type="mesh" group="3" />
+      <geom mesh="model_collision_11_MY_MOOD_MEMO" type="mesh" group="3" />
+      <geom mesh="model_collision_12_MY_MOOD_MEMO" type="mesh" group="3" />
+      <geom mesh="model_collision_13_MY_MOOD_MEMO" type="mesh" group="3" />
+      <geom mesh="model_collision_14_MY_MOOD_MEMO" type="mesh" group="3" />
+      <geom mesh="model_collision_15_MY_MOOD_MEMO" type="mesh" group="3" />
+      <geom mesh="model_collision_16_MY_MOOD_MEMO" type="mesh" group="3" />
+      <geom mesh="model_collision_17_MY_MOOD_MEMO" type="mesh" group="3" />
+      <geom mesh="model_collision_18_MY_MOOD_MEMO" type="mesh" group="3" />
+      <geom mesh="model_collision_19_MY_MOOD_MEMO" type="mesh" group="3" />
+      <geom mesh="model_collision_20_MY_MOOD_MEMO" type="mesh" group="3" />
+      <geom mesh="model_collision_21_MY_MOOD_MEMO" type="mesh" group="3" />
+      <geom mesh="model_collision_22_MY_MOOD_MEMO" type="mesh" group="3" />
+      <geom mesh="model_collision_23_MY_MOOD_MEMO" type="mesh" group="3" />
+      <geom mesh="model_collision_24_MY_MOOD_MEMO" type="mesh" group="3" />
+      <geom mesh="model_collision_25_MY_MOOD_MEMO" type="mesh" group="3" />
+      <geom mesh="model_collision_26_MY_MOOD_MEMO" type="mesh" group="3" />
+      <geom mesh="model_collision_27_MY_MOOD_MEMO" type="mesh" group="3" />
+      <geom mesh="model_collision_28_MY_MOOD_MEMO" type="mesh" group="3" />
+      <geom mesh="model_collision_29_MY_MOOD_MEMO" type="mesh" group="3" />
+      <geom mesh="model_collision_30_MY_MOOD_MEMO" type="mesh" group="3" />
+      <geom mesh="model_collision_31_MY_MOOD_MEMO" type="mesh" group="3" />
+    </body>

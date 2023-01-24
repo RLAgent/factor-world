@@ -1,0 +1,36 @@
+<body childclass="Deskstar_Desk_Top_Hard_Drive_1_TB_base" name="Deskstar_Desk_Top_Hard_Drive_1_TB1">
+        <geom class="Deskstar_Desk_Top_Hard_Drive_1_TB_col" name="{geom_name}" type="mesh" mesh="model_Deskstar_Desk_Top_Hard_Drive_1_TB" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Deskstar_Desk_Top_Hard_Drive_1_TB" mesh="model_Deskstar_Desk_Top_Hard_Drive_1_TB" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Deskstar_Desk_Top_Hard_Drive_1_TB" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Deskstar_Desk_Top_Hard_Drive_1_TB" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Deskstar_Desk_Top_Hard_Drive_1_TB" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Deskstar_Desk_Top_Hard_Drive_1_TB" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Deskstar_Desk_Top_Hard_Drive_1_TB" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Deskstar_Desk_Top_Hard_Drive_1_TB" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Deskstar_Desk_Top_Hard_Drive_1_TB" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Deskstar_Desk_Top_Hard_Drive_1_TB" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Deskstar_Desk_Top_Hard_Drive_1_TB" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Deskstar_Desk_Top_Hard_Drive_1_TB" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Deskstar_Desk_Top_Hard_Drive_1_TB" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Deskstar_Desk_Top_Hard_Drive_1_TB" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Deskstar_Desk_Top_Hard_Drive_1_TB" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Deskstar_Desk_Top_Hard_Drive_1_TB" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Deskstar_Desk_Top_Hard_Drive_1_TB" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Deskstar_Desk_Top_Hard_Drive_1_TB" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Deskstar_Desk_Top_Hard_Drive_1_TB" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Deskstar_Desk_Top_Hard_Drive_1_TB" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Deskstar_Desk_Top_Hard_Drive_1_TB" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Deskstar_Desk_Top_Hard_Drive_1_TB" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Deskstar_Desk_Top_Hard_Drive_1_TB" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Deskstar_Desk_Top_Hard_Drive_1_TB" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Deskstar_Desk_Top_Hard_Drive_1_TB" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Deskstar_Desk_Top_Hard_Drive_1_TB" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Deskstar_Desk_Top_Hard_Drive_1_TB" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Deskstar_Desk_Top_Hard_Drive_1_TB" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Deskstar_Desk_Top_Hard_Drive_1_TB" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Deskstar_Desk_Top_Hard_Drive_1_TB" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Deskstar_Desk_Top_Hard_Drive_1_TB" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Deskstar_Desk_Top_Hard_Drive_1_TB" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Deskstar_Desk_Top_Hard_Drive_1_TB" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Deskstar_Desk_Top_Hard_Drive_1_TB" type="mesh" group="3" />
+    </body>

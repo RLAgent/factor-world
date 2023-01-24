@@ -1,0 +1,36 @@
+<body childclass="KID_ROOM_FURNITURE_SET_1_base" name="KID_ROOM_FURNITURE_SET_11">
+        <geom class="KID_ROOM_FURNITURE_SET_1_col" name="{geom_name}" type="mesh" mesh="model_KID_ROOM_FURNITURE_SET_1" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_KID_ROOM_FURNITURE_SET_1" mesh="model_KID_ROOM_FURNITURE_SET_1" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_KID_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_1_KID_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_2_KID_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_3_KID_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_4_KID_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_5_KID_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_6_KID_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_7_KID_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_8_KID_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_9_KID_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_10_KID_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_11_KID_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_12_KID_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_13_KID_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_14_KID_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_15_KID_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_16_KID_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_17_KID_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_18_KID_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_19_KID_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_20_KID_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_21_KID_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_22_KID_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_23_KID_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_24_KID_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_25_KID_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_26_KID_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_27_KID_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_28_KID_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_29_KID_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_30_KID_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+      <geom mesh="model_collision_31_KID_ROOM_FURNITURE_SET_1" type="mesh" group="3" />
+    </body>

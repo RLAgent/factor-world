@@ -1,0 +1,36 @@
+<body childclass="ClimaCool_Aerate_2_W_Wide_base" name="ClimaCool_Aerate_2_W_Wide1">
+        <geom class="ClimaCool_Aerate_2_W_Wide_col" name="{geom_name}" type="mesh" mesh="model_ClimaCool_Aerate_2_W_Wide" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_ClimaCool_Aerate_2_W_Wide" mesh="model_ClimaCool_Aerate_2_W_Wide" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_ClimaCool_Aerate_2_W_Wide" type="mesh" group="3" />
+      <geom mesh="model_collision_1_ClimaCool_Aerate_2_W_Wide" type="mesh" group="3" />
+      <geom mesh="model_collision_2_ClimaCool_Aerate_2_W_Wide" type="mesh" group="3" />
+      <geom mesh="model_collision_3_ClimaCool_Aerate_2_W_Wide" type="mesh" group="3" />
+      <geom mesh="model_collision_4_ClimaCool_Aerate_2_W_Wide" type="mesh" group="3" />
+      <geom mesh="model_collision_5_ClimaCool_Aerate_2_W_Wide" type="mesh" group="3" />
+      <geom mesh="model_collision_6_ClimaCool_Aerate_2_W_Wide" type="mesh" group="3" />
+      <geom mesh="model_collision_7_ClimaCool_Aerate_2_W_Wide" type="mesh" group="3" />
+      <geom mesh="model_collision_8_ClimaCool_Aerate_2_W_Wide" type="mesh" group="3" />
+      <geom mesh="model_collision_9_ClimaCool_Aerate_2_W_Wide" type="mesh" group="3" />
+      <geom mesh="model_collision_10_ClimaCool_Aerate_2_W_Wide" type="mesh" group="3" />
+      <geom mesh="model_collision_11_ClimaCool_Aerate_2_W_Wide" type="mesh" group="3" />
+      <geom mesh="model_collision_12_ClimaCool_Aerate_2_W_Wide" type="mesh" group="3" />
+      <geom mesh="model_collision_13_ClimaCool_Aerate_2_W_Wide" type="mesh" group="3" />
+      <geom mesh="model_collision_14_ClimaCool_Aerate_2_W_Wide" type="mesh" group="3" />
+      <geom mesh="model_collision_15_ClimaCool_Aerate_2_W_Wide" type="mesh" group="3" />
+      <geom mesh="model_collision_16_ClimaCool_Aerate_2_W_Wide" type="mesh" group="3" />
+      <geom mesh="model_collision_17_ClimaCool_Aerate_2_W_Wide" type="mesh" group="3" />
+      <geom mesh="model_collision_18_ClimaCool_Aerate_2_W_Wide" type="mesh" group="3" />
+      <geom mesh="model_collision_19_ClimaCool_Aerate_2_W_Wide" type="mesh" group="3" />
+      <geom mesh="model_collision_20_ClimaCool_Aerate_2_W_Wide" type="mesh" group="3" />
+      <geom mesh="model_collision_21_ClimaCool_Aerate_2_W_Wide" type="mesh" group="3" />
+      <geom mesh="model_collision_22_ClimaCool_Aerate_2_W_Wide" type="mesh" group="3" />
+      <geom mesh="model_collision_23_ClimaCool_Aerate_2_W_Wide" type="mesh" group="3" />
+      <geom mesh="model_collision_24_ClimaCool_Aerate_2_W_Wide" type="mesh" group="3" />
+      <geom mesh="model_collision_25_ClimaCool_Aerate_2_W_Wide" type="mesh" group="3" />
+      <geom mesh="model_collision_26_ClimaCool_Aerate_2_W_Wide" type="mesh" group="3" />
+      <geom mesh="model_collision_27_ClimaCool_Aerate_2_W_Wide" type="mesh" group="3" />
+      <geom mesh="model_collision_28_ClimaCool_Aerate_2_W_Wide" type="mesh" group="3" />
+      <geom mesh="model_collision_29_ClimaCool_Aerate_2_W_Wide" type="mesh" group="3" />
+      <geom mesh="model_collision_30_ClimaCool_Aerate_2_W_Wide" type="mesh" group="3" />
+      <geom mesh="model_collision_31_ClimaCool_Aerate_2_W_Wide" type="mesh" group="3" />
+    </body>

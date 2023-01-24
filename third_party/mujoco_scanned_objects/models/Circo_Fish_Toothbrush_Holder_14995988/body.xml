@@ -1,0 +1,36 @@
+<body childclass="Circo_Fish_Toothbrush_Holder_14995988_base" name="Circo_Fish_Toothbrush_Holder_149959881">
+        <geom class="Circo_Fish_Toothbrush_Holder_14995988_col" name="{geom_name}" type="mesh" mesh="model_Circo_Fish_Toothbrush_Holder_14995988" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Circo_Fish_Toothbrush_Holder_14995988" mesh="model_Circo_Fish_Toothbrush_Holder_14995988" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Circo_Fish_Toothbrush_Holder_14995988" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Circo_Fish_Toothbrush_Holder_14995988" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Circo_Fish_Toothbrush_Holder_14995988" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Circo_Fish_Toothbrush_Holder_14995988" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Circo_Fish_Toothbrush_Holder_14995988" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Circo_Fish_Toothbrush_Holder_14995988" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Circo_Fish_Toothbrush_Holder_14995988" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Circo_Fish_Toothbrush_Holder_14995988" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Circo_Fish_Toothbrush_Holder_14995988" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Circo_Fish_Toothbrush_Holder_14995988" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Circo_Fish_Toothbrush_Holder_14995988" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Circo_Fish_Toothbrush_Holder_14995988" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Circo_Fish_Toothbrush_Holder_14995988" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Circo_Fish_Toothbrush_Holder_14995988" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Circo_Fish_Toothbrush_Holder_14995988" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Circo_Fish_Toothbrush_Holder_14995988" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Circo_Fish_Toothbrush_Holder_14995988" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Circo_Fish_Toothbrush_Holder_14995988" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Circo_Fish_Toothbrush_Holder_14995988" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Circo_Fish_Toothbrush_Holder_14995988" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Circo_Fish_Toothbrush_Holder_14995988" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Circo_Fish_Toothbrush_Holder_14995988" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Circo_Fish_Toothbrush_Holder_14995988" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Circo_Fish_Toothbrush_Holder_14995988" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Circo_Fish_Toothbrush_Holder_14995988" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Circo_Fish_Toothbrush_Holder_14995988" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Circo_Fish_Toothbrush_Holder_14995988" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Circo_Fish_Toothbrush_Holder_14995988" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Circo_Fish_Toothbrush_Holder_14995988" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Circo_Fish_Toothbrush_Holder_14995988" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Circo_Fish_Toothbrush_Holder_14995988" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Circo_Fish_Toothbrush_Holder_14995988" type="mesh" group="3" />
+    </body>

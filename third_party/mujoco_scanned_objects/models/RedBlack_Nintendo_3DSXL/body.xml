@@ -1,0 +1,36 @@
+<body childclass="RedBlack_Nintendo_3DSXL_base" name="RedBlack_Nintendo_3DSXL1">
+        <geom class="RedBlack_Nintendo_3DSXL_col" name="{geom_name}" type="mesh" mesh="model_RedBlack_Nintendo_3DSXL" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_RedBlack_Nintendo_3DSXL" mesh="model_RedBlack_Nintendo_3DSXL" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_RedBlack_Nintendo_3DSXL" type="mesh" group="3" />
+      <geom mesh="model_collision_1_RedBlack_Nintendo_3DSXL" type="mesh" group="3" />
+      <geom mesh="model_collision_2_RedBlack_Nintendo_3DSXL" type="mesh" group="3" />
+      <geom mesh="model_collision_3_RedBlack_Nintendo_3DSXL" type="mesh" group="3" />
+      <geom mesh="model_collision_4_RedBlack_Nintendo_3DSXL" type="mesh" group="3" />
+      <geom mesh="model_collision_5_RedBlack_Nintendo_3DSXL" type="mesh" group="3" />
+      <geom mesh="model_collision_6_RedBlack_Nintendo_3DSXL" type="mesh" group="3" />
+      <geom mesh="model_collision_7_RedBlack_Nintendo_3DSXL" type="mesh" group="3" />
+      <geom mesh="model_collision_8_RedBlack_Nintendo_3DSXL" type="mesh" group="3" />
+      <geom mesh="model_collision_9_RedBlack_Nintendo_3DSXL" type="mesh" group="3" />
+      <geom mesh="model_collision_10_RedBlack_Nintendo_3DSXL" type="mesh" group="3" />
+      <geom mesh="model_collision_11_RedBlack_Nintendo_3DSXL" type="mesh" group="3" />
+      <geom mesh="model_collision_12_RedBlack_Nintendo_3DSXL" type="mesh" group="3" />
+      <geom mesh="model_collision_13_RedBlack_Nintendo_3DSXL" type="mesh" group="3" />
+      <geom mesh="model_collision_14_RedBlack_Nintendo_3DSXL" type="mesh" group="3" />
+      <geom mesh="model_collision_15_RedBlack_Nintendo_3DSXL" type="mesh" group="3" />
+      <geom mesh="model_collision_16_RedBlack_Nintendo_3DSXL" type="mesh" group="3" />
+      <geom mesh="model_collision_17_RedBlack_Nintendo_3DSXL" type="mesh" group="3" />
+      <geom mesh="model_collision_18_RedBlack_Nintendo_3DSXL" type="mesh" group="3" />
+      <geom mesh="model_collision_19_RedBlack_Nintendo_3DSXL" type="mesh" group="3" />
+      <geom mesh="model_collision_20_RedBlack_Nintendo_3DSXL" type="mesh" group="3" />
+      <geom mesh="model_collision_21_RedBlack_Nintendo_3DSXL" type="mesh" group="3" />
+      <geom mesh="model_collision_22_RedBlack_Nintendo_3DSXL" type="mesh" group="3" />
+      <geom mesh="model_collision_23_RedBlack_Nintendo_3DSXL" type="mesh" group="3" />
+      <geom mesh="model_collision_24_RedBlack_Nintendo_3DSXL" type="mesh" group="3" />
+      <geom mesh="model_collision_25_RedBlack_Nintendo_3DSXL" type="mesh" group="3" />
+      <geom mesh="model_collision_26_RedBlack_Nintendo_3DSXL" type="mesh" group="3" />
+      <geom mesh="model_collision_27_RedBlack_Nintendo_3DSXL" type="mesh" group="3" />
+      <geom mesh="model_collision_28_RedBlack_Nintendo_3DSXL" type="mesh" group="3" />
+      <geom mesh="model_collision_29_RedBlack_Nintendo_3DSXL" type="mesh" group="3" />
+      <geom mesh="model_collision_30_RedBlack_Nintendo_3DSXL" type="mesh" group="3" />
+      <geom mesh="model_collision_31_RedBlack_Nintendo_3DSXL" type="mesh" group="3" />
+    </body>

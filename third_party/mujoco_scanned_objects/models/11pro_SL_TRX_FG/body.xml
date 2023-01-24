@@ -1,0 +1,36 @@
+<body childclass="11pro_SL_TRX_FG_base" name="11pro_SL_TRX_FG1">
+        <geom class="11pro_SL_TRX_FG_col" name="{geom_name}" type="mesh" mesh="model_11pro_SL_TRX_FG" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_11pro_SL_TRX_FG" mesh="model_11pro_SL_TRX_FG" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_11pro_SL_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_1_11pro_SL_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_2_11pro_SL_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_3_11pro_SL_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_4_11pro_SL_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_5_11pro_SL_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_6_11pro_SL_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_7_11pro_SL_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_8_11pro_SL_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_9_11pro_SL_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_10_11pro_SL_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_11_11pro_SL_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_12_11pro_SL_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_13_11pro_SL_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_14_11pro_SL_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_15_11pro_SL_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_16_11pro_SL_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_17_11pro_SL_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_18_11pro_SL_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_19_11pro_SL_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_20_11pro_SL_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_21_11pro_SL_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_22_11pro_SL_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_23_11pro_SL_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_24_11pro_SL_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_25_11pro_SL_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_26_11pro_SL_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_27_11pro_SL_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_28_11pro_SL_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_29_11pro_SL_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_30_11pro_SL_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_31_11pro_SL_TRX_FG" type="mesh" group="3" />
+    </body>

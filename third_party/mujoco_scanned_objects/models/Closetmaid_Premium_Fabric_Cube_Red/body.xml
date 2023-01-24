@@ -1,0 +1,36 @@
+<body childclass="Closetmaid_Premium_Fabric_Cube_Red_base" name="Closetmaid_Premium_Fabric_Cube_Red1">
+        <geom class="Closetmaid_Premium_Fabric_Cube_Red_col" name="{geom_name}" type="mesh" mesh="model_Closetmaid_Premium_Fabric_Cube_Red" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Closetmaid_Premium_Fabric_Cube_Red" mesh="model_Closetmaid_Premium_Fabric_Cube_Red" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Closetmaid_Premium_Fabric_Cube_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Closetmaid_Premium_Fabric_Cube_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Closetmaid_Premium_Fabric_Cube_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Closetmaid_Premium_Fabric_Cube_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Closetmaid_Premium_Fabric_Cube_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Closetmaid_Premium_Fabric_Cube_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Closetmaid_Premium_Fabric_Cube_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Closetmaid_Premium_Fabric_Cube_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Closetmaid_Premium_Fabric_Cube_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Closetmaid_Premium_Fabric_Cube_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Closetmaid_Premium_Fabric_Cube_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Closetmaid_Premium_Fabric_Cube_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Closetmaid_Premium_Fabric_Cube_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Closetmaid_Premium_Fabric_Cube_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Closetmaid_Premium_Fabric_Cube_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Closetmaid_Premium_Fabric_Cube_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Closetmaid_Premium_Fabric_Cube_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Closetmaid_Premium_Fabric_Cube_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Closetmaid_Premium_Fabric_Cube_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Closetmaid_Premium_Fabric_Cube_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Closetmaid_Premium_Fabric_Cube_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Closetmaid_Premium_Fabric_Cube_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Closetmaid_Premium_Fabric_Cube_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Closetmaid_Premium_Fabric_Cube_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Closetmaid_Premium_Fabric_Cube_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Closetmaid_Premium_Fabric_Cube_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Closetmaid_Premium_Fabric_Cube_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Closetmaid_Premium_Fabric_Cube_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Closetmaid_Premium_Fabric_Cube_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Closetmaid_Premium_Fabric_Cube_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Closetmaid_Premium_Fabric_Cube_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Closetmaid_Premium_Fabric_Cube_Red" type="mesh" group="3" />
+    </body>

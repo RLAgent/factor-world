@@ -1,0 +1,36 @@
+<body childclass="Matte_Black_Tieks_Italian_Leather_Ballet_Flats_base" name="Matte_Black_Tieks_Italian_Leather_Ballet_Flats1">
+        <geom class="Matte_Black_Tieks_Italian_Leather_Ballet_Flats_col" name="{geom_name}" type="mesh" mesh="model_Matte_Black_Tieks_Italian_Leather_Ballet_Flats" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Matte_Black_Tieks_Italian_Leather_Ballet_Flats" mesh="model_Matte_Black_Tieks_Italian_Leather_Ballet_Flats" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Matte_Black_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Matte_Black_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Matte_Black_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Matte_Black_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Matte_Black_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Matte_Black_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Matte_Black_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Matte_Black_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Matte_Black_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Matte_Black_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Matte_Black_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Matte_Black_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Matte_Black_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Matte_Black_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Matte_Black_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Matte_Black_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Matte_Black_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Matte_Black_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Matte_Black_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Matte_Black_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Matte_Black_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Matte_Black_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Matte_Black_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Matte_Black_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Matte_Black_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Matte_Black_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Matte_Black_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Matte_Black_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Matte_Black_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Matte_Black_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Matte_Black_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Matte_Black_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+    </body>

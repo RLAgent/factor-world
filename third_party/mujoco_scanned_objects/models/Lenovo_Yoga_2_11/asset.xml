@@ -1,0 +1,38 @@
+<asset>
+    <texture type="2d" name="texture_Lenovo_Yoga_2_11" file="../../../../../mujoco_scanned_objects/models/Lenovo_Yoga_2_11/texture.png" />
+    <material name="material_0_Lenovo_Yoga_2_11" texture="texture_Lenovo_Yoga_2_11" specular="0.6048113333333333" shininess="0.00032289" />
+    <mesh name="model_Lenovo_Yoga_2_11" file="../../../../../mujoco_scanned_objects/models/Lenovo_Yoga_2_11/model.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_0_Lenovo_Yoga_2_11" file="../../../../../mujoco_scanned_objects/models/Lenovo_Yoga_2_11/model_collision_0.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_1_Lenovo_Yoga_2_11" file="../../../../../mujoco_scanned_objects/models/Lenovo_Yoga_2_11/model_collision_1.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_2_Lenovo_Yoga_2_11" file="../../../../../mujoco_scanned_objects/models/Lenovo_Yoga_2_11/model_collision_2.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_3_Lenovo_Yoga_2_11" file="../../../../../mujoco_scanned_objects/models/Lenovo_Yoga_2_11/model_collision_3.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_4_Lenovo_Yoga_2_11" file="../../../../../mujoco_scanned_objects/models/Lenovo_Yoga_2_11/model_collision_4.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_5_Lenovo_Yoga_2_11" file="../../../../../mujoco_scanned_objects/models/Lenovo_Yoga_2_11/model_collision_5.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_6_Lenovo_Yoga_2_11" file="../../../../../mujoco_scanned_objects/models/Lenovo_Yoga_2_11/model_collision_6.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_7_Lenovo_Yoga_2_11" file="../../../../../mujoco_scanned_objects/models/Lenovo_Yoga_2_11/model_collision_7.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_8_Lenovo_Yoga_2_11" file="../../../../../mujoco_scanned_objects/models/Lenovo_Yoga_2_11/model_collision_8.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_9_Lenovo_Yoga_2_11" file="../../../../../mujoco_scanned_objects/models/Lenovo_Yoga_2_11/model_collision_9.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_10_Lenovo_Yoga_2_11" file="../../../../../mujoco_scanned_objects/models/Lenovo_Yoga_2_11/model_collision_10.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_11_Lenovo_Yoga_2_11" file="../../../../../mujoco_scanned_objects/models/Lenovo_Yoga_2_11/model_collision_11.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_12_Lenovo_Yoga_2_11" file="../../../../../mujoco_scanned_objects/models/Lenovo_Yoga_2_11/model_collision_12.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_13_Lenovo_Yoga_2_11" file="../../../../../mujoco_scanned_objects/models/Lenovo_Yoga_2_11/model_collision_13.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_14_Lenovo_Yoga_2_11" file="../../../../../mujoco_scanned_objects/models/Lenovo_Yoga_2_11/model_collision_14.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_15_Lenovo_Yoga_2_11" file="../../../../../mujoco_scanned_objects/models/Lenovo_Yoga_2_11/model_collision_15.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_16_Lenovo_Yoga_2_11" file="../../../../../mujoco_scanned_objects/models/Lenovo_Yoga_2_11/model_collision_16.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_17_Lenovo_Yoga_2_11" file="../../../../../mujoco_scanned_objects/models/Lenovo_Yoga_2_11/model_collision_17.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_18_Lenovo_Yoga_2_11" file="../../../../../mujoco_scanned_objects/models/Lenovo_Yoga_2_11/model_collision_18.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_19_Lenovo_Yoga_2_11" file="../../../../../mujoco_scanned_objects/models/Lenovo_Yoga_2_11/model_collision_19.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_20_Lenovo_Yoga_2_11" file="../../../../../mujoco_scanned_objects/models/Lenovo_Yoga_2_11/model_collision_20.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_21_Lenovo_Yoga_2_11" file="../../../../../mujoco_scanned_objects/models/Lenovo_Yoga_2_11/model_collision_21.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_22_Lenovo_Yoga_2_11" file="../../../../../mujoco_scanned_objects/models/Lenovo_Yoga_2_11/model_collision_22.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_23_Lenovo_Yoga_2_11" file="../../../../../mujoco_scanned_objects/models/Lenovo_Yoga_2_11/model_collision_23.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_24_Lenovo_Yoga_2_11" file="../../../../../mujoco_scanned_objects/models/Lenovo_Yoga_2_11/model_collision_24.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_25_Lenovo_Yoga_2_11" file="../../../../../mujoco_scanned_objects/models/Lenovo_Yoga_2_11/model_collision_25.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_26_Lenovo_Yoga_2_11" file="../../../../../mujoco_scanned_objects/models/Lenovo_Yoga_2_11/model_collision_26.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_27_Lenovo_Yoga_2_11" file="../../../../../mujoco_scanned_objects/models/Lenovo_Yoga_2_11/model_collision_27.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_28_Lenovo_Yoga_2_11" file="../../../../../mujoco_scanned_objects/models/Lenovo_Yoga_2_11/model_collision_28.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_29_Lenovo_Yoga_2_11" file="../../../../../mujoco_scanned_objects/models/Lenovo_Yoga_2_11/model_collision_29.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_30_Lenovo_Yoga_2_11" file="../../../../../mujoco_scanned_objects/models/Lenovo_Yoga_2_11/model_collision_30.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_31_Lenovo_Yoga_2_11" file="../../../../../mujoco_scanned_objects/models/Lenovo_Yoga_2_11/model_collision_31.stl" scale="{scale} {scale} {scale}" />
+  </asset>
+  

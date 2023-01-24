@@ -1,0 +1,36 @@
+<body childclass="Wooden_ABC_123_Blocks_50_pack_base" name="Wooden_ABC_123_Blocks_50_pack1">
+        <geom class="Wooden_ABC_123_Blocks_50_pack_col" name="{geom_name}" type="mesh" mesh="model_Wooden_ABC_123_Blocks_50_pack" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Wooden_ABC_123_Blocks_50_pack" mesh="model_Wooden_ABC_123_Blocks_50_pack" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Wooden_ABC_123_Blocks_50_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Wooden_ABC_123_Blocks_50_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Wooden_ABC_123_Blocks_50_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Wooden_ABC_123_Blocks_50_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Wooden_ABC_123_Blocks_50_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Wooden_ABC_123_Blocks_50_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Wooden_ABC_123_Blocks_50_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Wooden_ABC_123_Blocks_50_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Wooden_ABC_123_Blocks_50_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Wooden_ABC_123_Blocks_50_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Wooden_ABC_123_Blocks_50_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Wooden_ABC_123_Blocks_50_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Wooden_ABC_123_Blocks_50_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Wooden_ABC_123_Blocks_50_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Wooden_ABC_123_Blocks_50_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Wooden_ABC_123_Blocks_50_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Wooden_ABC_123_Blocks_50_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Wooden_ABC_123_Blocks_50_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Wooden_ABC_123_Blocks_50_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Wooden_ABC_123_Blocks_50_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Wooden_ABC_123_Blocks_50_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Wooden_ABC_123_Blocks_50_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Wooden_ABC_123_Blocks_50_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Wooden_ABC_123_Blocks_50_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Wooden_ABC_123_Blocks_50_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Wooden_ABC_123_Blocks_50_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Wooden_ABC_123_Blocks_50_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Wooden_ABC_123_Blocks_50_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Wooden_ABC_123_Blocks_50_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Wooden_ABC_123_Blocks_50_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Wooden_ABC_123_Blocks_50_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Wooden_ABC_123_Blocks_50_pack" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="Crazy_Shadow_2_base" name="Crazy_Shadow_21">
+        <geom class="Crazy_Shadow_2_col" name="{geom_name}" type="mesh" mesh="model_Crazy_Shadow_2" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Crazy_Shadow_2" mesh="model_Crazy_Shadow_2" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Crazy_Shadow_2" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Crazy_Shadow_2" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Crazy_Shadow_2" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Crazy_Shadow_2" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Crazy_Shadow_2" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Crazy_Shadow_2" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Crazy_Shadow_2" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Crazy_Shadow_2" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Crazy_Shadow_2" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Crazy_Shadow_2" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Crazy_Shadow_2" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Crazy_Shadow_2" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Crazy_Shadow_2" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Crazy_Shadow_2" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Crazy_Shadow_2" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Crazy_Shadow_2" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Crazy_Shadow_2" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Crazy_Shadow_2" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Crazy_Shadow_2" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Crazy_Shadow_2" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Crazy_Shadow_2" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Crazy_Shadow_2" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Crazy_Shadow_2" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Crazy_Shadow_2" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Crazy_Shadow_2" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Crazy_Shadow_2" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Crazy_Shadow_2" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Crazy_Shadow_2" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Crazy_Shadow_2" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Crazy_Shadow_2" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Crazy_Shadow_2" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Crazy_Shadow_2" type="mesh" group="3" />
+    </body>

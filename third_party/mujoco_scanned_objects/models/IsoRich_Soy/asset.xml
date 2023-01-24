@@ -1,0 +1,38 @@
+<asset>
+    <texture type="2d" name="texture_IsoRich_Soy" file="../../../../../mujoco_scanned_objects/models/IsoRich_Soy/texture.png" />
+    <material name="material_0_IsoRich_Soy" texture="texture_IsoRich_Soy" specular="0.5" shininess="0.5" />
+    <mesh name="model_IsoRich_Soy" file="../../../../../mujoco_scanned_objects/models/IsoRich_Soy/model.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_0_IsoRich_Soy" file="../../../../../mujoco_scanned_objects/models/IsoRich_Soy/model_collision_0.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_1_IsoRich_Soy" file="../../../../../mujoco_scanned_objects/models/IsoRich_Soy/model_collision_1.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_2_IsoRich_Soy" file="../../../../../mujoco_scanned_objects/models/IsoRich_Soy/model_collision_2.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_3_IsoRich_Soy" file="../../../../../mujoco_scanned_objects/models/IsoRich_Soy/model_collision_3.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_4_IsoRich_Soy" file="../../../../../mujoco_scanned_objects/models/IsoRich_Soy/model_collision_4.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_5_IsoRich_Soy" file="../../../../../mujoco_scanned_objects/models/IsoRich_Soy/model_collision_5.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_6_IsoRich_Soy" file="../../../../../mujoco_scanned_objects/models/IsoRich_Soy/model_collision_6.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_7_IsoRich_Soy" file="../../../../../mujoco_scanned_objects/models/IsoRich_Soy/model_collision_7.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_8_IsoRich_Soy" file="../../../../../mujoco_scanned_objects/models/IsoRich_Soy/model_collision_8.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_9_IsoRich_Soy" file="../../../../../mujoco_scanned_objects/models/IsoRich_Soy/model_collision_9.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_10_IsoRich_Soy" file="../../../../../mujoco_scanned_objects/models/IsoRich_Soy/model_collision_10.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_11_IsoRich_Soy" file="../../../../../mujoco_scanned_objects/models/IsoRich_Soy/model_collision_11.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_12_IsoRich_Soy" file="../../../../../mujoco_scanned_objects/models/IsoRich_Soy/model_collision_12.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_13_IsoRich_Soy" file="../../../../../mujoco_scanned_objects/models/IsoRich_Soy/model_collision_13.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_14_IsoRich_Soy" file="../../../../../mujoco_scanned_objects/models/IsoRich_Soy/model_collision_14.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_15_IsoRich_Soy" file="../../../../../mujoco_scanned_objects/models/IsoRich_Soy/model_collision_15.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_16_IsoRich_Soy" file="../../../../../mujoco_scanned_objects/models/IsoRich_Soy/model_collision_16.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_17_IsoRich_Soy" file="../../../../../mujoco_scanned_objects/models/IsoRich_Soy/model_collision_17.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_18_IsoRich_Soy" file="../../../../../mujoco_scanned_objects/models/IsoRich_Soy/model_collision_18.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_19_IsoRich_Soy" file="../../../../../mujoco_scanned_objects/models/IsoRich_Soy/model_collision_19.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_20_IsoRich_Soy" file="../../../../../mujoco_scanned_objects/models/IsoRich_Soy/model_collision_20.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_21_IsoRich_Soy" file="../../../../../mujoco_scanned_objects/models/IsoRich_Soy/model_collision_21.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_22_IsoRich_Soy" file="../../../../../mujoco_scanned_objects/models/IsoRich_Soy/model_collision_22.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_23_IsoRich_Soy" file="../../../../../mujoco_scanned_objects/models/IsoRich_Soy/model_collision_23.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_24_IsoRich_Soy" file="../../../../../mujoco_scanned_objects/models/IsoRich_Soy/model_collision_24.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_25_IsoRich_Soy" file="../../../../../mujoco_scanned_objects/models/IsoRich_Soy/model_collision_25.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_26_IsoRich_Soy" file="../../../../../mujoco_scanned_objects/models/IsoRich_Soy/model_collision_26.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_27_IsoRich_Soy" file="../../../../../mujoco_scanned_objects/models/IsoRich_Soy/model_collision_27.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_28_IsoRich_Soy" file="../../../../../mujoco_scanned_objects/models/IsoRich_Soy/model_collision_28.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_29_IsoRich_Soy" file="../../../../../mujoco_scanned_objects/models/IsoRich_Soy/model_collision_29.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_30_IsoRich_Soy" file="../../../../../mujoco_scanned_objects/models/IsoRich_Soy/model_collision_30.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_31_IsoRich_Soy" file="../../../../../mujoco_scanned_objects/models/IsoRich_Soy/model_collision_31.stl" scale="{scale} {scale} {scale}" />
+  </asset>
+  

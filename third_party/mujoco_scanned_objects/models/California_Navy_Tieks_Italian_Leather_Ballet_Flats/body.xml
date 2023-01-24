@@ -1,0 +1,36 @@
+<body childclass="California_Navy_Tieks_Italian_Leather_Ballet_Flats_base" name="California_Navy_Tieks_Italian_Leather_Ballet_Flats1">
+        <geom class="California_Navy_Tieks_Italian_Leather_Ballet_Flats_col" name="{geom_name}" type="mesh" mesh="model_California_Navy_Tieks_Italian_Leather_Ballet_Flats" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_California_Navy_Tieks_Italian_Leather_Ballet_Flats" mesh="model_California_Navy_Tieks_Italian_Leather_Ballet_Flats" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_California_Navy_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_1_California_Navy_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_2_California_Navy_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_3_California_Navy_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_4_California_Navy_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_5_California_Navy_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_6_California_Navy_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_7_California_Navy_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_8_California_Navy_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_9_California_Navy_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_10_California_Navy_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_11_California_Navy_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_12_California_Navy_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_13_California_Navy_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_14_California_Navy_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_15_California_Navy_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_16_California_Navy_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_17_California_Navy_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_18_California_Navy_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_19_California_Navy_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_20_California_Navy_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_21_California_Navy_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_22_California_Navy_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_23_California_Navy_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_24_California_Navy_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_25_California_Navy_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_26_California_Navy_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_27_California_Navy_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_28_California_Navy_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_29_California_Navy_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_30_California_Navy_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_31_California_Navy_Tieks_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+    </body>

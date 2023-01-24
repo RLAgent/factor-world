@@ -1,0 +1,36 @@
+<body childclass="COAST_GUARD_BOAT_base" name="COAST_GUARD_BOAT1">
+        <geom class="COAST_GUARD_BOAT_col" name="{geom_name}" type="mesh" mesh="model_COAST_GUARD_BOAT" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_COAST_GUARD_BOAT" mesh="model_COAST_GUARD_BOAT" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_COAST_GUARD_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_1_COAST_GUARD_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_2_COAST_GUARD_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_3_COAST_GUARD_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_4_COAST_GUARD_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_5_COAST_GUARD_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_6_COAST_GUARD_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_7_COAST_GUARD_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_8_COAST_GUARD_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_9_COAST_GUARD_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_10_COAST_GUARD_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_11_COAST_GUARD_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_12_COAST_GUARD_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_13_COAST_GUARD_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_14_COAST_GUARD_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_15_COAST_GUARD_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_16_COAST_GUARD_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_17_COAST_GUARD_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_18_COAST_GUARD_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_19_COAST_GUARD_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_20_COAST_GUARD_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_21_COAST_GUARD_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_22_COAST_GUARD_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_23_COAST_GUARD_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_24_COAST_GUARD_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_25_COAST_GUARD_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_26_COAST_GUARD_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_27_COAST_GUARD_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_28_COAST_GUARD_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_29_COAST_GUARD_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_30_COAST_GUARD_BOAT" type="mesh" group="3" />
+      <geom mesh="model_collision_31_COAST_GUARD_BOAT" type="mesh" group="3" />
+    </body>

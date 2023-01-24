@@ -1,0 +1,38 @@
+<asset>
+    <texture type="2d" name="texture_Epson_Ink_Cartridge_126_Yellow" file="../../../../../mujoco_scanned_objects/models/Epson_Ink_Cartridge_126_Yellow/texture.png" />
+    <material name="material_0_Epson_Ink_Cartridge_126_Yellow" texture="texture_Epson_Ink_Cartridge_126_Yellow" specular="0.5" shininess="0.5" />
+    <mesh name="model_Epson_Ink_Cartridge_126_Yellow" file="../../../../../mujoco_scanned_objects/models/Epson_Ink_Cartridge_126_Yellow/model.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_0_Epson_Ink_Cartridge_126_Yellow" file="../../../../../mujoco_scanned_objects/models/Epson_Ink_Cartridge_126_Yellow/model_collision_0.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_1_Epson_Ink_Cartridge_126_Yellow" file="../../../../../mujoco_scanned_objects/models/Epson_Ink_Cartridge_126_Yellow/model_collision_1.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_2_Epson_Ink_Cartridge_126_Yellow" file="../../../../../mujoco_scanned_objects/models/Epson_Ink_Cartridge_126_Yellow/model_collision_2.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_3_Epson_Ink_Cartridge_126_Yellow" file="../../../../../mujoco_scanned_objects/models/Epson_Ink_Cartridge_126_Yellow/model_collision_3.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_4_Epson_Ink_Cartridge_126_Yellow" file="../../../../../mujoco_scanned_objects/models/Epson_Ink_Cartridge_126_Yellow/model_collision_4.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_5_Epson_Ink_Cartridge_126_Yellow" file="../../../../../mujoco_scanned_objects/models/Epson_Ink_Cartridge_126_Yellow/model_collision_5.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_6_Epson_Ink_Cartridge_126_Yellow" file="../../../../../mujoco_scanned_objects/models/Epson_Ink_Cartridge_126_Yellow/model_collision_6.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_7_Epson_Ink_Cartridge_126_Yellow" file="../../../../../mujoco_scanned_objects/models/Epson_Ink_Cartridge_126_Yellow/model_collision_7.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_8_Epson_Ink_Cartridge_126_Yellow" file="../../../../../mujoco_scanned_objects/models/Epson_Ink_Cartridge_126_Yellow/model_collision_8.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_9_Epson_Ink_Cartridge_126_Yellow" file="../../../../../mujoco_scanned_objects/models/Epson_Ink_Cartridge_126_Yellow/model_collision_9.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_10_Epson_Ink_Cartridge_126_Yellow" file="../../../../../mujoco_scanned_objects/models/Epson_Ink_Cartridge_126_Yellow/model_collision_10.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_11_Epson_Ink_Cartridge_126_Yellow" file="../../../../../mujoco_scanned_objects/models/Epson_Ink_Cartridge_126_Yellow/model_collision_11.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_12_Epson_Ink_Cartridge_126_Yellow" file="../../../../../mujoco_scanned_objects/models/Epson_Ink_Cartridge_126_Yellow/model_collision_12.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_13_Epson_Ink_Cartridge_126_Yellow" file="../../../../../mujoco_scanned_objects/models/Epson_Ink_Cartridge_126_Yellow/model_collision_13.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_14_Epson_Ink_Cartridge_126_Yellow" file="../../../../../mujoco_scanned_objects/models/Epson_Ink_Cartridge_126_Yellow/model_collision_14.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_15_Epson_Ink_Cartridge_126_Yellow" file="../../../../../mujoco_scanned_objects/models/Epson_Ink_Cartridge_126_Yellow/model_collision_15.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_16_Epson_Ink_Cartridge_126_Yellow" file="../../../../../mujoco_scanned_objects/models/Epson_Ink_Cartridge_126_Yellow/model_collision_16.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_17_Epson_Ink_Cartridge_126_Yellow" file="../../../../../mujoco_scanned_objects/models/Epson_Ink_Cartridge_126_Yellow/model_collision_17.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_18_Epson_Ink_Cartridge_126_Yellow" file="../../../../../mujoco_scanned_objects/models/Epson_Ink_Cartridge_126_Yellow/model_collision_18.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_19_Epson_Ink_Cartridge_126_Yellow" file="../../../../../mujoco_scanned_objects/models/Epson_Ink_Cartridge_126_Yellow/model_collision_19.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_20_Epson_Ink_Cartridge_126_Yellow" file="../../../../../mujoco_scanned_objects/models/Epson_Ink_Cartridge_126_Yellow/model_collision_20.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_21_Epson_Ink_Cartridge_126_Yellow" file="../../../../../mujoco_scanned_objects/models/Epson_Ink_Cartridge_126_Yellow/model_collision_21.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_22_Epson_Ink_Cartridge_126_Yellow" file="../../../../../mujoco_scanned_objects/models/Epson_Ink_Cartridge_126_Yellow/model_collision_22.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_23_Epson_Ink_Cartridge_126_Yellow" file="../../../../../mujoco_scanned_objects/models/Epson_Ink_Cartridge_126_Yellow/model_collision_23.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_24_Epson_Ink_Cartridge_126_Yellow" file="../../../../../mujoco_scanned_objects/models/Epson_Ink_Cartridge_126_Yellow/model_collision_24.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_25_Epson_Ink_Cartridge_126_Yellow" file="../../../../../mujoco_scanned_objects/models/Epson_Ink_Cartridge_126_Yellow/model_collision_25.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_26_Epson_Ink_Cartridge_126_Yellow" file="../../../../../mujoco_scanned_objects/models/Epson_Ink_Cartridge_126_Yellow/model_collision_26.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_27_Epson_Ink_Cartridge_126_Yellow" file="../../../../../mujoco_scanned_objects/models/Epson_Ink_Cartridge_126_Yellow/model_collision_27.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_28_Epson_Ink_Cartridge_126_Yellow" file="../../../../../mujoco_scanned_objects/models/Epson_Ink_Cartridge_126_Yellow/model_collision_28.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_29_Epson_Ink_Cartridge_126_Yellow" file="../../../../../mujoco_scanned_objects/models/Epson_Ink_Cartridge_126_Yellow/model_collision_29.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_30_Epson_Ink_Cartridge_126_Yellow" file="../../../../../mujoco_scanned_objects/models/Epson_Ink_Cartridge_126_Yellow/model_collision_30.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_31_Epson_Ink_Cartridge_126_Yellow" file="../../../../../mujoco_scanned_objects/models/Epson_Ink_Cartridge_126_Yellow/model_collision_31.stl" scale="{scale} {scale} {scale}" />
+  </asset>
+  

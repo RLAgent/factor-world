@@ -1,0 +1,36 @@
+<body childclass="NESCAFE_NESCAFE_TC_STKS_DECAF_6_CT_base" name="NESCAFE_NESCAFE_TC_STKS_DECAF_6_CT1">
+        <geom class="NESCAFE_NESCAFE_TC_STKS_DECAF_6_CT_col" name="{geom_name}" type="mesh" mesh="model_NESCAFE_NESCAFE_TC_STKS_DECAF_6_CT" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_NESCAFE_NESCAFE_TC_STKS_DECAF_6_CT" mesh="model_NESCAFE_NESCAFE_TC_STKS_DECAF_6_CT" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_NESCAFE_NESCAFE_TC_STKS_DECAF_6_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_1_NESCAFE_NESCAFE_TC_STKS_DECAF_6_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_2_NESCAFE_NESCAFE_TC_STKS_DECAF_6_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_3_NESCAFE_NESCAFE_TC_STKS_DECAF_6_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_4_NESCAFE_NESCAFE_TC_STKS_DECAF_6_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_5_NESCAFE_NESCAFE_TC_STKS_DECAF_6_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_6_NESCAFE_NESCAFE_TC_STKS_DECAF_6_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_7_NESCAFE_NESCAFE_TC_STKS_DECAF_6_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_8_NESCAFE_NESCAFE_TC_STKS_DECAF_6_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_9_NESCAFE_NESCAFE_TC_STKS_DECAF_6_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_10_NESCAFE_NESCAFE_TC_STKS_DECAF_6_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_11_NESCAFE_NESCAFE_TC_STKS_DECAF_6_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_12_NESCAFE_NESCAFE_TC_STKS_DECAF_6_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_13_NESCAFE_NESCAFE_TC_STKS_DECAF_6_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_14_NESCAFE_NESCAFE_TC_STKS_DECAF_6_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_15_NESCAFE_NESCAFE_TC_STKS_DECAF_6_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_16_NESCAFE_NESCAFE_TC_STKS_DECAF_6_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_17_NESCAFE_NESCAFE_TC_STKS_DECAF_6_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_18_NESCAFE_NESCAFE_TC_STKS_DECAF_6_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_19_NESCAFE_NESCAFE_TC_STKS_DECAF_6_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_20_NESCAFE_NESCAFE_TC_STKS_DECAF_6_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_21_NESCAFE_NESCAFE_TC_STKS_DECAF_6_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_22_NESCAFE_NESCAFE_TC_STKS_DECAF_6_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_23_NESCAFE_NESCAFE_TC_STKS_DECAF_6_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_24_NESCAFE_NESCAFE_TC_STKS_DECAF_6_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_25_NESCAFE_NESCAFE_TC_STKS_DECAF_6_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_26_NESCAFE_NESCAFE_TC_STKS_DECAF_6_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_27_NESCAFE_NESCAFE_TC_STKS_DECAF_6_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_28_NESCAFE_NESCAFE_TC_STKS_DECAF_6_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_29_NESCAFE_NESCAFE_TC_STKS_DECAF_6_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_30_NESCAFE_NESCAFE_TC_STKS_DECAF_6_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_31_NESCAFE_NESCAFE_TC_STKS_DECAF_6_CT" type="mesh" group="3" />
+    </body>

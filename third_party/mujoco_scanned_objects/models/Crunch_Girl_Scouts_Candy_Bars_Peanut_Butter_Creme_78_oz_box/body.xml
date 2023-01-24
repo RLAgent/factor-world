@@ -1,0 +1,36 @@
+<body childclass="Crunch_Girl_Scouts_Candy_Bars_Peanut_Butter_Creme_78_oz_box_base" name="Crunch_Girl_Scouts_Candy_Bars_Peanut_Butter_Creme_78_oz_box1">
+        <geom class="Crunch_Girl_Scouts_Candy_Bars_Peanut_Butter_Creme_78_oz_box_col" name="{geom_name}" type="mesh" mesh="model_Crunch_Girl_Scouts_Candy_Bars_Peanut_Butter_Creme_78_oz_box" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Crunch_Girl_Scouts_Candy_Bars_Peanut_Butter_Creme_78_oz_box" mesh="model_Crunch_Girl_Scouts_Candy_Bars_Peanut_Butter_Creme_78_oz_box" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Crunch_Girl_Scouts_Candy_Bars_Peanut_Butter_Creme_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Crunch_Girl_Scouts_Candy_Bars_Peanut_Butter_Creme_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Crunch_Girl_Scouts_Candy_Bars_Peanut_Butter_Creme_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Crunch_Girl_Scouts_Candy_Bars_Peanut_Butter_Creme_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Crunch_Girl_Scouts_Candy_Bars_Peanut_Butter_Creme_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Crunch_Girl_Scouts_Candy_Bars_Peanut_Butter_Creme_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Crunch_Girl_Scouts_Candy_Bars_Peanut_Butter_Creme_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Crunch_Girl_Scouts_Candy_Bars_Peanut_Butter_Creme_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Crunch_Girl_Scouts_Candy_Bars_Peanut_Butter_Creme_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Crunch_Girl_Scouts_Candy_Bars_Peanut_Butter_Creme_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Crunch_Girl_Scouts_Candy_Bars_Peanut_Butter_Creme_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Crunch_Girl_Scouts_Candy_Bars_Peanut_Butter_Creme_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Crunch_Girl_Scouts_Candy_Bars_Peanut_Butter_Creme_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Crunch_Girl_Scouts_Candy_Bars_Peanut_Butter_Creme_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Crunch_Girl_Scouts_Candy_Bars_Peanut_Butter_Creme_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Crunch_Girl_Scouts_Candy_Bars_Peanut_Butter_Creme_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Crunch_Girl_Scouts_Candy_Bars_Peanut_Butter_Creme_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Crunch_Girl_Scouts_Candy_Bars_Peanut_Butter_Creme_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Crunch_Girl_Scouts_Candy_Bars_Peanut_Butter_Creme_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Crunch_Girl_Scouts_Candy_Bars_Peanut_Butter_Creme_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Crunch_Girl_Scouts_Candy_Bars_Peanut_Butter_Creme_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Crunch_Girl_Scouts_Candy_Bars_Peanut_Butter_Creme_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Crunch_Girl_Scouts_Candy_Bars_Peanut_Butter_Creme_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Crunch_Girl_Scouts_Candy_Bars_Peanut_Butter_Creme_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Crunch_Girl_Scouts_Candy_Bars_Peanut_Butter_Creme_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Crunch_Girl_Scouts_Candy_Bars_Peanut_Butter_Creme_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Crunch_Girl_Scouts_Candy_Bars_Peanut_Butter_Creme_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Crunch_Girl_Scouts_Candy_Bars_Peanut_Butter_Creme_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Crunch_Girl_Scouts_Candy_Bars_Peanut_Butter_Creme_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Crunch_Girl_Scouts_Candy_Bars_Peanut_Butter_Creme_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Crunch_Girl_Scouts_Candy_Bars_Peanut_Butter_Creme_78_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Crunch_Girl_Scouts_Candy_Bars_Peanut_Butter_Creme_78_oz_box" type="mesh" group="3" />
+    </body>

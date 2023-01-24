@@ -1,0 +1,36 @@
+<body childclass="MINI_FIRE_ENGINE_base" name="MINI_FIRE_ENGINE1">
+        <geom class="MINI_FIRE_ENGINE_col" name="{geom_name}" type="mesh" mesh="model_MINI_FIRE_ENGINE" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_MINI_FIRE_ENGINE" mesh="model_MINI_FIRE_ENGINE" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_MINI_FIRE_ENGINE" type="mesh" group="3" />
+      <geom mesh="model_collision_1_MINI_FIRE_ENGINE" type="mesh" group="3" />
+      <geom mesh="model_collision_2_MINI_FIRE_ENGINE" type="mesh" group="3" />
+      <geom mesh="model_collision_3_MINI_FIRE_ENGINE" type="mesh" group="3" />
+      <geom mesh="model_collision_4_MINI_FIRE_ENGINE" type="mesh" group="3" />
+      <geom mesh="model_collision_5_MINI_FIRE_ENGINE" type="mesh" group="3" />
+      <geom mesh="model_collision_6_MINI_FIRE_ENGINE" type="mesh" group="3" />
+      <geom mesh="model_collision_7_MINI_FIRE_ENGINE" type="mesh" group="3" />
+      <geom mesh="model_collision_8_MINI_FIRE_ENGINE" type="mesh" group="3" />
+      <geom mesh="model_collision_9_MINI_FIRE_ENGINE" type="mesh" group="3" />
+      <geom mesh="model_collision_10_MINI_FIRE_ENGINE" type="mesh" group="3" />
+      <geom mesh="model_collision_11_MINI_FIRE_ENGINE" type="mesh" group="3" />
+      <geom mesh="model_collision_12_MINI_FIRE_ENGINE" type="mesh" group="3" />
+      <geom mesh="model_collision_13_MINI_FIRE_ENGINE" type="mesh" group="3" />
+      <geom mesh="model_collision_14_MINI_FIRE_ENGINE" type="mesh" group="3" />
+      <geom mesh="model_collision_15_MINI_FIRE_ENGINE" type="mesh" group="3" />
+      <geom mesh="model_collision_16_MINI_FIRE_ENGINE" type="mesh" group="3" />
+      <geom mesh="model_collision_17_MINI_FIRE_ENGINE" type="mesh" group="3" />
+      <geom mesh="model_collision_18_MINI_FIRE_ENGINE" type="mesh" group="3" />
+      <geom mesh="model_collision_19_MINI_FIRE_ENGINE" type="mesh" group="3" />
+      <geom mesh="model_collision_20_MINI_FIRE_ENGINE" type="mesh" group="3" />
+      <geom mesh="model_collision_21_MINI_FIRE_ENGINE" type="mesh" group="3" />
+      <geom mesh="model_collision_22_MINI_FIRE_ENGINE" type="mesh" group="3" />
+      <geom mesh="model_collision_23_MINI_FIRE_ENGINE" type="mesh" group="3" />
+      <geom mesh="model_collision_24_MINI_FIRE_ENGINE" type="mesh" group="3" />
+      <geom mesh="model_collision_25_MINI_FIRE_ENGINE" type="mesh" group="3" />
+      <geom mesh="model_collision_26_MINI_FIRE_ENGINE" type="mesh" group="3" />
+      <geom mesh="model_collision_27_MINI_FIRE_ENGINE" type="mesh" group="3" />
+      <geom mesh="model_collision_28_MINI_FIRE_ENGINE" type="mesh" group="3" />
+      <geom mesh="model_collision_29_MINI_FIRE_ENGINE" type="mesh" group="3" />
+      <geom mesh="model_collision_30_MINI_FIRE_ENGINE" type="mesh" group="3" />
+      <geom mesh="model_collision_31_MINI_FIRE_ENGINE" type="mesh" group="3" />
+    </body>

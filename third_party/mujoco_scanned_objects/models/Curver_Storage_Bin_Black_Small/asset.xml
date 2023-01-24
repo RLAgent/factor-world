@@ -1,0 +1,38 @@
+<asset>
+    <texture type="2d" name="texture_Curver_Storage_Bin_Black_Small" file="../../../../../mujoco_scanned_objects/models/Curver_Storage_Bin_Black_Small/texture.png" />
+    <material name="material_0_Curver_Storage_Bin_Black_Small" texture="texture_Curver_Storage_Bin_Black_Small" specular="0.5" shininess="0.5" />
+    <mesh name="model_Curver_Storage_Bin_Black_Small" file="../../../../../mujoco_scanned_objects/models/Curver_Storage_Bin_Black_Small/model.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_0_Curver_Storage_Bin_Black_Small" file="../../../../../mujoco_scanned_objects/models/Curver_Storage_Bin_Black_Small/model_collision_0.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_1_Curver_Storage_Bin_Black_Small" file="../../../../../mujoco_scanned_objects/models/Curver_Storage_Bin_Black_Small/model_collision_1.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_2_Curver_Storage_Bin_Black_Small" file="../../../../../mujoco_scanned_objects/models/Curver_Storage_Bin_Black_Small/model_collision_2.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_3_Curver_Storage_Bin_Black_Small" file="../../../../../mujoco_scanned_objects/models/Curver_Storage_Bin_Black_Small/model_collision_3.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_4_Curver_Storage_Bin_Black_Small" file="../../../../../mujoco_scanned_objects/models/Curver_Storage_Bin_Black_Small/model_collision_4.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_5_Curver_Storage_Bin_Black_Small" file="../../../../../mujoco_scanned_objects/models/Curver_Storage_Bin_Black_Small/model_collision_5.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_6_Curver_Storage_Bin_Black_Small" file="../../../../../mujoco_scanned_objects/models/Curver_Storage_Bin_Black_Small/model_collision_6.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_7_Curver_Storage_Bin_Black_Small" file="../../../../../mujoco_scanned_objects/models/Curver_Storage_Bin_Black_Small/model_collision_7.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_8_Curver_Storage_Bin_Black_Small" file="../../../../../mujoco_scanned_objects/models/Curver_Storage_Bin_Black_Small/model_collision_8.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_9_Curver_Storage_Bin_Black_Small" file="../../../../../mujoco_scanned_objects/models/Curver_Storage_Bin_Black_Small/model_collision_9.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_10_Curver_Storage_Bin_Black_Small" file="../../../../../mujoco_scanned_objects/models/Curver_Storage_Bin_Black_Small/model_collision_10.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_11_Curver_Storage_Bin_Black_Small" file="../../../../../mujoco_scanned_objects/models/Curver_Storage_Bin_Black_Small/model_collision_11.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_12_Curver_Storage_Bin_Black_Small" file="../../../../../mujoco_scanned_objects/models/Curver_Storage_Bin_Black_Small/model_collision_12.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_13_Curver_Storage_Bin_Black_Small" file="../../../../../mujoco_scanned_objects/models/Curver_Storage_Bin_Black_Small/model_collision_13.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_14_Curver_Storage_Bin_Black_Small" file="../../../../../mujoco_scanned_objects/models/Curver_Storage_Bin_Black_Small/model_collision_14.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_15_Curver_Storage_Bin_Black_Small" file="../../../../../mujoco_scanned_objects/models/Curver_Storage_Bin_Black_Small/model_collision_15.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_16_Curver_Storage_Bin_Black_Small" file="../../../../../mujoco_scanned_objects/models/Curver_Storage_Bin_Black_Small/model_collision_16.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_17_Curver_Storage_Bin_Black_Small" file="../../../../../mujoco_scanned_objects/models/Curver_Storage_Bin_Black_Small/model_collision_17.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_18_Curver_Storage_Bin_Black_Small" file="../../../../../mujoco_scanned_objects/models/Curver_Storage_Bin_Black_Small/model_collision_18.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_19_Curver_Storage_Bin_Black_Small" file="../../../../../mujoco_scanned_objects/models/Curver_Storage_Bin_Black_Small/model_collision_19.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_20_Curver_Storage_Bin_Black_Small" file="../../../../../mujoco_scanned_objects/models/Curver_Storage_Bin_Black_Small/model_collision_20.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_21_Curver_Storage_Bin_Black_Small" file="../../../../../mujoco_scanned_objects/models/Curver_Storage_Bin_Black_Small/model_collision_21.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_22_Curver_Storage_Bin_Black_Small" file="../../../../../mujoco_scanned_objects/models/Curver_Storage_Bin_Black_Small/model_collision_22.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_23_Curver_Storage_Bin_Black_Small" file="../../../../../mujoco_scanned_objects/models/Curver_Storage_Bin_Black_Small/model_collision_23.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_24_Curver_Storage_Bin_Black_Small" file="../../../../../mujoco_scanned_objects/models/Curver_Storage_Bin_Black_Small/model_collision_24.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_25_Curver_Storage_Bin_Black_Small" file="../../../../../mujoco_scanned_objects/models/Curver_Storage_Bin_Black_Small/model_collision_25.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_26_Curver_Storage_Bin_Black_Small" file="../../../../../mujoco_scanned_objects/models/Curver_Storage_Bin_Black_Small/model_collision_26.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_27_Curver_Storage_Bin_Black_Small" file="../../../../../mujoco_scanned_objects/models/Curver_Storage_Bin_Black_Small/model_collision_27.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_28_Curver_Storage_Bin_Black_Small" file="../../../../../mujoco_scanned_objects/models/Curver_Storage_Bin_Black_Small/model_collision_28.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_29_Curver_Storage_Bin_Black_Small" file="../../../../../mujoco_scanned_objects/models/Curver_Storage_Bin_Black_Small/model_collision_29.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_30_Curver_Storage_Bin_Black_Small" file="../../../../../mujoco_scanned_objects/models/Curver_Storage_Bin_Black_Small/model_collision_30.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_31_Curver_Storage_Bin_Black_Small" file="../../../../../mujoco_scanned_objects/models/Curver_Storage_Bin_Black_Small/model_collision_31.stl" scale="{scale} {scale} {scale}" />
+  </asset>
+  

@@ -1,0 +1,36 @@
+<body childclass="TERREX_FAST_R_base" name="TERREX_FAST_R1">
+        <geom class="TERREX_FAST_R_col" name="{geom_name}" type="mesh" mesh="model_TERREX_FAST_R" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_TERREX_FAST_R" mesh="model_TERREX_FAST_R" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_TERREX_FAST_R" type="mesh" group="3" />
+      <geom mesh="model_collision_1_TERREX_FAST_R" type="mesh" group="3" />
+      <geom mesh="model_collision_2_TERREX_FAST_R" type="mesh" group="3" />
+      <geom mesh="model_collision_3_TERREX_FAST_R" type="mesh" group="3" />
+      <geom mesh="model_collision_4_TERREX_FAST_R" type="mesh" group="3" />
+      <geom mesh="model_collision_5_TERREX_FAST_R" type="mesh" group="3" />
+      <geom mesh="model_collision_6_TERREX_FAST_R" type="mesh" group="3" />
+      <geom mesh="model_collision_7_TERREX_FAST_R" type="mesh" group="3" />
+      <geom mesh="model_collision_8_TERREX_FAST_R" type="mesh" group="3" />
+      <geom mesh="model_collision_9_TERREX_FAST_R" type="mesh" group="3" />
+      <geom mesh="model_collision_10_TERREX_FAST_R" type="mesh" group="3" />
+      <geom mesh="model_collision_11_TERREX_FAST_R" type="mesh" group="3" />
+      <geom mesh="model_collision_12_TERREX_FAST_R" type="mesh" group="3" />
+      <geom mesh="model_collision_13_TERREX_FAST_R" type="mesh" group="3" />
+      <geom mesh="model_collision_14_TERREX_FAST_R" type="mesh" group="3" />
+      <geom mesh="model_collision_15_TERREX_FAST_R" type="mesh" group="3" />
+      <geom mesh="model_collision_16_TERREX_FAST_R" type="mesh" group="3" />
+      <geom mesh="model_collision_17_TERREX_FAST_R" type="mesh" group="3" />
+      <geom mesh="model_collision_18_TERREX_FAST_R" type="mesh" group="3" />
+      <geom mesh="model_collision_19_TERREX_FAST_R" type="mesh" group="3" />
+      <geom mesh="model_collision_20_TERREX_FAST_R" type="mesh" group="3" />
+      <geom mesh="model_collision_21_TERREX_FAST_R" type="mesh" group="3" />
+      <geom mesh="model_collision_22_TERREX_FAST_R" type="mesh" group="3" />
+      <geom mesh="model_collision_23_TERREX_FAST_R" type="mesh" group="3" />
+      <geom mesh="model_collision_24_TERREX_FAST_R" type="mesh" group="3" />
+      <geom mesh="model_collision_25_TERREX_FAST_R" type="mesh" group="3" />
+      <geom mesh="model_collision_26_TERREX_FAST_R" type="mesh" group="3" />
+      <geom mesh="model_collision_27_TERREX_FAST_R" type="mesh" group="3" />
+      <geom mesh="model_collision_28_TERREX_FAST_R" type="mesh" group="3" />
+      <geom mesh="model_collision_29_TERREX_FAST_R" type="mesh" group="3" />
+      <geom mesh="model_collision_30_TERREX_FAST_R" type="mesh" group="3" />
+      <geom mesh="model_collision_31_TERREX_FAST_R" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,38 @@
+<asset>
+    <texture type="2d" name="texture_Superman_Battle_of_Smallville" file="../../../../../mujoco_scanned_objects/models/Superman_Battle_of_Smallville/texture.png" />
+    <material name="material_0_Superman_Battle_of_Smallville" texture="texture_Superman_Battle_of_Smallville" specular="0.5" shininess="0.5" />
+    <mesh name="model_Superman_Battle_of_Smallville" file="../../../../../mujoco_scanned_objects/models/Superman_Battle_of_Smallville/model.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_0_Superman_Battle_of_Smallville" file="../../../../../mujoco_scanned_objects/models/Superman_Battle_of_Smallville/model_collision_0.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_1_Superman_Battle_of_Smallville" file="../../../../../mujoco_scanned_objects/models/Superman_Battle_of_Smallville/model_collision_1.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_2_Superman_Battle_of_Smallville" file="../../../../../mujoco_scanned_objects/models/Superman_Battle_of_Smallville/model_collision_2.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_3_Superman_Battle_of_Smallville" file="../../../../../mujoco_scanned_objects/models/Superman_Battle_of_Smallville/model_collision_3.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_4_Superman_Battle_of_Smallville" file="../../../../../mujoco_scanned_objects/models/Superman_Battle_of_Smallville/model_collision_4.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_5_Superman_Battle_of_Smallville" file="../../../../../mujoco_scanned_objects/models/Superman_Battle_of_Smallville/model_collision_5.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_6_Superman_Battle_of_Smallville" file="../../../../../mujoco_scanned_objects/models/Superman_Battle_of_Smallville/model_collision_6.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_7_Superman_Battle_of_Smallville" file="../../../../../mujoco_scanned_objects/models/Superman_Battle_of_Smallville/model_collision_7.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_8_Superman_Battle_of_Smallville" file="../../../../../mujoco_scanned_objects/models/Superman_Battle_of_Smallville/model_collision_8.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_9_Superman_Battle_of_Smallville" file="../../../../../mujoco_scanned_objects/models/Superman_Battle_of_Smallville/model_collision_9.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_10_Superman_Battle_of_Smallville" file="../../../../../mujoco_scanned_objects/models/Superman_Battle_of_Smallville/model_collision_10.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_11_Superman_Battle_of_Smallville" file="../../../../../mujoco_scanned_objects/models/Superman_Battle_of_Smallville/model_collision_11.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_12_Superman_Battle_of_Smallville" file="../../../../../mujoco_scanned_objects/models/Superman_Battle_of_Smallville/model_collision_12.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_13_Superman_Battle_of_Smallville" file="../../../../../mujoco_scanned_objects/models/Superman_Battle_of_Smallville/model_collision_13.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_14_Superman_Battle_of_Smallville" file="../../../../../mujoco_scanned_objects/models/Superman_Battle_of_Smallville/model_collision_14.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_15_Superman_Battle_of_Smallville" file="../../../../../mujoco_scanned_objects/models/Superman_Battle_of_Smallville/model_collision_15.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_16_Superman_Battle_of_Smallville" file="../../../../../mujoco_scanned_objects/models/Superman_Battle_of_Smallville/model_collision_16.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_17_Superman_Battle_of_Smallville" file="../../../../../mujoco_scanned_objects/models/Superman_Battle_of_Smallville/model_collision_17.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_18_Superman_Battle_of_Smallville" file="../../../../../mujoco_scanned_objects/models/Superman_Battle_of_Smallville/model_collision_18.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_19_Superman_Battle_of_Smallville" file="../../../../../mujoco_scanned_objects/models/Superman_Battle_of_Smallville/model_collision_19.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_20_Superman_Battle_of_Smallville" file="../../../../../mujoco_scanned_objects/models/Superman_Battle_of_Smallville/model_collision_20.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_21_Superman_Battle_of_Smallville" file="../../../../../mujoco_scanned_objects/models/Superman_Battle_of_Smallville/model_collision_21.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_22_Superman_Battle_of_Smallville" file="../../../../../mujoco_scanned_objects/models/Superman_Battle_of_Smallville/model_collision_22.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_23_Superman_Battle_of_Smallville" file="../../../../../mujoco_scanned_objects/models/Superman_Battle_of_Smallville/model_collision_23.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_24_Superman_Battle_of_Smallville" file="../../../../../mujoco_scanned_objects/models/Superman_Battle_of_Smallville/model_collision_24.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_25_Superman_Battle_of_Smallville" file="../../../../../mujoco_scanned_objects/models/Superman_Battle_of_Smallville/model_collision_25.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_26_Superman_Battle_of_Smallville" file="../../../../../mujoco_scanned_objects/models/Superman_Battle_of_Smallville/model_collision_26.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_27_Superman_Battle_of_Smallville" file="../../../../../mujoco_scanned_objects/models/Superman_Battle_of_Smallville/model_collision_27.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_28_Superman_Battle_of_Smallville" file="../../../../../mujoco_scanned_objects/models/Superman_Battle_of_Smallville/model_collision_28.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_29_Superman_Battle_of_Smallville" file="../../../../../mujoco_scanned_objects/models/Superman_Battle_of_Smallville/model_collision_29.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_30_Superman_Battle_of_Smallville" file="../../../../../mujoco_scanned_objects/models/Superman_Battle_of_Smallville/model_collision_30.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_31_Superman_Battle_of_Smallville" file="../../../../../mujoco_scanned_objects/models/Superman_Battle_of_Smallville/model_collision_31.stl" scale="{scale} {scale} {scale}" />
+  </asset>
+  

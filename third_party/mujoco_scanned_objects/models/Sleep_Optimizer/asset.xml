@@ -1,0 +1,38 @@
+<asset>
+    <texture type="2d" name="texture_Sleep_Optimizer" file="../../../../../mujoco_scanned_objects/models/Sleep_Optimizer/texture.png" />
+    <material name="material_0_Sleep_Optimizer" texture="texture_Sleep_Optimizer" specular="0.5" shininess="0.5" />
+    <mesh name="model_Sleep_Optimizer" file="../../../../../mujoco_scanned_objects/models/Sleep_Optimizer/model.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_0_Sleep_Optimizer" file="../../../../../mujoco_scanned_objects/models/Sleep_Optimizer/model_collision_0.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_1_Sleep_Optimizer" file="../../../../../mujoco_scanned_objects/models/Sleep_Optimizer/model_collision_1.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_2_Sleep_Optimizer" file="../../../../../mujoco_scanned_objects/models/Sleep_Optimizer/model_collision_2.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_3_Sleep_Optimizer" file="../../../../../mujoco_scanned_objects/models/Sleep_Optimizer/model_collision_3.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_4_Sleep_Optimizer" file="../../../../../mujoco_scanned_objects/models/Sleep_Optimizer/model_collision_4.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_5_Sleep_Optimizer" file="../../../../../mujoco_scanned_objects/models/Sleep_Optimizer/model_collision_5.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_6_Sleep_Optimizer" file="../../../../../mujoco_scanned_objects/models/Sleep_Optimizer/model_collision_6.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_7_Sleep_Optimizer" file="../../../../../mujoco_scanned_objects/models/Sleep_Optimizer/model_collision_7.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_8_Sleep_Optimizer" file="../../../../../mujoco_scanned_objects/models/Sleep_Optimizer/model_collision_8.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_9_Sleep_Optimizer" file="../../../../../mujoco_scanned_objects/models/Sleep_Optimizer/model_collision_9.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_10_Sleep_Optimizer" file="../../../../../mujoco_scanned_objects/models/Sleep_Optimizer/model_collision_10.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_11_Sleep_Optimizer" file="../../../../../mujoco_scanned_objects/models/Sleep_Optimizer/model_collision_11.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_12_Sleep_Optimizer" file="../../../../../mujoco_scanned_objects/models/Sleep_Optimizer/model_collision_12.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_13_Sleep_Optimizer" file="../../../../../mujoco_scanned_objects/models/Sleep_Optimizer/model_collision_13.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_14_Sleep_Optimizer" file="../../../../../mujoco_scanned_objects/models/Sleep_Optimizer/model_collision_14.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_15_Sleep_Optimizer" file="../../../../../mujoco_scanned_objects/models/Sleep_Optimizer/model_collision_15.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_16_Sleep_Optimizer" file="../../../../../mujoco_scanned_objects/models/Sleep_Optimizer/model_collision_16.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_17_Sleep_Optimizer" file="../../../../../mujoco_scanned_objects/models/Sleep_Optimizer/model_collision_17.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_18_Sleep_Optimizer" file="../../../../../mujoco_scanned_objects/models/Sleep_Optimizer/model_collision_18.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_19_Sleep_Optimizer" file="../../../../../mujoco_scanned_objects/models/Sleep_Optimizer/model_collision_19.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_20_Sleep_Optimizer" file="../../../../../mujoco_scanned_objects/models/Sleep_Optimizer/model_collision_20.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_21_Sleep_Optimizer" file="../../../../../mujoco_scanned_objects/models/Sleep_Optimizer/model_collision_21.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_22_Sleep_Optimizer" file="../../../../../mujoco_scanned_objects/models/Sleep_Optimizer/model_collision_22.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_23_Sleep_Optimizer" file="../../../../../mujoco_scanned_objects/models/Sleep_Optimizer/model_collision_23.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_24_Sleep_Optimizer" file="../../../../../mujoco_scanned_objects/models/Sleep_Optimizer/model_collision_24.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_25_Sleep_Optimizer" file="../../../../../mujoco_scanned_objects/models/Sleep_Optimizer/model_collision_25.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_26_Sleep_Optimizer" file="../../../../../mujoco_scanned_objects/models/Sleep_Optimizer/model_collision_26.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_27_Sleep_Optimizer" file="../../../../../mujoco_scanned_objects/models/Sleep_Optimizer/model_collision_27.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_28_Sleep_Optimizer" file="../../../../../mujoco_scanned_objects/models/Sleep_Optimizer/model_collision_28.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_29_Sleep_Optimizer" file="../../../../../mujoco_scanned_objects/models/Sleep_Optimizer/model_collision_29.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_30_Sleep_Optimizer" file="../../../../../mujoco_scanned_objects/models/Sleep_Optimizer/model_collision_30.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_31_Sleep_Optimizer" file="../../../../../mujoco_scanned_objects/models/Sleep_Optimizer/model_collision_31.stl" scale="{scale} {scale} {scale}" />
+  </asset>
+  

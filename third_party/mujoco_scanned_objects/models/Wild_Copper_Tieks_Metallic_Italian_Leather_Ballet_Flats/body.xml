@@ -1,0 +1,36 @@
+<body childclass="Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats_base" name="Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats1">
+        <geom class="Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats_col" name="{geom_name}" type="mesh" mesh="model_Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats" mesh="model_Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats" type="mesh" group="3" />
+    </body>

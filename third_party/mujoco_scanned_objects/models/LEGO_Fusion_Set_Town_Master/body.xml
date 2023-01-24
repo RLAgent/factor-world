@@ -1,0 +1,5 @@
+<body childclass="LEGO_Fusion_Set_Town_Master_base" name="LEGO_Fusion_Set_Town_Master1">
+        <geom class="LEGO_Fusion_Set_Town_Master_col" name="{geom_name}" type="mesh" mesh="model_LEGO_Fusion_Set_Town_Master" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_LEGO_Fusion_Set_Town_Master" mesh="model_LEGO_Fusion_Set_Town_Master" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_LEGO_Fusion_Set_Town_Master" type="mesh" group="3" />
+    </body>

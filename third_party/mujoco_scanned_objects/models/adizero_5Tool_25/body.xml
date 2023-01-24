@@ -1,0 +1,36 @@
+<body childclass="adizero_5Tool_25_base" name="adizero_5Tool_251">
+        <geom class="adizero_5Tool_25_col" name="{geom_name}" type="mesh" mesh="model_adizero_5Tool_25" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_adizero_5Tool_25" mesh="model_adizero_5Tool_25" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_adizero_5Tool_25" type="mesh" group="3" />
+      <geom mesh="model_collision_1_adizero_5Tool_25" type="mesh" group="3" />
+      <geom mesh="model_collision_2_adizero_5Tool_25" type="mesh" group="3" />
+      <geom mesh="model_collision_3_adizero_5Tool_25" type="mesh" group="3" />
+      <geom mesh="model_collision_4_adizero_5Tool_25" type="mesh" group="3" />
+      <geom mesh="model_collision_5_adizero_5Tool_25" type="mesh" group="3" />
+      <geom mesh="model_collision_6_adizero_5Tool_25" type="mesh" group="3" />
+      <geom mesh="model_collision_7_adizero_5Tool_25" type="mesh" group="3" />
+      <geom mesh="model_collision_8_adizero_5Tool_25" type="mesh" group="3" />
+      <geom mesh="model_collision_9_adizero_5Tool_25" type="mesh" group="3" />
+      <geom mesh="model_collision_10_adizero_5Tool_25" type="mesh" group="3" />
+      <geom mesh="model_collision_11_adizero_5Tool_25" type="mesh" group="3" />
+      <geom mesh="model_collision_12_adizero_5Tool_25" type="mesh" group="3" />
+      <geom mesh="model_collision_13_adizero_5Tool_25" type="mesh" group="3" />
+      <geom mesh="model_collision_14_adizero_5Tool_25" type="mesh" group="3" />
+      <geom mesh="model_collision_15_adizero_5Tool_25" type="mesh" group="3" />
+      <geom mesh="model_collision_16_adizero_5Tool_25" type="mesh" group="3" />
+      <geom mesh="model_collision_17_adizero_5Tool_25" type="mesh" group="3" />
+      <geom mesh="model_collision_18_adizero_5Tool_25" type="mesh" group="3" />
+      <geom mesh="model_collision_19_adizero_5Tool_25" type="mesh" group="3" />
+      <geom mesh="model_collision_20_adizero_5Tool_25" type="mesh" group="3" />
+      <geom mesh="model_collision_21_adizero_5Tool_25" type="mesh" group="3" />
+      <geom mesh="model_collision_22_adizero_5Tool_25" type="mesh" group="3" />
+      <geom mesh="model_collision_23_adizero_5Tool_25" type="mesh" group="3" />
+      <geom mesh="model_collision_24_adizero_5Tool_25" type="mesh" group="3" />
+      <geom mesh="model_collision_25_adizero_5Tool_25" type="mesh" group="3" />
+      <geom mesh="model_collision_26_adizero_5Tool_25" type="mesh" group="3" />
+      <geom mesh="model_collision_27_adizero_5Tool_25" type="mesh" group="3" />
+      <geom mesh="model_collision_28_adizero_5Tool_25" type="mesh" group="3" />
+      <geom mesh="model_collision_29_adizero_5Tool_25" type="mesh" group="3" />
+      <geom mesh="model_collision_30_adizero_5Tool_25" type="mesh" group="3" />
+      <geom mesh="model_collision_31_adizero_5Tool_25" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="2_of_Jenga_Classic_Game_base" name="2_of_Jenga_Classic_Game1">
+        <geom class="2_of_Jenga_Classic_Game_col" name="{geom_name}" type="mesh" mesh="model_2_of_Jenga_Classic_Game" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_2_of_Jenga_Classic_Game" mesh="model_2_of_Jenga_Classic_Game" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_2_of_Jenga_Classic_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_1_2_of_Jenga_Classic_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_2_2_of_Jenga_Classic_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_3_2_of_Jenga_Classic_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_4_2_of_Jenga_Classic_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_5_2_of_Jenga_Classic_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_6_2_of_Jenga_Classic_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_7_2_of_Jenga_Classic_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_8_2_of_Jenga_Classic_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_9_2_of_Jenga_Classic_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_10_2_of_Jenga_Classic_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_11_2_of_Jenga_Classic_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_12_2_of_Jenga_Classic_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_13_2_of_Jenga_Classic_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_14_2_of_Jenga_Classic_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_15_2_of_Jenga_Classic_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_16_2_of_Jenga_Classic_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_17_2_of_Jenga_Classic_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_18_2_of_Jenga_Classic_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_19_2_of_Jenga_Classic_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_20_2_of_Jenga_Classic_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_21_2_of_Jenga_Classic_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_22_2_of_Jenga_Classic_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_23_2_of_Jenga_Classic_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_24_2_of_Jenga_Classic_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_25_2_of_Jenga_Classic_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_26_2_of_Jenga_Classic_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_27_2_of_Jenga_Classic_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_28_2_of_Jenga_Classic_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_29_2_of_Jenga_Classic_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_30_2_of_Jenga_Classic_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_31_2_of_Jenga_Classic_Game" type="mesh" group="3" />
+    </body>

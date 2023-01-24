@@ -1,0 +1,36 @@
+<body childclass="VEGETABLE_GARDEN_base" name="VEGETABLE_GARDEN1">
+        <geom class="VEGETABLE_GARDEN_col" name="{geom_name}" type="mesh" mesh="model_VEGETABLE_GARDEN" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_VEGETABLE_GARDEN" mesh="model_VEGETABLE_GARDEN" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_VEGETABLE_GARDEN" type="mesh" group="3" />
+      <geom mesh="model_collision_1_VEGETABLE_GARDEN" type="mesh" group="3" />
+      <geom mesh="model_collision_2_VEGETABLE_GARDEN" type="mesh" group="3" />
+      <geom mesh="model_collision_3_VEGETABLE_GARDEN" type="mesh" group="3" />
+      <geom mesh="model_collision_4_VEGETABLE_GARDEN" type="mesh" group="3" />
+      <geom mesh="model_collision_5_VEGETABLE_GARDEN" type="mesh" group="3" />
+      <geom mesh="model_collision_6_VEGETABLE_GARDEN" type="mesh" group="3" />
+      <geom mesh="model_collision_7_VEGETABLE_GARDEN" type="mesh" group="3" />
+      <geom mesh="model_collision_8_VEGETABLE_GARDEN" type="mesh" group="3" />
+      <geom mesh="model_collision_9_VEGETABLE_GARDEN" type="mesh" group="3" />
+      <geom mesh="model_collision_10_VEGETABLE_GARDEN" type="mesh" group="3" />
+      <geom mesh="model_collision_11_VEGETABLE_GARDEN" type="mesh" group="3" />
+      <geom mesh="model_collision_12_VEGETABLE_GARDEN" type="mesh" group="3" />
+      <geom mesh="model_collision_13_VEGETABLE_GARDEN" type="mesh" group="3" />
+      <geom mesh="model_collision_14_VEGETABLE_GARDEN" type="mesh" group="3" />
+      <geom mesh="model_collision_15_VEGETABLE_GARDEN" type="mesh" group="3" />
+      <geom mesh="model_collision_16_VEGETABLE_GARDEN" type="mesh" group="3" />
+      <geom mesh="model_collision_17_VEGETABLE_GARDEN" type="mesh" group="3" />
+      <geom mesh="model_collision_18_VEGETABLE_GARDEN" type="mesh" group="3" />
+      <geom mesh="model_collision_19_VEGETABLE_GARDEN" type="mesh" group="3" />
+      <geom mesh="model_collision_20_VEGETABLE_GARDEN" type="mesh" group="3" />
+      <geom mesh="model_collision_21_VEGETABLE_GARDEN" type="mesh" group="3" />
+      <geom mesh="model_collision_22_VEGETABLE_GARDEN" type="mesh" group="3" />
+      <geom mesh="model_collision_23_VEGETABLE_GARDEN" type="mesh" group="3" />
+      <geom mesh="model_collision_24_VEGETABLE_GARDEN" type="mesh" group="3" />
+      <geom mesh="model_collision_25_VEGETABLE_GARDEN" type="mesh" group="3" />
+      <geom mesh="model_collision_26_VEGETABLE_GARDEN" type="mesh" group="3" />
+      <geom mesh="model_collision_27_VEGETABLE_GARDEN" type="mesh" group="3" />
+      <geom mesh="model_collision_28_VEGETABLE_GARDEN" type="mesh" group="3" />
+      <geom mesh="model_collision_29_VEGETABLE_GARDEN" type="mesh" group="3" />
+      <geom mesh="model_collision_30_VEGETABLE_GARDEN" type="mesh" group="3" />
+      <geom mesh="model_collision_31_VEGETABLE_GARDEN" type="mesh" group="3" />
+    </body>

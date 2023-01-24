@@ -1,0 +1,36 @@
+<body childclass="PhosphOmega_base" name="PhosphOmega1">
+        <geom class="PhosphOmega_col" name="{geom_name}" type="mesh" mesh="model_PhosphOmega" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_PhosphOmega" mesh="model_PhosphOmega" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_PhosphOmega" type="mesh" group="3" />
+      <geom mesh="model_collision_1_PhosphOmega" type="mesh" group="3" />
+      <geom mesh="model_collision_2_PhosphOmega" type="mesh" group="3" />
+      <geom mesh="model_collision_3_PhosphOmega" type="mesh" group="3" />
+      <geom mesh="model_collision_4_PhosphOmega" type="mesh" group="3" />
+      <geom mesh="model_collision_5_PhosphOmega" type="mesh" group="3" />
+      <geom mesh="model_collision_6_PhosphOmega" type="mesh" group="3" />
+      <geom mesh="model_collision_7_PhosphOmega" type="mesh" group="3" />
+      <geom mesh="model_collision_8_PhosphOmega" type="mesh" group="3" />
+      <geom mesh="model_collision_9_PhosphOmega" type="mesh" group="3" />
+      <geom mesh="model_collision_10_PhosphOmega" type="mesh" group="3" />
+      <geom mesh="model_collision_11_PhosphOmega" type="mesh" group="3" />
+      <geom mesh="model_collision_12_PhosphOmega" type="mesh" group="3" />
+      <geom mesh="model_collision_13_PhosphOmega" type="mesh" group="3" />
+      <geom mesh="model_collision_14_PhosphOmega" type="mesh" group="3" />
+      <geom mesh="model_collision_15_PhosphOmega" type="mesh" group="3" />
+      <geom mesh="model_collision_16_PhosphOmega" type="mesh" group="3" />
+      <geom mesh="model_collision_17_PhosphOmega" type="mesh" group="3" />
+      <geom mesh="model_collision_18_PhosphOmega" type="mesh" group="3" />
+      <geom mesh="model_collision_19_PhosphOmega" type="mesh" group="3" />
+      <geom mesh="model_collision_20_PhosphOmega" type="mesh" group="3" />
+      <geom mesh="model_collision_21_PhosphOmega" type="mesh" group="3" />
+      <geom mesh="model_collision_22_PhosphOmega" type="mesh" group="3" />
+      <geom mesh="model_collision_23_PhosphOmega" type="mesh" group="3" />
+      <geom mesh="model_collision_24_PhosphOmega" type="mesh" group="3" />
+      <geom mesh="model_collision_25_PhosphOmega" type="mesh" group="3" />
+      <geom mesh="model_collision_26_PhosphOmega" type="mesh" group="3" />
+      <geom mesh="model_collision_27_PhosphOmega" type="mesh" group="3" />
+      <geom mesh="model_collision_28_PhosphOmega" type="mesh" group="3" />
+      <geom mesh="model_collision_29_PhosphOmega" type="mesh" group="3" />
+      <geom mesh="model_collision_30_PhosphOmega" type="mesh" group="3" />
+      <geom mesh="model_collision_31_PhosphOmega" type="mesh" group="3" />
+    </body>

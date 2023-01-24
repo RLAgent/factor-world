@@ -1,0 +1,36 @@
+<body childclass="Borage_GLA240Gamma_Tocopherol_base" name="Borage_GLA240Gamma_Tocopherol1">
+        <geom class="Borage_GLA240Gamma_Tocopherol_col" name="{geom_name}" type="mesh" mesh="model_Borage_GLA240Gamma_Tocopherol" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Borage_GLA240Gamma_Tocopherol" mesh="model_Borage_GLA240Gamma_Tocopherol" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Borage_GLA240Gamma_Tocopherol" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Borage_GLA240Gamma_Tocopherol" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Borage_GLA240Gamma_Tocopherol" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Borage_GLA240Gamma_Tocopherol" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Borage_GLA240Gamma_Tocopherol" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Borage_GLA240Gamma_Tocopherol" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Borage_GLA240Gamma_Tocopherol" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Borage_GLA240Gamma_Tocopherol" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Borage_GLA240Gamma_Tocopherol" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Borage_GLA240Gamma_Tocopherol" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Borage_GLA240Gamma_Tocopherol" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Borage_GLA240Gamma_Tocopherol" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Borage_GLA240Gamma_Tocopherol" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Borage_GLA240Gamma_Tocopherol" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Borage_GLA240Gamma_Tocopherol" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Borage_GLA240Gamma_Tocopherol" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Borage_GLA240Gamma_Tocopherol" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Borage_GLA240Gamma_Tocopherol" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Borage_GLA240Gamma_Tocopherol" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Borage_GLA240Gamma_Tocopherol" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Borage_GLA240Gamma_Tocopherol" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Borage_GLA240Gamma_Tocopherol" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Borage_GLA240Gamma_Tocopherol" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Borage_GLA240Gamma_Tocopherol" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Borage_GLA240Gamma_Tocopherol" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Borage_GLA240Gamma_Tocopherol" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Borage_GLA240Gamma_Tocopherol" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Borage_GLA240Gamma_Tocopherol" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Borage_GLA240Gamma_Tocopherol" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Borage_GLA240Gamma_Tocopherol" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Borage_GLA240Gamma_Tocopherol" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Borage_GLA240Gamma_Tocopherol" type="mesh" group="3" />
+    </body>

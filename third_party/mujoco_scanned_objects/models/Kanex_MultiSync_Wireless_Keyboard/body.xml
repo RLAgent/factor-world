@@ -1,0 +1,36 @@
+<body childclass="Kanex_MultiSync_Wireless_Keyboard_base" name="Kanex_MultiSync_Wireless_Keyboard1">
+        <geom class="Kanex_MultiSync_Wireless_Keyboard_col" name="{geom_name}" type="mesh" mesh="model_Kanex_MultiSync_Wireless_Keyboard" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Kanex_MultiSync_Wireless_Keyboard" mesh="model_Kanex_MultiSync_Wireless_Keyboard" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Kanex_MultiSync_Wireless_Keyboard" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Kanex_MultiSync_Wireless_Keyboard" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Kanex_MultiSync_Wireless_Keyboard" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Kanex_MultiSync_Wireless_Keyboard" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Kanex_MultiSync_Wireless_Keyboard" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Kanex_MultiSync_Wireless_Keyboard" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Kanex_MultiSync_Wireless_Keyboard" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Kanex_MultiSync_Wireless_Keyboard" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Kanex_MultiSync_Wireless_Keyboard" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Kanex_MultiSync_Wireless_Keyboard" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Kanex_MultiSync_Wireless_Keyboard" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Kanex_MultiSync_Wireless_Keyboard" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Kanex_MultiSync_Wireless_Keyboard" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Kanex_MultiSync_Wireless_Keyboard" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Kanex_MultiSync_Wireless_Keyboard" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Kanex_MultiSync_Wireless_Keyboard" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Kanex_MultiSync_Wireless_Keyboard" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Kanex_MultiSync_Wireless_Keyboard" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Kanex_MultiSync_Wireless_Keyboard" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Kanex_MultiSync_Wireless_Keyboard" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Kanex_MultiSync_Wireless_Keyboard" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Kanex_MultiSync_Wireless_Keyboard" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Kanex_MultiSync_Wireless_Keyboard" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Kanex_MultiSync_Wireless_Keyboard" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Kanex_MultiSync_Wireless_Keyboard" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Kanex_MultiSync_Wireless_Keyboard" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Kanex_MultiSync_Wireless_Keyboard" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Kanex_MultiSync_Wireless_Keyboard" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Kanex_MultiSync_Wireless_Keyboard" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Kanex_MultiSync_Wireless_Keyboard" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Kanex_MultiSync_Wireless_Keyboard" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Kanex_MultiSync_Wireless_Keyboard" type="mesh" group="3" />
+    </body>

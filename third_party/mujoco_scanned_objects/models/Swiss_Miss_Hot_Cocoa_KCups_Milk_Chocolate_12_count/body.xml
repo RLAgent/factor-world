@@ -1,0 +1,36 @@
+<body childclass="Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count_base" name="Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count1">
+        <geom class="Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count_col" name="{geom_name}" type="mesh" mesh="model_Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count" mesh="model_Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count" type="mesh" group="3" />
+    </body>

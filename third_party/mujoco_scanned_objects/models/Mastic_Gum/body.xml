@@ -1,0 +1,36 @@
+<body childclass="Mastic_Gum_base" name="Mastic_Gum1">
+        <geom class="Mastic_Gum_col" name="{geom_name}" type="mesh" mesh="model_Mastic_Gum" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Mastic_Gum" mesh="model_Mastic_Gum" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Mastic_Gum" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Mastic_Gum" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Mastic_Gum" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Mastic_Gum" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Mastic_Gum" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Mastic_Gum" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Mastic_Gum" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Mastic_Gum" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Mastic_Gum" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Mastic_Gum" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Mastic_Gum" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Mastic_Gum" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Mastic_Gum" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Mastic_Gum" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Mastic_Gum" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Mastic_Gum" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Mastic_Gum" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Mastic_Gum" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Mastic_Gum" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Mastic_Gum" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Mastic_Gum" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Mastic_Gum" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Mastic_Gum" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Mastic_Gum" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Mastic_Gum" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Mastic_Gum" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Mastic_Gum" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Mastic_Gum" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Mastic_Gum" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Mastic_Gum" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Mastic_Gum" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Mastic_Gum" type="mesh" group="3" />
+    </body>

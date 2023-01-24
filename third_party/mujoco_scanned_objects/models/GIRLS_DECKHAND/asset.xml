@@ -1,0 +1,38 @@
+<asset>
+    <texture type="2d" name="texture_GIRLS_DECKHAND" file="../../../../../mujoco_scanned_objects/models/GIRLS_DECKHAND/texture.png" />
+    <material name="material_0_GIRLS_DECKHAND" texture="texture_GIRLS_DECKHAND" specular="0.5" shininess="0.5" />
+    <mesh name="model_GIRLS_DECKHAND" file="../../../../../mujoco_scanned_objects/models/GIRLS_DECKHAND/model.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_0_GIRLS_DECKHAND" file="../../../../../mujoco_scanned_objects/models/GIRLS_DECKHAND/model_collision_0.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_1_GIRLS_DECKHAND" file="../../../../../mujoco_scanned_objects/models/GIRLS_DECKHAND/model_collision_1.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_2_GIRLS_DECKHAND" file="../../../../../mujoco_scanned_objects/models/GIRLS_DECKHAND/model_collision_2.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_3_GIRLS_DECKHAND" file="../../../../../mujoco_scanned_objects/models/GIRLS_DECKHAND/model_collision_3.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_4_GIRLS_DECKHAND" file="../../../../../mujoco_scanned_objects/models/GIRLS_DECKHAND/model_collision_4.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_5_GIRLS_DECKHAND" file="../../../../../mujoco_scanned_objects/models/GIRLS_DECKHAND/model_collision_5.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_6_GIRLS_DECKHAND" file="../../../../../mujoco_scanned_objects/models/GIRLS_DECKHAND/model_collision_6.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_7_GIRLS_DECKHAND" file="../../../../../mujoco_scanned_objects/models/GIRLS_DECKHAND/model_collision_7.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_8_GIRLS_DECKHAND" file="../../../../../mujoco_scanned_objects/models/GIRLS_DECKHAND/model_collision_8.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_9_GIRLS_DECKHAND" file="../../../../../mujoco_scanned_objects/models/GIRLS_DECKHAND/model_collision_9.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_10_GIRLS_DECKHAND" file="../../../../../mujoco_scanned_objects/models/GIRLS_DECKHAND/model_collision_10.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_11_GIRLS_DECKHAND" file="../../../../../mujoco_scanned_objects/models/GIRLS_DECKHAND/model_collision_11.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_12_GIRLS_DECKHAND" file="../../../../../mujoco_scanned_objects/models/GIRLS_DECKHAND/model_collision_12.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_13_GIRLS_DECKHAND" file="../../../../../mujoco_scanned_objects/models/GIRLS_DECKHAND/model_collision_13.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_14_GIRLS_DECKHAND" file="../../../../../mujoco_scanned_objects/models/GIRLS_DECKHAND/model_collision_14.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_15_GIRLS_DECKHAND" file="../../../../../mujoco_scanned_objects/models/GIRLS_DECKHAND/model_collision_15.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_16_GIRLS_DECKHAND" file="../../../../../mujoco_scanned_objects/models/GIRLS_DECKHAND/model_collision_16.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_17_GIRLS_DECKHAND" file="../../../../../mujoco_scanned_objects/models/GIRLS_DECKHAND/model_collision_17.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_18_GIRLS_DECKHAND" file="../../../../../mujoco_scanned_objects/models/GIRLS_DECKHAND/model_collision_18.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_19_GIRLS_DECKHAND" file="../../../../../mujoco_scanned_objects/models/GIRLS_DECKHAND/model_collision_19.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_20_GIRLS_DECKHAND" file="../../../../../mujoco_scanned_objects/models/GIRLS_DECKHAND/model_collision_20.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_21_GIRLS_DECKHAND" file="../../../../../mujoco_scanned_objects/models/GIRLS_DECKHAND/model_collision_21.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_22_GIRLS_DECKHAND" file="../../../../../mujoco_scanned_objects/models/GIRLS_DECKHAND/model_collision_22.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_23_GIRLS_DECKHAND" file="../../../../../mujoco_scanned_objects/models/GIRLS_DECKHAND/model_collision_23.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_24_GIRLS_DECKHAND" file="../../../../../mujoco_scanned_objects/models/GIRLS_DECKHAND/model_collision_24.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_25_GIRLS_DECKHAND" file="../../../../../mujoco_scanned_objects/models/GIRLS_DECKHAND/model_collision_25.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_26_GIRLS_DECKHAND" file="../../../../../mujoco_scanned_objects/models/GIRLS_DECKHAND/model_collision_26.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_27_GIRLS_DECKHAND" file="../../../../../mujoco_scanned_objects/models/GIRLS_DECKHAND/model_collision_27.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_28_GIRLS_DECKHAND" file="../../../../../mujoco_scanned_objects/models/GIRLS_DECKHAND/model_collision_28.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_29_GIRLS_DECKHAND" file="../../../../../mujoco_scanned_objects/models/GIRLS_DECKHAND/model_collision_29.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_30_GIRLS_DECKHAND" file="../../../../../mujoco_scanned_objects/models/GIRLS_DECKHAND/model_collision_30.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_31_GIRLS_DECKHAND" file="../../../../../mujoco_scanned_objects/models/GIRLS_DECKHAND/model_collision_31.stl" scale="{scale} {scale} {scale}" />
+  </asset>
+  

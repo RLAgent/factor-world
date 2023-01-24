@@ -1,0 +1,36 @@
+<body childclass="Jarrow_Glucosamine_Chondroitin_Combination_120_Caps_base" name="Jarrow_Glucosamine_Chondroitin_Combination_120_Caps1">
+        <geom class="Jarrow_Glucosamine_Chondroitin_Combination_120_Caps_col" name="{geom_name}" type="mesh" mesh="model_Jarrow_Glucosamine_Chondroitin_Combination_120_Caps" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Jarrow_Glucosamine_Chondroitin_Combination_120_Caps" mesh="model_Jarrow_Glucosamine_Chondroitin_Combination_120_Caps" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Jarrow_Glucosamine_Chondroitin_Combination_120_Caps" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Jarrow_Glucosamine_Chondroitin_Combination_120_Caps" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Jarrow_Glucosamine_Chondroitin_Combination_120_Caps" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Jarrow_Glucosamine_Chondroitin_Combination_120_Caps" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Jarrow_Glucosamine_Chondroitin_Combination_120_Caps" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Jarrow_Glucosamine_Chondroitin_Combination_120_Caps" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Jarrow_Glucosamine_Chondroitin_Combination_120_Caps" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Jarrow_Glucosamine_Chondroitin_Combination_120_Caps" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Jarrow_Glucosamine_Chondroitin_Combination_120_Caps" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Jarrow_Glucosamine_Chondroitin_Combination_120_Caps" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Jarrow_Glucosamine_Chondroitin_Combination_120_Caps" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Jarrow_Glucosamine_Chondroitin_Combination_120_Caps" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Jarrow_Glucosamine_Chondroitin_Combination_120_Caps" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Jarrow_Glucosamine_Chondroitin_Combination_120_Caps" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Jarrow_Glucosamine_Chondroitin_Combination_120_Caps" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Jarrow_Glucosamine_Chondroitin_Combination_120_Caps" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Jarrow_Glucosamine_Chondroitin_Combination_120_Caps" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Jarrow_Glucosamine_Chondroitin_Combination_120_Caps" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Jarrow_Glucosamine_Chondroitin_Combination_120_Caps" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Jarrow_Glucosamine_Chondroitin_Combination_120_Caps" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Jarrow_Glucosamine_Chondroitin_Combination_120_Caps" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Jarrow_Glucosamine_Chondroitin_Combination_120_Caps" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Jarrow_Glucosamine_Chondroitin_Combination_120_Caps" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Jarrow_Glucosamine_Chondroitin_Combination_120_Caps" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Jarrow_Glucosamine_Chondroitin_Combination_120_Caps" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Jarrow_Glucosamine_Chondroitin_Combination_120_Caps" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Jarrow_Glucosamine_Chondroitin_Combination_120_Caps" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Jarrow_Glucosamine_Chondroitin_Combination_120_Caps" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Jarrow_Glucosamine_Chondroitin_Combination_120_Caps" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Jarrow_Glucosamine_Chondroitin_Combination_120_Caps" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Jarrow_Glucosamine_Chondroitin_Combination_120_Caps" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Jarrow_Glucosamine_Chondroitin_Combination_120_Caps" type="mesh" group="3" />
+    </body>

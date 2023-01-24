@@ -1,0 +1,36 @@
+<body childclass="HP_1800_Tablet_8GB_7_base" name="HP_1800_Tablet_8GB_71">
+        <geom class="HP_1800_Tablet_8GB_7_col" name="{geom_name}" type="mesh" mesh="model_HP_1800_Tablet_8GB_7" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_HP_1800_Tablet_8GB_7" mesh="model_HP_1800_Tablet_8GB_7" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_HP_1800_Tablet_8GB_7" type="mesh" group="3" />
+      <geom mesh="model_collision_1_HP_1800_Tablet_8GB_7" type="mesh" group="3" />
+      <geom mesh="model_collision_2_HP_1800_Tablet_8GB_7" type="mesh" group="3" />
+      <geom mesh="model_collision_3_HP_1800_Tablet_8GB_7" type="mesh" group="3" />
+      <geom mesh="model_collision_4_HP_1800_Tablet_8GB_7" type="mesh" group="3" />
+      <geom mesh="model_collision_5_HP_1800_Tablet_8GB_7" type="mesh" group="3" />
+      <geom mesh="model_collision_6_HP_1800_Tablet_8GB_7" type="mesh" group="3" />
+      <geom mesh="model_collision_7_HP_1800_Tablet_8GB_7" type="mesh" group="3" />
+      <geom mesh="model_collision_8_HP_1800_Tablet_8GB_7" type="mesh" group="3" />
+      <geom mesh="model_collision_9_HP_1800_Tablet_8GB_7" type="mesh" group="3" />
+      <geom mesh="model_collision_10_HP_1800_Tablet_8GB_7" type="mesh" group="3" />
+      <geom mesh="model_collision_11_HP_1800_Tablet_8GB_7" type="mesh" group="3" />
+      <geom mesh="model_collision_12_HP_1800_Tablet_8GB_7" type="mesh" group="3" />
+      <geom mesh="model_collision_13_HP_1800_Tablet_8GB_7" type="mesh" group="3" />
+      <geom mesh="model_collision_14_HP_1800_Tablet_8GB_7" type="mesh" group="3" />
+      <geom mesh="model_collision_15_HP_1800_Tablet_8GB_7" type="mesh" group="3" />
+      <geom mesh="model_collision_16_HP_1800_Tablet_8GB_7" type="mesh" group="3" />
+      <geom mesh="model_collision_17_HP_1800_Tablet_8GB_7" type="mesh" group="3" />
+      <geom mesh="model_collision_18_HP_1800_Tablet_8GB_7" type="mesh" group="3" />
+      <geom mesh="model_collision_19_HP_1800_Tablet_8GB_7" type="mesh" group="3" />
+      <geom mesh="model_collision_20_HP_1800_Tablet_8GB_7" type="mesh" group="3" />
+      <geom mesh="model_collision_21_HP_1800_Tablet_8GB_7" type="mesh" group="3" />
+      <geom mesh="model_collision_22_HP_1800_Tablet_8GB_7" type="mesh" group="3" />
+      <geom mesh="model_collision_23_HP_1800_Tablet_8GB_7" type="mesh" group="3" />
+      <geom mesh="model_collision_24_HP_1800_Tablet_8GB_7" type="mesh" group="3" />
+      <geom mesh="model_collision_25_HP_1800_Tablet_8GB_7" type="mesh" group="3" />
+      <geom mesh="model_collision_26_HP_1800_Tablet_8GB_7" type="mesh" group="3" />
+      <geom mesh="model_collision_27_HP_1800_Tablet_8GB_7" type="mesh" group="3" />
+      <geom mesh="model_collision_28_HP_1800_Tablet_8GB_7" type="mesh" group="3" />
+      <geom mesh="model_collision_29_HP_1800_Tablet_8GB_7" type="mesh" group="3" />
+      <geom mesh="model_collision_30_HP_1800_Tablet_8GB_7" type="mesh" group="3" />
+      <geom mesh="model_collision_31_HP_1800_Tablet_8GB_7" type="mesh" group="3" />
+    </body>

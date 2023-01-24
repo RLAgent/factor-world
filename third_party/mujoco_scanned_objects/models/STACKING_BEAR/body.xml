@@ -1,0 +1,36 @@
+<body childclass="STACKING_BEAR_base" name="STACKING_BEAR1">
+        <geom class="STACKING_BEAR_col" name="{geom_name}" type="mesh" mesh="model_STACKING_BEAR" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_STACKING_BEAR" mesh="model_STACKING_BEAR" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_STACKING_BEAR" type="mesh" group="3" />
+      <geom mesh="model_collision_1_STACKING_BEAR" type="mesh" group="3" />
+      <geom mesh="model_collision_2_STACKING_BEAR" type="mesh" group="3" />
+      <geom mesh="model_collision_3_STACKING_BEAR" type="mesh" group="3" />
+      <geom mesh="model_collision_4_STACKING_BEAR" type="mesh" group="3" />
+      <geom mesh="model_collision_5_STACKING_BEAR" type="mesh" group="3" />
+      <geom mesh="model_collision_6_STACKING_BEAR" type="mesh" group="3" />
+      <geom mesh="model_collision_7_STACKING_BEAR" type="mesh" group="3" />
+      <geom mesh="model_collision_8_STACKING_BEAR" type="mesh" group="3" />
+      <geom mesh="model_collision_9_STACKING_BEAR" type="mesh" group="3" />
+      <geom mesh="model_collision_10_STACKING_BEAR" type="mesh" group="3" />
+      <geom mesh="model_collision_11_STACKING_BEAR" type="mesh" group="3" />
+      <geom mesh="model_collision_12_STACKING_BEAR" type="mesh" group="3" />
+      <geom mesh="model_collision_13_STACKING_BEAR" type="mesh" group="3" />
+      <geom mesh="model_collision_14_STACKING_BEAR" type="mesh" group="3" />
+      <geom mesh="model_collision_15_STACKING_BEAR" type="mesh" group="3" />
+      <geom mesh="model_collision_16_STACKING_BEAR" type="mesh" group="3" />
+      <geom mesh="model_collision_17_STACKING_BEAR" type="mesh" group="3" />
+      <geom mesh="model_collision_18_STACKING_BEAR" type="mesh" group="3" />
+      <geom mesh="model_collision_19_STACKING_BEAR" type="mesh" group="3" />
+      <geom mesh="model_collision_20_STACKING_BEAR" type="mesh" group="3" />
+      <geom mesh="model_collision_21_STACKING_BEAR" type="mesh" group="3" />
+      <geom mesh="model_collision_22_STACKING_BEAR" type="mesh" group="3" />
+      <geom mesh="model_collision_23_STACKING_BEAR" type="mesh" group="3" />
+      <geom mesh="model_collision_24_STACKING_BEAR" type="mesh" group="3" />
+      <geom mesh="model_collision_25_STACKING_BEAR" type="mesh" group="3" />
+      <geom mesh="model_collision_26_STACKING_BEAR" type="mesh" group="3" />
+      <geom mesh="model_collision_27_STACKING_BEAR" type="mesh" group="3" />
+      <geom mesh="model_collision_28_STACKING_BEAR" type="mesh" group="3" />
+      <geom mesh="model_collision_29_STACKING_BEAR" type="mesh" group="3" />
+      <geom mesh="model_collision_30_STACKING_BEAR" type="mesh" group="3" />
+      <geom mesh="model_collision_31_STACKING_BEAR" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="Hey_You_Pikachu_Nintendo_64_base" name="Hey_You_Pikachu_Nintendo_641">
+        <geom class="Hey_You_Pikachu_Nintendo_64_col" name="{geom_name}" type="mesh" mesh="model_Hey_You_Pikachu_Nintendo_64" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Hey_You_Pikachu_Nintendo_64" mesh="model_Hey_You_Pikachu_Nintendo_64" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Hey_You_Pikachu_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Hey_You_Pikachu_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Hey_You_Pikachu_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Hey_You_Pikachu_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Hey_You_Pikachu_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Hey_You_Pikachu_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Hey_You_Pikachu_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Hey_You_Pikachu_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Hey_You_Pikachu_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Hey_You_Pikachu_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Hey_You_Pikachu_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Hey_You_Pikachu_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Hey_You_Pikachu_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Hey_You_Pikachu_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Hey_You_Pikachu_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Hey_You_Pikachu_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Hey_You_Pikachu_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Hey_You_Pikachu_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Hey_You_Pikachu_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Hey_You_Pikachu_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Hey_You_Pikachu_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Hey_You_Pikachu_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Hey_You_Pikachu_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Hey_You_Pikachu_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Hey_You_Pikachu_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Hey_You_Pikachu_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Hey_You_Pikachu_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Hey_You_Pikachu_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Hey_You_Pikachu_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Hey_You_Pikachu_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Hey_You_Pikachu_Nintendo_64" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Hey_You_Pikachu_Nintendo_64" type="mesh" group="3" />
+    </body>

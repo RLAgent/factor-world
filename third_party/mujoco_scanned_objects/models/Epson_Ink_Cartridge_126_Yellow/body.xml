@@ -1,0 +1,36 @@
+<body childclass="Epson_Ink_Cartridge_126_Yellow_base" name="Epson_Ink_Cartridge_126_Yellow1">
+        <geom class="Epson_Ink_Cartridge_126_Yellow_col" name="{geom_name}" type="mesh" mesh="model_Epson_Ink_Cartridge_126_Yellow" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Epson_Ink_Cartridge_126_Yellow" mesh="model_Epson_Ink_Cartridge_126_Yellow" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Epson_Ink_Cartridge_126_Yellow" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Epson_Ink_Cartridge_126_Yellow" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Epson_Ink_Cartridge_126_Yellow" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Epson_Ink_Cartridge_126_Yellow" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Epson_Ink_Cartridge_126_Yellow" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Epson_Ink_Cartridge_126_Yellow" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Epson_Ink_Cartridge_126_Yellow" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Epson_Ink_Cartridge_126_Yellow" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Epson_Ink_Cartridge_126_Yellow" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Epson_Ink_Cartridge_126_Yellow" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Epson_Ink_Cartridge_126_Yellow" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Epson_Ink_Cartridge_126_Yellow" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Epson_Ink_Cartridge_126_Yellow" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Epson_Ink_Cartridge_126_Yellow" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Epson_Ink_Cartridge_126_Yellow" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Epson_Ink_Cartridge_126_Yellow" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Epson_Ink_Cartridge_126_Yellow" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Epson_Ink_Cartridge_126_Yellow" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Epson_Ink_Cartridge_126_Yellow" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Epson_Ink_Cartridge_126_Yellow" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Epson_Ink_Cartridge_126_Yellow" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Epson_Ink_Cartridge_126_Yellow" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Epson_Ink_Cartridge_126_Yellow" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Epson_Ink_Cartridge_126_Yellow" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Epson_Ink_Cartridge_126_Yellow" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Epson_Ink_Cartridge_126_Yellow" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Epson_Ink_Cartridge_126_Yellow" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Epson_Ink_Cartridge_126_Yellow" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Epson_Ink_Cartridge_126_Yellow" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Epson_Ink_Cartridge_126_Yellow" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Epson_Ink_Cartridge_126_Yellow" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Epson_Ink_Cartridge_126_Yellow" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold_base" name="Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold1">
+        <geom class="Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold_col" name="{geom_name}" type="mesh" mesh="model_Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold" mesh="model_Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold" type="mesh" group="3" />
+    </body>

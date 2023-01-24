@@ -1,0 +1,36 @@
+<body childclass="Mist_Wipe_Warmer_base" name="Mist_Wipe_Warmer1">
+        <geom class="Mist_Wipe_Warmer_col" name="{geom_name}" type="mesh" mesh="model_Mist_Wipe_Warmer" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Mist_Wipe_Warmer" mesh="model_Mist_Wipe_Warmer" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Mist_Wipe_Warmer" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Mist_Wipe_Warmer" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Mist_Wipe_Warmer" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Mist_Wipe_Warmer" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Mist_Wipe_Warmer" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Mist_Wipe_Warmer" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Mist_Wipe_Warmer" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Mist_Wipe_Warmer" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Mist_Wipe_Warmer" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Mist_Wipe_Warmer" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Mist_Wipe_Warmer" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Mist_Wipe_Warmer" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Mist_Wipe_Warmer" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Mist_Wipe_Warmer" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Mist_Wipe_Warmer" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Mist_Wipe_Warmer" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Mist_Wipe_Warmer" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Mist_Wipe_Warmer" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Mist_Wipe_Warmer" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Mist_Wipe_Warmer" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Mist_Wipe_Warmer" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Mist_Wipe_Warmer" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Mist_Wipe_Warmer" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Mist_Wipe_Warmer" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Mist_Wipe_Warmer" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Mist_Wipe_Warmer" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Mist_Wipe_Warmer" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Mist_Wipe_Warmer" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Mist_Wipe_Warmer" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Mist_Wipe_Warmer" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Mist_Wipe_Warmer" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Mist_Wipe_Warmer" type="mesh" group="3" />
+    </body>

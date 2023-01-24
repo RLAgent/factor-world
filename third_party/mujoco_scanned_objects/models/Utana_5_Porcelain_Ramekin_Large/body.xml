@@ -1,0 +1,36 @@
+<body childclass="Utana_5_Porcelain_Ramekin_Large_base" name="Utana_5_Porcelain_Ramekin_Large1">
+        <geom class="Utana_5_Porcelain_Ramekin_Large_col" name="{geom_name}" type="mesh" mesh="model_Utana_5_Porcelain_Ramekin_Large" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Utana_5_Porcelain_Ramekin_Large" mesh="model_Utana_5_Porcelain_Ramekin_Large" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Utana_5_Porcelain_Ramekin_Large" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Utana_5_Porcelain_Ramekin_Large" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Utana_5_Porcelain_Ramekin_Large" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Utana_5_Porcelain_Ramekin_Large" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Utana_5_Porcelain_Ramekin_Large" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Utana_5_Porcelain_Ramekin_Large" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Utana_5_Porcelain_Ramekin_Large" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Utana_5_Porcelain_Ramekin_Large" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Utana_5_Porcelain_Ramekin_Large" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Utana_5_Porcelain_Ramekin_Large" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Utana_5_Porcelain_Ramekin_Large" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Utana_5_Porcelain_Ramekin_Large" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Utana_5_Porcelain_Ramekin_Large" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Utana_5_Porcelain_Ramekin_Large" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Utana_5_Porcelain_Ramekin_Large" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Utana_5_Porcelain_Ramekin_Large" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Utana_5_Porcelain_Ramekin_Large" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Utana_5_Porcelain_Ramekin_Large" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Utana_5_Porcelain_Ramekin_Large" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Utana_5_Porcelain_Ramekin_Large" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Utana_5_Porcelain_Ramekin_Large" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Utana_5_Porcelain_Ramekin_Large" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Utana_5_Porcelain_Ramekin_Large" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Utana_5_Porcelain_Ramekin_Large" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Utana_5_Porcelain_Ramekin_Large" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Utana_5_Porcelain_Ramekin_Large" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Utana_5_Porcelain_Ramekin_Large" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Utana_5_Porcelain_Ramekin_Large" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Utana_5_Porcelain_Ramekin_Large" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Utana_5_Porcelain_Ramekin_Large" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Utana_5_Porcelain_Ramekin_Large" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Utana_5_Porcelain_Ramekin_Large" type="mesh" group="3" />
+    </body>

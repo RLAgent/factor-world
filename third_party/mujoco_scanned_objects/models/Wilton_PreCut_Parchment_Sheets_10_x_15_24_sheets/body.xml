@@ -1,0 +1,36 @@
+<body childclass="Wilton_PreCut_Parchment_Sheets_10_x_15_24_sheets_base" name="Wilton_PreCut_Parchment_Sheets_10_x_15_24_sheets1">
+        <geom class="Wilton_PreCut_Parchment_Sheets_10_x_15_24_sheets_col" name="{geom_name}" type="mesh" mesh="model_Wilton_PreCut_Parchment_Sheets_10_x_15_24_sheets" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Wilton_PreCut_Parchment_Sheets_10_x_15_24_sheets" mesh="model_Wilton_PreCut_Parchment_Sheets_10_x_15_24_sheets" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Wilton_PreCut_Parchment_Sheets_10_x_15_24_sheets" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Wilton_PreCut_Parchment_Sheets_10_x_15_24_sheets" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Wilton_PreCut_Parchment_Sheets_10_x_15_24_sheets" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Wilton_PreCut_Parchment_Sheets_10_x_15_24_sheets" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Wilton_PreCut_Parchment_Sheets_10_x_15_24_sheets" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Wilton_PreCut_Parchment_Sheets_10_x_15_24_sheets" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Wilton_PreCut_Parchment_Sheets_10_x_15_24_sheets" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Wilton_PreCut_Parchment_Sheets_10_x_15_24_sheets" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Wilton_PreCut_Parchment_Sheets_10_x_15_24_sheets" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Wilton_PreCut_Parchment_Sheets_10_x_15_24_sheets" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Wilton_PreCut_Parchment_Sheets_10_x_15_24_sheets" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Wilton_PreCut_Parchment_Sheets_10_x_15_24_sheets" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Wilton_PreCut_Parchment_Sheets_10_x_15_24_sheets" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Wilton_PreCut_Parchment_Sheets_10_x_15_24_sheets" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Wilton_PreCut_Parchment_Sheets_10_x_15_24_sheets" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Wilton_PreCut_Parchment_Sheets_10_x_15_24_sheets" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Wilton_PreCut_Parchment_Sheets_10_x_15_24_sheets" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Wilton_PreCut_Parchment_Sheets_10_x_15_24_sheets" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Wilton_PreCut_Parchment_Sheets_10_x_15_24_sheets" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Wilton_PreCut_Parchment_Sheets_10_x_15_24_sheets" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Wilton_PreCut_Parchment_Sheets_10_x_15_24_sheets" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Wilton_PreCut_Parchment_Sheets_10_x_15_24_sheets" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Wilton_PreCut_Parchment_Sheets_10_x_15_24_sheets" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Wilton_PreCut_Parchment_Sheets_10_x_15_24_sheets" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Wilton_PreCut_Parchment_Sheets_10_x_15_24_sheets" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Wilton_PreCut_Parchment_Sheets_10_x_15_24_sheets" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Wilton_PreCut_Parchment_Sheets_10_x_15_24_sheets" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Wilton_PreCut_Parchment_Sheets_10_x_15_24_sheets" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Wilton_PreCut_Parchment_Sheets_10_x_15_24_sheets" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Wilton_PreCut_Parchment_Sheets_10_x_15_24_sheets" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Wilton_PreCut_Parchment_Sheets_10_x_15_24_sheets" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Wilton_PreCut_Parchment_Sheets_10_x_15_24_sheets" type="mesh" group="3" />
+    </body>

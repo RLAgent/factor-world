@@ -1,0 +1,36 @@
+<body childclass="Breyer_Horse_Of_The_Year_2015_base" name="Breyer_Horse_Of_The_Year_20151">
+        <geom class="Breyer_Horse_Of_The_Year_2015_col" name="{geom_name}" type="mesh" mesh="model_Breyer_Horse_Of_The_Year_2015" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Breyer_Horse_Of_The_Year_2015" mesh="model_Breyer_Horse_Of_The_Year_2015" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Breyer_Horse_Of_The_Year_2015" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Breyer_Horse_Of_The_Year_2015" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Breyer_Horse_Of_The_Year_2015" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Breyer_Horse_Of_The_Year_2015" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Breyer_Horse_Of_The_Year_2015" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Breyer_Horse_Of_The_Year_2015" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Breyer_Horse_Of_The_Year_2015" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Breyer_Horse_Of_The_Year_2015" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Breyer_Horse_Of_The_Year_2015" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Breyer_Horse_Of_The_Year_2015" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Breyer_Horse_Of_The_Year_2015" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Breyer_Horse_Of_The_Year_2015" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Breyer_Horse_Of_The_Year_2015" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Breyer_Horse_Of_The_Year_2015" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Breyer_Horse_Of_The_Year_2015" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Breyer_Horse_Of_The_Year_2015" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Breyer_Horse_Of_The_Year_2015" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Breyer_Horse_Of_The_Year_2015" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Breyer_Horse_Of_The_Year_2015" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Breyer_Horse_Of_The_Year_2015" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Breyer_Horse_Of_The_Year_2015" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Breyer_Horse_Of_The_Year_2015" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Breyer_Horse_Of_The_Year_2015" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Breyer_Horse_Of_The_Year_2015" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Breyer_Horse_Of_The_Year_2015" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Breyer_Horse_Of_The_Year_2015" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Breyer_Horse_Of_The_Year_2015" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Breyer_Horse_Of_The_Year_2015" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Breyer_Horse_Of_The_Year_2015" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Breyer_Horse_Of_The_Year_2015" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Breyer_Horse_Of_The_Year_2015" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Breyer_Horse_Of_The_Year_2015" type="mesh" group="3" />
+    </body>

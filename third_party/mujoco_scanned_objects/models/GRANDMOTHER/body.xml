@@ -1,0 +1,36 @@
+<body childclass="GRANDMOTHER_base" name="GRANDMOTHER1">
+        <geom class="GRANDMOTHER_col" name="{geom_name}" type="mesh" mesh="model_GRANDMOTHER" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_GRANDMOTHER" mesh="model_GRANDMOTHER" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_GRANDMOTHER" type="mesh" group="3" />
+      <geom mesh="model_collision_1_GRANDMOTHER" type="mesh" group="3" />
+      <geom mesh="model_collision_2_GRANDMOTHER" type="mesh" group="3" />
+      <geom mesh="model_collision_3_GRANDMOTHER" type="mesh" group="3" />
+      <geom mesh="model_collision_4_GRANDMOTHER" type="mesh" group="3" />
+      <geom mesh="model_collision_5_GRANDMOTHER" type="mesh" group="3" />
+      <geom mesh="model_collision_6_GRANDMOTHER" type="mesh" group="3" />
+      <geom mesh="model_collision_7_GRANDMOTHER" type="mesh" group="3" />
+      <geom mesh="model_collision_8_GRANDMOTHER" type="mesh" group="3" />
+      <geom mesh="model_collision_9_GRANDMOTHER" type="mesh" group="3" />
+      <geom mesh="model_collision_10_GRANDMOTHER" type="mesh" group="3" />
+      <geom mesh="model_collision_11_GRANDMOTHER" type="mesh" group="3" />
+      <geom mesh="model_collision_12_GRANDMOTHER" type="mesh" group="3" />
+      <geom mesh="model_collision_13_GRANDMOTHER" type="mesh" group="3" />
+      <geom mesh="model_collision_14_GRANDMOTHER" type="mesh" group="3" />
+      <geom mesh="model_collision_15_GRANDMOTHER" type="mesh" group="3" />
+      <geom mesh="model_collision_16_GRANDMOTHER" type="mesh" group="3" />
+      <geom mesh="model_collision_17_GRANDMOTHER" type="mesh" group="3" />
+      <geom mesh="model_collision_18_GRANDMOTHER" type="mesh" group="3" />
+      <geom mesh="model_collision_19_GRANDMOTHER" type="mesh" group="3" />
+      <geom mesh="model_collision_20_GRANDMOTHER" type="mesh" group="3" />
+      <geom mesh="model_collision_21_GRANDMOTHER" type="mesh" group="3" />
+      <geom mesh="model_collision_22_GRANDMOTHER" type="mesh" group="3" />
+      <geom mesh="model_collision_23_GRANDMOTHER" type="mesh" group="3" />
+      <geom mesh="model_collision_24_GRANDMOTHER" type="mesh" group="3" />
+      <geom mesh="model_collision_25_GRANDMOTHER" type="mesh" group="3" />
+      <geom mesh="model_collision_26_GRANDMOTHER" type="mesh" group="3" />
+      <geom mesh="model_collision_27_GRANDMOTHER" type="mesh" group="3" />
+      <geom mesh="model_collision_28_GRANDMOTHER" type="mesh" group="3" />
+      <geom mesh="model_collision_29_GRANDMOTHER" type="mesh" group="3" />
+      <geom mesh="model_collision_30_GRANDMOTHER" type="mesh" group="3" />
+      <geom mesh="model_collision_31_GRANDMOTHER" type="mesh" group="3" />
+    </body>

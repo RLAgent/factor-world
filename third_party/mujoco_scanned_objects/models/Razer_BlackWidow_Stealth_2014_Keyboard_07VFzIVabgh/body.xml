@@ -1,0 +1,36 @@
+<body childclass="Razer_BlackWidow_Stealth_2014_Keyboard_07VFzIVabgh_base" name="Razer_BlackWidow_Stealth_2014_Keyboard_07VFzIVabgh1">
+        <geom class="Razer_BlackWidow_Stealth_2014_Keyboard_07VFzIVabgh_col" name="{geom_name}" type="mesh" mesh="model_Razer_BlackWidow_Stealth_2014_Keyboard_07VFzIVabgh" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Razer_BlackWidow_Stealth_2014_Keyboard_07VFzIVabgh" mesh="model_Razer_BlackWidow_Stealth_2014_Keyboard_07VFzIVabgh" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Razer_BlackWidow_Stealth_2014_Keyboard_07VFzIVabgh" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Razer_BlackWidow_Stealth_2014_Keyboard_07VFzIVabgh" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Razer_BlackWidow_Stealth_2014_Keyboard_07VFzIVabgh" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Razer_BlackWidow_Stealth_2014_Keyboard_07VFzIVabgh" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Razer_BlackWidow_Stealth_2014_Keyboard_07VFzIVabgh" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Razer_BlackWidow_Stealth_2014_Keyboard_07VFzIVabgh" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Razer_BlackWidow_Stealth_2014_Keyboard_07VFzIVabgh" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Razer_BlackWidow_Stealth_2014_Keyboard_07VFzIVabgh" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Razer_BlackWidow_Stealth_2014_Keyboard_07VFzIVabgh" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Razer_BlackWidow_Stealth_2014_Keyboard_07VFzIVabgh" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Razer_BlackWidow_Stealth_2014_Keyboard_07VFzIVabgh" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Razer_BlackWidow_Stealth_2014_Keyboard_07VFzIVabgh" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Razer_BlackWidow_Stealth_2014_Keyboard_07VFzIVabgh" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Razer_BlackWidow_Stealth_2014_Keyboard_07VFzIVabgh" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Razer_BlackWidow_Stealth_2014_Keyboard_07VFzIVabgh" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Razer_BlackWidow_Stealth_2014_Keyboard_07VFzIVabgh" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Razer_BlackWidow_Stealth_2014_Keyboard_07VFzIVabgh" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Razer_BlackWidow_Stealth_2014_Keyboard_07VFzIVabgh" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Razer_BlackWidow_Stealth_2014_Keyboard_07VFzIVabgh" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Razer_BlackWidow_Stealth_2014_Keyboard_07VFzIVabgh" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Razer_BlackWidow_Stealth_2014_Keyboard_07VFzIVabgh" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Razer_BlackWidow_Stealth_2014_Keyboard_07VFzIVabgh" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Razer_BlackWidow_Stealth_2014_Keyboard_07VFzIVabgh" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Razer_BlackWidow_Stealth_2014_Keyboard_07VFzIVabgh" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Razer_BlackWidow_Stealth_2014_Keyboard_07VFzIVabgh" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Razer_BlackWidow_Stealth_2014_Keyboard_07VFzIVabgh" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Razer_BlackWidow_Stealth_2014_Keyboard_07VFzIVabgh" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Razer_BlackWidow_Stealth_2014_Keyboard_07VFzIVabgh" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Razer_BlackWidow_Stealth_2014_Keyboard_07VFzIVabgh" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Razer_BlackWidow_Stealth_2014_Keyboard_07VFzIVabgh" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Razer_BlackWidow_Stealth_2014_Keyboard_07VFzIVabgh" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Razer_BlackWidow_Stealth_2014_Keyboard_07VFzIVabgh" type="mesh" group="3" />
+    </body>

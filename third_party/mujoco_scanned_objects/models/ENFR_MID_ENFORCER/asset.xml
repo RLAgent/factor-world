@@ -1,0 +1,38 @@
+<asset>
+    <texture type="2d" name="texture_ENFR_MID_ENFORCER" file="../../../../../mujoco_scanned_objects/models/ENFR_MID_ENFORCER/texture.png" />
+    <material name="material_0_ENFR_MID_ENFORCER" texture="texture_ENFR_MID_ENFORCER" specular="0.5" shininess="0.5" />
+    <mesh name="model_ENFR_MID_ENFORCER" file="../../../../../mujoco_scanned_objects/models/ENFR_MID_ENFORCER/model.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_0_ENFR_MID_ENFORCER" file="../../../../../mujoco_scanned_objects/models/ENFR_MID_ENFORCER/model_collision_0.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_1_ENFR_MID_ENFORCER" file="../../../../../mujoco_scanned_objects/models/ENFR_MID_ENFORCER/model_collision_1.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_2_ENFR_MID_ENFORCER" file="../../../../../mujoco_scanned_objects/models/ENFR_MID_ENFORCER/model_collision_2.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_3_ENFR_MID_ENFORCER" file="../../../../../mujoco_scanned_objects/models/ENFR_MID_ENFORCER/model_collision_3.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_4_ENFR_MID_ENFORCER" file="../../../../../mujoco_scanned_objects/models/ENFR_MID_ENFORCER/model_collision_4.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_5_ENFR_MID_ENFORCER" file="../../../../../mujoco_scanned_objects/models/ENFR_MID_ENFORCER/model_collision_5.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_6_ENFR_MID_ENFORCER" file="../../../../../mujoco_scanned_objects/models/ENFR_MID_ENFORCER/model_collision_6.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_7_ENFR_MID_ENFORCER" file="../../../../../mujoco_scanned_objects/models/ENFR_MID_ENFORCER/model_collision_7.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_8_ENFR_MID_ENFORCER" file="../../../../../mujoco_scanned_objects/models/ENFR_MID_ENFORCER/model_collision_8.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_9_ENFR_MID_ENFORCER" file="../../../../../mujoco_scanned_objects/models/ENFR_MID_ENFORCER/model_collision_9.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_10_ENFR_MID_ENFORCER" file="../../../../../mujoco_scanned_objects/models/ENFR_MID_ENFORCER/model_collision_10.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_11_ENFR_MID_ENFORCER" file="../../../../../mujoco_scanned_objects/models/ENFR_MID_ENFORCER/model_collision_11.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_12_ENFR_MID_ENFORCER" file="../../../../../mujoco_scanned_objects/models/ENFR_MID_ENFORCER/model_collision_12.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_13_ENFR_MID_ENFORCER" file="../../../../../mujoco_scanned_objects/models/ENFR_MID_ENFORCER/model_collision_13.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_14_ENFR_MID_ENFORCER" file="../../../../../mujoco_scanned_objects/models/ENFR_MID_ENFORCER/model_collision_14.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_15_ENFR_MID_ENFORCER" file="../../../../../mujoco_scanned_objects/models/ENFR_MID_ENFORCER/model_collision_15.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_16_ENFR_MID_ENFORCER" file="../../../../../mujoco_scanned_objects/models/ENFR_MID_ENFORCER/model_collision_16.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_17_ENFR_MID_ENFORCER" file="../../../../../mujoco_scanned_objects/models/ENFR_MID_ENFORCER/model_collision_17.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_18_ENFR_MID_ENFORCER" file="../../../../../mujoco_scanned_objects/models/ENFR_MID_ENFORCER/model_collision_18.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_19_ENFR_MID_ENFORCER" file="../../../../../mujoco_scanned_objects/models/ENFR_MID_ENFORCER/model_collision_19.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_20_ENFR_MID_ENFORCER" file="../../../../../mujoco_scanned_objects/models/ENFR_MID_ENFORCER/model_collision_20.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_21_ENFR_MID_ENFORCER" file="../../../../../mujoco_scanned_objects/models/ENFR_MID_ENFORCER/model_collision_21.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_22_ENFR_MID_ENFORCER" file="../../../../../mujoco_scanned_objects/models/ENFR_MID_ENFORCER/model_collision_22.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_23_ENFR_MID_ENFORCER" file="../../../../../mujoco_scanned_objects/models/ENFR_MID_ENFORCER/model_collision_23.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_24_ENFR_MID_ENFORCER" file="../../../../../mujoco_scanned_objects/models/ENFR_MID_ENFORCER/model_collision_24.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_25_ENFR_MID_ENFORCER" file="../../../../../mujoco_scanned_objects/models/ENFR_MID_ENFORCER/model_collision_25.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_26_ENFR_MID_ENFORCER" file="../../../../../mujoco_scanned_objects/models/ENFR_MID_ENFORCER/model_collision_26.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_27_ENFR_MID_ENFORCER" file="../../../../../mujoco_scanned_objects/models/ENFR_MID_ENFORCER/model_collision_27.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_28_ENFR_MID_ENFORCER" file="../../../../../mujoco_scanned_objects/models/ENFR_MID_ENFORCER/model_collision_28.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_29_ENFR_MID_ENFORCER" file="../../../../../mujoco_scanned_objects/models/ENFR_MID_ENFORCER/model_collision_29.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_30_ENFR_MID_ENFORCER" file="../../../../../mujoco_scanned_objects/models/ENFR_MID_ENFORCER/model_collision_30.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_31_ENFR_MID_ENFORCER" file="../../../../../mujoco_scanned_objects/models/ENFR_MID_ENFORCER/model_collision_31.stl" scale="{scale} {scale} {scale}" />
+  </asset>
+  

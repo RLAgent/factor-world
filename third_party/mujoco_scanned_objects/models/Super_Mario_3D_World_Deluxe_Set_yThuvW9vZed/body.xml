@@ -1,0 +1,36 @@
+<body childclass="Super_Mario_3D_World_Deluxe_Set_yThuvW9vZed_base" name="Super_Mario_3D_World_Deluxe_Set_yThuvW9vZed1">
+        <geom class="Super_Mario_3D_World_Deluxe_Set_yThuvW9vZed_col" name="{geom_name}" type="mesh" mesh="model_Super_Mario_3D_World_Deluxe_Set_yThuvW9vZed" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Super_Mario_3D_World_Deluxe_Set_yThuvW9vZed" mesh="model_Super_Mario_3D_World_Deluxe_Set_yThuvW9vZed" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Super_Mario_3D_World_Deluxe_Set_yThuvW9vZed" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Super_Mario_3D_World_Deluxe_Set_yThuvW9vZed" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Super_Mario_3D_World_Deluxe_Set_yThuvW9vZed" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Super_Mario_3D_World_Deluxe_Set_yThuvW9vZed" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Super_Mario_3D_World_Deluxe_Set_yThuvW9vZed" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Super_Mario_3D_World_Deluxe_Set_yThuvW9vZed" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Super_Mario_3D_World_Deluxe_Set_yThuvW9vZed" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Super_Mario_3D_World_Deluxe_Set_yThuvW9vZed" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Super_Mario_3D_World_Deluxe_Set_yThuvW9vZed" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Super_Mario_3D_World_Deluxe_Set_yThuvW9vZed" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Super_Mario_3D_World_Deluxe_Set_yThuvW9vZed" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Super_Mario_3D_World_Deluxe_Set_yThuvW9vZed" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Super_Mario_3D_World_Deluxe_Set_yThuvW9vZed" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Super_Mario_3D_World_Deluxe_Set_yThuvW9vZed" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Super_Mario_3D_World_Deluxe_Set_yThuvW9vZed" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Super_Mario_3D_World_Deluxe_Set_yThuvW9vZed" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Super_Mario_3D_World_Deluxe_Set_yThuvW9vZed" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Super_Mario_3D_World_Deluxe_Set_yThuvW9vZed" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Super_Mario_3D_World_Deluxe_Set_yThuvW9vZed" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Super_Mario_3D_World_Deluxe_Set_yThuvW9vZed" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Super_Mario_3D_World_Deluxe_Set_yThuvW9vZed" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Super_Mario_3D_World_Deluxe_Set_yThuvW9vZed" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Super_Mario_3D_World_Deluxe_Set_yThuvW9vZed" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Super_Mario_3D_World_Deluxe_Set_yThuvW9vZed" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Super_Mario_3D_World_Deluxe_Set_yThuvW9vZed" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Super_Mario_3D_World_Deluxe_Set_yThuvW9vZed" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Super_Mario_3D_World_Deluxe_Set_yThuvW9vZed" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Super_Mario_3D_World_Deluxe_Set_yThuvW9vZed" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Super_Mario_3D_World_Deluxe_Set_yThuvW9vZed" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Super_Mario_3D_World_Deluxe_Set_yThuvW9vZed" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Super_Mario_3D_World_Deluxe_Set_yThuvW9vZed" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Super_Mario_3D_World_Deluxe_Set_yThuvW9vZed" type="mesh" group="3" />
+    </body>

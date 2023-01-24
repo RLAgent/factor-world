@@ -1,0 +1,36 @@
+<body childclass="Pok&#233;mon_Yellow_Special_Pikachu_Edition_Nintendo_Game_Boy_Color_base" name="Pok&#233;mon_Yellow_Special_Pikachu_Edition_Nintendo_Game_Boy_Color1">
+        <geom class="Pok&#233;mon_Yellow_Special_Pikachu_Edition_Nintendo_Game_Boy_Color_col" name="{geom_name}" type="mesh" mesh="model_Pok&#233;mon_Yellow_Special_Pikachu_Edition_Nintendo_Game_Boy_Color" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Pok&#233;mon_Yellow_Special_Pikachu_Edition_Nintendo_Game_Boy_Color" mesh="model_Pok&#233;mon_Yellow_Special_Pikachu_Edition_Nintendo_Game_Boy_Color" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Pok&#233;mon_Yellow_Special_Pikachu_Edition_Nintendo_Game_Boy_Color" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Pok&#233;mon_Yellow_Special_Pikachu_Edition_Nintendo_Game_Boy_Color" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Pok&#233;mon_Yellow_Special_Pikachu_Edition_Nintendo_Game_Boy_Color" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Pok&#233;mon_Yellow_Special_Pikachu_Edition_Nintendo_Game_Boy_Color" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Pok&#233;mon_Yellow_Special_Pikachu_Edition_Nintendo_Game_Boy_Color" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Pok&#233;mon_Yellow_Special_Pikachu_Edition_Nintendo_Game_Boy_Color" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Pok&#233;mon_Yellow_Special_Pikachu_Edition_Nintendo_Game_Boy_Color" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Pok&#233;mon_Yellow_Special_Pikachu_Edition_Nintendo_Game_Boy_Color" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Pok&#233;mon_Yellow_Special_Pikachu_Edition_Nintendo_Game_Boy_Color" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Pok&#233;mon_Yellow_Special_Pikachu_Edition_Nintendo_Game_Boy_Color" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Pok&#233;mon_Yellow_Special_Pikachu_Edition_Nintendo_Game_Boy_Color" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Pok&#233;mon_Yellow_Special_Pikachu_Edition_Nintendo_Game_Boy_Color" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Pok&#233;mon_Yellow_Special_Pikachu_Edition_Nintendo_Game_Boy_Color" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Pok&#233;mon_Yellow_Special_Pikachu_Edition_Nintendo_Game_Boy_Color" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Pok&#233;mon_Yellow_Special_Pikachu_Edition_Nintendo_Game_Boy_Color" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Pok&#233;mon_Yellow_Special_Pikachu_Edition_Nintendo_Game_Boy_Color" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Pok&#233;mon_Yellow_Special_Pikachu_Edition_Nintendo_Game_Boy_Color" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Pok&#233;mon_Yellow_Special_Pikachu_Edition_Nintendo_Game_Boy_Color" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Pok&#233;mon_Yellow_Special_Pikachu_Edition_Nintendo_Game_Boy_Color" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Pok&#233;mon_Yellow_Special_Pikachu_Edition_Nintendo_Game_Boy_Color" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Pok&#233;mon_Yellow_Special_Pikachu_Edition_Nintendo_Game_Boy_Color" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Pok&#233;mon_Yellow_Special_Pikachu_Edition_Nintendo_Game_Boy_Color" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Pok&#233;mon_Yellow_Special_Pikachu_Edition_Nintendo_Game_Boy_Color" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Pok&#233;mon_Yellow_Special_Pikachu_Edition_Nintendo_Game_Boy_Color" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Pok&#233;mon_Yellow_Special_Pikachu_Edition_Nintendo_Game_Boy_Color" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Pok&#233;mon_Yellow_Special_Pikachu_Edition_Nintendo_Game_Boy_Color" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Pok&#233;mon_Yellow_Special_Pikachu_Edition_Nintendo_Game_Boy_Color" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Pok&#233;mon_Yellow_Special_Pikachu_Edition_Nintendo_Game_Boy_Color" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Pok&#233;mon_Yellow_Special_Pikachu_Edition_Nintendo_Game_Boy_Color" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Pok&#233;mon_Yellow_Special_Pikachu_Edition_Nintendo_Game_Boy_Color" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Pok&#233;mon_Yellow_Special_Pikachu_Edition_Nintendo_Game_Boy_Color" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Pok&#233;mon_Yellow_Special_Pikachu_Edition_Nintendo_Game_Boy_Color" type="mesh" group="3" />
+    </body>

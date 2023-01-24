@@ -1,0 +1,36 @@
+<body childclass="Thomas_Friends_Wooden_Railway_Ascending_Track_Riser_Pack_base" name="Thomas_Friends_Wooden_Railway_Ascending_Track_Riser_Pack1">
+        <geom class="Thomas_Friends_Wooden_Railway_Ascending_Track_Riser_Pack_col" name="{geom_name}" type="mesh" mesh="model_Thomas_Friends_Wooden_Railway_Ascending_Track_Riser_Pack" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Thomas_Friends_Wooden_Railway_Ascending_Track_Riser_Pack" mesh="model_Thomas_Friends_Wooden_Railway_Ascending_Track_Riser_Pack" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Thomas_Friends_Wooden_Railway_Ascending_Track_Riser_Pack" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Thomas_Friends_Wooden_Railway_Ascending_Track_Riser_Pack" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Thomas_Friends_Wooden_Railway_Ascending_Track_Riser_Pack" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Thomas_Friends_Wooden_Railway_Ascending_Track_Riser_Pack" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Thomas_Friends_Wooden_Railway_Ascending_Track_Riser_Pack" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Thomas_Friends_Wooden_Railway_Ascending_Track_Riser_Pack" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Thomas_Friends_Wooden_Railway_Ascending_Track_Riser_Pack" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Thomas_Friends_Wooden_Railway_Ascending_Track_Riser_Pack" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Thomas_Friends_Wooden_Railway_Ascending_Track_Riser_Pack" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Thomas_Friends_Wooden_Railway_Ascending_Track_Riser_Pack" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Thomas_Friends_Wooden_Railway_Ascending_Track_Riser_Pack" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Thomas_Friends_Wooden_Railway_Ascending_Track_Riser_Pack" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Thomas_Friends_Wooden_Railway_Ascending_Track_Riser_Pack" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Thomas_Friends_Wooden_Railway_Ascending_Track_Riser_Pack" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Thomas_Friends_Wooden_Railway_Ascending_Track_Riser_Pack" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Thomas_Friends_Wooden_Railway_Ascending_Track_Riser_Pack" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Thomas_Friends_Wooden_Railway_Ascending_Track_Riser_Pack" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Thomas_Friends_Wooden_Railway_Ascending_Track_Riser_Pack" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Thomas_Friends_Wooden_Railway_Ascending_Track_Riser_Pack" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Thomas_Friends_Wooden_Railway_Ascending_Track_Riser_Pack" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Thomas_Friends_Wooden_Railway_Ascending_Track_Riser_Pack" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Thomas_Friends_Wooden_Railway_Ascending_Track_Riser_Pack" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Thomas_Friends_Wooden_Railway_Ascending_Track_Riser_Pack" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Thomas_Friends_Wooden_Railway_Ascending_Track_Riser_Pack" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Thomas_Friends_Wooden_Railway_Ascending_Track_Riser_Pack" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Thomas_Friends_Wooden_Railway_Ascending_Track_Riser_Pack" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Thomas_Friends_Wooden_Railway_Ascending_Track_Riser_Pack" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Thomas_Friends_Wooden_Railway_Ascending_Track_Riser_Pack" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Thomas_Friends_Wooden_Railway_Ascending_Track_Riser_Pack" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Thomas_Friends_Wooden_Railway_Ascending_Track_Riser_Pack" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Thomas_Friends_Wooden_Railway_Ascending_Track_Riser_Pack" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Thomas_Friends_Wooden_Railway_Ascending_Track_Riser_Pack" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="The_Coffee_Bean_Tea_Leaf_KCup_Packs_Jasmine_Green_Tea_16_count_base" name="The_Coffee_Bean_Tea_Leaf_KCup_Packs_Jasmine_Green_Tea_16_count1">
+        <geom class="The_Coffee_Bean_Tea_Leaf_KCup_Packs_Jasmine_Green_Tea_16_count_col" name="{geom_name}" type="mesh" mesh="model_The_Coffee_Bean_Tea_Leaf_KCup_Packs_Jasmine_Green_Tea_16_count" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_The_Coffee_Bean_Tea_Leaf_KCup_Packs_Jasmine_Green_Tea_16_count" mesh="model_The_Coffee_Bean_Tea_Leaf_KCup_Packs_Jasmine_Green_Tea_16_count" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_The_Coffee_Bean_Tea_Leaf_KCup_Packs_Jasmine_Green_Tea_16_count" type="mesh" group="3" />
+      <geom mesh="model_collision_1_The_Coffee_Bean_Tea_Leaf_KCup_Packs_Jasmine_Green_Tea_16_count" type="mesh" group="3" />
+      <geom mesh="model_collision_2_The_Coffee_Bean_Tea_Leaf_KCup_Packs_Jasmine_Green_Tea_16_count" type="mesh" group="3" />
+      <geom mesh="model_collision_3_The_Coffee_Bean_Tea_Leaf_KCup_Packs_Jasmine_Green_Tea_16_count" type="mesh" group="3" />
+      <geom mesh="model_collision_4_The_Coffee_Bean_Tea_Leaf_KCup_Packs_Jasmine_Green_Tea_16_count" type="mesh" group="3" />
+      <geom mesh="model_collision_5_The_Coffee_Bean_Tea_Leaf_KCup_Packs_Jasmine_Green_Tea_16_count" type="mesh" group="3" />
+      <geom mesh="model_collision_6_The_Coffee_Bean_Tea_Leaf_KCup_Packs_Jasmine_Green_Tea_16_count" type="mesh" group="3" />
+      <geom mesh="model_collision_7_The_Coffee_Bean_Tea_Leaf_KCup_Packs_Jasmine_Green_Tea_16_count" type="mesh" group="3" />
+      <geom mesh="model_collision_8_The_Coffee_Bean_Tea_Leaf_KCup_Packs_Jasmine_Green_Tea_16_count" type="mesh" group="3" />
+      <geom mesh="model_collision_9_The_Coffee_Bean_Tea_Leaf_KCup_Packs_Jasmine_Green_Tea_16_count" type="mesh" group="3" />
+      <geom mesh="model_collision_10_The_Coffee_Bean_Tea_Leaf_KCup_Packs_Jasmine_Green_Tea_16_count" type="mesh" group="3" />
+      <geom mesh="model_collision_11_The_Coffee_Bean_Tea_Leaf_KCup_Packs_Jasmine_Green_Tea_16_count" type="mesh" group="3" />
+      <geom mesh="model_collision_12_The_Coffee_Bean_Tea_Leaf_KCup_Packs_Jasmine_Green_Tea_16_count" type="mesh" group="3" />
+      <geom mesh="model_collision_13_The_Coffee_Bean_Tea_Leaf_KCup_Packs_Jasmine_Green_Tea_16_count" type="mesh" group="3" />
+      <geom mesh="model_collision_14_The_Coffee_Bean_Tea_Leaf_KCup_Packs_Jasmine_Green_Tea_16_count" type="mesh" group="3" />
+      <geom mesh="model_collision_15_The_Coffee_Bean_Tea_Leaf_KCup_Packs_Jasmine_Green_Tea_16_count" type="mesh" group="3" />
+      <geom mesh="model_collision_16_The_Coffee_Bean_Tea_Leaf_KCup_Packs_Jasmine_Green_Tea_16_count" type="mesh" group="3" />
+      <geom mesh="model_collision_17_The_Coffee_Bean_Tea_Leaf_KCup_Packs_Jasmine_Green_Tea_16_count" type="mesh" group="3" />
+      <geom mesh="model_collision_18_The_Coffee_Bean_Tea_Leaf_KCup_Packs_Jasmine_Green_Tea_16_count" type="mesh" group="3" />
+      <geom mesh="model_collision_19_The_Coffee_Bean_Tea_Leaf_KCup_Packs_Jasmine_Green_Tea_16_count" type="mesh" group="3" />
+      <geom mesh="model_collision_20_The_Coffee_Bean_Tea_Leaf_KCup_Packs_Jasmine_Green_Tea_16_count" type="mesh" group="3" />
+      <geom mesh="model_collision_21_The_Coffee_Bean_Tea_Leaf_KCup_Packs_Jasmine_Green_Tea_16_count" type="mesh" group="3" />
+      <geom mesh="model_collision_22_The_Coffee_Bean_Tea_Leaf_KCup_Packs_Jasmine_Green_Tea_16_count" type="mesh" group="3" />
+      <geom mesh="model_collision_23_The_Coffee_Bean_Tea_Leaf_KCup_Packs_Jasmine_Green_Tea_16_count" type="mesh" group="3" />
+      <geom mesh="model_collision_24_The_Coffee_Bean_Tea_Leaf_KCup_Packs_Jasmine_Green_Tea_16_count" type="mesh" group="3" />
+      <geom mesh="model_collision_25_The_Coffee_Bean_Tea_Leaf_KCup_Packs_Jasmine_Green_Tea_16_count" type="mesh" group="3" />
+      <geom mesh="model_collision_26_The_Coffee_Bean_Tea_Leaf_KCup_Packs_Jasmine_Green_Tea_16_count" type="mesh" group="3" />
+      <geom mesh="model_collision_27_The_Coffee_Bean_Tea_Leaf_KCup_Packs_Jasmine_Green_Tea_16_count" type="mesh" group="3" />
+      <geom mesh="model_collision_28_The_Coffee_Bean_Tea_Leaf_KCup_Packs_Jasmine_Green_Tea_16_count" type="mesh" group="3" />
+      <geom mesh="model_collision_29_The_Coffee_Bean_Tea_Leaf_KCup_Packs_Jasmine_Green_Tea_16_count" type="mesh" group="3" />
+      <geom mesh="model_collision_30_The_Coffee_Bean_Tea_Leaf_KCup_Packs_Jasmine_Green_Tea_16_count" type="mesh" group="3" />
+      <geom mesh="model_collision_31_The_Coffee_Bean_Tea_Leaf_KCup_Packs_Jasmine_Green_Tea_16_count" type="mesh" group="3" />
+    </body>

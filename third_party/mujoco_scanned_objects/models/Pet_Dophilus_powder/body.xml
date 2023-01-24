@@ -1,0 +1,36 @@
+<body childclass="Pet_Dophilus_powder_base" name="Pet_Dophilus_powder1">
+        <geom class="Pet_Dophilus_powder_col" name="{geom_name}" type="mesh" mesh="model_Pet_Dophilus_powder" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Pet_Dophilus_powder" mesh="model_Pet_Dophilus_powder" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Pet_Dophilus_powder" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Pet_Dophilus_powder" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Pet_Dophilus_powder" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Pet_Dophilus_powder" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Pet_Dophilus_powder" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Pet_Dophilus_powder" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Pet_Dophilus_powder" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Pet_Dophilus_powder" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Pet_Dophilus_powder" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Pet_Dophilus_powder" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Pet_Dophilus_powder" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Pet_Dophilus_powder" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Pet_Dophilus_powder" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Pet_Dophilus_powder" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Pet_Dophilus_powder" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Pet_Dophilus_powder" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Pet_Dophilus_powder" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Pet_Dophilus_powder" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Pet_Dophilus_powder" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Pet_Dophilus_powder" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Pet_Dophilus_powder" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Pet_Dophilus_powder" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Pet_Dophilus_powder" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Pet_Dophilus_powder" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Pet_Dophilus_powder" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Pet_Dophilus_powder" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Pet_Dophilus_powder" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Pet_Dophilus_powder" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Pet_Dophilus_powder" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Pet_Dophilus_powder" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Pet_Dophilus_powder" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Pet_Dophilus_powder" type="mesh" group="3" />
+    </body>

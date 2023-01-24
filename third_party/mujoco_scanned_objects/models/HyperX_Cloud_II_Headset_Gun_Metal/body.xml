@@ -1,0 +1,36 @@
+<body childclass="HyperX_Cloud_II_Headset_Gun_Metal_base" name="HyperX_Cloud_II_Headset_Gun_Metal1">
+        <geom class="HyperX_Cloud_II_Headset_Gun_Metal_col" name="{geom_name}" type="mesh" mesh="model_HyperX_Cloud_II_Headset_Gun_Metal" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_HyperX_Cloud_II_Headset_Gun_Metal" mesh="model_HyperX_Cloud_II_Headset_Gun_Metal" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_HyperX_Cloud_II_Headset_Gun_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_1_HyperX_Cloud_II_Headset_Gun_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_2_HyperX_Cloud_II_Headset_Gun_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_3_HyperX_Cloud_II_Headset_Gun_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_4_HyperX_Cloud_II_Headset_Gun_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_5_HyperX_Cloud_II_Headset_Gun_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_6_HyperX_Cloud_II_Headset_Gun_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_7_HyperX_Cloud_II_Headset_Gun_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_8_HyperX_Cloud_II_Headset_Gun_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_9_HyperX_Cloud_II_Headset_Gun_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_10_HyperX_Cloud_II_Headset_Gun_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_11_HyperX_Cloud_II_Headset_Gun_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_12_HyperX_Cloud_II_Headset_Gun_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_13_HyperX_Cloud_II_Headset_Gun_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_14_HyperX_Cloud_II_Headset_Gun_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_15_HyperX_Cloud_II_Headset_Gun_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_16_HyperX_Cloud_II_Headset_Gun_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_17_HyperX_Cloud_II_Headset_Gun_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_18_HyperX_Cloud_II_Headset_Gun_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_19_HyperX_Cloud_II_Headset_Gun_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_20_HyperX_Cloud_II_Headset_Gun_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_21_HyperX_Cloud_II_Headset_Gun_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_22_HyperX_Cloud_II_Headset_Gun_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_23_HyperX_Cloud_II_Headset_Gun_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_24_HyperX_Cloud_II_Headset_Gun_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_25_HyperX_Cloud_II_Headset_Gun_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_26_HyperX_Cloud_II_Headset_Gun_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_27_HyperX_Cloud_II_Headset_Gun_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_28_HyperX_Cloud_II_Headset_Gun_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_29_HyperX_Cloud_II_Headset_Gun_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_30_HyperX_Cloud_II_Headset_Gun_Metal" type="mesh" group="3" />
+      <geom mesh="model_collision_31_HyperX_Cloud_II_Headset_Gun_Metal" type="mesh" group="3" />
+    </body>

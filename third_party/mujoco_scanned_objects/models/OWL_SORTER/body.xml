@@ -1,0 +1,36 @@
+<body childclass="OWL_SORTER_base" name="OWL_SORTER1">
+        <geom class="OWL_SORTER_col" name="{geom_name}" type="mesh" mesh="model_OWL_SORTER" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_OWL_SORTER" mesh="model_OWL_SORTER" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_OWL_SORTER" type="mesh" group="3" />
+      <geom mesh="model_collision_1_OWL_SORTER" type="mesh" group="3" />
+      <geom mesh="model_collision_2_OWL_SORTER" type="mesh" group="3" />
+      <geom mesh="model_collision_3_OWL_SORTER" type="mesh" group="3" />
+      <geom mesh="model_collision_4_OWL_SORTER" type="mesh" group="3" />
+      <geom mesh="model_collision_5_OWL_SORTER" type="mesh" group="3" />
+      <geom mesh="model_collision_6_OWL_SORTER" type="mesh" group="3" />
+      <geom mesh="model_collision_7_OWL_SORTER" type="mesh" group="3" />
+      <geom mesh="model_collision_8_OWL_SORTER" type="mesh" group="3" />
+      <geom mesh="model_collision_9_OWL_SORTER" type="mesh" group="3" />
+      <geom mesh="model_collision_10_OWL_SORTER" type="mesh" group="3" />
+      <geom mesh="model_collision_11_OWL_SORTER" type="mesh" group="3" />
+      <geom mesh="model_collision_12_OWL_SORTER" type="mesh" group="3" />
+      <geom mesh="model_collision_13_OWL_SORTER" type="mesh" group="3" />
+      <geom mesh="model_collision_14_OWL_SORTER" type="mesh" group="3" />
+      <geom mesh="model_collision_15_OWL_SORTER" type="mesh" group="3" />
+      <geom mesh="model_collision_16_OWL_SORTER" type="mesh" group="3" />
+      <geom mesh="model_collision_17_OWL_SORTER" type="mesh" group="3" />
+      <geom mesh="model_collision_18_OWL_SORTER" type="mesh" group="3" />
+      <geom mesh="model_collision_19_OWL_SORTER" type="mesh" group="3" />
+      <geom mesh="model_collision_20_OWL_SORTER" type="mesh" group="3" />
+      <geom mesh="model_collision_21_OWL_SORTER" type="mesh" group="3" />
+      <geom mesh="model_collision_22_OWL_SORTER" type="mesh" group="3" />
+      <geom mesh="model_collision_23_OWL_SORTER" type="mesh" group="3" />
+      <geom mesh="model_collision_24_OWL_SORTER" type="mesh" group="3" />
+      <geom mesh="model_collision_25_OWL_SORTER" type="mesh" group="3" />
+      <geom mesh="model_collision_26_OWL_SORTER" type="mesh" group="3" />
+      <geom mesh="model_collision_27_OWL_SORTER" type="mesh" group="3" />
+      <geom mesh="model_collision_28_OWL_SORTER" type="mesh" group="3" />
+      <geom mesh="model_collision_29_OWL_SORTER" type="mesh" group="3" />
+      <geom mesh="model_collision_30_OWL_SORTER" type="mesh" group="3" />
+      <geom mesh="model_collision_31_OWL_SORTER" type="mesh" group="3" />
+    </body>

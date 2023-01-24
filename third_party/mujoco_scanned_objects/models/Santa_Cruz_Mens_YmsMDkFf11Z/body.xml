@@ -1,0 +1,36 @@
+<body childclass="Santa_Cruz_Mens_YmsMDkFf11Z_base" name="Santa_Cruz_Mens_YmsMDkFf11Z1">
+        <geom class="Santa_Cruz_Mens_YmsMDkFf11Z_col" name="{geom_name}" type="mesh" mesh="model_Santa_Cruz_Mens_YmsMDkFf11Z" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Santa_Cruz_Mens_YmsMDkFf11Z" mesh="model_Santa_Cruz_Mens_YmsMDkFf11Z" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Santa_Cruz_Mens_YmsMDkFf11Z" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Santa_Cruz_Mens_YmsMDkFf11Z" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Santa_Cruz_Mens_YmsMDkFf11Z" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Santa_Cruz_Mens_YmsMDkFf11Z" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Santa_Cruz_Mens_YmsMDkFf11Z" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Santa_Cruz_Mens_YmsMDkFf11Z" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Santa_Cruz_Mens_YmsMDkFf11Z" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Santa_Cruz_Mens_YmsMDkFf11Z" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Santa_Cruz_Mens_YmsMDkFf11Z" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Santa_Cruz_Mens_YmsMDkFf11Z" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Santa_Cruz_Mens_YmsMDkFf11Z" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Santa_Cruz_Mens_YmsMDkFf11Z" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Santa_Cruz_Mens_YmsMDkFf11Z" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Santa_Cruz_Mens_YmsMDkFf11Z" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Santa_Cruz_Mens_YmsMDkFf11Z" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Santa_Cruz_Mens_YmsMDkFf11Z" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Santa_Cruz_Mens_YmsMDkFf11Z" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Santa_Cruz_Mens_YmsMDkFf11Z" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Santa_Cruz_Mens_YmsMDkFf11Z" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Santa_Cruz_Mens_YmsMDkFf11Z" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Santa_Cruz_Mens_YmsMDkFf11Z" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Santa_Cruz_Mens_YmsMDkFf11Z" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Santa_Cruz_Mens_YmsMDkFf11Z" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Santa_Cruz_Mens_YmsMDkFf11Z" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Santa_Cruz_Mens_YmsMDkFf11Z" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Santa_Cruz_Mens_YmsMDkFf11Z" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Santa_Cruz_Mens_YmsMDkFf11Z" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Santa_Cruz_Mens_YmsMDkFf11Z" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Santa_Cruz_Mens_YmsMDkFf11Z" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Santa_Cruz_Mens_YmsMDkFf11Z" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Santa_Cruz_Mens_YmsMDkFf11Z" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Santa_Cruz_Mens_YmsMDkFf11Z" type="mesh" group="3" />
+    </body>

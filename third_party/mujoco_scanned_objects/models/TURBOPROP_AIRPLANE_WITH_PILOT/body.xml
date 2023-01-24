@@ -1,0 +1,36 @@
+<body childclass="TURBOPROP_AIRPLANE_WITH_PILOT_base" name="TURBOPROP_AIRPLANE_WITH_PILOT1">
+        <geom class="TURBOPROP_AIRPLANE_WITH_PILOT_col" name="{geom_name}" type="mesh" mesh="model_TURBOPROP_AIRPLANE_WITH_PILOT" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_TURBOPROP_AIRPLANE_WITH_PILOT" mesh="model_TURBOPROP_AIRPLANE_WITH_PILOT" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_TURBOPROP_AIRPLANE_WITH_PILOT" type="mesh" group="3" />
+      <geom mesh="model_collision_1_TURBOPROP_AIRPLANE_WITH_PILOT" type="mesh" group="3" />
+      <geom mesh="model_collision_2_TURBOPROP_AIRPLANE_WITH_PILOT" type="mesh" group="3" />
+      <geom mesh="model_collision_3_TURBOPROP_AIRPLANE_WITH_PILOT" type="mesh" group="3" />
+      <geom mesh="model_collision_4_TURBOPROP_AIRPLANE_WITH_PILOT" type="mesh" group="3" />
+      <geom mesh="model_collision_5_TURBOPROP_AIRPLANE_WITH_PILOT" type="mesh" group="3" />
+      <geom mesh="model_collision_6_TURBOPROP_AIRPLANE_WITH_PILOT" type="mesh" group="3" />
+      <geom mesh="model_collision_7_TURBOPROP_AIRPLANE_WITH_PILOT" type="mesh" group="3" />
+      <geom mesh="model_collision_8_TURBOPROP_AIRPLANE_WITH_PILOT" type="mesh" group="3" />
+      <geom mesh="model_collision_9_TURBOPROP_AIRPLANE_WITH_PILOT" type="mesh" group="3" />
+      <geom mesh="model_collision_10_TURBOPROP_AIRPLANE_WITH_PILOT" type="mesh" group="3" />
+      <geom mesh="model_collision_11_TURBOPROP_AIRPLANE_WITH_PILOT" type="mesh" group="3" />
+      <geom mesh="model_collision_12_TURBOPROP_AIRPLANE_WITH_PILOT" type="mesh" group="3" />
+      <geom mesh="model_collision_13_TURBOPROP_AIRPLANE_WITH_PILOT" type="mesh" group="3" />
+      <geom mesh="model_collision_14_TURBOPROP_AIRPLANE_WITH_PILOT" type="mesh" group="3" />
+      <geom mesh="model_collision_15_TURBOPROP_AIRPLANE_WITH_PILOT" type="mesh" group="3" />
+      <geom mesh="model_collision_16_TURBOPROP_AIRPLANE_WITH_PILOT" type="mesh" group="3" />
+      <geom mesh="model_collision_17_TURBOPROP_AIRPLANE_WITH_PILOT" type="mesh" group="3" />
+      <geom mesh="model_collision_18_TURBOPROP_AIRPLANE_WITH_PILOT" type="mesh" group="3" />
+      <geom mesh="model_collision_19_TURBOPROP_AIRPLANE_WITH_PILOT" type="mesh" group="3" />
+      <geom mesh="model_collision_20_TURBOPROP_AIRPLANE_WITH_PILOT" type="mesh" group="3" />
+      <geom mesh="model_collision_21_TURBOPROP_AIRPLANE_WITH_PILOT" type="mesh" group="3" />
+      <geom mesh="model_collision_22_TURBOPROP_AIRPLANE_WITH_PILOT" type="mesh" group="3" />
+      <geom mesh="model_collision_23_TURBOPROP_AIRPLANE_WITH_PILOT" type="mesh" group="3" />
+      <geom mesh="model_collision_24_TURBOPROP_AIRPLANE_WITH_PILOT" type="mesh" group="3" />
+      <geom mesh="model_collision_25_TURBOPROP_AIRPLANE_WITH_PILOT" type="mesh" group="3" />
+      <geom mesh="model_collision_26_TURBOPROP_AIRPLANE_WITH_PILOT" type="mesh" group="3" />
+      <geom mesh="model_collision_27_TURBOPROP_AIRPLANE_WITH_PILOT" type="mesh" group="3" />
+      <geom mesh="model_collision_28_TURBOPROP_AIRPLANE_WITH_PILOT" type="mesh" group="3" />
+      <geom mesh="model_collision_29_TURBOPROP_AIRPLANE_WITH_PILOT" type="mesh" group="3" />
+      <geom mesh="model_collision_30_TURBOPROP_AIRPLANE_WITH_PILOT" type="mesh" group="3" />
+      <geom mesh="model_collision_31_TURBOPROP_AIRPLANE_WITH_PILOT" type="mesh" group="3" />
+    </body>

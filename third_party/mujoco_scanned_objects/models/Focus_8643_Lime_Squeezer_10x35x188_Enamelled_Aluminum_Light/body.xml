@@ -1,0 +1,36 @@
+<body childclass="Focus_8643_Lime_Squeezer_10x35x188_Enamelled_Aluminum_Light_base" name="Focus_8643_Lime_Squeezer_10x35x188_Enamelled_Aluminum_Light1">
+        <geom class="Focus_8643_Lime_Squeezer_10x35x188_Enamelled_Aluminum_Light_col" name="{geom_name}" type="mesh" mesh="model_Focus_8643_Lime_Squeezer_10x35x188_Enamelled_Aluminum_Light" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Focus_8643_Lime_Squeezer_10x35x188_Enamelled_Aluminum_Light" mesh="model_Focus_8643_Lime_Squeezer_10x35x188_Enamelled_Aluminum_Light" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Focus_8643_Lime_Squeezer_10x35x188_Enamelled_Aluminum_Light" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Focus_8643_Lime_Squeezer_10x35x188_Enamelled_Aluminum_Light" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Focus_8643_Lime_Squeezer_10x35x188_Enamelled_Aluminum_Light" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Focus_8643_Lime_Squeezer_10x35x188_Enamelled_Aluminum_Light" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Focus_8643_Lime_Squeezer_10x35x188_Enamelled_Aluminum_Light" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Focus_8643_Lime_Squeezer_10x35x188_Enamelled_Aluminum_Light" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Focus_8643_Lime_Squeezer_10x35x188_Enamelled_Aluminum_Light" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Focus_8643_Lime_Squeezer_10x35x188_Enamelled_Aluminum_Light" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Focus_8643_Lime_Squeezer_10x35x188_Enamelled_Aluminum_Light" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Focus_8643_Lime_Squeezer_10x35x188_Enamelled_Aluminum_Light" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Focus_8643_Lime_Squeezer_10x35x188_Enamelled_Aluminum_Light" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Focus_8643_Lime_Squeezer_10x35x188_Enamelled_Aluminum_Light" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Focus_8643_Lime_Squeezer_10x35x188_Enamelled_Aluminum_Light" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Focus_8643_Lime_Squeezer_10x35x188_Enamelled_Aluminum_Light" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Focus_8643_Lime_Squeezer_10x35x188_Enamelled_Aluminum_Light" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Focus_8643_Lime_Squeezer_10x35x188_Enamelled_Aluminum_Light" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Focus_8643_Lime_Squeezer_10x35x188_Enamelled_Aluminum_Light" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Focus_8643_Lime_Squeezer_10x35x188_Enamelled_Aluminum_Light" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Focus_8643_Lime_Squeezer_10x35x188_Enamelled_Aluminum_Light" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Focus_8643_Lime_Squeezer_10x35x188_Enamelled_Aluminum_Light" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Focus_8643_Lime_Squeezer_10x35x188_Enamelled_Aluminum_Light" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Focus_8643_Lime_Squeezer_10x35x188_Enamelled_Aluminum_Light" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Focus_8643_Lime_Squeezer_10x35x188_Enamelled_Aluminum_Light" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Focus_8643_Lime_Squeezer_10x35x188_Enamelled_Aluminum_Light" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Focus_8643_Lime_Squeezer_10x35x188_Enamelled_Aluminum_Light" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Focus_8643_Lime_Squeezer_10x35x188_Enamelled_Aluminum_Light" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Focus_8643_Lime_Squeezer_10x35x188_Enamelled_Aluminum_Light" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Focus_8643_Lime_Squeezer_10x35x188_Enamelled_Aluminum_Light" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Focus_8643_Lime_Squeezer_10x35x188_Enamelled_Aluminum_Light" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Focus_8643_Lime_Squeezer_10x35x188_Enamelled_Aluminum_Light" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Focus_8643_Lime_Squeezer_10x35x188_Enamelled_Aluminum_Light" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Focus_8643_Lime_Squeezer_10x35x188_Enamelled_Aluminum_Light" type="mesh" group="3" />
+    </body>

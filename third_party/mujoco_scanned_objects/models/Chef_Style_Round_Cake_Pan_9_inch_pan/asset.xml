@@ -1,0 +1,38 @@
+<asset>
+    <texture type="2d" name="texture_Chef_Style_Round_Cake_Pan_9_inch_pan" file="../../../../../mujoco_scanned_objects/models/Chef_Style_Round_Cake_Pan_9_inch_pan/texture.png" />
+    <material name="material_0_Chef_Style_Round_Cake_Pan_9_inch_pan" texture="texture_Chef_Style_Round_Cake_Pan_9_inch_pan" specular="0.5" shininess="0.5" />
+    <mesh name="model_Chef_Style_Round_Cake_Pan_9_inch_pan" file="../../../../../mujoco_scanned_objects/models/Chef_Style_Round_Cake_Pan_9_inch_pan/model.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_0_Chef_Style_Round_Cake_Pan_9_inch_pan" file="../../../../../mujoco_scanned_objects/models/Chef_Style_Round_Cake_Pan_9_inch_pan/model_collision_0.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_1_Chef_Style_Round_Cake_Pan_9_inch_pan" file="../../../../../mujoco_scanned_objects/models/Chef_Style_Round_Cake_Pan_9_inch_pan/model_collision_1.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_2_Chef_Style_Round_Cake_Pan_9_inch_pan" file="../../../../../mujoco_scanned_objects/models/Chef_Style_Round_Cake_Pan_9_inch_pan/model_collision_2.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_3_Chef_Style_Round_Cake_Pan_9_inch_pan" file="../../../../../mujoco_scanned_objects/models/Chef_Style_Round_Cake_Pan_9_inch_pan/model_collision_3.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_4_Chef_Style_Round_Cake_Pan_9_inch_pan" file="../../../../../mujoco_scanned_objects/models/Chef_Style_Round_Cake_Pan_9_inch_pan/model_collision_4.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_5_Chef_Style_Round_Cake_Pan_9_inch_pan" file="../../../../../mujoco_scanned_objects/models/Chef_Style_Round_Cake_Pan_9_inch_pan/model_collision_5.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_6_Chef_Style_Round_Cake_Pan_9_inch_pan" file="../../../../../mujoco_scanned_objects/models/Chef_Style_Round_Cake_Pan_9_inch_pan/model_collision_6.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_7_Chef_Style_Round_Cake_Pan_9_inch_pan" file="../../../../../mujoco_scanned_objects/models/Chef_Style_Round_Cake_Pan_9_inch_pan/model_collision_7.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_8_Chef_Style_Round_Cake_Pan_9_inch_pan" file="../../../../../mujoco_scanned_objects/models/Chef_Style_Round_Cake_Pan_9_inch_pan/model_collision_8.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_9_Chef_Style_Round_Cake_Pan_9_inch_pan" file="../../../../../mujoco_scanned_objects/models/Chef_Style_Round_Cake_Pan_9_inch_pan/model_collision_9.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_10_Chef_Style_Round_Cake_Pan_9_inch_pan" file="../../../../../mujoco_scanned_objects/models/Chef_Style_Round_Cake_Pan_9_inch_pan/model_collision_10.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_11_Chef_Style_Round_Cake_Pan_9_inch_pan" file="../../../../../mujoco_scanned_objects/models/Chef_Style_Round_Cake_Pan_9_inch_pan/model_collision_11.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_12_Chef_Style_Round_Cake_Pan_9_inch_pan" file="../../../../../mujoco_scanned_objects/models/Chef_Style_Round_Cake_Pan_9_inch_pan/model_collision_12.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_13_Chef_Style_Round_Cake_Pan_9_inch_pan" file="../../../../../mujoco_scanned_objects/models/Chef_Style_Round_Cake_Pan_9_inch_pan/model_collision_13.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_14_Chef_Style_Round_Cake_Pan_9_inch_pan" file="../../../../../mujoco_scanned_objects/models/Chef_Style_Round_Cake_Pan_9_inch_pan/model_collision_14.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_15_Chef_Style_Round_Cake_Pan_9_inch_pan" file="../../../../../mujoco_scanned_objects/models/Chef_Style_Round_Cake_Pan_9_inch_pan/model_collision_15.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_16_Chef_Style_Round_Cake_Pan_9_inch_pan" file="../../../../../mujoco_scanned_objects/models/Chef_Style_Round_Cake_Pan_9_inch_pan/model_collision_16.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_17_Chef_Style_Round_Cake_Pan_9_inch_pan" file="../../../../../mujoco_scanned_objects/models/Chef_Style_Round_Cake_Pan_9_inch_pan/model_collision_17.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_18_Chef_Style_Round_Cake_Pan_9_inch_pan" file="../../../../../mujoco_scanned_objects/models/Chef_Style_Round_Cake_Pan_9_inch_pan/model_collision_18.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_19_Chef_Style_Round_Cake_Pan_9_inch_pan" file="../../../../../mujoco_scanned_objects/models/Chef_Style_Round_Cake_Pan_9_inch_pan/model_collision_19.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_20_Chef_Style_Round_Cake_Pan_9_inch_pan" file="../../../../../mujoco_scanned_objects/models/Chef_Style_Round_Cake_Pan_9_inch_pan/model_collision_20.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_21_Chef_Style_Round_Cake_Pan_9_inch_pan" file="../../../../../mujoco_scanned_objects/models/Chef_Style_Round_Cake_Pan_9_inch_pan/model_collision_21.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_22_Chef_Style_Round_Cake_Pan_9_inch_pan" file="../../../../../mujoco_scanned_objects/models/Chef_Style_Round_Cake_Pan_9_inch_pan/model_collision_22.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_23_Chef_Style_Round_Cake_Pan_9_inch_pan" file="../../../../../mujoco_scanned_objects/models/Chef_Style_Round_Cake_Pan_9_inch_pan/model_collision_23.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_24_Chef_Style_Round_Cake_Pan_9_inch_pan" file="../../../../../mujoco_scanned_objects/models/Chef_Style_Round_Cake_Pan_9_inch_pan/model_collision_24.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_25_Chef_Style_Round_Cake_Pan_9_inch_pan" file="../../../../../mujoco_scanned_objects/models/Chef_Style_Round_Cake_Pan_9_inch_pan/model_collision_25.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_26_Chef_Style_Round_Cake_Pan_9_inch_pan" file="../../../../../mujoco_scanned_objects/models/Chef_Style_Round_Cake_Pan_9_inch_pan/model_collision_26.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_27_Chef_Style_Round_Cake_Pan_9_inch_pan" file="../../../../../mujoco_scanned_objects/models/Chef_Style_Round_Cake_Pan_9_inch_pan/model_collision_27.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_28_Chef_Style_Round_Cake_Pan_9_inch_pan" file="../../../../../mujoco_scanned_objects/models/Chef_Style_Round_Cake_Pan_9_inch_pan/model_collision_28.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_29_Chef_Style_Round_Cake_Pan_9_inch_pan" file="../../../../../mujoco_scanned_objects/models/Chef_Style_Round_Cake_Pan_9_inch_pan/model_collision_29.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_30_Chef_Style_Round_Cake_Pan_9_inch_pan" file="../../../../../mujoco_scanned_objects/models/Chef_Style_Round_Cake_Pan_9_inch_pan/model_collision_30.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_31_Chef_Style_Round_Cake_Pan_9_inch_pan" file="../../../../../mujoco_scanned_objects/models/Chef_Style_Round_Cake_Pan_9_inch_pan/model_collision_31.stl" scale="{scale} {scale} {scale}" />
+  </asset>
+  

@@ -1,0 +1,38 @@
+<asset>
+    <texture type="2d" name="texture_MARTIN_WEDGE_LACE_BOOT" file="../../../../../mujoco_scanned_objects/models/MARTIN_WEDGE_LACE_BOOT/texture.png" />
+    <material name="material_0_MARTIN_WEDGE_LACE_BOOT" texture="texture_MARTIN_WEDGE_LACE_BOOT" specular="0.5" shininess="0.5" />
+    <mesh name="model_MARTIN_WEDGE_LACE_BOOT" file="../../../../../mujoco_scanned_objects/models/MARTIN_WEDGE_LACE_BOOT/model.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_0_MARTIN_WEDGE_LACE_BOOT" file="../../../../../mujoco_scanned_objects/models/MARTIN_WEDGE_LACE_BOOT/model_collision_0.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_1_MARTIN_WEDGE_LACE_BOOT" file="../../../../../mujoco_scanned_objects/models/MARTIN_WEDGE_LACE_BOOT/model_collision_1.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_2_MARTIN_WEDGE_LACE_BOOT" file="../../../../../mujoco_scanned_objects/models/MARTIN_WEDGE_LACE_BOOT/model_collision_2.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_3_MARTIN_WEDGE_LACE_BOOT" file="../../../../../mujoco_scanned_objects/models/MARTIN_WEDGE_LACE_BOOT/model_collision_3.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_4_MARTIN_WEDGE_LACE_BOOT" file="../../../../../mujoco_scanned_objects/models/MARTIN_WEDGE_LACE_BOOT/model_collision_4.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_5_MARTIN_WEDGE_LACE_BOOT" file="../../../../../mujoco_scanned_objects/models/MARTIN_WEDGE_LACE_BOOT/model_collision_5.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_6_MARTIN_WEDGE_LACE_BOOT" file="../../../../../mujoco_scanned_objects/models/MARTIN_WEDGE_LACE_BOOT/model_collision_6.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_7_MARTIN_WEDGE_LACE_BOOT" file="../../../../../mujoco_scanned_objects/models/MARTIN_WEDGE_LACE_BOOT/model_collision_7.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_8_MARTIN_WEDGE_LACE_BOOT" file="../../../../../mujoco_scanned_objects/models/MARTIN_WEDGE_LACE_BOOT/model_collision_8.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_9_MARTIN_WEDGE_LACE_BOOT" file="../../../../../mujoco_scanned_objects/models/MARTIN_WEDGE_LACE_BOOT/model_collision_9.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_10_MARTIN_WEDGE_LACE_BOOT" file="../../../../../mujoco_scanned_objects/models/MARTIN_WEDGE_LACE_BOOT/model_collision_10.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_11_MARTIN_WEDGE_LACE_BOOT" file="../../../../../mujoco_scanned_objects/models/MARTIN_WEDGE_LACE_BOOT/model_collision_11.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_12_MARTIN_WEDGE_LACE_BOOT" file="../../../../../mujoco_scanned_objects/models/MARTIN_WEDGE_LACE_BOOT/model_collision_12.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_13_MARTIN_WEDGE_LACE_BOOT" file="../../../../../mujoco_scanned_objects/models/MARTIN_WEDGE_LACE_BOOT/model_collision_13.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_14_MARTIN_WEDGE_LACE_BOOT" file="../../../../../mujoco_scanned_objects/models/MARTIN_WEDGE_LACE_BOOT/model_collision_14.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_15_MARTIN_WEDGE_LACE_BOOT" file="../../../../../mujoco_scanned_objects/models/MARTIN_WEDGE_LACE_BOOT/model_collision_15.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_16_MARTIN_WEDGE_LACE_BOOT" file="../../../../../mujoco_scanned_objects/models/MARTIN_WEDGE_LACE_BOOT/model_collision_16.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_17_MARTIN_WEDGE_LACE_BOOT" file="../../../../../mujoco_scanned_objects/models/MARTIN_WEDGE_LACE_BOOT/model_collision_17.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_18_MARTIN_WEDGE_LACE_BOOT" file="../../../../../mujoco_scanned_objects/models/MARTIN_WEDGE_LACE_BOOT/model_collision_18.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_19_MARTIN_WEDGE_LACE_BOOT" file="../../../../../mujoco_scanned_objects/models/MARTIN_WEDGE_LACE_BOOT/model_collision_19.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_20_MARTIN_WEDGE_LACE_BOOT" file="../../../../../mujoco_scanned_objects/models/MARTIN_WEDGE_LACE_BOOT/model_collision_20.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_21_MARTIN_WEDGE_LACE_BOOT" file="../../../../../mujoco_scanned_objects/models/MARTIN_WEDGE_LACE_BOOT/model_collision_21.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_22_MARTIN_WEDGE_LACE_BOOT" file="../../../../../mujoco_scanned_objects/models/MARTIN_WEDGE_LACE_BOOT/model_collision_22.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_23_MARTIN_WEDGE_LACE_BOOT" file="../../../../../mujoco_scanned_objects/models/MARTIN_WEDGE_LACE_BOOT/model_collision_23.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_24_MARTIN_WEDGE_LACE_BOOT" file="../../../../../mujoco_scanned_objects/models/MARTIN_WEDGE_LACE_BOOT/model_collision_24.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_25_MARTIN_WEDGE_LACE_BOOT" file="../../../../../mujoco_scanned_objects/models/MARTIN_WEDGE_LACE_BOOT/model_collision_25.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_26_MARTIN_WEDGE_LACE_BOOT" file="../../../../../mujoco_scanned_objects/models/MARTIN_WEDGE_LACE_BOOT/model_collision_26.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_27_MARTIN_WEDGE_LACE_BOOT" file="../../../../../mujoco_scanned_objects/models/MARTIN_WEDGE_LACE_BOOT/model_collision_27.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_28_MARTIN_WEDGE_LACE_BOOT" file="../../../../../mujoco_scanned_objects/models/MARTIN_WEDGE_LACE_BOOT/model_collision_28.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_29_MARTIN_WEDGE_LACE_BOOT" file="../../../../../mujoco_scanned_objects/models/MARTIN_WEDGE_LACE_BOOT/model_collision_29.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_30_MARTIN_WEDGE_LACE_BOOT" file="../../../../../mujoco_scanned_objects/models/MARTIN_WEDGE_LACE_BOOT/model_collision_30.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_31_MARTIN_WEDGE_LACE_BOOT" file="../../../../../mujoco_scanned_objects/models/MARTIN_WEDGE_LACE_BOOT/model_collision_31.stl" scale="{scale} {scale} {scale}" />
+  </asset>
+  

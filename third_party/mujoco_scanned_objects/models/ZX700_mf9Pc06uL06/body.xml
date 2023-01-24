@@ -1,0 +1,36 @@
+<body childclass="ZX700_mf9Pc06uL06_base" name="ZX700_mf9Pc06uL061">
+        <geom class="ZX700_mf9Pc06uL06_col" name="{geom_name}" type="mesh" mesh="model_ZX700_mf9Pc06uL06" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_ZX700_mf9Pc06uL06" mesh="model_ZX700_mf9Pc06uL06" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_ZX700_mf9Pc06uL06" type="mesh" group="3" />
+      <geom mesh="model_collision_1_ZX700_mf9Pc06uL06" type="mesh" group="3" />
+      <geom mesh="model_collision_2_ZX700_mf9Pc06uL06" type="mesh" group="3" />
+      <geom mesh="model_collision_3_ZX700_mf9Pc06uL06" type="mesh" group="3" />
+      <geom mesh="model_collision_4_ZX700_mf9Pc06uL06" type="mesh" group="3" />
+      <geom mesh="model_collision_5_ZX700_mf9Pc06uL06" type="mesh" group="3" />
+      <geom mesh="model_collision_6_ZX700_mf9Pc06uL06" type="mesh" group="3" />
+      <geom mesh="model_collision_7_ZX700_mf9Pc06uL06" type="mesh" group="3" />
+      <geom mesh="model_collision_8_ZX700_mf9Pc06uL06" type="mesh" group="3" />
+      <geom mesh="model_collision_9_ZX700_mf9Pc06uL06" type="mesh" group="3" />
+      <geom mesh="model_collision_10_ZX700_mf9Pc06uL06" type="mesh" group="3" />
+      <geom mesh="model_collision_11_ZX700_mf9Pc06uL06" type="mesh" group="3" />
+      <geom mesh="model_collision_12_ZX700_mf9Pc06uL06" type="mesh" group="3" />
+      <geom mesh="model_collision_13_ZX700_mf9Pc06uL06" type="mesh" group="3" />
+      <geom mesh="model_collision_14_ZX700_mf9Pc06uL06" type="mesh" group="3" />
+      <geom mesh="model_collision_15_ZX700_mf9Pc06uL06" type="mesh" group="3" />
+      <geom mesh="model_collision_16_ZX700_mf9Pc06uL06" type="mesh" group="3" />
+      <geom mesh="model_collision_17_ZX700_mf9Pc06uL06" type="mesh" group="3" />
+      <geom mesh="model_collision_18_ZX700_mf9Pc06uL06" type="mesh" group="3" />
+      <geom mesh="model_collision_19_ZX700_mf9Pc06uL06" type="mesh" group="3" />
+      <geom mesh="model_collision_20_ZX700_mf9Pc06uL06" type="mesh" group="3" />
+      <geom mesh="model_collision_21_ZX700_mf9Pc06uL06" type="mesh" group="3" />
+      <geom mesh="model_collision_22_ZX700_mf9Pc06uL06" type="mesh" group="3" />
+      <geom mesh="model_collision_23_ZX700_mf9Pc06uL06" type="mesh" group="3" />
+      <geom mesh="model_collision_24_ZX700_mf9Pc06uL06" type="mesh" group="3" />
+      <geom mesh="model_collision_25_ZX700_mf9Pc06uL06" type="mesh" group="3" />
+      <geom mesh="model_collision_26_ZX700_mf9Pc06uL06" type="mesh" group="3" />
+      <geom mesh="model_collision_27_ZX700_mf9Pc06uL06" type="mesh" group="3" />
+      <geom mesh="model_collision_28_ZX700_mf9Pc06uL06" type="mesh" group="3" />
+      <geom mesh="model_collision_29_ZX700_mf9Pc06uL06" type="mesh" group="3" />
+      <geom mesh="model_collision_30_ZX700_mf9Pc06uL06" type="mesh" group="3" />
+      <geom mesh="model_collision_31_ZX700_mf9Pc06uL06" type="mesh" group="3" />
+    </body>

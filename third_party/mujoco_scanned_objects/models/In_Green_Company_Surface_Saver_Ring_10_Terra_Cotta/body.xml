@@ -1,0 +1,36 @@
+<body childclass="In_Green_Company_Surface_Saver_Ring_10_Terra_Cotta_base" name="In_Green_Company_Surface_Saver_Ring_10_Terra_Cotta1">
+        <geom class="In_Green_Company_Surface_Saver_Ring_10_Terra_Cotta_col" name="{geom_name}" type="mesh" mesh="model_In_Green_Company_Surface_Saver_Ring_10_Terra_Cotta" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_In_Green_Company_Surface_Saver_Ring_10_Terra_Cotta" mesh="model_In_Green_Company_Surface_Saver_Ring_10_Terra_Cotta" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_In_Green_Company_Surface_Saver_Ring_10_Terra_Cotta" type="mesh" group="3" />
+      <geom mesh="model_collision_1_In_Green_Company_Surface_Saver_Ring_10_Terra_Cotta" type="mesh" group="3" />
+      <geom mesh="model_collision_2_In_Green_Company_Surface_Saver_Ring_10_Terra_Cotta" type="mesh" group="3" />
+      <geom mesh="model_collision_3_In_Green_Company_Surface_Saver_Ring_10_Terra_Cotta" type="mesh" group="3" />
+      <geom mesh="model_collision_4_In_Green_Company_Surface_Saver_Ring_10_Terra_Cotta" type="mesh" group="3" />
+      <geom mesh="model_collision_5_In_Green_Company_Surface_Saver_Ring_10_Terra_Cotta" type="mesh" group="3" />
+      <geom mesh="model_collision_6_In_Green_Company_Surface_Saver_Ring_10_Terra_Cotta" type="mesh" group="3" />
+      <geom mesh="model_collision_7_In_Green_Company_Surface_Saver_Ring_10_Terra_Cotta" type="mesh" group="3" />
+      <geom mesh="model_collision_8_In_Green_Company_Surface_Saver_Ring_10_Terra_Cotta" type="mesh" group="3" />
+      <geom mesh="model_collision_9_In_Green_Company_Surface_Saver_Ring_10_Terra_Cotta" type="mesh" group="3" />
+      <geom mesh="model_collision_10_In_Green_Company_Surface_Saver_Ring_10_Terra_Cotta" type="mesh" group="3" />
+      <geom mesh="model_collision_11_In_Green_Company_Surface_Saver_Ring_10_Terra_Cotta" type="mesh" group="3" />
+      <geom mesh="model_collision_12_In_Green_Company_Surface_Saver_Ring_10_Terra_Cotta" type="mesh" group="3" />
+      <geom mesh="model_collision_13_In_Green_Company_Surface_Saver_Ring_10_Terra_Cotta" type="mesh" group="3" />
+      <geom mesh="model_collision_14_In_Green_Company_Surface_Saver_Ring_10_Terra_Cotta" type="mesh" group="3" />
+      <geom mesh="model_collision_15_In_Green_Company_Surface_Saver_Ring_10_Terra_Cotta" type="mesh" group="3" />
+      <geom mesh="model_collision_16_In_Green_Company_Surface_Saver_Ring_10_Terra_Cotta" type="mesh" group="3" />
+      <geom mesh="model_collision_17_In_Green_Company_Surface_Saver_Ring_10_Terra_Cotta" type="mesh" group="3" />
+      <geom mesh="model_collision_18_In_Green_Company_Surface_Saver_Ring_10_Terra_Cotta" type="mesh" group="3" />
+      <geom mesh="model_collision_19_In_Green_Company_Surface_Saver_Ring_10_Terra_Cotta" type="mesh" group="3" />
+      <geom mesh="model_collision_20_In_Green_Company_Surface_Saver_Ring_10_Terra_Cotta" type="mesh" group="3" />
+      <geom mesh="model_collision_21_In_Green_Company_Surface_Saver_Ring_10_Terra_Cotta" type="mesh" group="3" />
+      <geom mesh="model_collision_22_In_Green_Company_Surface_Saver_Ring_10_Terra_Cotta" type="mesh" group="3" />
+      <geom mesh="model_collision_23_In_Green_Company_Surface_Saver_Ring_10_Terra_Cotta" type="mesh" group="3" />
+      <geom mesh="model_collision_24_In_Green_Company_Surface_Saver_Ring_10_Terra_Cotta" type="mesh" group="3" />
+      <geom mesh="model_collision_25_In_Green_Company_Surface_Saver_Ring_10_Terra_Cotta" type="mesh" group="3" />
+      <geom mesh="model_collision_26_In_Green_Company_Surface_Saver_Ring_10_Terra_Cotta" type="mesh" group="3" />
+      <geom mesh="model_collision_27_In_Green_Company_Surface_Saver_Ring_10_Terra_Cotta" type="mesh" group="3" />
+      <geom mesh="model_collision_28_In_Green_Company_Surface_Saver_Ring_10_Terra_Cotta" type="mesh" group="3" />
+      <geom mesh="model_collision_29_In_Green_Company_Surface_Saver_Ring_10_Terra_Cotta" type="mesh" group="3" />
+      <geom mesh="model_collision_30_In_Green_Company_Surface_Saver_Ring_10_Terra_Cotta" type="mesh" group="3" />
+      <geom mesh="model_collision_31_In_Green_Company_Surface_Saver_Ring_10_Terra_Cotta" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="ASICS_GELLinksmaster_WhiteRasberryGunmetal_base" name="ASICS_GELLinksmaster_WhiteRasberryGunmetal1">
+        <geom class="ASICS_GELLinksmaster_WhiteRasberryGunmetal_col" name="{geom_name}" type="mesh" mesh="model_ASICS_GELLinksmaster_WhiteRasberryGunmetal" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_ASICS_GELLinksmaster_WhiteRasberryGunmetal" mesh="model_ASICS_GELLinksmaster_WhiteRasberryGunmetal" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_ASICS_GELLinksmaster_WhiteRasberryGunmetal" type="mesh" group="3" />
+      <geom mesh="model_collision_1_ASICS_GELLinksmaster_WhiteRasberryGunmetal" type="mesh" group="3" />
+      <geom mesh="model_collision_2_ASICS_GELLinksmaster_WhiteRasberryGunmetal" type="mesh" group="3" />
+      <geom mesh="model_collision_3_ASICS_GELLinksmaster_WhiteRasberryGunmetal" type="mesh" group="3" />
+      <geom mesh="model_collision_4_ASICS_GELLinksmaster_WhiteRasberryGunmetal" type="mesh" group="3" />
+      <geom mesh="model_collision_5_ASICS_GELLinksmaster_WhiteRasberryGunmetal" type="mesh" group="3" />
+      <geom mesh="model_collision_6_ASICS_GELLinksmaster_WhiteRasberryGunmetal" type="mesh" group="3" />
+      <geom mesh="model_collision_7_ASICS_GELLinksmaster_WhiteRasberryGunmetal" type="mesh" group="3" />
+      <geom mesh="model_collision_8_ASICS_GELLinksmaster_WhiteRasberryGunmetal" type="mesh" group="3" />
+      <geom mesh="model_collision_9_ASICS_GELLinksmaster_WhiteRasberryGunmetal" type="mesh" group="3" />
+      <geom mesh="model_collision_10_ASICS_GELLinksmaster_WhiteRasberryGunmetal" type="mesh" group="3" />
+      <geom mesh="model_collision_11_ASICS_GELLinksmaster_WhiteRasberryGunmetal" type="mesh" group="3" />
+      <geom mesh="model_collision_12_ASICS_GELLinksmaster_WhiteRasberryGunmetal" type="mesh" group="3" />
+      <geom mesh="model_collision_13_ASICS_GELLinksmaster_WhiteRasberryGunmetal" type="mesh" group="3" />
+      <geom mesh="model_collision_14_ASICS_GELLinksmaster_WhiteRasberryGunmetal" type="mesh" group="3" />
+      <geom mesh="model_collision_15_ASICS_GELLinksmaster_WhiteRasberryGunmetal" type="mesh" group="3" />
+      <geom mesh="model_collision_16_ASICS_GELLinksmaster_WhiteRasberryGunmetal" type="mesh" group="3" />
+      <geom mesh="model_collision_17_ASICS_GELLinksmaster_WhiteRasberryGunmetal" type="mesh" group="3" />
+      <geom mesh="model_collision_18_ASICS_GELLinksmaster_WhiteRasberryGunmetal" type="mesh" group="3" />
+      <geom mesh="model_collision_19_ASICS_GELLinksmaster_WhiteRasberryGunmetal" type="mesh" group="3" />
+      <geom mesh="model_collision_20_ASICS_GELLinksmaster_WhiteRasberryGunmetal" type="mesh" group="3" />
+      <geom mesh="model_collision_21_ASICS_GELLinksmaster_WhiteRasberryGunmetal" type="mesh" group="3" />
+      <geom mesh="model_collision_22_ASICS_GELLinksmaster_WhiteRasberryGunmetal" type="mesh" group="3" />
+      <geom mesh="model_collision_23_ASICS_GELLinksmaster_WhiteRasberryGunmetal" type="mesh" group="3" />
+      <geom mesh="model_collision_24_ASICS_GELLinksmaster_WhiteRasberryGunmetal" type="mesh" group="3" />
+      <geom mesh="model_collision_25_ASICS_GELLinksmaster_WhiteRasberryGunmetal" type="mesh" group="3" />
+      <geom mesh="model_collision_26_ASICS_GELLinksmaster_WhiteRasberryGunmetal" type="mesh" group="3" />
+      <geom mesh="model_collision_27_ASICS_GELLinksmaster_WhiteRasberryGunmetal" type="mesh" group="3" />
+      <geom mesh="model_collision_28_ASICS_GELLinksmaster_WhiteRasberryGunmetal" type="mesh" group="3" />
+      <geom mesh="model_collision_29_ASICS_GELLinksmaster_WhiteRasberryGunmetal" type="mesh" group="3" />
+      <geom mesh="model_collision_30_ASICS_GELLinksmaster_WhiteRasberryGunmetal" type="mesh" group="3" />
+      <geom mesh="model_collision_31_ASICS_GELLinksmaster_WhiteRasberryGunmetal" type="mesh" group="3" />
+    </body>

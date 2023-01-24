@@ -1,0 +1,97 @@
+<!--
+ Copyright 2023 Google LLC
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+--><mujocoinclude><asset>
+  <texture name="tex_ddopcux-938e329d-5761-4562-b37a-fcdb9090d48b" type="2d" file="../../../../../../envs/assets/textures/ddopcux-938e329d-5761-4562-b37a-fcdb9090d48b.png"/>
+  <texture name="tex_real_door" type="2d" file="../../../../../../envs/assets/textures/real_door.png"/>
+  <texture name="tex_images (8)" type="2d" file="../../../../../../envs/assets/textures/images (8).png"/>
+  <texture name="tex_images (18)" type="2d" file="../../../../../../envs/assets/textures/images (18).png"/>
+  <texture name="tex_green-wood" type="2d" file="../../../../../../envs/assets/textures/green-wood.png"/>
+  <texture name="tex_wg-32" type="2d" file="../../../../../../envs/assets/textures/wg-32.png"/>
+  <texture name="tex_Seamless-Floral-Design-Pattern" type="2d" file="../../../../../../envs/assets/textures/Seamless-Floral-Design-Pattern.png"/>
+  <texture name="tex_solid5" type="2d" file="../../../../../../envs/assets/textures/solid5.png"/>
+  <texture name="tex_240277" type="2d" file="../../../../../../envs/assets/textures/240277.png"/>
+  <texture name="tex_plant-pattern-02" type="2d" file="../../../../../../envs/assets/textures/plant-pattern-02.png"/>
+  <texture name="tex_images (4)" type="2d" file="../../../../../../envs/assets/textures/images (4).png"/>
+  <texture name="tex_images (7)" type="2d" file="../../../../../../envs/assets/textures/images (7).png"/>
+  <texture name="tex_Digital_Graphic_Pattern_2" type="2d" file="../../../../../../envs/assets/textures/Digital_Graphic_Pattern_2.png"/>
+  <texture name="tex_solid4" type="2d" file="../../../../../../envs/assets/textures/solid4.png"/>
+  <texture name="tex_Random_1" type="2d" file="../../../../../../envs/assets/textures/Random_1.png"/>
+  <texture name="tex_image-1636721091xrf" type="2d" file="../../../../../../envs/assets/textures/image-1636721091xrf.png"/>
+  <texture name="tex_Spring-Pattern" type="2d" file="../../../../../../envs/assets/textures/Spring-Pattern.png"/>
+  <texture name="tex_light_wood" type="2d" file="../../../../../../envs/assets/textures/light_wood.png"/>
+  <texture name="tex_Random-Imagemagick-Fractal-Plasma-Modified-1-2015071533" type="2d" file="../../../../../../envs/assets/textures/Random-Imagemagick-Fractal-Plasma-Modified-1-2015071533.png"/>
+  <texture name="tex_Random-Imagemagick-Fractal-Plasma-Modified-3-2015071533" type="2d" file="../../../../../../envs/assets/textures/Random-Imagemagick-Fractal-Plasma-Modified-3-2015071533.png"/>
+  <texture name="tex_Random-Imagemagick-Fractal-Plasma-Modified-1-2015071554" type="2d" file="../../../../../../envs/assets/textures/Random-Imagemagick-Fractal-Plasma-Modified-1-2015071554.png"/>
+  <texture name="tex_image-1626080202Y4E" type="2d" file="../../../../../../envs/assets/textures/image-1626080202Y4E.png"/>
+  <texture name="tex_Dec-20-2010-plain" type="2d" file="../../../../../../envs/assets/textures/Dec-20-2010-plain.png"/>
+  <texture name="tex_Vintage-Floral-Wallpaper-Pattern" type="2d" file="../../../../../../envs/assets/textures/Vintage-Floral-Wallpaper-Pattern.png"/>
+  <texture name="tex_solid0" type="2d" file="../../../../../../envs/assets/textures/solid0.png"/>
+  <texture name="tex_random-blue-circles-sparse" type="2d" file="../../../../../../envs/assets/textures/random-blue-circles-sparse.png"/>
+  <texture name="tex_Wallpaper_group-p4g-with_Cairo_pentagonal_tiling2" type="2d" file="../../../../../../envs/assets/textures/Wallpaper_group-p4g-with_Cairo_pentagonal_tiling2.png"/>
+  <texture name="tex_images_4" type="2d" file="../../../../../../envs/assets/textures/images_4.png"/>
+  <texture name="tex_gradient-regenbogen-farbverlauf-1659416753GLc" type="2d" file="../../../../../../envs/assets/textures/gradient-regenbogen-farbverlauf-1659416753GLc.png"/>
+  <texture name="tex_A_Fake_UFO_picture" type="2d" file="../../../../../../envs/assets/textures/A_Fake_UFO_picture.png"/>
+  <texture name="tex_wood-tiles" type="2d" file="../../../../../../envs/assets/textures/wood-tiles.png"/>
+  <texture name="tex_OldBrickWall2" type="2d" file="../../../../../../envs/assets/textures/OldBrickWall2.png"/>
+  <texture name="tex_golden-brown-circles-repeat-pattern" type="2d" file="../../../../../../envs/assets/textures/golden-brown-circles-repeat-pattern.png"/>
+  <texture name="tex_images_1" type="2d" file="../../../../../../envs/assets/textures/images_1.png"/>
+  <texture name="tex_background-picture-1588416022FsV" type="2d" file="../../../../../../envs/assets/textures/background-picture-1588416022FsV.png"/>
+  <texture name="tex_images (15)" type="2d" file="../../../../../../envs/assets/textures/images (15).png"/>
+  <texture name="tex_Gradient_green" type="2d" file="../../../../../../envs/assets/textures/Gradient_green.png"/>
+  <texture name="tex_solid2" type="2d" file="../../../../../../envs/assets/textures/solid2.png"/>
+  <texture name="tex_images (9)" type="2d" file="../../../../../../envs/assets/textures/images (9).png"/>
+  <texture name="tex_plaster1" type="2d" file="../../../../../../envs/assets/textures/plaster1.png"/>
+  <texture name="tex_polka-dot-seamless-pattern-remix" type="2d" file="../../../../../../envs/assets/textures/polka-dot-seamless-pattern-remix.png"/>
+  <texture name="tex_ddqmrej-347e95ce-3580-4c59-b40d-fecbcd6d06e8" type="2d" file="../../../../../../envs/assets/textures/ddqmrej-347e95ce-3580-4c59-b40d-fecbcd6d06e8.png"/>
+  <texture name="tex_granite" type="2d" file="../../../../../../envs/assets/textures/granite.png"/>
+  <texture name="tex_Digital_graphic_pattern_29_1" type="2d" file="../../../../../../envs/assets/textures/Digital_graphic_pattern_29_1.png"/>
+  <texture name="tex_Seamless-Hexagonal-Gem-Pattern" type="2d" file="../../../../../../envs/assets/textures/Seamless-Hexagonal-Gem-Pattern.png"/>
+  <texture name="tex_Psychedelic-Zebra-Pattern--Arvin61r58" type="2d" file="../../../../../../envs/assets/textures/Psychedelic-Zebra-Pattern--Arvin61r58.png"/>
+  <texture name="tex_Dirt_Texture" type="2d" file="../../../../../../envs/assets/textures/Dirt_Texture.png"/>
+  <texture name="tex_solid13" type="2d" file="../../../../../../envs/assets/textures/solid13.png"/>
+  <texture name="tex_girly-plaid-seamless-pattern" type="2d" file="../../../../../../envs/assets/textures/girly-plaid-seamless-pattern.png"/>
+  <texture name="tex_images_3" type="2d" file="../../../../../../envs/assets/textures/images_3.png"/>
+  <texture name="tex_Red_-_Yellow_Gradient" type="2d" file="../../../../../../envs/assets/textures/Red_-_Yellow_Gradient.png"/>
+  <texture name="tex_pattern019" type="2d" file="../../../../../../envs/assets/textures/pattern019.png"/>
+  <texture name="tex_weather-seamless-pattern" type="2d" file="../../../../../../envs/assets/textures/weather-seamless-pattern.png"/>
+  <texture name="tex_purple-chevron-1554136179Xmt" type="2d" file="../../../../../../envs/assets/textures/purple-chevron-1554136179Xmt.png"/>
+  <texture name="tex_images (5)" type="2d" file="../../../../../../envs/assets/textures/images (5).png"/>
+  <texture name="tex_tennis" type="2d" file="../../../../../../envs/assets/textures/tennis.png"/>
+  <texture name="tex_RGB_combination_on_wall" type="2d" file="../../../../../../envs/assets/textures/RGB_combination_on_wall.png"/>
+  <texture name="tex_bubblepattern15" type="2d" file="../../../../../../envs/assets/textures/bubblepattern15.png"/>
+  <texture name="tex_solid9" type="2d" file="../../../../../../envs/assets/textures/solid9.png"/>
+  <texture name="tex_1638282918geometric-pattern-art-background" type="2d" file="../../../../../../envs/assets/textures/1638282918geometric-pattern-art-background.png"/>
+  <texture name="tex_Rainbow-Triangle-Pattern" type="2d" file="../../../../../../envs/assets/textures/Rainbow-Triangle-Pattern.png"/>
+  <texture name="tex_white-plaster" type="2d" file="../../../../../../envs/assets/textures/white-plaster.png"/>
+  <texture name="tex_pattern013" type="2d" file="../../../../../../envs/assets/textures/pattern013.png"/>
+  <texture name="tex_Dying_Young_Massive_Dead_Disk_Galaxy_Challenges_the_Picture_of_How_Galaxies_Evolve_(35450736805)" type="2d" file="../../../../../../envs/assets/textures/Dying_Young_Massive_Dead_Disk_Galaxy_Challenges_the_Picture_of_How_Galaxies_Evolve_(35450736805).png"/>
+  <texture name="tex_Digital_Graphic_Pattern_29" type="2d" file="../../../../../../envs/assets/textures/Digital_Graphic_Pattern_29.png"/>
+  <texture name="tex_Abstract-Pattern-27--Arvin61r58" type="2d" file="../../../../../../envs/assets/textures/Abstract-Pattern-27--Arvin61r58.png"/>
+  <texture name="tex_wood4" type="2d" file="../../../../../../envs/assets/textures/wood4.png"/>
+  <texture name="tex_arvin-mesh" type="2d" file="../../../../../../envs/assets/textures/arvin-mesh.png"/>
+  <texture name="tex_1614941334hexagon-pattern-background" type="2d" file="../../../../../../envs/assets/textures/1614941334hexagon-pattern-background.png"/>
+  <texture name="tex_birdface-pattern" type="2d" file="../../../../../../envs/assets/textures/birdface-pattern.png"/>
+  <texture name="tex_Sculptor_wall" type="2d" file="../../../../../../envs/assets/textures/Sculptor_wall.png"/>
+  <texture name="tex_gray-felt" type="2d" file="../../../../../../envs/assets/textures/gray-felt.png"/>
+  <texture name="tex_Digital_Graphic_Pattern_15" type="2d" file="../../../../../../envs/assets/textures/Digital_Graphic_Pattern_15.png"/>
+  <texture name="tex_wood-varnished-panels" type="2d" file="../../../../../../envs/assets/textures/wood-varnished-panels.png"/>
+  <texture name="tex_1526472333" type="2d" file="../../../../../../envs/assets/textures/1526472333.png"/>
+  <texture name="tex_Flower-Wall-Dimsun-Pattern-2016011749" type="2d" file="../../../../../../envs/assets/textures/Flower-Wall-Dimsun-Pattern-2016011749.png"/>
+  <texture name="tex_images (2)" type="2d" file="../../../../../../envs/assets/textures/images (2).png"/>
+  <texture name="tex_brick1" type="2d" file="../../../../../../envs/assets/textures/brick1.png"/>
+  <texture name="tex_Retro-Floral-Background-Pattern" type="2d" file="../../../../../../envs/assets/textures/Retro-Floral-Background-Pattern.png"/>
+  <texture name="tex_dirt" type="2d" file="../../../../../../envs/assets/textures/dirt.png"/>
+  <texture name="tex_image-1626083074UV1" type="2d" file="../../../../../../envs/assets/textures/image-1626083074UV1.png"/>
+</asset></mujocoinclude>

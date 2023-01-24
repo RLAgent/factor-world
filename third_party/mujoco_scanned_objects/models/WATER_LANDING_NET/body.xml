@@ -1,0 +1,36 @@
+<body childclass="WATER_LANDING_NET_base" name="WATER_LANDING_NET1">
+        <geom class="WATER_LANDING_NET_col" name="{geom_name}" type="mesh" mesh="model_WATER_LANDING_NET" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_WATER_LANDING_NET" mesh="model_WATER_LANDING_NET" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_WATER_LANDING_NET" type="mesh" group="3" />
+      <geom mesh="model_collision_1_WATER_LANDING_NET" type="mesh" group="3" />
+      <geom mesh="model_collision_2_WATER_LANDING_NET" type="mesh" group="3" />
+      <geom mesh="model_collision_3_WATER_LANDING_NET" type="mesh" group="3" />
+      <geom mesh="model_collision_4_WATER_LANDING_NET" type="mesh" group="3" />
+      <geom mesh="model_collision_5_WATER_LANDING_NET" type="mesh" group="3" />
+      <geom mesh="model_collision_6_WATER_LANDING_NET" type="mesh" group="3" />
+      <geom mesh="model_collision_7_WATER_LANDING_NET" type="mesh" group="3" />
+      <geom mesh="model_collision_8_WATER_LANDING_NET" type="mesh" group="3" />
+      <geom mesh="model_collision_9_WATER_LANDING_NET" type="mesh" group="3" />
+      <geom mesh="model_collision_10_WATER_LANDING_NET" type="mesh" group="3" />
+      <geom mesh="model_collision_11_WATER_LANDING_NET" type="mesh" group="3" />
+      <geom mesh="model_collision_12_WATER_LANDING_NET" type="mesh" group="3" />
+      <geom mesh="model_collision_13_WATER_LANDING_NET" type="mesh" group="3" />
+      <geom mesh="model_collision_14_WATER_LANDING_NET" type="mesh" group="3" />
+      <geom mesh="model_collision_15_WATER_LANDING_NET" type="mesh" group="3" />
+      <geom mesh="model_collision_16_WATER_LANDING_NET" type="mesh" group="3" />
+      <geom mesh="model_collision_17_WATER_LANDING_NET" type="mesh" group="3" />
+      <geom mesh="model_collision_18_WATER_LANDING_NET" type="mesh" group="3" />
+      <geom mesh="model_collision_19_WATER_LANDING_NET" type="mesh" group="3" />
+      <geom mesh="model_collision_20_WATER_LANDING_NET" type="mesh" group="3" />
+      <geom mesh="model_collision_21_WATER_LANDING_NET" type="mesh" group="3" />
+      <geom mesh="model_collision_22_WATER_LANDING_NET" type="mesh" group="3" />
+      <geom mesh="model_collision_23_WATER_LANDING_NET" type="mesh" group="3" />
+      <geom mesh="model_collision_24_WATER_LANDING_NET" type="mesh" group="3" />
+      <geom mesh="model_collision_25_WATER_LANDING_NET" type="mesh" group="3" />
+      <geom mesh="model_collision_26_WATER_LANDING_NET" type="mesh" group="3" />
+      <geom mesh="model_collision_27_WATER_LANDING_NET" type="mesh" group="3" />
+      <geom mesh="model_collision_28_WATER_LANDING_NET" type="mesh" group="3" />
+      <geom mesh="model_collision_29_WATER_LANDING_NET" type="mesh" group="3" />
+      <geom mesh="model_collision_30_WATER_LANDING_NET" type="mesh" group="3" />
+      <geom mesh="model_collision_31_WATER_LANDING_NET" type="mesh" group="3" />
+    </body>

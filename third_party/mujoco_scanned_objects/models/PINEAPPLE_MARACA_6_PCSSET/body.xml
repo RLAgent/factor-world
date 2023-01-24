@@ -1,0 +1,36 @@
+<body childclass="PINEAPPLE_MARACA_6_PCSSET_base" name="PINEAPPLE_MARACA_6_PCSSET1">
+        <geom class="PINEAPPLE_MARACA_6_PCSSET_col" name="{geom_name}" type="mesh" mesh="model_PINEAPPLE_MARACA_6_PCSSET" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_PINEAPPLE_MARACA_6_PCSSET" mesh="model_PINEAPPLE_MARACA_6_PCSSET" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_PINEAPPLE_MARACA_6_PCSSET" type="mesh" group="3" />
+      <geom mesh="model_collision_1_PINEAPPLE_MARACA_6_PCSSET" type="mesh" group="3" />
+      <geom mesh="model_collision_2_PINEAPPLE_MARACA_6_PCSSET" type="mesh" group="3" />
+      <geom mesh="model_collision_3_PINEAPPLE_MARACA_6_PCSSET" type="mesh" group="3" />
+      <geom mesh="model_collision_4_PINEAPPLE_MARACA_6_PCSSET" type="mesh" group="3" />
+      <geom mesh="model_collision_5_PINEAPPLE_MARACA_6_PCSSET" type="mesh" group="3" />
+      <geom mesh="model_collision_6_PINEAPPLE_MARACA_6_PCSSET" type="mesh" group="3" />
+      <geom mesh="model_collision_7_PINEAPPLE_MARACA_6_PCSSET" type="mesh" group="3" />
+      <geom mesh="model_collision_8_PINEAPPLE_MARACA_6_PCSSET" type="mesh" group="3" />
+      <geom mesh="model_collision_9_PINEAPPLE_MARACA_6_PCSSET" type="mesh" group="3" />
+      <geom mesh="model_collision_10_PINEAPPLE_MARACA_6_PCSSET" type="mesh" group="3" />
+      <geom mesh="model_collision_11_PINEAPPLE_MARACA_6_PCSSET" type="mesh" group="3" />
+      <geom mesh="model_collision_12_PINEAPPLE_MARACA_6_PCSSET" type="mesh" group="3" />
+      <geom mesh="model_collision_13_PINEAPPLE_MARACA_6_PCSSET" type="mesh" group="3" />
+      <geom mesh="model_collision_14_PINEAPPLE_MARACA_6_PCSSET" type="mesh" group="3" />
+      <geom mesh="model_collision_15_PINEAPPLE_MARACA_6_PCSSET" type="mesh" group="3" />
+      <geom mesh="model_collision_16_PINEAPPLE_MARACA_6_PCSSET" type="mesh" group="3" />
+      <geom mesh="model_collision_17_PINEAPPLE_MARACA_6_PCSSET" type="mesh" group="3" />
+      <geom mesh="model_collision_18_PINEAPPLE_MARACA_6_PCSSET" type="mesh" group="3" />
+      <geom mesh="model_collision_19_PINEAPPLE_MARACA_6_PCSSET" type="mesh" group="3" />
+      <geom mesh="model_collision_20_PINEAPPLE_MARACA_6_PCSSET" type="mesh" group="3" />
+      <geom mesh="model_collision_21_PINEAPPLE_MARACA_6_PCSSET" type="mesh" group="3" />
+      <geom mesh="model_collision_22_PINEAPPLE_MARACA_6_PCSSET" type="mesh" group="3" />
+      <geom mesh="model_collision_23_PINEAPPLE_MARACA_6_PCSSET" type="mesh" group="3" />
+      <geom mesh="model_collision_24_PINEAPPLE_MARACA_6_PCSSET" type="mesh" group="3" />
+      <geom mesh="model_collision_25_PINEAPPLE_MARACA_6_PCSSET" type="mesh" group="3" />
+      <geom mesh="model_collision_26_PINEAPPLE_MARACA_6_PCSSET" type="mesh" group="3" />
+      <geom mesh="model_collision_27_PINEAPPLE_MARACA_6_PCSSET" type="mesh" group="3" />
+      <geom mesh="model_collision_28_PINEAPPLE_MARACA_6_PCSSET" type="mesh" group="3" />
+      <geom mesh="model_collision_29_PINEAPPLE_MARACA_6_PCSSET" type="mesh" group="3" />
+      <geom mesh="model_collision_30_PINEAPPLE_MARACA_6_PCSSET" type="mesh" group="3" />
+      <geom mesh="model_collision_31_PINEAPPLE_MARACA_6_PCSSET" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="STEAK_SET_base" name="STEAK_SET1">
+        <geom class="STEAK_SET_col" name="{geom_name}" type="mesh" mesh="model_STEAK_SET" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_STEAK_SET" mesh="model_STEAK_SET" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_STEAK_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_1_STEAK_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_2_STEAK_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_3_STEAK_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_4_STEAK_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_5_STEAK_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_6_STEAK_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_7_STEAK_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_8_STEAK_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_9_STEAK_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_10_STEAK_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_11_STEAK_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_12_STEAK_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_13_STEAK_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_14_STEAK_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_15_STEAK_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_16_STEAK_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_17_STEAK_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_18_STEAK_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_19_STEAK_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_20_STEAK_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_21_STEAK_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_22_STEAK_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_23_STEAK_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_24_STEAK_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_25_STEAK_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_26_STEAK_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_27_STEAK_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_28_STEAK_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_29_STEAK_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_30_STEAK_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_31_STEAK_SET" type="mesh" group="3" />
+    </body>

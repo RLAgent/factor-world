@@ -1,0 +1,36 @@
+<body childclass="Balderdash_Game_base" name="Balderdash_Game1">
+        <geom class="Balderdash_Game_col" name="{geom_name}" type="mesh" mesh="model_Balderdash_Game" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Balderdash_Game" mesh="model_Balderdash_Game" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Balderdash_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Balderdash_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Balderdash_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Balderdash_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Balderdash_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Balderdash_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Balderdash_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Balderdash_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Balderdash_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Balderdash_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Balderdash_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Balderdash_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Balderdash_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Balderdash_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Balderdash_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Balderdash_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Balderdash_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Balderdash_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Balderdash_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Balderdash_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Balderdash_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Balderdash_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Balderdash_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Balderdash_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Balderdash_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Balderdash_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Balderdash_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Balderdash_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Balderdash_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Balderdash_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Balderdash_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Balderdash_Game" type="mesh" group="3" />
+    </body>

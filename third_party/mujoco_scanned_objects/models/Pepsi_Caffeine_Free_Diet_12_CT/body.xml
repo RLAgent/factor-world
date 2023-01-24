@@ -1,0 +1,36 @@
+<body childclass="Pepsi_Caffeine_Free_Diet_12_CT_base" name="Pepsi_Caffeine_Free_Diet_12_CT1">
+        <geom class="Pepsi_Caffeine_Free_Diet_12_CT_col" name="{geom_name}" type="mesh" mesh="model_Pepsi_Caffeine_Free_Diet_12_CT" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Pepsi_Caffeine_Free_Diet_12_CT" mesh="model_Pepsi_Caffeine_Free_Diet_12_CT" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Pepsi_Caffeine_Free_Diet_12_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Pepsi_Caffeine_Free_Diet_12_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Pepsi_Caffeine_Free_Diet_12_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Pepsi_Caffeine_Free_Diet_12_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Pepsi_Caffeine_Free_Diet_12_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Pepsi_Caffeine_Free_Diet_12_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Pepsi_Caffeine_Free_Diet_12_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Pepsi_Caffeine_Free_Diet_12_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Pepsi_Caffeine_Free_Diet_12_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Pepsi_Caffeine_Free_Diet_12_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Pepsi_Caffeine_Free_Diet_12_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Pepsi_Caffeine_Free_Diet_12_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Pepsi_Caffeine_Free_Diet_12_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Pepsi_Caffeine_Free_Diet_12_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Pepsi_Caffeine_Free_Diet_12_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Pepsi_Caffeine_Free_Diet_12_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Pepsi_Caffeine_Free_Diet_12_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Pepsi_Caffeine_Free_Diet_12_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Pepsi_Caffeine_Free_Diet_12_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Pepsi_Caffeine_Free_Diet_12_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Pepsi_Caffeine_Free_Diet_12_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Pepsi_Caffeine_Free_Diet_12_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Pepsi_Caffeine_Free_Diet_12_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Pepsi_Caffeine_Free_Diet_12_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Pepsi_Caffeine_Free_Diet_12_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Pepsi_Caffeine_Free_Diet_12_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Pepsi_Caffeine_Free_Diet_12_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Pepsi_Caffeine_Free_Diet_12_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Pepsi_Caffeine_Free_Diet_12_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Pepsi_Caffeine_Free_Diet_12_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Pepsi_Caffeine_Free_Diet_12_CT" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Pepsi_Caffeine_Free_Diet_12_CT" type="mesh" group="3" />
+    </body>

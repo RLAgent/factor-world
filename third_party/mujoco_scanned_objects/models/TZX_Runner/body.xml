@@ -1,0 +1,36 @@
+<body childclass="TZX_Runner_base" name="TZX_Runner1">
+        <geom class="TZX_Runner_col" name="{geom_name}" type="mesh" mesh="model_TZX_Runner" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_TZX_Runner" mesh="model_TZX_Runner" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_TZX_Runner" type="mesh" group="3" />
+      <geom mesh="model_collision_1_TZX_Runner" type="mesh" group="3" />
+      <geom mesh="model_collision_2_TZX_Runner" type="mesh" group="3" />
+      <geom mesh="model_collision_3_TZX_Runner" type="mesh" group="3" />
+      <geom mesh="model_collision_4_TZX_Runner" type="mesh" group="3" />
+      <geom mesh="model_collision_5_TZX_Runner" type="mesh" group="3" />
+      <geom mesh="model_collision_6_TZX_Runner" type="mesh" group="3" />
+      <geom mesh="model_collision_7_TZX_Runner" type="mesh" group="3" />
+      <geom mesh="model_collision_8_TZX_Runner" type="mesh" group="3" />
+      <geom mesh="model_collision_9_TZX_Runner" type="mesh" group="3" />
+      <geom mesh="model_collision_10_TZX_Runner" type="mesh" group="3" />
+      <geom mesh="model_collision_11_TZX_Runner" type="mesh" group="3" />
+      <geom mesh="model_collision_12_TZX_Runner" type="mesh" group="3" />
+      <geom mesh="model_collision_13_TZX_Runner" type="mesh" group="3" />
+      <geom mesh="model_collision_14_TZX_Runner" type="mesh" group="3" />
+      <geom mesh="model_collision_15_TZX_Runner" type="mesh" group="3" />
+      <geom mesh="model_collision_16_TZX_Runner" type="mesh" group="3" />
+      <geom mesh="model_collision_17_TZX_Runner" type="mesh" group="3" />
+      <geom mesh="model_collision_18_TZX_Runner" type="mesh" group="3" />
+      <geom mesh="model_collision_19_TZX_Runner" type="mesh" group="3" />
+      <geom mesh="model_collision_20_TZX_Runner" type="mesh" group="3" />
+      <geom mesh="model_collision_21_TZX_Runner" type="mesh" group="3" />
+      <geom mesh="model_collision_22_TZX_Runner" type="mesh" group="3" />
+      <geom mesh="model_collision_23_TZX_Runner" type="mesh" group="3" />
+      <geom mesh="model_collision_24_TZX_Runner" type="mesh" group="3" />
+      <geom mesh="model_collision_25_TZX_Runner" type="mesh" group="3" />
+      <geom mesh="model_collision_26_TZX_Runner" type="mesh" group="3" />
+      <geom mesh="model_collision_27_TZX_Runner" type="mesh" group="3" />
+      <geom mesh="model_collision_28_TZX_Runner" type="mesh" group="3" />
+      <geom mesh="model_collision_29_TZX_Runner" type="mesh" group="3" />
+      <geom mesh="model_collision_30_TZX_Runner" type="mesh" group="3" />
+      <geom mesh="model_collision_31_TZX_Runner" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="Down_To_Earth_Orchid_Pot_Ceramic_Lime_base" name="Down_To_Earth_Orchid_Pot_Ceramic_Lime1">
+        <geom class="Down_To_Earth_Orchid_Pot_Ceramic_Lime_col" name="{geom_name}" type="mesh" mesh="model_Down_To_Earth_Orchid_Pot_Ceramic_Lime" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Down_To_Earth_Orchid_Pot_Ceramic_Lime" mesh="model_Down_To_Earth_Orchid_Pot_Ceramic_Lime" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Down_To_Earth_Orchid_Pot_Ceramic_Lime" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Down_To_Earth_Orchid_Pot_Ceramic_Lime" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Down_To_Earth_Orchid_Pot_Ceramic_Lime" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Down_To_Earth_Orchid_Pot_Ceramic_Lime" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Down_To_Earth_Orchid_Pot_Ceramic_Lime" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Down_To_Earth_Orchid_Pot_Ceramic_Lime" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Down_To_Earth_Orchid_Pot_Ceramic_Lime" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Down_To_Earth_Orchid_Pot_Ceramic_Lime" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Down_To_Earth_Orchid_Pot_Ceramic_Lime" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Down_To_Earth_Orchid_Pot_Ceramic_Lime" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Down_To_Earth_Orchid_Pot_Ceramic_Lime" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Down_To_Earth_Orchid_Pot_Ceramic_Lime" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Down_To_Earth_Orchid_Pot_Ceramic_Lime" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Down_To_Earth_Orchid_Pot_Ceramic_Lime" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Down_To_Earth_Orchid_Pot_Ceramic_Lime" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Down_To_Earth_Orchid_Pot_Ceramic_Lime" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Down_To_Earth_Orchid_Pot_Ceramic_Lime" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Down_To_Earth_Orchid_Pot_Ceramic_Lime" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Down_To_Earth_Orchid_Pot_Ceramic_Lime" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Down_To_Earth_Orchid_Pot_Ceramic_Lime" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Down_To_Earth_Orchid_Pot_Ceramic_Lime" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Down_To_Earth_Orchid_Pot_Ceramic_Lime" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Down_To_Earth_Orchid_Pot_Ceramic_Lime" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Down_To_Earth_Orchid_Pot_Ceramic_Lime" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Down_To_Earth_Orchid_Pot_Ceramic_Lime" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Down_To_Earth_Orchid_Pot_Ceramic_Lime" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Down_To_Earth_Orchid_Pot_Ceramic_Lime" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Down_To_Earth_Orchid_Pot_Ceramic_Lime" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Down_To_Earth_Orchid_Pot_Ceramic_Lime" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Down_To_Earth_Orchid_Pot_Ceramic_Lime" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Down_To_Earth_Orchid_Pot_Ceramic_Lime" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Down_To_Earth_Orchid_Pot_Ceramic_Lime" type="mesh" group="3" />
+    </body>

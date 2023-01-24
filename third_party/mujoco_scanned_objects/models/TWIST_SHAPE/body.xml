@@ -1,0 +1,36 @@
+<body childclass="TWIST_SHAPE_base" name="TWIST_SHAPE1">
+        <geom class="TWIST_SHAPE_col" name="{geom_name}" type="mesh" mesh="model_TWIST_SHAPE" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_TWIST_SHAPE" mesh="model_TWIST_SHAPE" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_TWIST_SHAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_1_TWIST_SHAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_2_TWIST_SHAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_3_TWIST_SHAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_4_TWIST_SHAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_5_TWIST_SHAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_6_TWIST_SHAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_7_TWIST_SHAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_8_TWIST_SHAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_9_TWIST_SHAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_10_TWIST_SHAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_11_TWIST_SHAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_12_TWIST_SHAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_13_TWIST_SHAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_14_TWIST_SHAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_15_TWIST_SHAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_16_TWIST_SHAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_17_TWIST_SHAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_18_TWIST_SHAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_19_TWIST_SHAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_20_TWIST_SHAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_21_TWIST_SHAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_22_TWIST_SHAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_23_TWIST_SHAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_24_TWIST_SHAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_25_TWIST_SHAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_26_TWIST_SHAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_27_TWIST_SHAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_28_TWIST_SHAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_29_TWIST_SHAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_30_TWIST_SHAPE" type="mesh" group="3" />
+      <geom mesh="model_collision_31_TWIST_SHAPE" type="mesh" group="3" />
+    </body>

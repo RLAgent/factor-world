@@ -1,0 +1,36 @@
+<body childclass="Nestle_Nips_Hard_Candy_Peanut_Butter_base" name="Nestle_Nips_Hard_Candy_Peanut_Butter1">
+        <geom class="Nestle_Nips_Hard_Candy_Peanut_Butter_col" name="{geom_name}" type="mesh" mesh="model_Nestle_Nips_Hard_Candy_Peanut_Butter" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Nestle_Nips_Hard_Candy_Peanut_Butter" mesh="model_Nestle_Nips_Hard_Candy_Peanut_Butter" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Nestle_Nips_Hard_Candy_Peanut_Butter" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Nestle_Nips_Hard_Candy_Peanut_Butter" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Nestle_Nips_Hard_Candy_Peanut_Butter" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Nestle_Nips_Hard_Candy_Peanut_Butter" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Nestle_Nips_Hard_Candy_Peanut_Butter" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Nestle_Nips_Hard_Candy_Peanut_Butter" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Nestle_Nips_Hard_Candy_Peanut_Butter" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Nestle_Nips_Hard_Candy_Peanut_Butter" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Nestle_Nips_Hard_Candy_Peanut_Butter" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Nestle_Nips_Hard_Candy_Peanut_Butter" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Nestle_Nips_Hard_Candy_Peanut_Butter" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Nestle_Nips_Hard_Candy_Peanut_Butter" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Nestle_Nips_Hard_Candy_Peanut_Butter" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Nestle_Nips_Hard_Candy_Peanut_Butter" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Nestle_Nips_Hard_Candy_Peanut_Butter" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Nestle_Nips_Hard_Candy_Peanut_Butter" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Nestle_Nips_Hard_Candy_Peanut_Butter" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Nestle_Nips_Hard_Candy_Peanut_Butter" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Nestle_Nips_Hard_Candy_Peanut_Butter" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Nestle_Nips_Hard_Candy_Peanut_Butter" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Nestle_Nips_Hard_Candy_Peanut_Butter" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Nestle_Nips_Hard_Candy_Peanut_Butter" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Nestle_Nips_Hard_Candy_Peanut_Butter" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Nestle_Nips_Hard_Candy_Peanut_Butter" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Nestle_Nips_Hard_Candy_Peanut_Butter" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Nestle_Nips_Hard_Candy_Peanut_Butter" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Nestle_Nips_Hard_Candy_Peanut_Butter" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Nestle_Nips_Hard_Candy_Peanut_Butter" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Nestle_Nips_Hard_Candy_Peanut_Butter" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Nestle_Nips_Hard_Candy_Peanut_Butter" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Nestle_Nips_Hard_Candy_Peanut_Butter" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Nestle_Nips_Hard_Candy_Peanut_Butter" type="mesh" group="3" />
+    </body>

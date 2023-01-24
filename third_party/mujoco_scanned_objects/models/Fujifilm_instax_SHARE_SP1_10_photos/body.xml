@@ -1,0 +1,36 @@
+<body childclass="Fujifilm_instax_SHARE_SP1_10_photos_base" name="Fujifilm_instax_SHARE_SP1_10_photos1">
+        <geom class="Fujifilm_instax_SHARE_SP1_10_photos_col" name="{geom_name}" type="mesh" mesh="model_Fujifilm_instax_SHARE_SP1_10_photos" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Fujifilm_instax_SHARE_SP1_10_photos" mesh="model_Fujifilm_instax_SHARE_SP1_10_photos" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Fujifilm_instax_SHARE_SP1_10_photos" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Fujifilm_instax_SHARE_SP1_10_photos" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Fujifilm_instax_SHARE_SP1_10_photos" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Fujifilm_instax_SHARE_SP1_10_photos" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Fujifilm_instax_SHARE_SP1_10_photos" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Fujifilm_instax_SHARE_SP1_10_photos" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Fujifilm_instax_SHARE_SP1_10_photos" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Fujifilm_instax_SHARE_SP1_10_photos" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Fujifilm_instax_SHARE_SP1_10_photos" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Fujifilm_instax_SHARE_SP1_10_photos" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Fujifilm_instax_SHARE_SP1_10_photos" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Fujifilm_instax_SHARE_SP1_10_photos" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Fujifilm_instax_SHARE_SP1_10_photos" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Fujifilm_instax_SHARE_SP1_10_photos" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Fujifilm_instax_SHARE_SP1_10_photos" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Fujifilm_instax_SHARE_SP1_10_photos" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Fujifilm_instax_SHARE_SP1_10_photos" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Fujifilm_instax_SHARE_SP1_10_photos" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Fujifilm_instax_SHARE_SP1_10_photos" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Fujifilm_instax_SHARE_SP1_10_photos" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Fujifilm_instax_SHARE_SP1_10_photos" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Fujifilm_instax_SHARE_SP1_10_photos" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Fujifilm_instax_SHARE_SP1_10_photos" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Fujifilm_instax_SHARE_SP1_10_photos" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Fujifilm_instax_SHARE_SP1_10_photos" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Fujifilm_instax_SHARE_SP1_10_photos" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Fujifilm_instax_SHARE_SP1_10_photos" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Fujifilm_instax_SHARE_SP1_10_photos" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Fujifilm_instax_SHARE_SP1_10_photos" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Fujifilm_instax_SHARE_SP1_10_photos" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Fujifilm_instax_SHARE_SP1_10_photos" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Fujifilm_instax_SHARE_SP1_10_photos" type="mesh" group="3" />
+    </body>

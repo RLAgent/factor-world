@@ -1,0 +1,36 @@
+<body childclass="Don_Franciscos_Gourmet_Coffee_Medium_Decaf_100_Colombian_12_oz_340_g_base" name="Don_Franciscos_Gourmet_Coffee_Medium_Decaf_100_Colombian_12_oz_340_g1">
+        <geom class="Don_Franciscos_Gourmet_Coffee_Medium_Decaf_100_Colombian_12_oz_340_g_col" name="{geom_name}" type="mesh" mesh="model_Don_Franciscos_Gourmet_Coffee_Medium_Decaf_100_Colombian_12_oz_340_g" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Don_Franciscos_Gourmet_Coffee_Medium_Decaf_100_Colombian_12_oz_340_g" mesh="model_Don_Franciscos_Gourmet_Coffee_Medium_Decaf_100_Colombian_12_oz_340_g" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Don_Franciscos_Gourmet_Coffee_Medium_Decaf_100_Colombian_12_oz_340_g" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Don_Franciscos_Gourmet_Coffee_Medium_Decaf_100_Colombian_12_oz_340_g" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Don_Franciscos_Gourmet_Coffee_Medium_Decaf_100_Colombian_12_oz_340_g" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Don_Franciscos_Gourmet_Coffee_Medium_Decaf_100_Colombian_12_oz_340_g" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Don_Franciscos_Gourmet_Coffee_Medium_Decaf_100_Colombian_12_oz_340_g" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Don_Franciscos_Gourmet_Coffee_Medium_Decaf_100_Colombian_12_oz_340_g" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Don_Franciscos_Gourmet_Coffee_Medium_Decaf_100_Colombian_12_oz_340_g" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Don_Franciscos_Gourmet_Coffee_Medium_Decaf_100_Colombian_12_oz_340_g" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Don_Franciscos_Gourmet_Coffee_Medium_Decaf_100_Colombian_12_oz_340_g" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Don_Franciscos_Gourmet_Coffee_Medium_Decaf_100_Colombian_12_oz_340_g" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Don_Franciscos_Gourmet_Coffee_Medium_Decaf_100_Colombian_12_oz_340_g" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Don_Franciscos_Gourmet_Coffee_Medium_Decaf_100_Colombian_12_oz_340_g" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Don_Franciscos_Gourmet_Coffee_Medium_Decaf_100_Colombian_12_oz_340_g" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Don_Franciscos_Gourmet_Coffee_Medium_Decaf_100_Colombian_12_oz_340_g" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Don_Franciscos_Gourmet_Coffee_Medium_Decaf_100_Colombian_12_oz_340_g" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Don_Franciscos_Gourmet_Coffee_Medium_Decaf_100_Colombian_12_oz_340_g" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Don_Franciscos_Gourmet_Coffee_Medium_Decaf_100_Colombian_12_oz_340_g" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Don_Franciscos_Gourmet_Coffee_Medium_Decaf_100_Colombian_12_oz_340_g" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Don_Franciscos_Gourmet_Coffee_Medium_Decaf_100_Colombian_12_oz_340_g" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Don_Franciscos_Gourmet_Coffee_Medium_Decaf_100_Colombian_12_oz_340_g" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Don_Franciscos_Gourmet_Coffee_Medium_Decaf_100_Colombian_12_oz_340_g" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Don_Franciscos_Gourmet_Coffee_Medium_Decaf_100_Colombian_12_oz_340_g" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Don_Franciscos_Gourmet_Coffee_Medium_Decaf_100_Colombian_12_oz_340_g" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Don_Franciscos_Gourmet_Coffee_Medium_Decaf_100_Colombian_12_oz_340_g" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Don_Franciscos_Gourmet_Coffee_Medium_Decaf_100_Colombian_12_oz_340_g" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Don_Franciscos_Gourmet_Coffee_Medium_Decaf_100_Colombian_12_oz_340_g" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Don_Franciscos_Gourmet_Coffee_Medium_Decaf_100_Colombian_12_oz_340_g" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Don_Franciscos_Gourmet_Coffee_Medium_Decaf_100_Colombian_12_oz_340_g" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Don_Franciscos_Gourmet_Coffee_Medium_Decaf_100_Colombian_12_oz_340_g" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Don_Franciscos_Gourmet_Coffee_Medium_Decaf_100_Colombian_12_oz_340_g" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Don_Franciscos_Gourmet_Coffee_Medium_Decaf_100_Colombian_12_oz_340_g" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Don_Franciscos_Gourmet_Coffee_Medium_Decaf_100_Colombian_12_oz_340_g" type="mesh" group="3" />
+    </body>

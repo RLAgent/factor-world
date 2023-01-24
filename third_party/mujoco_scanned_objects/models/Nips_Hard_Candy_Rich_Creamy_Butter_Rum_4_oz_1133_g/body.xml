@@ -1,0 +1,36 @@
+<body childclass="Nips_Hard_Candy_Rich_Creamy_Butter_Rum_4_oz_1133_g_base" name="Nips_Hard_Candy_Rich_Creamy_Butter_Rum_4_oz_1133_g1">
+        <geom class="Nips_Hard_Candy_Rich_Creamy_Butter_Rum_4_oz_1133_g_col" name="{geom_name}" type="mesh" mesh="model_Nips_Hard_Candy_Rich_Creamy_Butter_Rum_4_oz_1133_g" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Nips_Hard_Candy_Rich_Creamy_Butter_Rum_4_oz_1133_g" mesh="model_Nips_Hard_Candy_Rich_Creamy_Butter_Rum_4_oz_1133_g" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Nips_Hard_Candy_Rich_Creamy_Butter_Rum_4_oz_1133_g" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Nips_Hard_Candy_Rich_Creamy_Butter_Rum_4_oz_1133_g" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Nips_Hard_Candy_Rich_Creamy_Butter_Rum_4_oz_1133_g" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Nips_Hard_Candy_Rich_Creamy_Butter_Rum_4_oz_1133_g" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Nips_Hard_Candy_Rich_Creamy_Butter_Rum_4_oz_1133_g" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Nips_Hard_Candy_Rich_Creamy_Butter_Rum_4_oz_1133_g" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Nips_Hard_Candy_Rich_Creamy_Butter_Rum_4_oz_1133_g" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Nips_Hard_Candy_Rich_Creamy_Butter_Rum_4_oz_1133_g" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Nips_Hard_Candy_Rich_Creamy_Butter_Rum_4_oz_1133_g" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Nips_Hard_Candy_Rich_Creamy_Butter_Rum_4_oz_1133_g" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Nips_Hard_Candy_Rich_Creamy_Butter_Rum_4_oz_1133_g" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Nips_Hard_Candy_Rich_Creamy_Butter_Rum_4_oz_1133_g" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Nips_Hard_Candy_Rich_Creamy_Butter_Rum_4_oz_1133_g" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Nips_Hard_Candy_Rich_Creamy_Butter_Rum_4_oz_1133_g" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Nips_Hard_Candy_Rich_Creamy_Butter_Rum_4_oz_1133_g" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Nips_Hard_Candy_Rich_Creamy_Butter_Rum_4_oz_1133_g" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Nips_Hard_Candy_Rich_Creamy_Butter_Rum_4_oz_1133_g" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Nips_Hard_Candy_Rich_Creamy_Butter_Rum_4_oz_1133_g" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Nips_Hard_Candy_Rich_Creamy_Butter_Rum_4_oz_1133_g" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Nips_Hard_Candy_Rich_Creamy_Butter_Rum_4_oz_1133_g" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Nips_Hard_Candy_Rich_Creamy_Butter_Rum_4_oz_1133_g" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Nips_Hard_Candy_Rich_Creamy_Butter_Rum_4_oz_1133_g" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Nips_Hard_Candy_Rich_Creamy_Butter_Rum_4_oz_1133_g" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Nips_Hard_Candy_Rich_Creamy_Butter_Rum_4_oz_1133_g" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Nips_Hard_Candy_Rich_Creamy_Butter_Rum_4_oz_1133_g" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Nips_Hard_Candy_Rich_Creamy_Butter_Rum_4_oz_1133_g" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Nips_Hard_Candy_Rich_Creamy_Butter_Rum_4_oz_1133_g" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Nips_Hard_Candy_Rich_Creamy_Butter_Rum_4_oz_1133_g" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Nips_Hard_Candy_Rich_Creamy_Butter_Rum_4_oz_1133_g" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Nips_Hard_Candy_Rich_Creamy_Butter_Rum_4_oz_1133_g" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Nips_Hard_Candy_Rich_Creamy_Butter_Rum_4_oz_1133_g" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Nips_Hard_Candy_Rich_Creamy_Butter_Rum_4_oz_1133_g" type="mesh" group="3" />
+    </body>

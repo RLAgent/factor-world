@@ -1,0 +1,36 @@
+<body childclass="JUICER_SET_base" name="JUICER_SET1">
+        <geom class="JUICER_SET_col" name="{geom_name}" type="mesh" mesh="model_JUICER_SET" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_JUICER_SET" mesh="model_JUICER_SET" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_JUICER_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_1_JUICER_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_2_JUICER_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_3_JUICER_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_4_JUICER_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_5_JUICER_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_6_JUICER_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_7_JUICER_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_8_JUICER_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_9_JUICER_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_10_JUICER_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_11_JUICER_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_12_JUICER_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_13_JUICER_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_14_JUICER_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_15_JUICER_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_16_JUICER_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_17_JUICER_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_18_JUICER_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_19_JUICER_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_20_JUICER_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_21_JUICER_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_22_JUICER_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_23_JUICER_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_24_JUICER_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_25_JUICER_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_26_JUICER_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_27_JUICER_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_28_JUICER_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_29_JUICER_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_30_JUICER_SET" type="mesh" group="3" />
+      <geom mesh="model_collision_31_JUICER_SET" type="mesh" group="3" />
+    </body>

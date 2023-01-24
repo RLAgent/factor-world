@@ -1,0 +1,36 @@
+<body childclass="MK7_base" name="MK71">
+        <geom class="MK7_col" name="{geom_name}" type="mesh" mesh="model_MK7" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_MK7" mesh="model_MK7" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_MK7" type="mesh" group="3" />
+      <geom mesh="model_collision_1_MK7" type="mesh" group="3" />
+      <geom mesh="model_collision_2_MK7" type="mesh" group="3" />
+      <geom mesh="model_collision_3_MK7" type="mesh" group="3" />
+      <geom mesh="model_collision_4_MK7" type="mesh" group="3" />
+      <geom mesh="model_collision_5_MK7" type="mesh" group="3" />
+      <geom mesh="model_collision_6_MK7" type="mesh" group="3" />
+      <geom mesh="model_collision_7_MK7" type="mesh" group="3" />
+      <geom mesh="model_collision_8_MK7" type="mesh" group="3" />
+      <geom mesh="model_collision_9_MK7" type="mesh" group="3" />
+      <geom mesh="model_collision_10_MK7" type="mesh" group="3" />
+      <geom mesh="model_collision_11_MK7" type="mesh" group="3" />
+      <geom mesh="model_collision_12_MK7" type="mesh" group="3" />
+      <geom mesh="model_collision_13_MK7" type="mesh" group="3" />
+      <geom mesh="model_collision_14_MK7" type="mesh" group="3" />
+      <geom mesh="model_collision_15_MK7" type="mesh" group="3" />
+      <geom mesh="model_collision_16_MK7" type="mesh" group="3" />
+      <geom mesh="model_collision_17_MK7" type="mesh" group="3" />
+      <geom mesh="model_collision_18_MK7" type="mesh" group="3" />
+      <geom mesh="model_collision_19_MK7" type="mesh" group="3" />
+      <geom mesh="model_collision_20_MK7" type="mesh" group="3" />
+      <geom mesh="model_collision_21_MK7" type="mesh" group="3" />
+      <geom mesh="model_collision_22_MK7" type="mesh" group="3" />
+      <geom mesh="model_collision_23_MK7" type="mesh" group="3" />
+      <geom mesh="model_collision_24_MK7" type="mesh" group="3" />
+      <geom mesh="model_collision_25_MK7" type="mesh" group="3" />
+      <geom mesh="model_collision_26_MK7" type="mesh" group="3" />
+      <geom mesh="model_collision_27_MK7" type="mesh" group="3" />
+      <geom mesh="model_collision_28_MK7" type="mesh" group="3" />
+      <geom mesh="model_collision_29_MK7" type="mesh" group="3" />
+      <geom mesh="model_collision_30_MK7" type="mesh" group="3" />
+      <geom mesh="model_collision_31_MK7" type="mesh" group="3" />
+    </body>

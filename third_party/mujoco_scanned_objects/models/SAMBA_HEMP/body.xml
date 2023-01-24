@@ -1,0 +1,36 @@
+<body childclass="SAMBA_HEMP_base" name="SAMBA_HEMP1">
+        <geom class="SAMBA_HEMP_col" name="{geom_name}" type="mesh" mesh="model_SAMBA_HEMP" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_SAMBA_HEMP" mesh="model_SAMBA_HEMP" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_SAMBA_HEMP" type="mesh" group="3" />
+      <geom mesh="model_collision_1_SAMBA_HEMP" type="mesh" group="3" />
+      <geom mesh="model_collision_2_SAMBA_HEMP" type="mesh" group="3" />
+      <geom mesh="model_collision_3_SAMBA_HEMP" type="mesh" group="3" />
+      <geom mesh="model_collision_4_SAMBA_HEMP" type="mesh" group="3" />
+      <geom mesh="model_collision_5_SAMBA_HEMP" type="mesh" group="3" />
+      <geom mesh="model_collision_6_SAMBA_HEMP" type="mesh" group="3" />
+      <geom mesh="model_collision_7_SAMBA_HEMP" type="mesh" group="3" />
+      <geom mesh="model_collision_8_SAMBA_HEMP" type="mesh" group="3" />
+      <geom mesh="model_collision_9_SAMBA_HEMP" type="mesh" group="3" />
+      <geom mesh="model_collision_10_SAMBA_HEMP" type="mesh" group="3" />
+      <geom mesh="model_collision_11_SAMBA_HEMP" type="mesh" group="3" />
+      <geom mesh="model_collision_12_SAMBA_HEMP" type="mesh" group="3" />
+      <geom mesh="model_collision_13_SAMBA_HEMP" type="mesh" group="3" />
+      <geom mesh="model_collision_14_SAMBA_HEMP" type="mesh" group="3" />
+      <geom mesh="model_collision_15_SAMBA_HEMP" type="mesh" group="3" />
+      <geom mesh="model_collision_16_SAMBA_HEMP" type="mesh" group="3" />
+      <geom mesh="model_collision_17_SAMBA_HEMP" type="mesh" group="3" />
+      <geom mesh="model_collision_18_SAMBA_HEMP" type="mesh" group="3" />
+      <geom mesh="model_collision_19_SAMBA_HEMP" type="mesh" group="3" />
+      <geom mesh="model_collision_20_SAMBA_HEMP" type="mesh" group="3" />
+      <geom mesh="model_collision_21_SAMBA_HEMP" type="mesh" group="3" />
+      <geom mesh="model_collision_22_SAMBA_HEMP" type="mesh" group="3" />
+      <geom mesh="model_collision_23_SAMBA_HEMP" type="mesh" group="3" />
+      <geom mesh="model_collision_24_SAMBA_HEMP" type="mesh" group="3" />
+      <geom mesh="model_collision_25_SAMBA_HEMP" type="mesh" group="3" />
+      <geom mesh="model_collision_26_SAMBA_HEMP" type="mesh" group="3" />
+      <geom mesh="model_collision_27_SAMBA_HEMP" type="mesh" group="3" />
+      <geom mesh="model_collision_28_SAMBA_HEMP" type="mesh" group="3" />
+      <geom mesh="model_collision_29_SAMBA_HEMP" type="mesh" group="3" />
+      <geom mesh="model_collision_30_SAMBA_HEMP" type="mesh" group="3" />
+      <geom mesh="model_collision_31_SAMBA_HEMP" type="mesh" group="3" />
+    </body>

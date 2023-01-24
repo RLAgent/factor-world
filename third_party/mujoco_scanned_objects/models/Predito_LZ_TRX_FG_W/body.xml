@@ -1,0 +1,36 @@
+<body childclass="Predito_LZ_TRX_FG_W_base" name="Predito_LZ_TRX_FG_W1">
+        <geom class="Predito_LZ_TRX_FG_W_col" name="{geom_name}" type="mesh" mesh="model_Predito_LZ_TRX_FG_W" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Predito_LZ_TRX_FG_W" mesh="model_Predito_LZ_TRX_FG_W" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Predito_LZ_TRX_FG_W" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Predito_LZ_TRX_FG_W" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Predito_LZ_TRX_FG_W" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Predito_LZ_TRX_FG_W" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Predito_LZ_TRX_FG_W" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Predito_LZ_TRX_FG_W" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Predito_LZ_TRX_FG_W" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Predito_LZ_TRX_FG_W" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Predito_LZ_TRX_FG_W" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Predito_LZ_TRX_FG_W" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Predito_LZ_TRX_FG_W" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Predito_LZ_TRX_FG_W" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Predito_LZ_TRX_FG_W" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Predito_LZ_TRX_FG_W" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Predito_LZ_TRX_FG_W" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Predito_LZ_TRX_FG_W" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Predito_LZ_TRX_FG_W" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Predito_LZ_TRX_FG_W" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Predito_LZ_TRX_FG_W" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Predito_LZ_TRX_FG_W" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Predito_LZ_TRX_FG_W" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Predito_LZ_TRX_FG_W" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Predito_LZ_TRX_FG_W" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Predito_LZ_TRX_FG_W" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Predito_LZ_TRX_FG_W" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Predito_LZ_TRX_FG_W" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Predito_LZ_TRX_FG_W" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Predito_LZ_TRX_FG_W" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Predito_LZ_TRX_FG_W" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Predito_LZ_TRX_FG_W" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Predito_LZ_TRX_FG_W" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Predito_LZ_TRX_FG_W" type="mesh" group="3" />
+    </body>

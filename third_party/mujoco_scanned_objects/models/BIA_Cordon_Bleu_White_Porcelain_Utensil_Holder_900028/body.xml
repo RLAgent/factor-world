@@ -1,0 +1,36 @@
+<body childclass="BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_900028_base" name="BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_9000281">
+        <geom class="BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_900028_col" name="{geom_name}" type="mesh" mesh="model_BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_900028" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_900028" mesh="model_BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_900028" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_900028" type="mesh" group="3" />
+      <geom mesh="model_collision_1_BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_900028" type="mesh" group="3" />
+      <geom mesh="model_collision_2_BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_900028" type="mesh" group="3" />
+      <geom mesh="model_collision_3_BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_900028" type="mesh" group="3" />
+      <geom mesh="model_collision_4_BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_900028" type="mesh" group="3" />
+      <geom mesh="model_collision_5_BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_900028" type="mesh" group="3" />
+      <geom mesh="model_collision_6_BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_900028" type="mesh" group="3" />
+      <geom mesh="model_collision_7_BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_900028" type="mesh" group="3" />
+      <geom mesh="model_collision_8_BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_900028" type="mesh" group="3" />
+      <geom mesh="model_collision_9_BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_900028" type="mesh" group="3" />
+      <geom mesh="model_collision_10_BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_900028" type="mesh" group="3" />
+      <geom mesh="model_collision_11_BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_900028" type="mesh" group="3" />
+      <geom mesh="model_collision_12_BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_900028" type="mesh" group="3" />
+      <geom mesh="model_collision_13_BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_900028" type="mesh" group="3" />
+      <geom mesh="model_collision_14_BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_900028" type="mesh" group="3" />
+      <geom mesh="model_collision_15_BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_900028" type="mesh" group="3" />
+      <geom mesh="model_collision_16_BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_900028" type="mesh" group="3" />
+      <geom mesh="model_collision_17_BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_900028" type="mesh" group="3" />
+      <geom mesh="model_collision_18_BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_900028" type="mesh" group="3" />
+      <geom mesh="model_collision_19_BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_900028" type="mesh" group="3" />
+      <geom mesh="model_collision_20_BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_900028" type="mesh" group="3" />
+      <geom mesh="model_collision_21_BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_900028" type="mesh" group="3" />
+      <geom mesh="model_collision_22_BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_900028" type="mesh" group="3" />
+      <geom mesh="model_collision_23_BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_900028" type="mesh" group="3" />
+      <geom mesh="model_collision_24_BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_900028" type="mesh" group="3" />
+      <geom mesh="model_collision_25_BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_900028" type="mesh" group="3" />
+      <geom mesh="model_collision_26_BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_900028" type="mesh" group="3" />
+      <geom mesh="model_collision_27_BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_900028" type="mesh" group="3" />
+      <geom mesh="model_collision_28_BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_900028" type="mesh" group="3" />
+      <geom mesh="model_collision_29_BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_900028" type="mesh" group="3" />
+      <geom mesh="model_collision_30_BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_900028" type="mesh" group="3" />
+      <geom mesh="model_collision_31_BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_900028" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="Pennington_Electric_Pot_Cabana_4_base" name="Pennington_Electric_Pot_Cabana_41">
+        <geom class="Pennington_Electric_Pot_Cabana_4_col" name="{geom_name}" type="mesh" mesh="model_Pennington_Electric_Pot_Cabana_4" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Pennington_Electric_Pot_Cabana_4" mesh="model_Pennington_Electric_Pot_Cabana_4" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Pennington_Electric_Pot_Cabana_4" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Pennington_Electric_Pot_Cabana_4" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Pennington_Electric_Pot_Cabana_4" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Pennington_Electric_Pot_Cabana_4" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Pennington_Electric_Pot_Cabana_4" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Pennington_Electric_Pot_Cabana_4" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Pennington_Electric_Pot_Cabana_4" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Pennington_Electric_Pot_Cabana_4" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Pennington_Electric_Pot_Cabana_4" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Pennington_Electric_Pot_Cabana_4" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Pennington_Electric_Pot_Cabana_4" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Pennington_Electric_Pot_Cabana_4" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Pennington_Electric_Pot_Cabana_4" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Pennington_Electric_Pot_Cabana_4" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Pennington_Electric_Pot_Cabana_4" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Pennington_Electric_Pot_Cabana_4" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Pennington_Electric_Pot_Cabana_4" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Pennington_Electric_Pot_Cabana_4" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Pennington_Electric_Pot_Cabana_4" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Pennington_Electric_Pot_Cabana_4" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Pennington_Electric_Pot_Cabana_4" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Pennington_Electric_Pot_Cabana_4" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Pennington_Electric_Pot_Cabana_4" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Pennington_Electric_Pot_Cabana_4" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Pennington_Electric_Pot_Cabana_4" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Pennington_Electric_Pot_Cabana_4" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Pennington_Electric_Pot_Cabana_4" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Pennington_Electric_Pot_Cabana_4" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Pennington_Electric_Pot_Cabana_4" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Pennington_Electric_Pot_Cabana_4" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Pennington_Electric_Pot_Cabana_4" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Pennington_Electric_Pot_Cabana_4" type="mesh" group="3" />
+    </body>

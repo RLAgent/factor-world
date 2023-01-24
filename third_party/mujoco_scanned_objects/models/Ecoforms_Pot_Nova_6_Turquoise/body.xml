@@ -1,0 +1,36 @@
+<body childclass="Ecoforms_Pot_Nova_6_Turquoise_base" name="Ecoforms_Pot_Nova_6_Turquoise1">
+        <geom class="Ecoforms_Pot_Nova_6_Turquoise_col" name="{geom_name}" type="mesh" mesh="model_Ecoforms_Pot_Nova_6_Turquoise" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Ecoforms_Pot_Nova_6_Turquoise" mesh="model_Ecoforms_Pot_Nova_6_Turquoise" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Ecoforms_Pot_Nova_6_Turquoise" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Ecoforms_Pot_Nova_6_Turquoise" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Ecoforms_Pot_Nova_6_Turquoise" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Ecoforms_Pot_Nova_6_Turquoise" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Ecoforms_Pot_Nova_6_Turquoise" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Ecoforms_Pot_Nova_6_Turquoise" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Ecoforms_Pot_Nova_6_Turquoise" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Ecoforms_Pot_Nova_6_Turquoise" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Ecoforms_Pot_Nova_6_Turquoise" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Ecoforms_Pot_Nova_6_Turquoise" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Ecoforms_Pot_Nova_6_Turquoise" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Ecoforms_Pot_Nova_6_Turquoise" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Ecoforms_Pot_Nova_6_Turquoise" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Ecoforms_Pot_Nova_6_Turquoise" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Ecoforms_Pot_Nova_6_Turquoise" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Ecoforms_Pot_Nova_6_Turquoise" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Ecoforms_Pot_Nova_6_Turquoise" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Ecoforms_Pot_Nova_6_Turquoise" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Ecoforms_Pot_Nova_6_Turquoise" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Ecoforms_Pot_Nova_6_Turquoise" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Ecoforms_Pot_Nova_6_Turquoise" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Ecoforms_Pot_Nova_6_Turquoise" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Ecoforms_Pot_Nova_6_Turquoise" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Ecoforms_Pot_Nova_6_Turquoise" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Ecoforms_Pot_Nova_6_Turquoise" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Ecoforms_Pot_Nova_6_Turquoise" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Ecoforms_Pot_Nova_6_Turquoise" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Ecoforms_Pot_Nova_6_Turquoise" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Ecoforms_Pot_Nova_6_Turquoise" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Ecoforms_Pot_Nova_6_Turquoise" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Ecoforms_Pot_Nova_6_Turquoise" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Ecoforms_Pot_Nova_6_Turquoise" type="mesh" group="3" />
+    </body>

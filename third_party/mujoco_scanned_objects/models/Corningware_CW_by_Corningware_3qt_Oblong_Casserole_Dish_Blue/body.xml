@@ -1,0 +1,36 @@
+<body childclass="Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue_base" name="Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue1">
+        <geom class="Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue_col" name="{geom_name}" type="mesh" mesh="model_Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue" mesh="model_Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Corningware_CW_by_Corningware_3qt_Oblong_Casserole_Dish_Blue" type="mesh" group="3" />
+    </body>

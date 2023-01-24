@@ -1,0 +1,36 @@
+<body childclass="adistar_boost_m_base" name="adistar_boost_m1">
+        <geom class="adistar_boost_m_col" name="{geom_name}" type="mesh" mesh="model_adistar_boost_m" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_adistar_boost_m" mesh="model_adistar_boost_m" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_adistar_boost_m" type="mesh" group="3" />
+      <geom mesh="model_collision_1_adistar_boost_m" type="mesh" group="3" />
+      <geom mesh="model_collision_2_adistar_boost_m" type="mesh" group="3" />
+      <geom mesh="model_collision_3_adistar_boost_m" type="mesh" group="3" />
+      <geom mesh="model_collision_4_adistar_boost_m" type="mesh" group="3" />
+      <geom mesh="model_collision_5_adistar_boost_m" type="mesh" group="3" />
+      <geom mesh="model_collision_6_adistar_boost_m" type="mesh" group="3" />
+      <geom mesh="model_collision_7_adistar_boost_m" type="mesh" group="3" />
+      <geom mesh="model_collision_8_adistar_boost_m" type="mesh" group="3" />
+      <geom mesh="model_collision_9_adistar_boost_m" type="mesh" group="3" />
+      <geom mesh="model_collision_10_adistar_boost_m" type="mesh" group="3" />
+      <geom mesh="model_collision_11_adistar_boost_m" type="mesh" group="3" />
+      <geom mesh="model_collision_12_adistar_boost_m" type="mesh" group="3" />
+      <geom mesh="model_collision_13_adistar_boost_m" type="mesh" group="3" />
+      <geom mesh="model_collision_14_adistar_boost_m" type="mesh" group="3" />
+      <geom mesh="model_collision_15_adistar_boost_m" type="mesh" group="3" />
+      <geom mesh="model_collision_16_adistar_boost_m" type="mesh" group="3" />
+      <geom mesh="model_collision_17_adistar_boost_m" type="mesh" group="3" />
+      <geom mesh="model_collision_18_adistar_boost_m" type="mesh" group="3" />
+      <geom mesh="model_collision_19_adistar_boost_m" type="mesh" group="3" />
+      <geom mesh="model_collision_20_adistar_boost_m" type="mesh" group="3" />
+      <geom mesh="model_collision_21_adistar_boost_m" type="mesh" group="3" />
+      <geom mesh="model_collision_22_adistar_boost_m" type="mesh" group="3" />
+      <geom mesh="model_collision_23_adistar_boost_m" type="mesh" group="3" />
+      <geom mesh="model_collision_24_adistar_boost_m" type="mesh" group="3" />
+      <geom mesh="model_collision_25_adistar_boost_m" type="mesh" group="3" />
+      <geom mesh="model_collision_26_adistar_boost_m" type="mesh" group="3" />
+      <geom mesh="model_collision_27_adistar_boost_m" type="mesh" group="3" />
+      <geom mesh="model_collision_28_adistar_boost_m" type="mesh" group="3" />
+      <geom mesh="model_collision_29_adistar_boost_m" type="mesh" group="3" />
+      <geom mesh="model_collision_30_adistar_boost_m" type="mesh" group="3" />
+      <geom mesh="model_collision_31_adistar_boost_m" type="mesh" group="3" />
+    </body>

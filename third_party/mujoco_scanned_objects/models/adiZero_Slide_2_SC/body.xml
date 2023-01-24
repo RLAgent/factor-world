@@ -1,0 +1,36 @@
+<body childclass="adiZero_Slide_2_SC_base" name="adiZero_Slide_2_SC1">
+        <geom class="adiZero_Slide_2_SC_col" name="{geom_name}" type="mesh" mesh="model_adiZero_Slide_2_SC" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_adiZero_Slide_2_SC" mesh="model_adiZero_Slide_2_SC" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_adiZero_Slide_2_SC" type="mesh" group="3" />
+      <geom mesh="model_collision_1_adiZero_Slide_2_SC" type="mesh" group="3" />
+      <geom mesh="model_collision_2_adiZero_Slide_2_SC" type="mesh" group="3" />
+      <geom mesh="model_collision_3_adiZero_Slide_2_SC" type="mesh" group="3" />
+      <geom mesh="model_collision_4_adiZero_Slide_2_SC" type="mesh" group="3" />
+      <geom mesh="model_collision_5_adiZero_Slide_2_SC" type="mesh" group="3" />
+      <geom mesh="model_collision_6_adiZero_Slide_2_SC" type="mesh" group="3" />
+      <geom mesh="model_collision_7_adiZero_Slide_2_SC" type="mesh" group="3" />
+      <geom mesh="model_collision_8_adiZero_Slide_2_SC" type="mesh" group="3" />
+      <geom mesh="model_collision_9_adiZero_Slide_2_SC" type="mesh" group="3" />
+      <geom mesh="model_collision_10_adiZero_Slide_2_SC" type="mesh" group="3" />
+      <geom mesh="model_collision_11_adiZero_Slide_2_SC" type="mesh" group="3" />
+      <geom mesh="model_collision_12_adiZero_Slide_2_SC" type="mesh" group="3" />
+      <geom mesh="model_collision_13_adiZero_Slide_2_SC" type="mesh" group="3" />
+      <geom mesh="model_collision_14_adiZero_Slide_2_SC" type="mesh" group="3" />
+      <geom mesh="model_collision_15_adiZero_Slide_2_SC" type="mesh" group="3" />
+      <geom mesh="model_collision_16_adiZero_Slide_2_SC" type="mesh" group="3" />
+      <geom mesh="model_collision_17_adiZero_Slide_2_SC" type="mesh" group="3" />
+      <geom mesh="model_collision_18_adiZero_Slide_2_SC" type="mesh" group="3" />
+      <geom mesh="model_collision_19_adiZero_Slide_2_SC" type="mesh" group="3" />
+      <geom mesh="model_collision_20_adiZero_Slide_2_SC" type="mesh" group="3" />
+      <geom mesh="model_collision_21_adiZero_Slide_2_SC" type="mesh" group="3" />
+      <geom mesh="model_collision_22_adiZero_Slide_2_SC" type="mesh" group="3" />
+      <geom mesh="model_collision_23_adiZero_Slide_2_SC" type="mesh" group="3" />
+      <geom mesh="model_collision_24_adiZero_Slide_2_SC" type="mesh" group="3" />
+      <geom mesh="model_collision_25_adiZero_Slide_2_SC" type="mesh" group="3" />
+      <geom mesh="model_collision_26_adiZero_Slide_2_SC" type="mesh" group="3" />
+      <geom mesh="model_collision_27_adiZero_Slide_2_SC" type="mesh" group="3" />
+      <geom mesh="model_collision_28_adiZero_Slide_2_SC" type="mesh" group="3" />
+      <geom mesh="model_collision_29_adiZero_Slide_2_SC" type="mesh" group="3" />
+      <geom mesh="model_collision_30_adiZero_Slide_2_SC" type="mesh" group="3" />
+      <geom mesh="model_collision_31_adiZero_Slide_2_SC" type="mesh" group="3" />
+    </body>

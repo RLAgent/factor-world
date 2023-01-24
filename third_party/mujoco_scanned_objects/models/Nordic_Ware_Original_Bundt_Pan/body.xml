@@ -1,0 +1,36 @@
+<body childclass="Nordic_Ware_Original_Bundt_Pan_base" name="Nordic_Ware_Original_Bundt_Pan1">
+        <geom class="Nordic_Ware_Original_Bundt_Pan_col" name="{geom_name}" type="mesh" mesh="model_Nordic_Ware_Original_Bundt_Pan" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Nordic_Ware_Original_Bundt_Pan" mesh="model_Nordic_Ware_Original_Bundt_Pan" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Nordic_Ware_Original_Bundt_Pan" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Nordic_Ware_Original_Bundt_Pan" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Nordic_Ware_Original_Bundt_Pan" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Nordic_Ware_Original_Bundt_Pan" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Nordic_Ware_Original_Bundt_Pan" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Nordic_Ware_Original_Bundt_Pan" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Nordic_Ware_Original_Bundt_Pan" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Nordic_Ware_Original_Bundt_Pan" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Nordic_Ware_Original_Bundt_Pan" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Nordic_Ware_Original_Bundt_Pan" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Nordic_Ware_Original_Bundt_Pan" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Nordic_Ware_Original_Bundt_Pan" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Nordic_Ware_Original_Bundt_Pan" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Nordic_Ware_Original_Bundt_Pan" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Nordic_Ware_Original_Bundt_Pan" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Nordic_Ware_Original_Bundt_Pan" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Nordic_Ware_Original_Bundt_Pan" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Nordic_Ware_Original_Bundt_Pan" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Nordic_Ware_Original_Bundt_Pan" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Nordic_Ware_Original_Bundt_Pan" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Nordic_Ware_Original_Bundt_Pan" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Nordic_Ware_Original_Bundt_Pan" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Nordic_Ware_Original_Bundt_Pan" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Nordic_Ware_Original_Bundt_Pan" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Nordic_Ware_Original_Bundt_Pan" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Nordic_Ware_Original_Bundt_Pan" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Nordic_Ware_Original_Bundt_Pan" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Nordic_Ware_Original_Bundt_Pan" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Nordic_Ware_Original_Bundt_Pan" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Nordic_Ware_Original_Bundt_Pan" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Nordic_Ware_Original_Bundt_Pan" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Nordic_Ware_Original_Bundt_Pan" type="mesh" group="3" />
+    </body>

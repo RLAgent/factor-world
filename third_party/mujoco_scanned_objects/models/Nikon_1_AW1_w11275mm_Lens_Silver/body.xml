@@ -1,0 +1,36 @@
+<body childclass="Nikon_1_AW1_w11275mm_Lens_Silver_base" name="Nikon_1_AW1_w11275mm_Lens_Silver1">
+        <geom class="Nikon_1_AW1_w11275mm_Lens_Silver_col" name="{geom_name}" type="mesh" mesh="model_Nikon_1_AW1_w11275mm_Lens_Silver" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Nikon_1_AW1_w11275mm_Lens_Silver" mesh="model_Nikon_1_AW1_w11275mm_Lens_Silver" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Nikon_1_AW1_w11275mm_Lens_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Nikon_1_AW1_w11275mm_Lens_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Nikon_1_AW1_w11275mm_Lens_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Nikon_1_AW1_w11275mm_Lens_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Nikon_1_AW1_w11275mm_Lens_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Nikon_1_AW1_w11275mm_Lens_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Nikon_1_AW1_w11275mm_Lens_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Nikon_1_AW1_w11275mm_Lens_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Nikon_1_AW1_w11275mm_Lens_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Nikon_1_AW1_w11275mm_Lens_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Nikon_1_AW1_w11275mm_Lens_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Nikon_1_AW1_w11275mm_Lens_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Nikon_1_AW1_w11275mm_Lens_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Nikon_1_AW1_w11275mm_Lens_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Nikon_1_AW1_w11275mm_Lens_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Nikon_1_AW1_w11275mm_Lens_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Nikon_1_AW1_w11275mm_Lens_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Nikon_1_AW1_w11275mm_Lens_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Nikon_1_AW1_w11275mm_Lens_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Nikon_1_AW1_w11275mm_Lens_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Nikon_1_AW1_w11275mm_Lens_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Nikon_1_AW1_w11275mm_Lens_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Nikon_1_AW1_w11275mm_Lens_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Nikon_1_AW1_w11275mm_Lens_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Nikon_1_AW1_w11275mm_Lens_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Nikon_1_AW1_w11275mm_Lens_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Nikon_1_AW1_w11275mm_Lens_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Nikon_1_AW1_w11275mm_Lens_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Nikon_1_AW1_w11275mm_Lens_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Nikon_1_AW1_w11275mm_Lens_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Nikon_1_AW1_w11275mm_Lens_Silver" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Nikon_1_AW1_w11275mm_Lens_Silver" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="FIRE_TRUCK_base" name="FIRE_TRUCK1">
+        <geom class="FIRE_TRUCK_col" name="{geom_name}" type="mesh" mesh="model_FIRE_TRUCK" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_FIRE_TRUCK" mesh="model_FIRE_TRUCK" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_FIRE_TRUCK" type="mesh" group="3" />
+      <geom mesh="model_collision_1_FIRE_TRUCK" type="mesh" group="3" />
+      <geom mesh="model_collision_2_FIRE_TRUCK" type="mesh" group="3" />
+      <geom mesh="model_collision_3_FIRE_TRUCK" type="mesh" group="3" />
+      <geom mesh="model_collision_4_FIRE_TRUCK" type="mesh" group="3" />
+      <geom mesh="model_collision_5_FIRE_TRUCK" type="mesh" group="3" />
+      <geom mesh="model_collision_6_FIRE_TRUCK" type="mesh" group="3" />
+      <geom mesh="model_collision_7_FIRE_TRUCK" type="mesh" group="3" />
+      <geom mesh="model_collision_8_FIRE_TRUCK" type="mesh" group="3" />
+      <geom mesh="model_collision_9_FIRE_TRUCK" type="mesh" group="3" />
+      <geom mesh="model_collision_10_FIRE_TRUCK" type="mesh" group="3" />
+      <geom mesh="model_collision_11_FIRE_TRUCK" type="mesh" group="3" />
+      <geom mesh="model_collision_12_FIRE_TRUCK" type="mesh" group="3" />
+      <geom mesh="model_collision_13_FIRE_TRUCK" type="mesh" group="3" />
+      <geom mesh="model_collision_14_FIRE_TRUCK" type="mesh" group="3" />
+      <geom mesh="model_collision_15_FIRE_TRUCK" type="mesh" group="3" />
+      <geom mesh="model_collision_16_FIRE_TRUCK" type="mesh" group="3" />
+      <geom mesh="model_collision_17_FIRE_TRUCK" type="mesh" group="3" />
+      <geom mesh="model_collision_18_FIRE_TRUCK" type="mesh" group="3" />
+      <geom mesh="model_collision_19_FIRE_TRUCK" type="mesh" group="3" />
+      <geom mesh="model_collision_20_FIRE_TRUCK" type="mesh" group="3" />
+      <geom mesh="model_collision_21_FIRE_TRUCK" type="mesh" group="3" />
+      <geom mesh="model_collision_22_FIRE_TRUCK" type="mesh" group="3" />
+      <geom mesh="model_collision_23_FIRE_TRUCK" type="mesh" group="3" />
+      <geom mesh="model_collision_24_FIRE_TRUCK" type="mesh" group="3" />
+      <geom mesh="model_collision_25_FIRE_TRUCK" type="mesh" group="3" />
+      <geom mesh="model_collision_26_FIRE_TRUCK" type="mesh" group="3" />
+      <geom mesh="model_collision_27_FIRE_TRUCK" type="mesh" group="3" />
+      <geom mesh="model_collision_28_FIRE_TRUCK" type="mesh" group="3" />
+      <geom mesh="model_collision_29_FIRE_TRUCK" type="mesh" group="3" />
+      <geom mesh="model_collision_30_FIRE_TRUCK" type="mesh" group="3" />
+      <geom mesh="model_collision_31_FIRE_TRUCK" type="mesh" group="3" />
+    </body>

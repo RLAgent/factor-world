@@ -1,0 +1,36 @@
+<body childclass="Womens_Multi_13_base" name="Womens_Multi_131">
+        <geom class="Womens_Multi_13_col" name="{geom_name}" type="mesh" mesh="model_Womens_Multi_13" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Womens_Multi_13" mesh="model_Womens_Multi_13" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Womens_Multi_13" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Womens_Multi_13" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Womens_Multi_13" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Womens_Multi_13" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Womens_Multi_13" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Womens_Multi_13" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Womens_Multi_13" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Womens_Multi_13" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Womens_Multi_13" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Womens_Multi_13" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Womens_Multi_13" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Womens_Multi_13" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Womens_Multi_13" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Womens_Multi_13" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Womens_Multi_13" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Womens_Multi_13" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Womens_Multi_13" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Womens_Multi_13" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Womens_Multi_13" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Womens_Multi_13" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Womens_Multi_13" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Womens_Multi_13" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Womens_Multi_13" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Womens_Multi_13" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Womens_Multi_13" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Womens_Multi_13" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Womens_Multi_13" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Womens_Multi_13" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Womens_Multi_13" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Womens_Multi_13" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Womens_Multi_13" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Womens_Multi_13" type="mesh" group="3" />
+    </body>

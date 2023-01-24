@@ -1,0 +1,36 @@
+<body childclass="45oz_RAMEKIN_ASST_DEEP_COLORS_base" name="45oz_RAMEKIN_ASST_DEEP_COLORS1">
+        <geom class="45oz_RAMEKIN_ASST_DEEP_COLORS_col" name="{geom_name}" type="mesh" mesh="model_45oz_RAMEKIN_ASST_DEEP_COLORS" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_45oz_RAMEKIN_ASST_DEEP_COLORS" mesh="model_45oz_RAMEKIN_ASST_DEEP_COLORS" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_45oz_RAMEKIN_ASST_DEEP_COLORS" type="mesh" group="3" />
+      <geom mesh="model_collision_1_45oz_RAMEKIN_ASST_DEEP_COLORS" type="mesh" group="3" />
+      <geom mesh="model_collision_2_45oz_RAMEKIN_ASST_DEEP_COLORS" type="mesh" group="3" />
+      <geom mesh="model_collision_3_45oz_RAMEKIN_ASST_DEEP_COLORS" type="mesh" group="3" />
+      <geom mesh="model_collision_4_45oz_RAMEKIN_ASST_DEEP_COLORS" type="mesh" group="3" />
+      <geom mesh="model_collision_5_45oz_RAMEKIN_ASST_DEEP_COLORS" type="mesh" group="3" />
+      <geom mesh="model_collision_6_45oz_RAMEKIN_ASST_DEEP_COLORS" type="mesh" group="3" />
+      <geom mesh="model_collision_7_45oz_RAMEKIN_ASST_DEEP_COLORS" type="mesh" group="3" />
+      <geom mesh="model_collision_8_45oz_RAMEKIN_ASST_DEEP_COLORS" type="mesh" group="3" />
+      <geom mesh="model_collision_9_45oz_RAMEKIN_ASST_DEEP_COLORS" type="mesh" group="3" />
+      <geom mesh="model_collision_10_45oz_RAMEKIN_ASST_DEEP_COLORS" type="mesh" group="3" />
+      <geom mesh="model_collision_11_45oz_RAMEKIN_ASST_DEEP_COLORS" type="mesh" group="3" />
+      <geom mesh="model_collision_12_45oz_RAMEKIN_ASST_DEEP_COLORS" type="mesh" group="3" />
+      <geom mesh="model_collision_13_45oz_RAMEKIN_ASST_DEEP_COLORS" type="mesh" group="3" />
+      <geom mesh="model_collision_14_45oz_RAMEKIN_ASST_DEEP_COLORS" type="mesh" group="3" />
+      <geom mesh="model_collision_15_45oz_RAMEKIN_ASST_DEEP_COLORS" type="mesh" group="3" />
+      <geom mesh="model_collision_16_45oz_RAMEKIN_ASST_DEEP_COLORS" type="mesh" group="3" />
+      <geom mesh="model_collision_17_45oz_RAMEKIN_ASST_DEEP_COLORS" type="mesh" group="3" />
+      <geom mesh="model_collision_18_45oz_RAMEKIN_ASST_DEEP_COLORS" type="mesh" group="3" />
+      <geom mesh="model_collision_19_45oz_RAMEKIN_ASST_DEEP_COLORS" type="mesh" group="3" />
+      <geom mesh="model_collision_20_45oz_RAMEKIN_ASST_DEEP_COLORS" type="mesh" group="3" />
+      <geom mesh="model_collision_21_45oz_RAMEKIN_ASST_DEEP_COLORS" type="mesh" group="3" />
+      <geom mesh="model_collision_22_45oz_RAMEKIN_ASST_DEEP_COLORS" type="mesh" group="3" />
+      <geom mesh="model_collision_23_45oz_RAMEKIN_ASST_DEEP_COLORS" type="mesh" group="3" />
+      <geom mesh="model_collision_24_45oz_RAMEKIN_ASST_DEEP_COLORS" type="mesh" group="3" />
+      <geom mesh="model_collision_25_45oz_RAMEKIN_ASST_DEEP_COLORS" type="mesh" group="3" />
+      <geom mesh="model_collision_26_45oz_RAMEKIN_ASST_DEEP_COLORS" type="mesh" group="3" />
+      <geom mesh="model_collision_27_45oz_RAMEKIN_ASST_DEEP_COLORS" type="mesh" group="3" />
+      <geom mesh="model_collision_28_45oz_RAMEKIN_ASST_DEEP_COLORS" type="mesh" group="3" />
+      <geom mesh="model_collision_29_45oz_RAMEKIN_ASST_DEEP_COLORS" type="mesh" group="3" />
+      <geom mesh="model_collision_30_45oz_RAMEKIN_ASST_DEEP_COLORS" type="mesh" group="3" />
+      <geom mesh="model_collision_31_45oz_RAMEKIN_ASST_DEEP_COLORS" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="HeavyDuty_Flashlight_base" name="HeavyDuty_Flashlight1">
+        <geom class="HeavyDuty_Flashlight_col" name="{geom_name}" type="mesh" mesh="model_HeavyDuty_Flashlight" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_HeavyDuty_Flashlight" mesh="model_HeavyDuty_Flashlight" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_HeavyDuty_Flashlight" type="mesh" group="3" />
+      <geom mesh="model_collision_1_HeavyDuty_Flashlight" type="mesh" group="3" />
+      <geom mesh="model_collision_2_HeavyDuty_Flashlight" type="mesh" group="3" />
+      <geom mesh="model_collision_3_HeavyDuty_Flashlight" type="mesh" group="3" />
+      <geom mesh="model_collision_4_HeavyDuty_Flashlight" type="mesh" group="3" />
+      <geom mesh="model_collision_5_HeavyDuty_Flashlight" type="mesh" group="3" />
+      <geom mesh="model_collision_6_HeavyDuty_Flashlight" type="mesh" group="3" />
+      <geom mesh="model_collision_7_HeavyDuty_Flashlight" type="mesh" group="3" />
+      <geom mesh="model_collision_8_HeavyDuty_Flashlight" type="mesh" group="3" />
+      <geom mesh="model_collision_9_HeavyDuty_Flashlight" type="mesh" group="3" />
+      <geom mesh="model_collision_10_HeavyDuty_Flashlight" type="mesh" group="3" />
+      <geom mesh="model_collision_11_HeavyDuty_Flashlight" type="mesh" group="3" />
+      <geom mesh="model_collision_12_HeavyDuty_Flashlight" type="mesh" group="3" />
+      <geom mesh="model_collision_13_HeavyDuty_Flashlight" type="mesh" group="3" />
+      <geom mesh="model_collision_14_HeavyDuty_Flashlight" type="mesh" group="3" />
+      <geom mesh="model_collision_15_HeavyDuty_Flashlight" type="mesh" group="3" />
+      <geom mesh="model_collision_16_HeavyDuty_Flashlight" type="mesh" group="3" />
+      <geom mesh="model_collision_17_HeavyDuty_Flashlight" type="mesh" group="3" />
+      <geom mesh="model_collision_18_HeavyDuty_Flashlight" type="mesh" group="3" />
+      <geom mesh="model_collision_19_HeavyDuty_Flashlight" type="mesh" group="3" />
+      <geom mesh="model_collision_20_HeavyDuty_Flashlight" type="mesh" group="3" />
+      <geom mesh="model_collision_21_HeavyDuty_Flashlight" type="mesh" group="3" />
+      <geom mesh="model_collision_22_HeavyDuty_Flashlight" type="mesh" group="3" />
+      <geom mesh="model_collision_23_HeavyDuty_Flashlight" type="mesh" group="3" />
+      <geom mesh="model_collision_24_HeavyDuty_Flashlight" type="mesh" group="3" />
+      <geom mesh="model_collision_25_HeavyDuty_Flashlight" type="mesh" group="3" />
+      <geom mesh="model_collision_26_HeavyDuty_Flashlight" type="mesh" group="3" />
+      <geom mesh="model_collision_27_HeavyDuty_Flashlight" type="mesh" group="3" />
+      <geom mesh="model_collision_28_HeavyDuty_Flashlight" type="mesh" group="3" />
+      <geom mesh="model_collision_29_HeavyDuty_Flashlight" type="mesh" group="3" />
+      <geom mesh="model_collision_30_HeavyDuty_Flashlight" type="mesh" group="3" />
+      <geom mesh="model_collision_31_HeavyDuty_Flashlight" type="mesh" group="3" />
+    </body>

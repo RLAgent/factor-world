@@ -1,0 +1,38 @@
+<asset>
+    <texture type="2d" name="texture_BIRD_RATTLE" file="../../../../../mujoco_scanned_objects/models/BIRD_RATTLE/texture.png" />
+    <material name="material_0_BIRD_RATTLE" texture="texture_BIRD_RATTLE" specular="0.5" shininess="0.5" />
+    <mesh name="model_BIRD_RATTLE" file="../../../../../mujoco_scanned_objects/models/BIRD_RATTLE/model.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_0_BIRD_RATTLE" file="../../../../../mujoco_scanned_objects/models/BIRD_RATTLE/model_collision_0.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_1_BIRD_RATTLE" file="../../../../../mujoco_scanned_objects/models/BIRD_RATTLE/model_collision_1.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_2_BIRD_RATTLE" file="../../../../../mujoco_scanned_objects/models/BIRD_RATTLE/model_collision_2.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_3_BIRD_RATTLE" file="../../../../../mujoco_scanned_objects/models/BIRD_RATTLE/model_collision_3.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_4_BIRD_RATTLE" file="../../../../../mujoco_scanned_objects/models/BIRD_RATTLE/model_collision_4.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_5_BIRD_RATTLE" file="../../../../../mujoco_scanned_objects/models/BIRD_RATTLE/model_collision_5.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_6_BIRD_RATTLE" file="../../../../../mujoco_scanned_objects/models/BIRD_RATTLE/model_collision_6.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_7_BIRD_RATTLE" file="../../../../../mujoco_scanned_objects/models/BIRD_RATTLE/model_collision_7.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_8_BIRD_RATTLE" file="../../../../../mujoco_scanned_objects/models/BIRD_RATTLE/model_collision_8.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_9_BIRD_RATTLE" file="../../../../../mujoco_scanned_objects/models/BIRD_RATTLE/model_collision_9.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_10_BIRD_RATTLE" file="../../../../../mujoco_scanned_objects/models/BIRD_RATTLE/model_collision_10.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_11_BIRD_RATTLE" file="../../../../../mujoco_scanned_objects/models/BIRD_RATTLE/model_collision_11.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_12_BIRD_RATTLE" file="../../../../../mujoco_scanned_objects/models/BIRD_RATTLE/model_collision_12.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_13_BIRD_RATTLE" file="../../../../../mujoco_scanned_objects/models/BIRD_RATTLE/model_collision_13.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_14_BIRD_RATTLE" file="../../../../../mujoco_scanned_objects/models/BIRD_RATTLE/model_collision_14.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_15_BIRD_RATTLE" file="../../../../../mujoco_scanned_objects/models/BIRD_RATTLE/model_collision_15.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_16_BIRD_RATTLE" file="../../../../../mujoco_scanned_objects/models/BIRD_RATTLE/model_collision_16.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_17_BIRD_RATTLE" file="../../../../../mujoco_scanned_objects/models/BIRD_RATTLE/model_collision_17.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_18_BIRD_RATTLE" file="../../../../../mujoco_scanned_objects/models/BIRD_RATTLE/model_collision_18.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_19_BIRD_RATTLE" file="../../../../../mujoco_scanned_objects/models/BIRD_RATTLE/model_collision_19.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_20_BIRD_RATTLE" file="../../../../../mujoco_scanned_objects/models/BIRD_RATTLE/model_collision_20.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_21_BIRD_RATTLE" file="../../../../../mujoco_scanned_objects/models/BIRD_RATTLE/model_collision_21.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_22_BIRD_RATTLE" file="../../../../../mujoco_scanned_objects/models/BIRD_RATTLE/model_collision_22.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_23_BIRD_RATTLE" file="../../../../../mujoco_scanned_objects/models/BIRD_RATTLE/model_collision_23.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_24_BIRD_RATTLE" file="../../../../../mujoco_scanned_objects/models/BIRD_RATTLE/model_collision_24.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_25_BIRD_RATTLE" file="../../../../../mujoco_scanned_objects/models/BIRD_RATTLE/model_collision_25.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_26_BIRD_RATTLE" file="../../../../../mujoco_scanned_objects/models/BIRD_RATTLE/model_collision_26.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_27_BIRD_RATTLE" file="../../../../../mujoco_scanned_objects/models/BIRD_RATTLE/model_collision_27.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_28_BIRD_RATTLE" file="../../../../../mujoco_scanned_objects/models/BIRD_RATTLE/model_collision_28.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_29_BIRD_RATTLE" file="../../../../../mujoco_scanned_objects/models/BIRD_RATTLE/model_collision_29.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_30_BIRD_RATTLE" file="../../../../../mujoco_scanned_objects/models/BIRD_RATTLE/model_collision_30.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_31_BIRD_RATTLE" file="../../../../../mujoco_scanned_objects/models/BIRD_RATTLE/model_collision_31.stl" scale="{scale} {scale} {scale}" />
+  </asset>
+  

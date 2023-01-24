@@ -1,0 +1,36 @@
+<body childclass="AMBERLIGHT_UP_W_base" name="AMBERLIGHT_UP_W1">
+        <geom class="AMBERLIGHT_UP_W_col" name="{geom_name}" type="mesh" mesh="model_AMBERLIGHT_UP_W" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_AMBERLIGHT_UP_W" mesh="model_AMBERLIGHT_UP_W" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_AMBERLIGHT_UP_W" type="mesh" group="3" />
+      <geom mesh="model_collision_1_AMBERLIGHT_UP_W" type="mesh" group="3" />
+      <geom mesh="model_collision_2_AMBERLIGHT_UP_W" type="mesh" group="3" />
+      <geom mesh="model_collision_3_AMBERLIGHT_UP_W" type="mesh" group="3" />
+      <geom mesh="model_collision_4_AMBERLIGHT_UP_W" type="mesh" group="3" />
+      <geom mesh="model_collision_5_AMBERLIGHT_UP_W" type="mesh" group="3" />
+      <geom mesh="model_collision_6_AMBERLIGHT_UP_W" type="mesh" group="3" />
+      <geom mesh="model_collision_7_AMBERLIGHT_UP_W" type="mesh" group="3" />
+      <geom mesh="model_collision_8_AMBERLIGHT_UP_W" type="mesh" group="3" />
+      <geom mesh="model_collision_9_AMBERLIGHT_UP_W" type="mesh" group="3" />
+      <geom mesh="model_collision_10_AMBERLIGHT_UP_W" type="mesh" group="3" />
+      <geom mesh="model_collision_11_AMBERLIGHT_UP_W" type="mesh" group="3" />
+      <geom mesh="model_collision_12_AMBERLIGHT_UP_W" type="mesh" group="3" />
+      <geom mesh="model_collision_13_AMBERLIGHT_UP_W" type="mesh" group="3" />
+      <geom mesh="model_collision_14_AMBERLIGHT_UP_W" type="mesh" group="3" />
+      <geom mesh="model_collision_15_AMBERLIGHT_UP_W" type="mesh" group="3" />
+      <geom mesh="model_collision_16_AMBERLIGHT_UP_W" type="mesh" group="3" />
+      <geom mesh="model_collision_17_AMBERLIGHT_UP_W" type="mesh" group="3" />
+      <geom mesh="model_collision_18_AMBERLIGHT_UP_W" type="mesh" group="3" />
+      <geom mesh="model_collision_19_AMBERLIGHT_UP_W" type="mesh" group="3" />
+      <geom mesh="model_collision_20_AMBERLIGHT_UP_W" type="mesh" group="3" />
+      <geom mesh="model_collision_21_AMBERLIGHT_UP_W" type="mesh" group="3" />
+      <geom mesh="model_collision_22_AMBERLIGHT_UP_W" type="mesh" group="3" />
+      <geom mesh="model_collision_23_AMBERLIGHT_UP_W" type="mesh" group="3" />
+      <geom mesh="model_collision_24_AMBERLIGHT_UP_W" type="mesh" group="3" />
+      <geom mesh="model_collision_25_AMBERLIGHT_UP_W" type="mesh" group="3" />
+      <geom mesh="model_collision_26_AMBERLIGHT_UP_W" type="mesh" group="3" />
+      <geom mesh="model_collision_27_AMBERLIGHT_UP_W" type="mesh" group="3" />
+      <geom mesh="model_collision_28_AMBERLIGHT_UP_W" type="mesh" group="3" />
+      <geom mesh="model_collision_29_AMBERLIGHT_UP_W" type="mesh" group="3" />
+      <geom mesh="model_collision_30_AMBERLIGHT_UP_W" type="mesh" group="3" />
+      <geom mesh="model_collision_31_AMBERLIGHT_UP_W" type="mesh" group="3" />
+    </body>

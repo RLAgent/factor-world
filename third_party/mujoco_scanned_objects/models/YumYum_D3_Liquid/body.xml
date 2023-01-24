@@ -1,0 +1,36 @@
+<body childclass="YumYum_D3_Liquid_base" name="YumYum_D3_Liquid1">
+        <geom class="YumYum_D3_Liquid_col" name="{geom_name}" type="mesh" mesh="model_YumYum_D3_Liquid" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_YumYum_D3_Liquid" mesh="model_YumYum_D3_Liquid" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_YumYum_D3_Liquid" type="mesh" group="3" />
+      <geom mesh="model_collision_1_YumYum_D3_Liquid" type="mesh" group="3" />
+      <geom mesh="model_collision_2_YumYum_D3_Liquid" type="mesh" group="3" />
+      <geom mesh="model_collision_3_YumYum_D3_Liquid" type="mesh" group="3" />
+      <geom mesh="model_collision_4_YumYum_D3_Liquid" type="mesh" group="3" />
+      <geom mesh="model_collision_5_YumYum_D3_Liquid" type="mesh" group="3" />
+      <geom mesh="model_collision_6_YumYum_D3_Liquid" type="mesh" group="3" />
+      <geom mesh="model_collision_7_YumYum_D3_Liquid" type="mesh" group="3" />
+      <geom mesh="model_collision_8_YumYum_D3_Liquid" type="mesh" group="3" />
+      <geom mesh="model_collision_9_YumYum_D3_Liquid" type="mesh" group="3" />
+      <geom mesh="model_collision_10_YumYum_D3_Liquid" type="mesh" group="3" />
+      <geom mesh="model_collision_11_YumYum_D3_Liquid" type="mesh" group="3" />
+      <geom mesh="model_collision_12_YumYum_D3_Liquid" type="mesh" group="3" />
+      <geom mesh="model_collision_13_YumYum_D3_Liquid" type="mesh" group="3" />
+      <geom mesh="model_collision_14_YumYum_D3_Liquid" type="mesh" group="3" />
+      <geom mesh="model_collision_15_YumYum_D3_Liquid" type="mesh" group="3" />
+      <geom mesh="model_collision_16_YumYum_D3_Liquid" type="mesh" group="3" />
+      <geom mesh="model_collision_17_YumYum_D3_Liquid" type="mesh" group="3" />
+      <geom mesh="model_collision_18_YumYum_D3_Liquid" type="mesh" group="3" />
+      <geom mesh="model_collision_19_YumYum_D3_Liquid" type="mesh" group="3" />
+      <geom mesh="model_collision_20_YumYum_D3_Liquid" type="mesh" group="3" />
+      <geom mesh="model_collision_21_YumYum_D3_Liquid" type="mesh" group="3" />
+      <geom mesh="model_collision_22_YumYum_D3_Liquid" type="mesh" group="3" />
+      <geom mesh="model_collision_23_YumYum_D3_Liquid" type="mesh" group="3" />
+      <geom mesh="model_collision_24_YumYum_D3_Liquid" type="mesh" group="3" />
+      <geom mesh="model_collision_25_YumYum_D3_Liquid" type="mesh" group="3" />
+      <geom mesh="model_collision_26_YumYum_D3_Liquid" type="mesh" group="3" />
+      <geom mesh="model_collision_27_YumYum_D3_Liquid" type="mesh" group="3" />
+      <geom mesh="model_collision_28_YumYum_D3_Liquid" type="mesh" group="3" />
+      <geom mesh="model_collision_29_YumYum_D3_Liquid" type="mesh" group="3" />
+      <geom mesh="model_collision_30_YumYum_D3_Liquid" type="mesh" group="3" />
+      <geom mesh="model_collision_31_YumYum_D3_Liquid" type="mesh" group="3" />
+    </body>

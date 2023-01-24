@@ -1,0 +1,36 @@
+<body childclass="CHILDREN_BEDROOM_CLASSIC_base" name="CHILDREN_BEDROOM_CLASSIC1">
+        <geom class="CHILDREN_BEDROOM_CLASSIC_col" name="{geom_name}" type="mesh" mesh="model_CHILDREN_BEDROOM_CLASSIC" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_CHILDREN_BEDROOM_CLASSIC" mesh="model_CHILDREN_BEDROOM_CLASSIC" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_CHILDREN_BEDROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_1_CHILDREN_BEDROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_2_CHILDREN_BEDROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_3_CHILDREN_BEDROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_4_CHILDREN_BEDROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_5_CHILDREN_BEDROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_6_CHILDREN_BEDROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_7_CHILDREN_BEDROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_8_CHILDREN_BEDROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_9_CHILDREN_BEDROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_10_CHILDREN_BEDROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_11_CHILDREN_BEDROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_12_CHILDREN_BEDROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_13_CHILDREN_BEDROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_14_CHILDREN_BEDROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_15_CHILDREN_BEDROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_16_CHILDREN_BEDROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_17_CHILDREN_BEDROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_18_CHILDREN_BEDROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_19_CHILDREN_BEDROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_20_CHILDREN_BEDROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_21_CHILDREN_BEDROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_22_CHILDREN_BEDROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_23_CHILDREN_BEDROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_24_CHILDREN_BEDROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_25_CHILDREN_BEDROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_26_CHILDREN_BEDROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_27_CHILDREN_BEDROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_28_CHILDREN_BEDROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_29_CHILDREN_BEDROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_30_CHILDREN_BEDROOM_CLASSIC" type="mesh" group="3" />
+      <geom mesh="model_collision_31_CHILDREN_BEDROOM_CLASSIC" type="mesh" group="3" />
+    </body>

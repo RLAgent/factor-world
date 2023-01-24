@@ -1,0 +1,36 @@
+<body childclass="D_ROSE_773_II_hvInJwJ5HUD_base" name="D_ROSE_773_II_hvInJwJ5HUD1">
+        <geom class="D_ROSE_773_II_hvInJwJ5HUD_col" name="{geom_name}" type="mesh" mesh="model_D_ROSE_773_II_hvInJwJ5HUD" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_D_ROSE_773_II_hvInJwJ5HUD" mesh="model_D_ROSE_773_II_hvInJwJ5HUD" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_D_ROSE_773_II_hvInJwJ5HUD" type="mesh" group="3" />
+      <geom mesh="model_collision_1_D_ROSE_773_II_hvInJwJ5HUD" type="mesh" group="3" />
+      <geom mesh="model_collision_2_D_ROSE_773_II_hvInJwJ5HUD" type="mesh" group="3" />
+      <geom mesh="model_collision_3_D_ROSE_773_II_hvInJwJ5HUD" type="mesh" group="3" />
+      <geom mesh="model_collision_4_D_ROSE_773_II_hvInJwJ5HUD" type="mesh" group="3" />
+      <geom mesh="model_collision_5_D_ROSE_773_II_hvInJwJ5HUD" type="mesh" group="3" />
+      <geom mesh="model_collision_6_D_ROSE_773_II_hvInJwJ5HUD" type="mesh" group="3" />
+      <geom mesh="model_collision_7_D_ROSE_773_II_hvInJwJ5HUD" type="mesh" group="3" />
+      <geom mesh="model_collision_8_D_ROSE_773_II_hvInJwJ5HUD" type="mesh" group="3" />
+      <geom mesh="model_collision_9_D_ROSE_773_II_hvInJwJ5HUD" type="mesh" group="3" />
+      <geom mesh="model_collision_10_D_ROSE_773_II_hvInJwJ5HUD" type="mesh" group="3" />
+      <geom mesh="model_collision_11_D_ROSE_773_II_hvInJwJ5HUD" type="mesh" group="3" />
+      <geom mesh="model_collision_12_D_ROSE_773_II_hvInJwJ5HUD" type="mesh" group="3" />
+      <geom mesh="model_collision_13_D_ROSE_773_II_hvInJwJ5HUD" type="mesh" group="3" />
+      <geom mesh="model_collision_14_D_ROSE_773_II_hvInJwJ5HUD" type="mesh" group="3" />
+      <geom mesh="model_collision_15_D_ROSE_773_II_hvInJwJ5HUD" type="mesh" group="3" />
+      <geom mesh="model_collision_16_D_ROSE_773_II_hvInJwJ5HUD" type="mesh" group="3" />
+      <geom mesh="model_collision_17_D_ROSE_773_II_hvInJwJ5HUD" type="mesh" group="3" />
+      <geom mesh="model_collision_18_D_ROSE_773_II_hvInJwJ5HUD" type="mesh" group="3" />
+      <geom mesh="model_collision_19_D_ROSE_773_II_hvInJwJ5HUD" type="mesh" group="3" />
+      <geom mesh="model_collision_20_D_ROSE_773_II_hvInJwJ5HUD" type="mesh" group="3" />
+      <geom mesh="model_collision_21_D_ROSE_773_II_hvInJwJ5HUD" type="mesh" group="3" />
+      <geom mesh="model_collision_22_D_ROSE_773_II_hvInJwJ5HUD" type="mesh" group="3" />
+      <geom mesh="model_collision_23_D_ROSE_773_II_hvInJwJ5HUD" type="mesh" group="3" />
+      <geom mesh="model_collision_24_D_ROSE_773_II_hvInJwJ5HUD" type="mesh" group="3" />
+      <geom mesh="model_collision_25_D_ROSE_773_II_hvInJwJ5HUD" type="mesh" group="3" />
+      <geom mesh="model_collision_26_D_ROSE_773_II_hvInJwJ5HUD" type="mesh" group="3" />
+      <geom mesh="model_collision_27_D_ROSE_773_II_hvInJwJ5HUD" type="mesh" group="3" />
+      <geom mesh="model_collision_28_D_ROSE_773_II_hvInJwJ5HUD" type="mesh" group="3" />
+      <geom mesh="model_collision_29_D_ROSE_773_II_hvInJwJ5HUD" type="mesh" group="3" />
+      <geom mesh="model_collision_30_D_ROSE_773_II_hvInJwJ5HUD" type="mesh" group="3" />
+      <geom mesh="model_collision_31_D_ROSE_773_II_hvInJwJ5HUD" type="mesh" group="3" />
+    </body>

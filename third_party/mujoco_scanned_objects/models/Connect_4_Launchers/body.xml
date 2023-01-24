@@ -1,0 +1,36 @@
+<body childclass="Connect_4_Launchers_base" name="Connect_4_Launchers1">
+        <geom class="Connect_4_Launchers_col" name="{geom_name}" type="mesh" mesh="model_Connect_4_Launchers" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Connect_4_Launchers" mesh="model_Connect_4_Launchers" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Connect_4_Launchers" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Connect_4_Launchers" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Connect_4_Launchers" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Connect_4_Launchers" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Connect_4_Launchers" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Connect_4_Launchers" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Connect_4_Launchers" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Connect_4_Launchers" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Connect_4_Launchers" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Connect_4_Launchers" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Connect_4_Launchers" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Connect_4_Launchers" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Connect_4_Launchers" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Connect_4_Launchers" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Connect_4_Launchers" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Connect_4_Launchers" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Connect_4_Launchers" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Connect_4_Launchers" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Connect_4_Launchers" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Connect_4_Launchers" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Connect_4_Launchers" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Connect_4_Launchers" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Connect_4_Launchers" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Connect_4_Launchers" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Connect_4_Launchers" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Connect_4_Launchers" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Connect_4_Launchers" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Connect_4_Launchers" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Connect_4_Launchers" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Connect_4_Launchers" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Connect_4_Launchers" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Connect_4_Launchers" type="mesh" group="3" />
+    </body>

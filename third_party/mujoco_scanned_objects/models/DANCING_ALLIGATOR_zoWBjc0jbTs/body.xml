@@ -1,0 +1,36 @@
+<body childclass="DANCING_ALLIGATOR_zoWBjc0jbTs_base" name="DANCING_ALLIGATOR_zoWBjc0jbTs1">
+        <geom class="DANCING_ALLIGATOR_zoWBjc0jbTs_col" name="{geom_name}" type="mesh" mesh="model_DANCING_ALLIGATOR_zoWBjc0jbTs" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_DANCING_ALLIGATOR_zoWBjc0jbTs" mesh="model_DANCING_ALLIGATOR_zoWBjc0jbTs" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_DANCING_ALLIGATOR_zoWBjc0jbTs" type="mesh" group="3" />
+      <geom mesh="model_collision_1_DANCING_ALLIGATOR_zoWBjc0jbTs" type="mesh" group="3" />
+      <geom mesh="model_collision_2_DANCING_ALLIGATOR_zoWBjc0jbTs" type="mesh" group="3" />
+      <geom mesh="model_collision_3_DANCING_ALLIGATOR_zoWBjc0jbTs" type="mesh" group="3" />
+      <geom mesh="model_collision_4_DANCING_ALLIGATOR_zoWBjc0jbTs" type="mesh" group="3" />
+      <geom mesh="model_collision_5_DANCING_ALLIGATOR_zoWBjc0jbTs" type="mesh" group="3" />
+      <geom mesh="model_collision_6_DANCING_ALLIGATOR_zoWBjc0jbTs" type="mesh" group="3" />
+      <geom mesh="model_collision_7_DANCING_ALLIGATOR_zoWBjc0jbTs" type="mesh" group="3" />
+      <geom mesh="model_collision_8_DANCING_ALLIGATOR_zoWBjc0jbTs" type="mesh" group="3" />
+      <geom mesh="model_collision_9_DANCING_ALLIGATOR_zoWBjc0jbTs" type="mesh" group="3" />
+      <geom mesh="model_collision_10_DANCING_ALLIGATOR_zoWBjc0jbTs" type="mesh" group="3" />
+      <geom mesh="model_collision_11_DANCING_ALLIGATOR_zoWBjc0jbTs" type="mesh" group="3" />
+      <geom mesh="model_collision_12_DANCING_ALLIGATOR_zoWBjc0jbTs" type="mesh" group="3" />
+      <geom mesh="model_collision_13_DANCING_ALLIGATOR_zoWBjc0jbTs" type="mesh" group="3" />
+      <geom mesh="model_collision_14_DANCING_ALLIGATOR_zoWBjc0jbTs" type="mesh" group="3" />
+      <geom mesh="model_collision_15_DANCING_ALLIGATOR_zoWBjc0jbTs" type="mesh" group="3" />
+      <geom mesh="model_collision_16_DANCING_ALLIGATOR_zoWBjc0jbTs" type="mesh" group="3" />
+      <geom mesh="model_collision_17_DANCING_ALLIGATOR_zoWBjc0jbTs" type="mesh" group="3" />
+      <geom mesh="model_collision_18_DANCING_ALLIGATOR_zoWBjc0jbTs" type="mesh" group="3" />
+      <geom mesh="model_collision_19_DANCING_ALLIGATOR_zoWBjc0jbTs" type="mesh" group="3" />
+      <geom mesh="model_collision_20_DANCING_ALLIGATOR_zoWBjc0jbTs" type="mesh" group="3" />
+      <geom mesh="model_collision_21_DANCING_ALLIGATOR_zoWBjc0jbTs" type="mesh" group="3" />
+      <geom mesh="model_collision_22_DANCING_ALLIGATOR_zoWBjc0jbTs" type="mesh" group="3" />
+      <geom mesh="model_collision_23_DANCING_ALLIGATOR_zoWBjc0jbTs" type="mesh" group="3" />
+      <geom mesh="model_collision_24_DANCING_ALLIGATOR_zoWBjc0jbTs" type="mesh" group="3" />
+      <geom mesh="model_collision_25_DANCING_ALLIGATOR_zoWBjc0jbTs" type="mesh" group="3" />
+      <geom mesh="model_collision_26_DANCING_ALLIGATOR_zoWBjc0jbTs" type="mesh" group="3" />
+      <geom mesh="model_collision_27_DANCING_ALLIGATOR_zoWBjc0jbTs" type="mesh" group="3" />
+      <geom mesh="model_collision_28_DANCING_ALLIGATOR_zoWBjc0jbTs" type="mesh" group="3" />
+      <geom mesh="model_collision_29_DANCING_ALLIGATOR_zoWBjc0jbTs" type="mesh" group="3" />
+      <geom mesh="model_collision_30_DANCING_ALLIGATOR_zoWBjc0jbTs" type="mesh" group="3" />
+      <geom mesh="model_collision_31_DANCING_ALLIGATOR_zoWBjc0jbTs" type="mesh" group="3" />
+    </body>

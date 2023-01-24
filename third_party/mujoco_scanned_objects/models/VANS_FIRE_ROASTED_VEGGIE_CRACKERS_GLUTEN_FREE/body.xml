@@ -1,0 +1,36 @@
+<body childclass="VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE_base" name="VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE1">
+        <geom class="VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE_col" name="{geom_name}" type="mesh" mesh="model_VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE" mesh="model_VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE" type="mesh" group="3" />
+      <geom mesh="model_collision_1_VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE" type="mesh" group="3" />
+      <geom mesh="model_collision_2_VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE" type="mesh" group="3" />
+      <geom mesh="model_collision_3_VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE" type="mesh" group="3" />
+      <geom mesh="model_collision_4_VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE" type="mesh" group="3" />
+      <geom mesh="model_collision_5_VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE" type="mesh" group="3" />
+      <geom mesh="model_collision_6_VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE" type="mesh" group="3" />
+      <geom mesh="model_collision_7_VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE" type="mesh" group="3" />
+      <geom mesh="model_collision_8_VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE" type="mesh" group="3" />
+      <geom mesh="model_collision_9_VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE" type="mesh" group="3" />
+      <geom mesh="model_collision_10_VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE" type="mesh" group="3" />
+      <geom mesh="model_collision_11_VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE" type="mesh" group="3" />
+      <geom mesh="model_collision_12_VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE" type="mesh" group="3" />
+      <geom mesh="model_collision_13_VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE" type="mesh" group="3" />
+      <geom mesh="model_collision_14_VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE" type="mesh" group="3" />
+      <geom mesh="model_collision_15_VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE" type="mesh" group="3" />
+      <geom mesh="model_collision_16_VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE" type="mesh" group="3" />
+      <geom mesh="model_collision_17_VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE" type="mesh" group="3" />
+      <geom mesh="model_collision_18_VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE" type="mesh" group="3" />
+      <geom mesh="model_collision_19_VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE" type="mesh" group="3" />
+      <geom mesh="model_collision_20_VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE" type="mesh" group="3" />
+      <geom mesh="model_collision_21_VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE" type="mesh" group="3" />
+      <geom mesh="model_collision_22_VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE" type="mesh" group="3" />
+      <geom mesh="model_collision_23_VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE" type="mesh" group="3" />
+      <geom mesh="model_collision_24_VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE" type="mesh" group="3" />
+      <geom mesh="model_collision_25_VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE" type="mesh" group="3" />
+      <geom mesh="model_collision_26_VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE" type="mesh" group="3" />
+      <geom mesh="model_collision_27_VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE" type="mesh" group="3" />
+      <geom mesh="model_collision_28_VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE" type="mesh" group="3" />
+      <geom mesh="model_collision_29_VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE" type="mesh" group="3" />
+      <geom mesh="model_collision_30_VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE" type="mesh" group="3" />
+      <geom mesh="model_collision_31_VANS_FIRE_ROASTED_VEGGIE_CRACKERS_GLUTEN_FREE" type="mesh" group="3" />
+    </body>

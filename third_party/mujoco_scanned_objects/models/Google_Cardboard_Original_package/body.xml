@@ -1,0 +1,36 @@
+<body childclass="Google_Cardboard_Original_package_base" name="Google_Cardboard_Original_package1">
+        <geom class="Google_Cardboard_Original_package_col" name="{geom_name}" type="mesh" mesh="model_Google_Cardboard_Original_package" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Google_Cardboard_Original_package" mesh="model_Google_Cardboard_Original_package" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Google_Cardboard_Original_package" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Google_Cardboard_Original_package" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Google_Cardboard_Original_package" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Google_Cardboard_Original_package" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Google_Cardboard_Original_package" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Google_Cardboard_Original_package" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Google_Cardboard_Original_package" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Google_Cardboard_Original_package" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Google_Cardboard_Original_package" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Google_Cardboard_Original_package" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Google_Cardboard_Original_package" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Google_Cardboard_Original_package" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Google_Cardboard_Original_package" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Google_Cardboard_Original_package" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Google_Cardboard_Original_package" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Google_Cardboard_Original_package" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Google_Cardboard_Original_package" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Google_Cardboard_Original_package" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Google_Cardboard_Original_package" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Google_Cardboard_Original_package" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Google_Cardboard_Original_package" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Google_Cardboard_Original_package" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Google_Cardboard_Original_package" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Google_Cardboard_Original_package" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Google_Cardboard_Original_package" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Google_Cardboard_Original_package" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Google_Cardboard_Original_package" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Google_Cardboard_Original_package" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Google_Cardboard_Original_package" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Google_Cardboard_Original_package" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Google_Cardboard_Original_package" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Google_Cardboard_Original_package" type="mesh" group="3" />
+    </body>

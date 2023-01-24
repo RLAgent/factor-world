@@ -1,0 +1,36 @@
+<body childclass="Shark_base" name="Shark1">
+        <geom class="Shark_col" name="{geom_name}" type="mesh" mesh="model_Shark" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Shark" mesh="model_Shark" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Shark" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Shark" type="mesh" group="3" />
+    </body>

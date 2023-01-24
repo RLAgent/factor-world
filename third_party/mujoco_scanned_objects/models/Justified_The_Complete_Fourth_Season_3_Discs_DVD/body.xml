@@ -1,0 +1,36 @@
+<body childclass="Justified_The_Complete_Fourth_Season_3_Discs_DVD_base" name="Justified_The_Complete_Fourth_Season_3_Discs_DVD1">
+        <geom class="Justified_The_Complete_Fourth_Season_3_Discs_DVD_col" name="{geom_name}" type="mesh" mesh="model_Justified_The_Complete_Fourth_Season_3_Discs_DVD" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Justified_The_Complete_Fourth_Season_3_Discs_DVD" mesh="model_Justified_The_Complete_Fourth_Season_3_Discs_DVD" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Justified_The_Complete_Fourth_Season_3_Discs_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Justified_The_Complete_Fourth_Season_3_Discs_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Justified_The_Complete_Fourth_Season_3_Discs_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Justified_The_Complete_Fourth_Season_3_Discs_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Justified_The_Complete_Fourth_Season_3_Discs_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Justified_The_Complete_Fourth_Season_3_Discs_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Justified_The_Complete_Fourth_Season_3_Discs_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Justified_The_Complete_Fourth_Season_3_Discs_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Justified_The_Complete_Fourth_Season_3_Discs_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Justified_The_Complete_Fourth_Season_3_Discs_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Justified_The_Complete_Fourth_Season_3_Discs_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Justified_The_Complete_Fourth_Season_3_Discs_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Justified_The_Complete_Fourth_Season_3_Discs_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Justified_The_Complete_Fourth_Season_3_Discs_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Justified_The_Complete_Fourth_Season_3_Discs_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Justified_The_Complete_Fourth_Season_3_Discs_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Justified_The_Complete_Fourth_Season_3_Discs_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Justified_The_Complete_Fourth_Season_3_Discs_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Justified_The_Complete_Fourth_Season_3_Discs_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Justified_The_Complete_Fourth_Season_3_Discs_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Justified_The_Complete_Fourth_Season_3_Discs_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Justified_The_Complete_Fourth_Season_3_Discs_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Justified_The_Complete_Fourth_Season_3_Discs_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Justified_The_Complete_Fourth_Season_3_Discs_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Justified_The_Complete_Fourth_Season_3_Discs_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Justified_The_Complete_Fourth_Season_3_Discs_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Justified_The_Complete_Fourth_Season_3_Discs_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Justified_The_Complete_Fourth_Season_3_Discs_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Justified_The_Complete_Fourth_Season_3_Discs_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Justified_The_Complete_Fourth_Season_3_Discs_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Justified_The_Complete_Fourth_Season_3_Discs_DVD" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Justified_The_Complete_Fourth_Season_3_Discs_DVD" type="mesh" group="3" />
+    </body>

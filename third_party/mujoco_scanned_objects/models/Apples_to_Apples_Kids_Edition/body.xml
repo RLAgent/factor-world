@@ -1,0 +1,36 @@
+<body childclass="Apples_to_Apples_Kids_Edition_base" name="Apples_to_Apples_Kids_Edition1">
+        <geom class="Apples_to_Apples_Kids_Edition_col" name="{geom_name}" type="mesh" mesh="model_Apples_to_Apples_Kids_Edition" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Apples_to_Apples_Kids_Edition" mesh="model_Apples_to_Apples_Kids_Edition" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Apples_to_Apples_Kids_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Apples_to_Apples_Kids_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Apples_to_Apples_Kids_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Apples_to_Apples_Kids_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Apples_to_Apples_Kids_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Apples_to_Apples_Kids_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Apples_to_Apples_Kids_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Apples_to_Apples_Kids_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Apples_to_Apples_Kids_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Apples_to_Apples_Kids_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Apples_to_Apples_Kids_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Apples_to_Apples_Kids_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Apples_to_Apples_Kids_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Apples_to_Apples_Kids_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Apples_to_Apples_Kids_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Apples_to_Apples_Kids_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Apples_to_Apples_Kids_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Apples_to_Apples_Kids_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Apples_to_Apples_Kids_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Apples_to_Apples_Kids_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Apples_to_Apples_Kids_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Apples_to_Apples_Kids_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Apples_to_Apples_Kids_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Apples_to_Apples_Kids_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Apples_to_Apples_Kids_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Apples_to_Apples_Kids_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Apples_to_Apples_Kids_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Apples_to_Apples_Kids_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Apples_to_Apples_Kids_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Apples_to_Apples_Kids_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Apples_to_Apples_Kids_Edition" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Apples_to_Apples_Kids_Edition" type="mesh" group="3" />
+    </body>

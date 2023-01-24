@@ -1,0 +1,36 @@
+<body childclass="Mattel_SKIP_BO_Card_Game_base" name="Mattel_SKIP_BO_Card_Game1">
+        <geom class="Mattel_SKIP_BO_Card_Game_col" name="{geom_name}" type="mesh" mesh="model_Mattel_SKIP_BO_Card_Game" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Mattel_SKIP_BO_Card_Game" mesh="model_Mattel_SKIP_BO_Card_Game" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Mattel_SKIP_BO_Card_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Mattel_SKIP_BO_Card_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Mattel_SKIP_BO_Card_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Mattel_SKIP_BO_Card_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Mattel_SKIP_BO_Card_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Mattel_SKIP_BO_Card_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Mattel_SKIP_BO_Card_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Mattel_SKIP_BO_Card_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Mattel_SKIP_BO_Card_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Mattel_SKIP_BO_Card_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Mattel_SKIP_BO_Card_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Mattel_SKIP_BO_Card_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Mattel_SKIP_BO_Card_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Mattel_SKIP_BO_Card_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Mattel_SKIP_BO_Card_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Mattel_SKIP_BO_Card_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Mattel_SKIP_BO_Card_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Mattel_SKIP_BO_Card_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Mattel_SKIP_BO_Card_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Mattel_SKIP_BO_Card_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Mattel_SKIP_BO_Card_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Mattel_SKIP_BO_Card_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Mattel_SKIP_BO_Card_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Mattel_SKIP_BO_Card_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Mattel_SKIP_BO_Card_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Mattel_SKIP_BO_Card_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Mattel_SKIP_BO_Card_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Mattel_SKIP_BO_Card_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Mattel_SKIP_BO_Card_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Mattel_SKIP_BO_Card_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Mattel_SKIP_BO_Card_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Mattel_SKIP_BO_Card_Game" type="mesh" group="3" />
+    </body>

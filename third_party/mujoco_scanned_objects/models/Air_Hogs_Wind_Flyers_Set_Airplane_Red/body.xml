@@ -1,0 +1,36 @@
+<body childclass="Air_Hogs_Wind_Flyers_Set_Airplane_Red_base" name="Air_Hogs_Wind_Flyers_Set_Airplane_Red1">
+        <geom class="Air_Hogs_Wind_Flyers_Set_Airplane_Red_col" name="{geom_name}" type="mesh" mesh="model_Air_Hogs_Wind_Flyers_Set_Airplane_Red" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Air_Hogs_Wind_Flyers_Set_Airplane_Red" mesh="model_Air_Hogs_Wind_Flyers_Set_Airplane_Red" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Air_Hogs_Wind_Flyers_Set_Airplane_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Air_Hogs_Wind_Flyers_Set_Airplane_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Air_Hogs_Wind_Flyers_Set_Airplane_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Air_Hogs_Wind_Flyers_Set_Airplane_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Air_Hogs_Wind_Flyers_Set_Airplane_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Air_Hogs_Wind_Flyers_Set_Airplane_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Air_Hogs_Wind_Flyers_Set_Airplane_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Air_Hogs_Wind_Flyers_Set_Airplane_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Air_Hogs_Wind_Flyers_Set_Airplane_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Air_Hogs_Wind_Flyers_Set_Airplane_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Air_Hogs_Wind_Flyers_Set_Airplane_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Air_Hogs_Wind_Flyers_Set_Airplane_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Air_Hogs_Wind_Flyers_Set_Airplane_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Air_Hogs_Wind_Flyers_Set_Airplane_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Air_Hogs_Wind_Flyers_Set_Airplane_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Air_Hogs_Wind_Flyers_Set_Airplane_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Air_Hogs_Wind_Flyers_Set_Airplane_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Air_Hogs_Wind_Flyers_Set_Airplane_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Air_Hogs_Wind_Flyers_Set_Airplane_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Air_Hogs_Wind_Flyers_Set_Airplane_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Air_Hogs_Wind_Flyers_Set_Airplane_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Air_Hogs_Wind_Flyers_Set_Airplane_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Air_Hogs_Wind_Flyers_Set_Airplane_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Air_Hogs_Wind_Flyers_Set_Airplane_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Air_Hogs_Wind_Flyers_Set_Airplane_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Air_Hogs_Wind_Flyers_Set_Airplane_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Air_Hogs_Wind_Flyers_Set_Airplane_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Air_Hogs_Wind_Flyers_Set_Airplane_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Air_Hogs_Wind_Flyers_Set_Airplane_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Air_Hogs_Wind_Flyers_Set_Airplane_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Air_Hogs_Wind_Flyers_Set_Airplane_Red" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Air_Hogs_Wind_Flyers_Set_Airplane_Red" type="mesh" group="3" />
+    </body>

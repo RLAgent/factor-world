@@ -1,0 +1,36 @@
+<body childclass="POUNDING_MUSHROOMS_base" name="POUNDING_MUSHROOMS1">
+        <geom class="POUNDING_MUSHROOMS_col" name="{geom_name}" type="mesh" mesh="model_POUNDING_MUSHROOMS" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_POUNDING_MUSHROOMS" mesh="model_POUNDING_MUSHROOMS" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_POUNDING_MUSHROOMS" type="mesh" group="3" />
+      <geom mesh="model_collision_1_POUNDING_MUSHROOMS" type="mesh" group="3" />
+      <geom mesh="model_collision_2_POUNDING_MUSHROOMS" type="mesh" group="3" />
+      <geom mesh="model_collision_3_POUNDING_MUSHROOMS" type="mesh" group="3" />
+      <geom mesh="model_collision_4_POUNDING_MUSHROOMS" type="mesh" group="3" />
+      <geom mesh="model_collision_5_POUNDING_MUSHROOMS" type="mesh" group="3" />
+      <geom mesh="model_collision_6_POUNDING_MUSHROOMS" type="mesh" group="3" />
+      <geom mesh="model_collision_7_POUNDING_MUSHROOMS" type="mesh" group="3" />
+      <geom mesh="model_collision_8_POUNDING_MUSHROOMS" type="mesh" group="3" />
+      <geom mesh="model_collision_9_POUNDING_MUSHROOMS" type="mesh" group="3" />
+      <geom mesh="model_collision_10_POUNDING_MUSHROOMS" type="mesh" group="3" />
+      <geom mesh="model_collision_11_POUNDING_MUSHROOMS" type="mesh" group="3" />
+      <geom mesh="model_collision_12_POUNDING_MUSHROOMS" type="mesh" group="3" />
+      <geom mesh="model_collision_13_POUNDING_MUSHROOMS" type="mesh" group="3" />
+      <geom mesh="model_collision_14_POUNDING_MUSHROOMS" type="mesh" group="3" />
+      <geom mesh="model_collision_15_POUNDING_MUSHROOMS" type="mesh" group="3" />
+      <geom mesh="model_collision_16_POUNDING_MUSHROOMS" type="mesh" group="3" />
+      <geom mesh="model_collision_17_POUNDING_MUSHROOMS" type="mesh" group="3" />
+      <geom mesh="model_collision_18_POUNDING_MUSHROOMS" type="mesh" group="3" />
+      <geom mesh="model_collision_19_POUNDING_MUSHROOMS" type="mesh" group="3" />
+      <geom mesh="model_collision_20_POUNDING_MUSHROOMS" type="mesh" group="3" />
+      <geom mesh="model_collision_21_POUNDING_MUSHROOMS" type="mesh" group="3" />
+      <geom mesh="model_collision_22_POUNDING_MUSHROOMS" type="mesh" group="3" />
+      <geom mesh="model_collision_23_POUNDING_MUSHROOMS" type="mesh" group="3" />
+      <geom mesh="model_collision_24_POUNDING_MUSHROOMS" type="mesh" group="3" />
+      <geom mesh="model_collision_25_POUNDING_MUSHROOMS" type="mesh" group="3" />
+      <geom mesh="model_collision_26_POUNDING_MUSHROOMS" type="mesh" group="3" />
+      <geom mesh="model_collision_27_POUNDING_MUSHROOMS" type="mesh" group="3" />
+      <geom mesh="model_collision_28_POUNDING_MUSHROOMS" type="mesh" group="3" />
+      <geom mesh="model_collision_29_POUNDING_MUSHROOMS" type="mesh" group="3" />
+      <geom mesh="model_collision_30_POUNDING_MUSHROOMS" type="mesh" group="3" />
+      <geom mesh="model_collision_31_POUNDING_MUSHROOMS" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="Remington_TStudio_Silk_Ceramic_Hair_Straightener_2_Inch_Floating_Plates_base" name="Remington_TStudio_Silk_Ceramic_Hair_Straightener_2_Inch_Floating_Plates1">
+        <geom class="Remington_TStudio_Silk_Ceramic_Hair_Straightener_2_Inch_Floating_Plates_col" name="{geom_name}" type="mesh" mesh="model_Remington_TStudio_Silk_Ceramic_Hair_Straightener_2_Inch_Floating_Plates" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Remington_TStudio_Silk_Ceramic_Hair_Straightener_2_Inch_Floating_Plates" mesh="model_Remington_TStudio_Silk_Ceramic_Hair_Straightener_2_Inch_Floating_Plates" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Remington_TStudio_Silk_Ceramic_Hair_Straightener_2_Inch_Floating_Plates" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Remington_TStudio_Silk_Ceramic_Hair_Straightener_2_Inch_Floating_Plates" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Remington_TStudio_Silk_Ceramic_Hair_Straightener_2_Inch_Floating_Plates" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Remington_TStudio_Silk_Ceramic_Hair_Straightener_2_Inch_Floating_Plates" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Remington_TStudio_Silk_Ceramic_Hair_Straightener_2_Inch_Floating_Plates" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Remington_TStudio_Silk_Ceramic_Hair_Straightener_2_Inch_Floating_Plates" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Remington_TStudio_Silk_Ceramic_Hair_Straightener_2_Inch_Floating_Plates" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Remington_TStudio_Silk_Ceramic_Hair_Straightener_2_Inch_Floating_Plates" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Remington_TStudio_Silk_Ceramic_Hair_Straightener_2_Inch_Floating_Plates" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Remington_TStudio_Silk_Ceramic_Hair_Straightener_2_Inch_Floating_Plates" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Remington_TStudio_Silk_Ceramic_Hair_Straightener_2_Inch_Floating_Plates" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Remington_TStudio_Silk_Ceramic_Hair_Straightener_2_Inch_Floating_Plates" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Remington_TStudio_Silk_Ceramic_Hair_Straightener_2_Inch_Floating_Plates" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Remington_TStudio_Silk_Ceramic_Hair_Straightener_2_Inch_Floating_Plates" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Remington_TStudio_Silk_Ceramic_Hair_Straightener_2_Inch_Floating_Plates" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Remington_TStudio_Silk_Ceramic_Hair_Straightener_2_Inch_Floating_Plates" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Remington_TStudio_Silk_Ceramic_Hair_Straightener_2_Inch_Floating_Plates" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Remington_TStudio_Silk_Ceramic_Hair_Straightener_2_Inch_Floating_Plates" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Remington_TStudio_Silk_Ceramic_Hair_Straightener_2_Inch_Floating_Plates" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Remington_TStudio_Silk_Ceramic_Hair_Straightener_2_Inch_Floating_Plates" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Remington_TStudio_Silk_Ceramic_Hair_Straightener_2_Inch_Floating_Plates" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Remington_TStudio_Silk_Ceramic_Hair_Straightener_2_Inch_Floating_Plates" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Remington_TStudio_Silk_Ceramic_Hair_Straightener_2_Inch_Floating_Plates" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Remington_TStudio_Silk_Ceramic_Hair_Straightener_2_Inch_Floating_Plates" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Remington_TStudio_Silk_Ceramic_Hair_Straightener_2_Inch_Floating_Plates" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Remington_TStudio_Silk_Ceramic_Hair_Straightener_2_Inch_Floating_Plates" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Remington_TStudio_Silk_Ceramic_Hair_Straightener_2_Inch_Floating_Plates" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Remington_TStudio_Silk_Ceramic_Hair_Straightener_2_Inch_Floating_Plates" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Remington_TStudio_Silk_Ceramic_Hair_Straightener_2_Inch_Floating_Plates" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Remington_TStudio_Silk_Ceramic_Hair_Straightener_2_Inch_Floating_Plates" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Remington_TStudio_Silk_Ceramic_Hair_Straightener_2_Inch_Floating_Plates" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Remington_TStudio_Silk_Ceramic_Hair_Straightener_2_Inch_Floating_Plates" type="mesh" group="3" />
+    </body>

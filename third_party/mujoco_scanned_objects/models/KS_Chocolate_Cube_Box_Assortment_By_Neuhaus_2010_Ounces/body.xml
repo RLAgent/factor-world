@@ -1,0 +1,36 @@
+<body childclass="KS_Chocolate_Cube_Box_Assortment_By_Neuhaus_2010_Ounces_base" name="KS_Chocolate_Cube_Box_Assortment_By_Neuhaus_2010_Ounces1">
+        <geom class="KS_Chocolate_Cube_Box_Assortment_By_Neuhaus_2010_Ounces_col" name="{geom_name}" type="mesh" mesh="model_KS_Chocolate_Cube_Box_Assortment_By_Neuhaus_2010_Ounces" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_KS_Chocolate_Cube_Box_Assortment_By_Neuhaus_2010_Ounces" mesh="model_KS_Chocolate_Cube_Box_Assortment_By_Neuhaus_2010_Ounces" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_KS_Chocolate_Cube_Box_Assortment_By_Neuhaus_2010_Ounces" type="mesh" group="3" />
+      <geom mesh="model_collision_1_KS_Chocolate_Cube_Box_Assortment_By_Neuhaus_2010_Ounces" type="mesh" group="3" />
+      <geom mesh="model_collision_2_KS_Chocolate_Cube_Box_Assortment_By_Neuhaus_2010_Ounces" type="mesh" group="3" />
+      <geom mesh="model_collision_3_KS_Chocolate_Cube_Box_Assortment_By_Neuhaus_2010_Ounces" type="mesh" group="3" />
+      <geom mesh="model_collision_4_KS_Chocolate_Cube_Box_Assortment_By_Neuhaus_2010_Ounces" type="mesh" group="3" />
+      <geom mesh="model_collision_5_KS_Chocolate_Cube_Box_Assortment_By_Neuhaus_2010_Ounces" type="mesh" group="3" />
+      <geom mesh="model_collision_6_KS_Chocolate_Cube_Box_Assortment_By_Neuhaus_2010_Ounces" type="mesh" group="3" />
+      <geom mesh="model_collision_7_KS_Chocolate_Cube_Box_Assortment_By_Neuhaus_2010_Ounces" type="mesh" group="3" />
+      <geom mesh="model_collision_8_KS_Chocolate_Cube_Box_Assortment_By_Neuhaus_2010_Ounces" type="mesh" group="3" />
+      <geom mesh="model_collision_9_KS_Chocolate_Cube_Box_Assortment_By_Neuhaus_2010_Ounces" type="mesh" group="3" />
+      <geom mesh="model_collision_10_KS_Chocolate_Cube_Box_Assortment_By_Neuhaus_2010_Ounces" type="mesh" group="3" />
+      <geom mesh="model_collision_11_KS_Chocolate_Cube_Box_Assortment_By_Neuhaus_2010_Ounces" type="mesh" group="3" />
+      <geom mesh="model_collision_12_KS_Chocolate_Cube_Box_Assortment_By_Neuhaus_2010_Ounces" type="mesh" group="3" />
+      <geom mesh="model_collision_13_KS_Chocolate_Cube_Box_Assortment_By_Neuhaus_2010_Ounces" type="mesh" group="3" />
+      <geom mesh="model_collision_14_KS_Chocolate_Cube_Box_Assortment_By_Neuhaus_2010_Ounces" type="mesh" group="3" />
+      <geom mesh="model_collision_15_KS_Chocolate_Cube_Box_Assortment_By_Neuhaus_2010_Ounces" type="mesh" group="3" />
+      <geom mesh="model_collision_16_KS_Chocolate_Cube_Box_Assortment_By_Neuhaus_2010_Ounces" type="mesh" group="3" />
+      <geom mesh="model_collision_17_KS_Chocolate_Cube_Box_Assortment_By_Neuhaus_2010_Ounces" type="mesh" group="3" />
+      <geom mesh="model_collision_18_KS_Chocolate_Cube_Box_Assortment_By_Neuhaus_2010_Ounces" type="mesh" group="3" />
+      <geom mesh="model_collision_19_KS_Chocolate_Cube_Box_Assortment_By_Neuhaus_2010_Ounces" type="mesh" group="3" />
+      <geom mesh="model_collision_20_KS_Chocolate_Cube_Box_Assortment_By_Neuhaus_2010_Ounces" type="mesh" group="3" />
+      <geom mesh="model_collision_21_KS_Chocolate_Cube_Box_Assortment_By_Neuhaus_2010_Ounces" type="mesh" group="3" />
+      <geom mesh="model_collision_22_KS_Chocolate_Cube_Box_Assortment_By_Neuhaus_2010_Ounces" type="mesh" group="3" />
+      <geom mesh="model_collision_23_KS_Chocolate_Cube_Box_Assortment_By_Neuhaus_2010_Ounces" type="mesh" group="3" />
+      <geom mesh="model_collision_24_KS_Chocolate_Cube_Box_Assortment_By_Neuhaus_2010_Ounces" type="mesh" group="3" />
+      <geom mesh="model_collision_25_KS_Chocolate_Cube_Box_Assortment_By_Neuhaus_2010_Ounces" type="mesh" group="3" />
+      <geom mesh="model_collision_26_KS_Chocolate_Cube_Box_Assortment_By_Neuhaus_2010_Ounces" type="mesh" group="3" />
+      <geom mesh="model_collision_27_KS_Chocolate_Cube_Box_Assortment_By_Neuhaus_2010_Ounces" type="mesh" group="3" />
+      <geom mesh="model_collision_28_KS_Chocolate_Cube_Box_Assortment_By_Neuhaus_2010_Ounces" type="mesh" group="3" />
+      <geom mesh="model_collision_29_KS_Chocolate_Cube_Box_Assortment_By_Neuhaus_2010_Ounces" type="mesh" group="3" />
+      <geom mesh="model_collision_30_KS_Chocolate_Cube_Box_Assortment_By_Neuhaus_2010_Ounces" type="mesh" group="3" />
+      <geom mesh="model_collision_31_KS_Chocolate_Cube_Box_Assortment_By_Neuhaus_2010_Ounces" type="mesh" group="3" />
+    </body>

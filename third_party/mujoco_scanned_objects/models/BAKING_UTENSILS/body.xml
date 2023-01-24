@@ -1,0 +1,36 @@
+<body childclass="BAKING_UTENSILS_base" name="BAKING_UTENSILS1">
+        <geom class="BAKING_UTENSILS_col" name="{geom_name}" type="mesh" mesh="model_BAKING_UTENSILS" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_BAKING_UTENSILS" mesh="model_BAKING_UTENSILS" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_BAKING_UTENSILS" type="mesh" group="3" />
+      <geom mesh="model_collision_1_BAKING_UTENSILS" type="mesh" group="3" />
+      <geom mesh="model_collision_2_BAKING_UTENSILS" type="mesh" group="3" />
+      <geom mesh="model_collision_3_BAKING_UTENSILS" type="mesh" group="3" />
+      <geom mesh="model_collision_4_BAKING_UTENSILS" type="mesh" group="3" />
+      <geom mesh="model_collision_5_BAKING_UTENSILS" type="mesh" group="3" />
+      <geom mesh="model_collision_6_BAKING_UTENSILS" type="mesh" group="3" />
+      <geom mesh="model_collision_7_BAKING_UTENSILS" type="mesh" group="3" />
+      <geom mesh="model_collision_8_BAKING_UTENSILS" type="mesh" group="3" />
+      <geom mesh="model_collision_9_BAKING_UTENSILS" type="mesh" group="3" />
+      <geom mesh="model_collision_10_BAKING_UTENSILS" type="mesh" group="3" />
+      <geom mesh="model_collision_11_BAKING_UTENSILS" type="mesh" group="3" />
+      <geom mesh="model_collision_12_BAKING_UTENSILS" type="mesh" group="3" />
+      <geom mesh="model_collision_13_BAKING_UTENSILS" type="mesh" group="3" />
+      <geom mesh="model_collision_14_BAKING_UTENSILS" type="mesh" group="3" />
+      <geom mesh="model_collision_15_BAKING_UTENSILS" type="mesh" group="3" />
+      <geom mesh="model_collision_16_BAKING_UTENSILS" type="mesh" group="3" />
+      <geom mesh="model_collision_17_BAKING_UTENSILS" type="mesh" group="3" />
+      <geom mesh="model_collision_18_BAKING_UTENSILS" type="mesh" group="3" />
+      <geom mesh="model_collision_19_BAKING_UTENSILS" type="mesh" group="3" />
+      <geom mesh="model_collision_20_BAKING_UTENSILS" type="mesh" group="3" />
+      <geom mesh="model_collision_21_BAKING_UTENSILS" type="mesh" group="3" />
+      <geom mesh="model_collision_22_BAKING_UTENSILS" type="mesh" group="3" />
+      <geom mesh="model_collision_23_BAKING_UTENSILS" type="mesh" group="3" />
+      <geom mesh="model_collision_24_BAKING_UTENSILS" type="mesh" group="3" />
+      <geom mesh="model_collision_25_BAKING_UTENSILS" type="mesh" group="3" />
+      <geom mesh="model_collision_26_BAKING_UTENSILS" type="mesh" group="3" />
+      <geom mesh="model_collision_27_BAKING_UTENSILS" type="mesh" group="3" />
+      <geom mesh="model_collision_28_BAKING_UTENSILS" type="mesh" group="3" />
+      <geom mesh="model_collision_29_BAKING_UTENSILS" type="mesh" group="3" />
+      <geom mesh="model_collision_30_BAKING_UTENSILS" type="mesh" group="3" />
+      <geom mesh="model_collision_31_BAKING_UTENSILS" type="mesh" group="3" />
+    </body>

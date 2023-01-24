@@ -1,0 +1,36 @@
+<body childclass="Poise_Ultimate_Pads_Long_base" name="Poise_Ultimate_Pads_Long1">
+        <geom class="Poise_Ultimate_Pads_Long_col" name="{geom_name}" type="mesh" mesh="model_Poise_Ultimate_Pads_Long" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Poise_Ultimate_Pads_Long" mesh="model_Poise_Ultimate_Pads_Long" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Poise_Ultimate_Pads_Long" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Poise_Ultimate_Pads_Long" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Poise_Ultimate_Pads_Long" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Poise_Ultimate_Pads_Long" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Poise_Ultimate_Pads_Long" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Poise_Ultimate_Pads_Long" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Poise_Ultimate_Pads_Long" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Poise_Ultimate_Pads_Long" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Poise_Ultimate_Pads_Long" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Poise_Ultimate_Pads_Long" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Poise_Ultimate_Pads_Long" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Poise_Ultimate_Pads_Long" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Poise_Ultimate_Pads_Long" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Poise_Ultimate_Pads_Long" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Poise_Ultimate_Pads_Long" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Poise_Ultimate_Pads_Long" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Poise_Ultimate_Pads_Long" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Poise_Ultimate_Pads_Long" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Poise_Ultimate_Pads_Long" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Poise_Ultimate_Pads_Long" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Poise_Ultimate_Pads_Long" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Poise_Ultimate_Pads_Long" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Poise_Ultimate_Pads_Long" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Poise_Ultimate_Pads_Long" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Poise_Ultimate_Pads_Long" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Poise_Ultimate_Pads_Long" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Poise_Ultimate_Pads_Long" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Poise_Ultimate_Pads_Long" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Poise_Ultimate_Pads_Long" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Poise_Ultimate_Pads_Long" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Poise_Ultimate_Pads_Long" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Poise_Ultimate_Pads_Long" type="mesh" group="3" />
+    </body>

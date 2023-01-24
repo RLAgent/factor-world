@@ -1,0 +1,36 @@
+<body childclass="Digital_Camo_Double_Decker_Lunch_Bag_base" name="Digital_Camo_Double_Decker_Lunch_Bag1">
+        <geom class="Digital_Camo_Double_Decker_Lunch_Bag_col" name="{geom_name}" type="mesh" mesh="model_Digital_Camo_Double_Decker_Lunch_Bag" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Digital_Camo_Double_Decker_Lunch_Bag" mesh="model_Digital_Camo_Double_Decker_Lunch_Bag" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Digital_Camo_Double_Decker_Lunch_Bag" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Digital_Camo_Double_Decker_Lunch_Bag" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Digital_Camo_Double_Decker_Lunch_Bag" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Digital_Camo_Double_Decker_Lunch_Bag" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Digital_Camo_Double_Decker_Lunch_Bag" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Digital_Camo_Double_Decker_Lunch_Bag" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Digital_Camo_Double_Decker_Lunch_Bag" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Digital_Camo_Double_Decker_Lunch_Bag" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Digital_Camo_Double_Decker_Lunch_Bag" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Digital_Camo_Double_Decker_Lunch_Bag" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Digital_Camo_Double_Decker_Lunch_Bag" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Digital_Camo_Double_Decker_Lunch_Bag" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Digital_Camo_Double_Decker_Lunch_Bag" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Digital_Camo_Double_Decker_Lunch_Bag" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Digital_Camo_Double_Decker_Lunch_Bag" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Digital_Camo_Double_Decker_Lunch_Bag" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Digital_Camo_Double_Decker_Lunch_Bag" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Digital_Camo_Double_Decker_Lunch_Bag" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Digital_Camo_Double_Decker_Lunch_Bag" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Digital_Camo_Double_Decker_Lunch_Bag" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Digital_Camo_Double_Decker_Lunch_Bag" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Digital_Camo_Double_Decker_Lunch_Bag" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Digital_Camo_Double_Decker_Lunch_Bag" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Digital_Camo_Double_Decker_Lunch_Bag" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Digital_Camo_Double_Decker_Lunch_Bag" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Digital_Camo_Double_Decker_Lunch_Bag" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Digital_Camo_Double_Decker_Lunch_Bag" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Digital_Camo_Double_Decker_Lunch_Bag" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Digital_Camo_Double_Decker_Lunch_Bag" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Digital_Camo_Double_Decker_Lunch_Bag" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Digital_Camo_Double_Decker_Lunch_Bag" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Digital_Camo_Double_Decker_Lunch_Bag" type="mesh" group="3" />
+    </body>

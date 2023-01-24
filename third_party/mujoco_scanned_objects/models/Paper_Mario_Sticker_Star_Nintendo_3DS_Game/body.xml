@@ -1,0 +1,36 @@
+<body childclass="Paper_Mario_Sticker_Star_Nintendo_3DS_Game_base" name="Paper_Mario_Sticker_Star_Nintendo_3DS_Game1">
+        <geom class="Paper_Mario_Sticker_Star_Nintendo_3DS_Game_col" name="{geom_name}" type="mesh" mesh="model_Paper_Mario_Sticker_Star_Nintendo_3DS_Game" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Paper_Mario_Sticker_Star_Nintendo_3DS_Game" mesh="model_Paper_Mario_Sticker_Star_Nintendo_3DS_Game" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Paper_Mario_Sticker_Star_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Paper_Mario_Sticker_Star_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Paper_Mario_Sticker_Star_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Paper_Mario_Sticker_Star_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Paper_Mario_Sticker_Star_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Paper_Mario_Sticker_Star_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Paper_Mario_Sticker_Star_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Paper_Mario_Sticker_Star_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Paper_Mario_Sticker_Star_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Paper_Mario_Sticker_Star_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Paper_Mario_Sticker_Star_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Paper_Mario_Sticker_Star_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Paper_Mario_Sticker_Star_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Paper_Mario_Sticker_Star_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Paper_Mario_Sticker_Star_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Paper_Mario_Sticker_Star_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Paper_Mario_Sticker_Star_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Paper_Mario_Sticker_Star_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Paper_Mario_Sticker_Star_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Paper_Mario_Sticker_Star_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Paper_Mario_Sticker_Star_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Paper_Mario_Sticker_Star_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Paper_Mario_Sticker_Star_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Paper_Mario_Sticker_Star_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Paper_Mario_Sticker_Star_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Paper_Mario_Sticker_Star_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Paper_Mario_Sticker_Star_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Paper_Mario_Sticker_Star_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Paper_Mario_Sticker_Star_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Paper_Mario_Sticker_Star_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Paper_Mario_Sticker_Star_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Paper_Mario_Sticker_Star_Nintendo_3DS_Game" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="Colton_Wntr_Chukka_y4jO0I8JQFW_base" name="Colton_Wntr_Chukka_y4jO0I8JQFW1">
+        <geom class="Colton_Wntr_Chukka_y4jO0I8JQFW_col" name="{geom_name}" type="mesh" mesh="model_Colton_Wntr_Chukka_y4jO0I8JQFW" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Colton_Wntr_Chukka_y4jO0I8JQFW" mesh="model_Colton_Wntr_Chukka_y4jO0I8JQFW" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Colton_Wntr_Chukka_y4jO0I8JQFW" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Colton_Wntr_Chukka_y4jO0I8JQFW" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Colton_Wntr_Chukka_y4jO0I8JQFW" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Colton_Wntr_Chukka_y4jO0I8JQFW" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Colton_Wntr_Chukka_y4jO0I8JQFW" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Colton_Wntr_Chukka_y4jO0I8JQFW" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Colton_Wntr_Chukka_y4jO0I8JQFW" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Colton_Wntr_Chukka_y4jO0I8JQFW" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Colton_Wntr_Chukka_y4jO0I8JQFW" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Colton_Wntr_Chukka_y4jO0I8JQFW" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Colton_Wntr_Chukka_y4jO0I8JQFW" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Colton_Wntr_Chukka_y4jO0I8JQFW" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Colton_Wntr_Chukka_y4jO0I8JQFW" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Colton_Wntr_Chukka_y4jO0I8JQFW" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Colton_Wntr_Chukka_y4jO0I8JQFW" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Colton_Wntr_Chukka_y4jO0I8JQFW" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Colton_Wntr_Chukka_y4jO0I8JQFW" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Colton_Wntr_Chukka_y4jO0I8JQFW" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Colton_Wntr_Chukka_y4jO0I8JQFW" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Colton_Wntr_Chukka_y4jO0I8JQFW" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Colton_Wntr_Chukka_y4jO0I8JQFW" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Colton_Wntr_Chukka_y4jO0I8JQFW" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Colton_Wntr_Chukka_y4jO0I8JQFW" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Colton_Wntr_Chukka_y4jO0I8JQFW" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Colton_Wntr_Chukka_y4jO0I8JQFW" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Colton_Wntr_Chukka_y4jO0I8JQFW" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Colton_Wntr_Chukka_y4jO0I8JQFW" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Colton_Wntr_Chukka_y4jO0I8JQFW" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Colton_Wntr_Chukka_y4jO0I8JQFW" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Colton_Wntr_Chukka_y4jO0I8JQFW" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Colton_Wntr_Chukka_y4jO0I8JQFW" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Colton_Wntr_Chukka_y4jO0I8JQFW" type="mesh" group="3" />
+    </body>

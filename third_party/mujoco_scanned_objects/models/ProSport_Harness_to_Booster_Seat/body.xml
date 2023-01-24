@@ -1,0 +1,36 @@
+<body childclass="ProSport_Harness_to_Booster_Seat_base" name="ProSport_Harness_to_Booster_Seat1">
+        <geom class="ProSport_Harness_to_Booster_Seat_col" name="{geom_name}" type="mesh" mesh="model_ProSport_Harness_to_Booster_Seat" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_ProSport_Harness_to_Booster_Seat" mesh="model_ProSport_Harness_to_Booster_Seat" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_ProSport_Harness_to_Booster_Seat" type="mesh" group="3" />
+      <geom mesh="model_collision_1_ProSport_Harness_to_Booster_Seat" type="mesh" group="3" />
+      <geom mesh="model_collision_2_ProSport_Harness_to_Booster_Seat" type="mesh" group="3" />
+      <geom mesh="model_collision_3_ProSport_Harness_to_Booster_Seat" type="mesh" group="3" />
+      <geom mesh="model_collision_4_ProSport_Harness_to_Booster_Seat" type="mesh" group="3" />
+      <geom mesh="model_collision_5_ProSport_Harness_to_Booster_Seat" type="mesh" group="3" />
+      <geom mesh="model_collision_6_ProSport_Harness_to_Booster_Seat" type="mesh" group="3" />
+      <geom mesh="model_collision_7_ProSport_Harness_to_Booster_Seat" type="mesh" group="3" />
+      <geom mesh="model_collision_8_ProSport_Harness_to_Booster_Seat" type="mesh" group="3" />
+      <geom mesh="model_collision_9_ProSport_Harness_to_Booster_Seat" type="mesh" group="3" />
+      <geom mesh="model_collision_10_ProSport_Harness_to_Booster_Seat" type="mesh" group="3" />
+      <geom mesh="model_collision_11_ProSport_Harness_to_Booster_Seat" type="mesh" group="3" />
+      <geom mesh="model_collision_12_ProSport_Harness_to_Booster_Seat" type="mesh" group="3" />
+      <geom mesh="model_collision_13_ProSport_Harness_to_Booster_Seat" type="mesh" group="3" />
+      <geom mesh="model_collision_14_ProSport_Harness_to_Booster_Seat" type="mesh" group="3" />
+      <geom mesh="model_collision_15_ProSport_Harness_to_Booster_Seat" type="mesh" group="3" />
+      <geom mesh="model_collision_16_ProSport_Harness_to_Booster_Seat" type="mesh" group="3" />
+      <geom mesh="model_collision_17_ProSport_Harness_to_Booster_Seat" type="mesh" group="3" />
+      <geom mesh="model_collision_18_ProSport_Harness_to_Booster_Seat" type="mesh" group="3" />
+      <geom mesh="model_collision_19_ProSport_Harness_to_Booster_Seat" type="mesh" group="3" />
+      <geom mesh="model_collision_20_ProSport_Harness_to_Booster_Seat" type="mesh" group="3" />
+      <geom mesh="model_collision_21_ProSport_Harness_to_Booster_Seat" type="mesh" group="3" />
+      <geom mesh="model_collision_22_ProSport_Harness_to_Booster_Seat" type="mesh" group="3" />
+      <geom mesh="model_collision_23_ProSport_Harness_to_Booster_Seat" type="mesh" group="3" />
+      <geom mesh="model_collision_24_ProSport_Harness_to_Booster_Seat" type="mesh" group="3" />
+      <geom mesh="model_collision_25_ProSport_Harness_to_Booster_Seat" type="mesh" group="3" />
+      <geom mesh="model_collision_26_ProSport_Harness_to_Booster_Seat" type="mesh" group="3" />
+      <geom mesh="model_collision_27_ProSport_Harness_to_Booster_Seat" type="mesh" group="3" />
+      <geom mesh="model_collision_28_ProSport_Harness_to_Booster_Seat" type="mesh" group="3" />
+      <geom mesh="model_collision_29_ProSport_Harness_to_Booster_Seat" type="mesh" group="3" />
+      <geom mesh="model_collision_30_ProSport_Harness_to_Booster_Seat" type="mesh" group="3" />
+      <geom mesh="model_collision_31_ProSport_Harness_to_Booster_Seat" type="mesh" group="3" />
+    </body>

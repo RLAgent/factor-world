@@ -1,0 +1,36 @@
+<body childclass="Teenage_Mutant_Ninja_Turtles_Rahzar_Action_Figure_base" name="Teenage_Mutant_Ninja_Turtles_Rahzar_Action_Figure1">
+        <geom class="Teenage_Mutant_Ninja_Turtles_Rahzar_Action_Figure_col" name="{geom_name}" type="mesh" mesh="model_Teenage_Mutant_Ninja_Turtles_Rahzar_Action_Figure" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Teenage_Mutant_Ninja_Turtles_Rahzar_Action_Figure" mesh="model_Teenage_Mutant_Ninja_Turtles_Rahzar_Action_Figure" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Teenage_Mutant_Ninja_Turtles_Rahzar_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Teenage_Mutant_Ninja_Turtles_Rahzar_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Teenage_Mutant_Ninja_Turtles_Rahzar_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Teenage_Mutant_Ninja_Turtles_Rahzar_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Teenage_Mutant_Ninja_Turtles_Rahzar_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Teenage_Mutant_Ninja_Turtles_Rahzar_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Teenage_Mutant_Ninja_Turtles_Rahzar_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Teenage_Mutant_Ninja_Turtles_Rahzar_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Teenage_Mutant_Ninja_Turtles_Rahzar_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Teenage_Mutant_Ninja_Turtles_Rahzar_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Teenage_Mutant_Ninja_Turtles_Rahzar_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Teenage_Mutant_Ninja_Turtles_Rahzar_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Teenage_Mutant_Ninja_Turtles_Rahzar_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Teenage_Mutant_Ninja_Turtles_Rahzar_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Teenage_Mutant_Ninja_Turtles_Rahzar_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Teenage_Mutant_Ninja_Turtles_Rahzar_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Teenage_Mutant_Ninja_Turtles_Rahzar_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Teenage_Mutant_Ninja_Turtles_Rahzar_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Teenage_Mutant_Ninja_Turtles_Rahzar_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Teenage_Mutant_Ninja_Turtles_Rahzar_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Teenage_Mutant_Ninja_Turtles_Rahzar_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Teenage_Mutant_Ninja_Turtles_Rahzar_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Teenage_Mutant_Ninja_Turtles_Rahzar_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Teenage_Mutant_Ninja_Turtles_Rahzar_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Teenage_Mutant_Ninja_Turtles_Rahzar_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Teenage_Mutant_Ninja_Turtles_Rahzar_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Teenage_Mutant_Ninja_Turtles_Rahzar_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Teenage_Mutant_Ninja_Turtles_Rahzar_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Teenage_Mutant_Ninja_Turtles_Rahzar_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Teenage_Mutant_Ninja_Turtles_Rahzar_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Teenage_Mutant_Ninja_Turtles_Rahzar_Action_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Teenage_Mutant_Ninja_Turtles_Rahzar_Action_Figure" type="mesh" group="3" />
+    </body>

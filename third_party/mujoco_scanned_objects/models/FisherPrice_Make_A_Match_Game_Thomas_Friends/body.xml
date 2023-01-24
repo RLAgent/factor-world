@@ -1,0 +1,36 @@
+<body childclass="FisherPrice_Make_A_Match_Game_Thomas_Friends_base" name="FisherPrice_Make_A_Match_Game_Thomas_Friends1">
+        <geom class="FisherPrice_Make_A_Match_Game_Thomas_Friends_col" name="{geom_name}" type="mesh" mesh="model_FisherPrice_Make_A_Match_Game_Thomas_Friends" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_FisherPrice_Make_A_Match_Game_Thomas_Friends" mesh="model_FisherPrice_Make_A_Match_Game_Thomas_Friends" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_FisherPrice_Make_A_Match_Game_Thomas_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_1_FisherPrice_Make_A_Match_Game_Thomas_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_2_FisherPrice_Make_A_Match_Game_Thomas_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_3_FisherPrice_Make_A_Match_Game_Thomas_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_4_FisherPrice_Make_A_Match_Game_Thomas_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_5_FisherPrice_Make_A_Match_Game_Thomas_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_6_FisherPrice_Make_A_Match_Game_Thomas_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_7_FisherPrice_Make_A_Match_Game_Thomas_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_8_FisherPrice_Make_A_Match_Game_Thomas_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_9_FisherPrice_Make_A_Match_Game_Thomas_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_10_FisherPrice_Make_A_Match_Game_Thomas_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_11_FisherPrice_Make_A_Match_Game_Thomas_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_12_FisherPrice_Make_A_Match_Game_Thomas_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_13_FisherPrice_Make_A_Match_Game_Thomas_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_14_FisherPrice_Make_A_Match_Game_Thomas_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_15_FisherPrice_Make_A_Match_Game_Thomas_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_16_FisherPrice_Make_A_Match_Game_Thomas_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_17_FisherPrice_Make_A_Match_Game_Thomas_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_18_FisherPrice_Make_A_Match_Game_Thomas_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_19_FisherPrice_Make_A_Match_Game_Thomas_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_20_FisherPrice_Make_A_Match_Game_Thomas_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_21_FisherPrice_Make_A_Match_Game_Thomas_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_22_FisherPrice_Make_A_Match_Game_Thomas_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_23_FisherPrice_Make_A_Match_Game_Thomas_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_24_FisherPrice_Make_A_Match_Game_Thomas_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_25_FisherPrice_Make_A_Match_Game_Thomas_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_26_FisherPrice_Make_A_Match_Game_Thomas_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_27_FisherPrice_Make_A_Match_Game_Thomas_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_28_FisherPrice_Make_A_Match_Game_Thomas_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_29_FisherPrice_Make_A_Match_Game_Thomas_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_30_FisherPrice_Make_A_Match_Game_Thomas_Friends" type="mesh" group="3" />
+      <geom mesh="model_collision_31_FisherPrice_Make_A_Match_Game_Thomas_Friends" type="mesh" group="3" />
+    </body>

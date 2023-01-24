@@ -1,0 +1,36 @@
+<body childclass="Vans_Cereal_Honey_Nut_Crunch_11_oz_box_base" name="Vans_Cereal_Honey_Nut_Crunch_11_oz_box1">
+        <geom class="Vans_Cereal_Honey_Nut_Crunch_11_oz_box_col" name="{geom_name}" type="mesh" mesh="model_Vans_Cereal_Honey_Nut_Crunch_11_oz_box" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Vans_Cereal_Honey_Nut_Crunch_11_oz_box" mesh="model_Vans_Cereal_Honey_Nut_Crunch_11_oz_box" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Vans_Cereal_Honey_Nut_Crunch_11_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Vans_Cereal_Honey_Nut_Crunch_11_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Vans_Cereal_Honey_Nut_Crunch_11_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Vans_Cereal_Honey_Nut_Crunch_11_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Vans_Cereal_Honey_Nut_Crunch_11_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Vans_Cereal_Honey_Nut_Crunch_11_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Vans_Cereal_Honey_Nut_Crunch_11_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Vans_Cereal_Honey_Nut_Crunch_11_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Vans_Cereal_Honey_Nut_Crunch_11_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Vans_Cereal_Honey_Nut_Crunch_11_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Vans_Cereal_Honey_Nut_Crunch_11_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Vans_Cereal_Honey_Nut_Crunch_11_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Vans_Cereal_Honey_Nut_Crunch_11_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Vans_Cereal_Honey_Nut_Crunch_11_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Vans_Cereal_Honey_Nut_Crunch_11_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Vans_Cereal_Honey_Nut_Crunch_11_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Vans_Cereal_Honey_Nut_Crunch_11_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Vans_Cereal_Honey_Nut_Crunch_11_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Vans_Cereal_Honey_Nut_Crunch_11_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Vans_Cereal_Honey_Nut_Crunch_11_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Vans_Cereal_Honey_Nut_Crunch_11_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Vans_Cereal_Honey_Nut_Crunch_11_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Vans_Cereal_Honey_Nut_Crunch_11_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Vans_Cereal_Honey_Nut_Crunch_11_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Vans_Cereal_Honey_Nut_Crunch_11_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Vans_Cereal_Honey_Nut_Crunch_11_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Vans_Cereal_Honey_Nut_Crunch_11_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Vans_Cereal_Honey_Nut_Crunch_11_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Vans_Cereal_Honey_Nut_Crunch_11_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Vans_Cereal_Honey_Nut_Crunch_11_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Vans_Cereal_Honey_Nut_Crunch_11_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Vans_Cereal_Honey_Nut_Crunch_11_oz_box" type="mesh" group="3" />
+    </body>

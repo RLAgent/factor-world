@@ -1,0 +1,36 @@
+<body childclass="LACING_SHEEP_base" name="LACING_SHEEP1">
+        <geom class="LACING_SHEEP_col" name="{geom_name}" type="mesh" mesh="model_LACING_SHEEP" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_LACING_SHEEP" mesh="model_LACING_SHEEP" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_LACING_SHEEP" type="mesh" group="3" />
+      <geom mesh="model_collision_1_LACING_SHEEP" type="mesh" group="3" />
+      <geom mesh="model_collision_2_LACING_SHEEP" type="mesh" group="3" />
+      <geom mesh="model_collision_3_LACING_SHEEP" type="mesh" group="3" />
+      <geom mesh="model_collision_4_LACING_SHEEP" type="mesh" group="3" />
+      <geom mesh="model_collision_5_LACING_SHEEP" type="mesh" group="3" />
+      <geom mesh="model_collision_6_LACING_SHEEP" type="mesh" group="3" />
+      <geom mesh="model_collision_7_LACING_SHEEP" type="mesh" group="3" />
+      <geom mesh="model_collision_8_LACING_SHEEP" type="mesh" group="3" />
+      <geom mesh="model_collision_9_LACING_SHEEP" type="mesh" group="3" />
+      <geom mesh="model_collision_10_LACING_SHEEP" type="mesh" group="3" />
+      <geom mesh="model_collision_11_LACING_SHEEP" type="mesh" group="3" />
+      <geom mesh="model_collision_12_LACING_SHEEP" type="mesh" group="3" />
+      <geom mesh="model_collision_13_LACING_SHEEP" type="mesh" group="3" />
+      <geom mesh="model_collision_14_LACING_SHEEP" type="mesh" group="3" />
+      <geom mesh="model_collision_15_LACING_SHEEP" type="mesh" group="3" />
+      <geom mesh="model_collision_16_LACING_SHEEP" type="mesh" group="3" />
+      <geom mesh="model_collision_17_LACING_SHEEP" type="mesh" group="3" />
+      <geom mesh="model_collision_18_LACING_SHEEP" type="mesh" group="3" />
+      <geom mesh="model_collision_19_LACING_SHEEP" type="mesh" group="3" />
+      <geom mesh="model_collision_20_LACING_SHEEP" type="mesh" group="3" />
+      <geom mesh="model_collision_21_LACING_SHEEP" type="mesh" group="3" />
+      <geom mesh="model_collision_22_LACING_SHEEP" type="mesh" group="3" />
+      <geom mesh="model_collision_23_LACING_SHEEP" type="mesh" group="3" />
+      <geom mesh="model_collision_24_LACING_SHEEP" type="mesh" group="3" />
+      <geom mesh="model_collision_25_LACING_SHEEP" type="mesh" group="3" />
+      <geom mesh="model_collision_26_LACING_SHEEP" type="mesh" group="3" />
+      <geom mesh="model_collision_27_LACING_SHEEP" type="mesh" group="3" />
+      <geom mesh="model_collision_28_LACING_SHEEP" type="mesh" group="3" />
+      <geom mesh="model_collision_29_LACING_SHEEP" type="mesh" group="3" />
+      <geom mesh="model_collision_30_LACING_SHEEP" type="mesh" group="3" />
+      <geom mesh="model_collision_31_LACING_SHEEP" type="mesh" group="3" />
+    </body>

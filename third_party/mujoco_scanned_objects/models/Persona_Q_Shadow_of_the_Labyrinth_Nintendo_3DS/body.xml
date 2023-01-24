@@ -1,0 +1,36 @@
+<body childclass="Persona_Q_Shadow_of_the_Labyrinth_Nintendo_3DS_base" name="Persona_Q_Shadow_of_the_Labyrinth_Nintendo_3DS1">
+        <geom class="Persona_Q_Shadow_of_the_Labyrinth_Nintendo_3DS_col" name="{geom_name}" type="mesh" mesh="model_Persona_Q_Shadow_of_the_Labyrinth_Nintendo_3DS" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Persona_Q_Shadow_of_the_Labyrinth_Nintendo_3DS" mesh="model_Persona_Q_Shadow_of_the_Labyrinth_Nintendo_3DS" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Persona_Q_Shadow_of_the_Labyrinth_Nintendo_3DS" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Persona_Q_Shadow_of_the_Labyrinth_Nintendo_3DS" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Persona_Q_Shadow_of_the_Labyrinth_Nintendo_3DS" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Persona_Q_Shadow_of_the_Labyrinth_Nintendo_3DS" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Persona_Q_Shadow_of_the_Labyrinth_Nintendo_3DS" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Persona_Q_Shadow_of_the_Labyrinth_Nintendo_3DS" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Persona_Q_Shadow_of_the_Labyrinth_Nintendo_3DS" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Persona_Q_Shadow_of_the_Labyrinth_Nintendo_3DS" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Persona_Q_Shadow_of_the_Labyrinth_Nintendo_3DS" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Persona_Q_Shadow_of_the_Labyrinth_Nintendo_3DS" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Persona_Q_Shadow_of_the_Labyrinth_Nintendo_3DS" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Persona_Q_Shadow_of_the_Labyrinth_Nintendo_3DS" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Persona_Q_Shadow_of_the_Labyrinth_Nintendo_3DS" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Persona_Q_Shadow_of_the_Labyrinth_Nintendo_3DS" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Persona_Q_Shadow_of_the_Labyrinth_Nintendo_3DS" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Persona_Q_Shadow_of_the_Labyrinth_Nintendo_3DS" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Persona_Q_Shadow_of_the_Labyrinth_Nintendo_3DS" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Persona_Q_Shadow_of_the_Labyrinth_Nintendo_3DS" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Persona_Q_Shadow_of_the_Labyrinth_Nintendo_3DS" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Persona_Q_Shadow_of_the_Labyrinth_Nintendo_3DS" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Persona_Q_Shadow_of_the_Labyrinth_Nintendo_3DS" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Persona_Q_Shadow_of_the_Labyrinth_Nintendo_3DS" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Persona_Q_Shadow_of_the_Labyrinth_Nintendo_3DS" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Persona_Q_Shadow_of_the_Labyrinth_Nintendo_3DS" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Persona_Q_Shadow_of_the_Labyrinth_Nintendo_3DS" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Persona_Q_Shadow_of_the_Labyrinth_Nintendo_3DS" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Persona_Q_Shadow_of_the_Labyrinth_Nintendo_3DS" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Persona_Q_Shadow_of_the_Labyrinth_Nintendo_3DS" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Persona_Q_Shadow_of_the_Labyrinth_Nintendo_3DS" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Persona_Q_Shadow_of_the_Labyrinth_Nintendo_3DS" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Persona_Q_Shadow_of_the_Labyrinth_Nintendo_3DS" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Persona_Q_Shadow_of_the_Labyrinth_Nintendo_3DS" type="mesh" group="3" />
+    </body>

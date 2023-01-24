@@ -1,0 +1,36 @@
+<body childclass="Cole_Hardware_Dishtowel_Multicolors_base" name="Cole_Hardware_Dishtowel_Multicolors1">
+        <geom class="Cole_Hardware_Dishtowel_Multicolors_col" name="{geom_name}" type="mesh" mesh="model_Cole_Hardware_Dishtowel_Multicolors" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Cole_Hardware_Dishtowel_Multicolors" mesh="model_Cole_Hardware_Dishtowel_Multicolors" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Cole_Hardware_Dishtowel_Multicolors" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Cole_Hardware_Dishtowel_Multicolors" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Cole_Hardware_Dishtowel_Multicolors" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Cole_Hardware_Dishtowel_Multicolors" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Cole_Hardware_Dishtowel_Multicolors" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Cole_Hardware_Dishtowel_Multicolors" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Cole_Hardware_Dishtowel_Multicolors" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Cole_Hardware_Dishtowel_Multicolors" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Cole_Hardware_Dishtowel_Multicolors" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Cole_Hardware_Dishtowel_Multicolors" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Cole_Hardware_Dishtowel_Multicolors" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Cole_Hardware_Dishtowel_Multicolors" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Cole_Hardware_Dishtowel_Multicolors" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Cole_Hardware_Dishtowel_Multicolors" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Cole_Hardware_Dishtowel_Multicolors" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Cole_Hardware_Dishtowel_Multicolors" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Cole_Hardware_Dishtowel_Multicolors" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Cole_Hardware_Dishtowel_Multicolors" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Cole_Hardware_Dishtowel_Multicolors" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Cole_Hardware_Dishtowel_Multicolors" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Cole_Hardware_Dishtowel_Multicolors" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Cole_Hardware_Dishtowel_Multicolors" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Cole_Hardware_Dishtowel_Multicolors" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Cole_Hardware_Dishtowel_Multicolors" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Cole_Hardware_Dishtowel_Multicolors" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Cole_Hardware_Dishtowel_Multicolors" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Cole_Hardware_Dishtowel_Multicolors" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Cole_Hardware_Dishtowel_Multicolors" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Cole_Hardware_Dishtowel_Multicolors" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Cole_Hardware_Dishtowel_Multicolors" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Cole_Hardware_Dishtowel_Multicolors" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Cole_Hardware_Dishtowel_Multicolors" type="mesh" group="3" />
+    </body>

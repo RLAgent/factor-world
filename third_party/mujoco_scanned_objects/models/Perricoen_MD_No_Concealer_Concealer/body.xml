@@ -1,0 +1,36 @@
+<body childclass="Perricoen_MD_No_Concealer_Concealer_base" name="Perricoen_MD_No_Concealer_Concealer1">
+        <geom class="Perricoen_MD_No_Concealer_Concealer_col" name="{geom_name}" type="mesh" mesh="model_Perricoen_MD_No_Concealer_Concealer" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Perricoen_MD_No_Concealer_Concealer" mesh="model_Perricoen_MD_No_Concealer_Concealer" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Perricoen_MD_No_Concealer_Concealer" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Perricoen_MD_No_Concealer_Concealer" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Perricoen_MD_No_Concealer_Concealer" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Perricoen_MD_No_Concealer_Concealer" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Perricoen_MD_No_Concealer_Concealer" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Perricoen_MD_No_Concealer_Concealer" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Perricoen_MD_No_Concealer_Concealer" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Perricoen_MD_No_Concealer_Concealer" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Perricoen_MD_No_Concealer_Concealer" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Perricoen_MD_No_Concealer_Concealer" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Perricoen_MD_No_Concealer_Concealer" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Perricoen_MD_No_Concealer_Concealer" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Perricoen_MD_No_Concealer_Concealer" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Perricoen_MD_No_Concealer_Concealer" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Perricoen_MD_No_Concealer_Concealer" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Perricoen_MD_No_Concealer_Concealer" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Perricoen_MD_No_Concealer_Concealer" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Perricoen_MD_No_Concealer_Concealer" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Perricoen_MD_No_Concealer_Concealer" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Perricoen_MD_No_Concealer_Concealer" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Perricoen_MD_No_Concealer_Concealer" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Perricoen_MD_No_Concealer_Concealer" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Perricoen_MD_No_Concealer_Concealer" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Perricoen_MD_No_Concealer_Concealer" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Perricoen_MD_No_Concealer_Concealer" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Perricoen_MD_No_Concealer_Concealer" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Perricoen_MD_No_Concealer_Concealer" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Perricoen_MD_No_Concealer_Concealer" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Perricoen_MD_No_Concealer_Concealer" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Perricoen_MD_No_Concealer_Concealer" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Perricoen_MD_No_Concealer_Concealer" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Perricoen_MD_No_Concealer_Concealer" type="mesh" group="3" />
+    </body>

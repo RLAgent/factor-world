@@ -1,0 +1,36 @@
+<body childclass="3D_Dollhouse_Sink_base" name="3D_Dollhouse_Sink1">
+        <geom class="3D_Dollhouse_Sink_col" name="{geom_name}" type="mesh" mesh="model_3D_Dollhouse_Sink" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_3D_Dollhouse_Sink" mesh="model_3D_Dollhouse_Sink" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_3D_Dollhouse_Sink" type="mesh" group="3" />
+      <geom mesh="model_collision_1_3D_Dollhouse_Sink" type="mesh" group="3" />
+      <geom mesh="model_collision_2_3D_Dollhouse_Sink" type="mesh" group="3" />
+      <geom mesh="model_collision_3_3D_Dollhouse_Sink" type="mesh" group="3" />
+      <geom mesh="model_collision_4_3D_Dollhouse_Sink" type="mesh" group="3" />
+      <geom mesh="model_collision_5_3D_Dollhouse_Sink" type="mesh" group="3" />
+      <geom mesh="model_collision_6_3D_Dollhouse_Sink" type="mesh" group="3" />
+      <geom mesh="model_collision_7_3D_Dollhouse_Sink" type="mesh" group="3" />
+      <geom mesh="model_collision_8_3D_Dollhouse_Sink" type="mesh" group="3" />
+      <geom mesh="model_collision_9_3D_Dollhouse_Sink" type="mesh" group="3" />
+      <geom mesh="model_collision_10_3D_Dollhouse_Sink" type="mesh" group="3" />
+      <geom mesh="model_collision_11_3D_Dollhouse_Sink" type="mesh" group="3" />
+      <geom mesh="model_collision_12_3D_Dollhouse_Sink" type="mesh" group="3" />
+      <geom mesh="model_collision_13_3D_Dollhouse_Sink" type="mesh" group="3" />
+      <geom mesh="model_collision_14_3D_Dollhouse_Sink" type="mesh" group="3" />
+      <geom mesh="model_collision_15_3D_Dollhouse_Sink" type="mesh" group="3" />
+      <geom mesh="model_collision_16_3D_Dollhouse_Sink" type="mesh" group="3" />
+      <geom mesh="model_collision_17_3D_Dollhouse_Sink" type="mesh" group="3" />
+      <geom mesh="model_collision_18_3D_Dollhouse_Sink" type="mesh" group="3" />
+      <geom mesh="model_collision_19_3D_Dollhouse_Sink" type="mesh" group="3" />
+      <geom mesh="model_collision_20_3D_Dollhouse_Sink" type="mesh" group="3" />
+      <geom mesh="model_collision_21_3D_Dollhouse_Sink" type="mesh" group="3" />
+      <geom mesh="model_collision_22_3D_Dollhouse_Sink" type="mesh" group="3" />
+      <geom mesh="model_collision_23_3D_Dollhouse_Sink" type="mesh" group="3" />
+      <geom mesh="model_collision_24_3D_Dollhouse_Sink" type="mesh" group="3" />
+      <geom mesh="model_collision_25_3D_Dollhouse_Sink" type="mesh" group="3" />
+      <geom mesh="model_collision_26_3D_Dollhouse_Sink" type="mesh" group="3" />
+      <geom mesh="model_collision_27_3D_Dollhouse_Sink" type="mesh" group="3" />
+      <geom mesh="model_collision_28_3D_Dollhouse_Sink" type="mesh" group="3" />
+      <geom mesh="model_collision_29_3D_Dollhouse_Sink" type="mesh" group="3" />
+      <geom mesh="model_collision_30_3D_Dollhouse_Sink" type="mesh" group="3" />
+      <geom mesh="model_collision_31_3D_Dollhouse_Sink" type="mesh" group="3" />
+    </body>

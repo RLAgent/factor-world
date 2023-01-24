@@ -1,0 +1,36 @@
+<body childclass="ReadytoUse_Rolled_Fondant_Pure_White_24_oz_box_base" name="ReadytoUse_Rolled_Fondant_Pure_White_24_oz_box1">
+        <geom class="ReadytoUse_Rolled_Fondant_Pure_White_24_oz_box_col" name="{geom_name}" type="mesh" mesh="model_ReadytoUse_Rolled_Fondant_Pure_White_24_oz_box" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_ReadytoUse_Rolled_Fondant_Pure_White_24_oz_box" mesh="model_ReadytoUse_Rolled_Fondant_Pure_White_24_oz_box" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_ReadytoUse_Rolled_Fondant_Pure_White_24_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_1_ReadytoUse_Rolled_Fondant_Pure_White_24_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_2_ReadytoUse_Rolled_Fondant_Pure_White_24_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_3_ReadytoUse_Rolled_Fondant_Pure_White_24_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_4_ReadytoUse_Rolled_Fondant_Pure_White_24_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_5_ReadytoUse_Rolled_Fondant_Pure_White_24_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_6_ReadytoUse_Rolled_Fondant_Pure_White_24_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_7_ReadytoUse_Rolled_Fondant_Pure_White_24_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_8_ReadytoUse_Rolled_Fondant_Pure_White_24_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_9_ReadytoUse_Rolled_Fondant_Pure_White_24_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_10_ReadytoUse_Rolled_Fondant_Pure_White_24_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_11_ReadytoUse_Rolled_Fondant_Pure_White_24_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_12_ReadytoUse_Rolled_Fondant_Pure_White_24_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_13_ReadytoUse_Rolled_Fondant_Pure_White_24_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_14_ReadytoUse_Rolled_Fondant_Pure_White_24_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_15_ReadytoUse_Rolled_Fondant_Pure_White_24_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_16_ReadytoUse_Rolled_Fondant_Pure_White_24_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_17_ReadytoUse_Rolled_Fondant_Pure_White_24_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_18_ReadytoUse_Rolled_Fondant_Pure_White_24_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_19_ReadytoUse_Rolled_Fondant_Pure_White_24_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_20_ReadytoUse_Rolled_Fondant_Pure_White_24_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_21_ReadytoUse_Rolled_Fondant_Pure_White_24_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_22_ReadytoUse_Rolled_Fondant_Pure_White_24_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_23_ReadytoUse_Rolled_Fondant_Pure_White_24_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_24_ReadytoUse_Rolled_Fondant_Pure_White_24_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_25_ReadytoUse_Rolled_Fondant_Pure_White_24_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_26_ReadytoUse_Rolled_Fondant_Pure_White_24_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_27_ReadytoUse_Rolled_Fondant_Pure_White_24_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_28_ReadytoUse_Rolled_Fondant_Pure_White_24_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_29_ReadytoUse_Rolled_Fondant_Pure_White_24_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_30_ReadytoUse_Rolled_Fondant_Pure_White_24_oz_box" type="mesh" group="3" />
+      <geom mesh="model_collision_31_ReadytoUse_Rolled_Fondant_Pure_White_24_oz_box" type="mesh" group="3" />
+    </body>

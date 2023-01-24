@@ -1,0 +1,36 @@
+<body childclass="CoQ10_base" name="CoQ101">
+        <geom class="CoQ10_col" name="{geom_name}" type="mesh" mesh="model_CoQ10" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_CoQ10" mesh="model_CoQ10" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_1_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_2_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_3_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_4_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_5_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_6_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_7_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_8_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_9_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_10_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_11_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_12_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_13_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_14_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_15_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_16_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_17_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_18_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_19_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_20_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_21_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_22_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_23_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_24_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_25_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_26_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_27_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_28_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_29_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_30_CoQ10" type="mesh" group="3" />
+      <geom mesh="model_collision_31_CoQ10" type="mesh" group="3" />
+    </body>

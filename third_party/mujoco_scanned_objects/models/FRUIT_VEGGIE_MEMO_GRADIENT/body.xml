@@ -1,0 +1,36 @@
+<body childclass="FRUIT_VEGGIE_MEMO_GRADIENT_base" name="FRUIT_VEGGIE_MEMO_GRADIENT1">
+        <geom class="FRUIT_VEGGIE_MEMO_GRADIENT_col" name="{geom_name}" type="mesh" mesh="model_FRUIT_VEGGIE_MEMO_GRADIENT" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_FRUIT_VEGGIE_MEMO_GRADIENT" mesh="model_FRUIT_VEGGIE_MEMO_GRADIENT" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_FRUIT_VEGGIE_MEMO_GRADIENT" type="mesh" group="3" />
+      <geom mesh="model_collision_1_FRUIT_VEGGIE_MEMO_GRADIENT" type="mesh" group="3" />
+      <geom mesh="model_collision_2_FRUIT_VEGGIE_MEMO_GRADIENT" type="mesh" group="3" />
+      <geom mesh="model_collision_3_FRUIT_VEGGIE_MEMO_GRADIENT" type="mesh" group="3" />
+      <geom mesh="model_collision_4_FRUIT_VEGGIE_MEMO_GRADIENT" type="mesh" group="3" />
+      <geom mesh="model_collision_5_FRUIT_VEGGIE_MEMO_GRADIENT" type="mesh" group="3" />
+      <geom mesh="model_collision_6_FRUIT_VEGGIE_MEMO_GRADIENT" type="mesh" group="3" />
+      <geom mesh="model_collision_7_FRUIT_VEGGIE_MEMO_GRADIENT" type="mesh" group="3" />
+      <geom mesh="model_collision_8_FRUIT_VEGGIE_MEMO_GRADIENT" type="mesh" group="3" />
+      <geom mesh="model_collision_9_FRUIT_VEGGIE_MEMO_GRADIENT" type="mesh" group="3" />
+      <geom mesh="model_collision_10_FRUIT_VEGGIE_MEMO_GRADIENT" type="mesh" group="3" />
+      <geom mesh="model_collision_11_FRUIT_VEGGIE_MEMO_GRADIENT" type="mesh" group="3" />
+      <geom mesh="model_collision_12_FRUIT_VEGGIE_MEMO_GRADIENT" type="mesh" group="3" />
+      <geom mesh="model_collision_13_FRUIT_VEGGIE_MEMO_GRADIENT" type="mesh" group="3" />
+      <geom mesh="model_collision_14_FRUIT_VEGGIE_MEMO_GRADIENT" type="mesh" group="3" />
+      <geom mesh="model_collision_15_FRUIT_VEGGIE_MEMO_GRADIENT" type="mesh" group="3" />
+      <geom mesh="model_collision_16_FRUIT_VEGGIE_MEMO_GRADIENT" type="mesh" group="3" />
+      <geom mesh="model_collision_17_FRUIT_VEGGIE_MEMO_GRADIENT" type="mesh" group="3" />
+      <geom mesh="model_collision_18_FRUIT_VEGGIE_MEMO_GRADIENT" type="mesh" group="3" />
+      <geom mesh="model_collision_19_FRUIT_VEGGIE_MEMO_GRADIENT" type="mesh" group="3" />
+      <geom mesh="model_collision_20_FRUIT_VEGGIE_MEMO_GRADIENT" type="mesh" group="3" />
+      <geom mesh="model_collision_21_FRUIT_VEGGIE_MEMO_GRADIENT" type="mesh" group="3" />
+      <geom mesh="model_collision_22_FRUIT_VEGGIE_MEMO_GRADIENT" type="mesh" group="3" />
+      <geom mesh="model_collision_23_FRUIT_VEGGIE_MEMO_GRADIENT" type="mesh" group="3" />
+      <geom mesh="model_collision_24_FRUIT_VEGGIE_MEMO_GRADIENT" type="mesh" group="3" />
+      <geom mesh="model_collision_25_FRUIT_VEGGIE_MEMO_GRADIENT" type="mesh" group="3" />
+      <geom mesh="model_collision_26_FRUIT_VEGGIE_MEMO_GRADIENT" type="mesh" group="3" />
+      <geom mesh="model_collision_27_FRUIT_VEGGIE_MEMO_GRADIENT" type="mesh" group="3" />
+      <geom mesh="model_collision_28_FRUIT_VEGGIE_MEMO_GRADIENT" type="mesh" group="3" />
+      <geom mesh="model_collision_29_FRUIT_VEGGIE_MEMO_GRADIENT" type="mesh" group="3" />
+      <geom mesh="model_collision_30_FRUIT_VEGGIE_MEMO_GRADIENT" type="mesh" group="3" />
+      <geom mesh="model_collision_31_FRUIT_VEGGIE_MEMO_GRADIENT" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="GRANDFATHER_DOLL_base" name="GRANDFATHER_DOLL1">
+        <geom class="GRANDFATHER_DOLL_col" name="{geom_name}" type="mesh" mesh="model_GRANDFATHER_DOLL" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_GRANDFATHER_DOLL" mesh="model_GRANDFATHER_DOLL" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_GRANDFATHER_DOLL" type="mesh" group="3" />
+      <geom mesh="model_collision_1_GRANDFATHER_DOLL" type="mesh" group="3" />
+      <geom mesh="model_collision_2_GRANDFATHER_DOLL" type="mesh" group="3" />
+      <geom mesh="model_collision_3_GRANDFATHER_DOLL" type="mesh" group="3" />
+      <geom mesh="model_collision_4_GRANDFATHER_DOLL" type="mesh" group="3" />
+      <geom mesh="model_collision_5_GRANDFATHER_DOLL" type="mesh" group="3" />
+      <geom mesh="model_collision_6_GRANDFATHER_DOLL" type="mesh" group="3" />
+      <geom mesh="model_collision_7_GRANDFATHER_DOLL" type="mesh" group="3" />
+      <geom mesh="model_collision_8_GRANDFATHER_DOLL" type="mesh" group="3" />
+      <geom mesh="model_collision_9_GRANDFATHER_DOLL" type="mesh" group="3" />
+      <geom mesh="model_collision_10_GRANDFATHER_DOLL" type="mesh" group="3" />
+      <geom mesh="model_collision_11_GRANDFATHER_DOLL" type="mesh" group="3" />
+      <geom mesh="model_collision_12_GRANDFATHER_DOLL" type="mesh" group="3" />
+      <geom mesh="model_collision_13_GRANDFATHER_DOLL" type="mesh" group="3" />
+      <geom mesh="model_collision_14_GRANDFATHER_DOLL" type="mesh" group="3" />
+      <geom mesh="model_collision_15_GRANDFATHER_DOLL" type="mesh" group="3" />
+      <geom mesh="model_collision_16_GRANDFATHER_DOLL" type="mesh" group="3" />
+      <geom mesh="model_collision_17_GRANDFATHER_DOLL" type="mesh" group="3" />
+      <geom mesh="model_collision_18_GRANDFATHER_DOLL" type="mesh" group="3" />
+      <geom mesh="model_collision_19_GRANDFATHER_DOLL" type="mesh" group="3" />
+      <geom mesh="model_collision_20_GRANDFATHER_DOLL" type="mesh" group="3" />
+      <geom mesh="model_collision_21_GRANDFATHER_DOLL" type="mesh" group="3" />
+      <geom mesh="model_collision_22_GRANDFATHER_DOLL" type="mesh" group="3" />
+      <geom mesh="model_collision_23_GRANDFATHER_DOLL" type="mesh" group="3" />
+      <geom mesh="model_collision_24_GRANDFATHER_DOLL" type="mesh" group="3" />
+      <geom mesh="model_collision_25_GRANDFATHER_DOLL" type="mesh" group="3" />
+      <geom mesh="model_collision_26_GRANDFATHER_DOLL" type="mesh" group="3" />
+      <geom mesh="model_collision_27_GRANDFATHER_DOLL" type="mesh" group="3" />
+      <geom mesh="model_collision_28_GRANDFATHER_DOLL" type="mesh" group="3" />
+      <geom mesh="model_collision_29_GRANDFATHER_DOLL" type="mesh" group="3" />
+      <geom mesh="model_collision_30_GRANDFATHER_DOLL" type="mesh" group="3" />
+      <geom mesh="model_collision_31_GRANDFATHER_DOLL" type="mesh" group="3" />
+    </body>

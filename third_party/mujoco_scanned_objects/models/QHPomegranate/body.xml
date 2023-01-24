@@ -1,0 +1,36 @@
+<body childclass="QHPomegranate_base" name="QHPomegranate1">
+        <geom class="QHPomegranate_col" name="{geom_name}" type="mesh" mesh="model_QHPomegranate" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_QHPomegranate" mesh="model_QHPomegranate" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_QHPomegranate" type="mesh" group="3" />
+      <geom mesh="model_collision_1_QHPomegranate" type="mesh" group="3" />
+      <geom mesh="model_collision_2_QHPomegranate" type="mesh" group="3" />
+      <geom mesh="model_collision_3_QHPomegranate" type="mesh" group="3" />
+      <geom mesh="model_collision_4_QHPomegranate" type="mesh" group="3" />
+      <geom mesh="model_collision_5_QHPomegranate" type="mesh" group="3" />
+      <geom mesh="model_collision_6_QHPomegranate" type="mesh" group="3" />
+      <geom mesh="model_collision_7_QHPomegranate" type="mesh" group="3" />
+      <geom mesh="model_collision_8_QHPomegranate" type="mesh" group="3" />
+      <geom mesh="model_collision_9_QHPomegranate" type="mesh" group="3" />
+      <geom mesh="model_collision_10_QHPomegranate" type="mesh" group="3" />
+      <geom mesh="model_collision_11_QHPomegranate" type="mesh" group="3" />
+      <geom mesh="model_collision_12_QHPomegranate" type="mesh" group="3" />
+      <geom mesh="model_collision_13_QHPomegranate" type="mesh" group="3" />
+      <geom mesh="model_collision_14_QHPomegranate" type="mesh" group="3" />
+      <geom mesh="model_collision_15_QHPomegranate" type="mesh" group="3" />
+      <geom mesh="model_collision_16_QHPomegranate" type="mesh" group="3" />
+      <geom mesh="model_collision_17_QHPomegranate" type="mesh" group="3" />
+      <geom mesh="model_collision_18_QHPomegranate" type="mesh" group="3" />
+      <geom mesh="model_collision_19_QHPomegranate" type="mesh" group="3" />
+      <geom mesh="model_collision_20_QHPomegranate" type="mesh" group="3" />
+      <geom mesh="model_collision_21_QHPomegranate" type="mesh" group="3" />
+      <geom mesh="model_collision_22_QHPomegranate" type="mesh" group="3" />
+      <geom mesh="model_collision_23_QHPomegranate" type="mesh" group="3" />
+      <geom mesh="model_collision_24_QHPomegranate" type="mesh" group="3" />
+      <geom mesh="model_collision_25_QHPomegranate" type="mesh" group="3" />
+      <geom mesh="model_collision_26_QHPomegranate" type="mesh" group="3" />
+      <geom mesh="model_collision_27_QHPomegranate" type="mesh" group="3" />
+      <geom mesh="model_collision_28_QHPomegranate" type="mesh" group="3" />
+      <geom mesh="model_collision_29_QHPomegranate" type="mesh" group="3" />
+      <geom mesh="model_collision_30_QHPomegranate" type="mesh" group="3" />
+      <geom mesh="model_collision_31_QHPomegranate" type="mesh" group="3" />
+    </body>

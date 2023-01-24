@@ -1,0 +1,36 @@
+<body childclass="BRAILLE_ALPHABET_AZ_base" name="BRAILLE_ALPHABET_AZ1">
+        <geom class="BRAILLE_ALPHABET_AZ_col" name="{geom_name}" type="mesh" mesh="model_BRAILLE_ALPHABET_AZ" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_BRAILLE_ALPHABET_AZ" mesh="model_BRAILLE_ALPHABET_AZ" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_BRAILLE_ALPHABET_AZ" type="mesh" group="3" />
+      <geom mesh="model_collision_1_BRAILLE_ALPHABET_AZ" type="mesh" group="3" />
+      <geom mesh="model_collision_2_BRAILLE_ALPHABET_AZ" type="mesh" group="3" />
+      <geom mesh="model_collision_3_BRAILLE_ALPHABET_AZ" type="mesh" group="3" />
+      <geom mesh="model_collision_4_BRAILLE_ALPHABET_AZ" type="mesh" group="3" />
+      <geom mesh="model_collision_5_BRAILLE_ALPHABET_AZ" type="mesh" group="3" />
+      <geom mesh="model_collision_6_BRAILLE_ALPHABET_AZ" type="mesh" group="3" />
+      <geom mesh="model_collision_7_BRAILLE_ALPHABET_AZ" type="mesh" group="3" />
+      <geom mesh="model_collision_8_BRAILLE_ALPHABET_AZ" type="mesh" group="3" />
+      <geom mesh="model_collision_9_BRAILLE_ALPHABET_AZ" type="mesh" group="3" />
+      <geom mesh="model_collision_10_BRAILLE_ALPHABET_AZ" type="mesh" group="3" />
+      <geom mesh="model_collision_11_BRAILLE_ALPHABET_AZ" type="mesh" group="3" />
+      <geom mesh="model_collision_12_BRAILLE_ALPHABET_AZ" type="mesh" group="3" />
+      <geom mesh="model_collision_13_BRAILLE_ALPHABET_AZ" type="mesh" group="3" />
+      <geom mesh="model_collision_14_BRAILLE_ALPHABET_AZ" type="mesh" group="3" />
+      <geom mesh="model_collision_15_BRAILLE_ALPHABET_AZ" type="mesh" group="3" />
+      <geom mesh="model_collision_16_BRAILLE_ALPHABET_AZ" type="mesh" group="3" />
+      <geom mesh="model_collision_17_BRAILLE_ALPHABET_AZ" type="mesh" group="3" />
+      <geom mesh="model_collision_18_BRAILLE_ALPHABET_AZ" type="mesh" group="3" />
+      <geom mesh="model_collision_19_BRAILLE_ALPHABET_AZ" type="mesh" group="3" />
+      <geom mesh="model_collision_20_BRAILLE_ALPHABET_AZ" type="mesh" group="3" />
+      <geom mesh="model_collision_21_BRAILLE_ALPHABET_AZ" type="mesh" group="3" />
+      <geom mesh="model_collision_22_BRAILLE_ALPHABET_AZ" type="mesh" group="3" />
+      <geom mesh="model_collision_23_BRAILLE_ALPHABET_AZ" type="mesh" group="3" />
+      <geom mesh="model_collision_24_BRAILLE_ALPHABET_AZ" type="mesh" group="3" />
+      <geom mesh="model_collision_25_BRAILLE_ALPHABET_AZ" type="mesh" group="3" />
+      <geom mesh="model_collision_26_BRAILLE_ALPHABET_AZ" type="mesh" group="3" />
+      <geom mesh="model_collision_27_BRAILLE_ALPHABET_AZ" type="mesh" group="3" />
+      <geom mesh="model_collision_28_BRAILLE_ALPHABET_AZ" type="mesh" group="3" />
+      <geom mesh="model_collision_29_BRAILLE_ALPHABET_AZ" type="mesh" group="3" />
+      <geom mesh="model_collision_30_BRAILLE_ALPHABET_AZ" type="mesh" group="3" />
+      <geom mesh="model_collision_31_BRAILLE_ALPHABET_AZ" type="mesh" group="3" />
+    </body>

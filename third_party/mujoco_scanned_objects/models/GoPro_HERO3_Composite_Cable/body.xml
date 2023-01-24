@@ -1,0 +1,36 @@
+<body childclass="GoPro_HERO3_Composite_Cable_base" name="GoPro_HERO3_Composite_Cable1">
+        <geom class="GoPro_HERO3_Composite_Cable_col" name="{geom_name}" type="mesh" mesh="model_GoPro_HERO3_Composite_Cable" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_GoPro_HERO3_Composite_Cable" mesh="model_GoPro_HERO3_Composite_Cable" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_GoPro_HERO3_Composite_Cable" type="mesh" group="3" />
+      <geom mesh="model_collision_1_GoPro_HERO3_Composite_Cable" type="mesh" group="3" />
+      <geom mesh="model_collision_2_GoPro_HERO3_Composite_Cable" type="mesh" group="3" />
+      <geom mesh="model_collision_3_GoPro_HERO3_Composite_Cable" type="mesh" group="3" />
+      <geom mesh="model_collision_4_GoPro_HERO3_Composite_Cable" type="mesh" group="3" />
+      <geom mesh="model_collision_5_GoPro_HERO3_Composite_Cable" type="mesh" group="3" />
+      <geom mesh="model_collision_6_GoPro_HERO3_Composite_Cable" type="mesh" group="3" />
+      <geom mesh="model_collision_7_GoPro_HERO3_Composite_Cable" type="mesh" group="3" />
+      <geom mesh="model_collision_8_GoPro_HERO3_Composite_Cable" type="mesh" group="3" />
+      <geom mesh="model_collision_9_GoPro_HERO3_Composite_Cable" type="mesh" group="3" />
+      <geom mesh="model_collision_10_GoPro_HERO3_Composite_Cable" type="mesh" group="3" />
+      <geom mesh="model_collision_11_GoPro_HERO3_Composite_Cable" type="mesh" group="3" />
+      <geom mesh="model_collision_12_GoPro_HERO3_Composite_Cable" type="mesh" group="3" />
+      <geom mesh="model_collision_13_GoPro_HERO3_Composite_Cable" type="mesh" group="3" />
+      <geom mesh="model_collision_14_GoPro_HERO3_Composite_Cable" type="mesh" group="3" />
+      <geom mesh="model_collision_15_GoPro_HERO3_Composite_Cable" type="mesh" group="3" />
+      <geom mesh="model_collision_16_GoPro_HERO3_Composite_Cable" type="mesh" group="3" />
+      <geom mesh="model_collision_17_GoPro_HERO3_Composite_Cable" type="mesh" group="3" />
+      <geom mesh="model_collision_18_GoPro_HERO3_Composite_Cable" type="mesh" group="3" />
+      <geom mesh="model_collision_19_GoPro_HERO3_Composite_Cable" type="mesh" group="3" />
+      <geom mesh="model_collision_20_GoPro_HERO3_Composite_Cable" type="mesh" group="3" />
+      <geom mesh="model_collision_21_GoPro_HERO3_Composite_Cable" type="mesh" group="3" />
+      <geom mesh="model_collision_22_GoPro_HERO3_Composite_Cable" type="mesh" group="3" />
+      <geom mesh="model_collision_23_GoPro_HERO3_Composite_Cable" type="mesh" group="3" />
+      <geom mesh="model_collision_24_GoPro_HERO3_Composite_Cable" type="mesh" group="3" />
+      <geom mesh="model_collision_25_GoPro_HERO3_Composite_Cable" type="mesh" group="3" />
+      <geom mesh="model_collision_26_GoPro_HERO3_Composite_Cable" type="mesh" group="3" />
+      <geom mesh="model_collision_27_GoPro_HERO3_Composite_Cable" type="mesh" group="3" />
+      <geom mesh="model_collision_28_GoPro_HERO3_Composite_Cable" type="mesh" group="3" />
+      <geom mesh="model_collision_29_GoPro_HERO3_Composite_Cable" type="mesh" group="3" />
+      <geom mesh="model_collision_30_GoPro_HERO3_Composite_Cable" type="mesh" group="3" />
+      <geom mesh="model_collision_31_GoPro_HERO3_Composite_Cable" type="mesh" group="3" />
+    </body>

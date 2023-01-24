@@ -1,0 +1,36 @@
+<body childclass="Spritz_Easter_Basket_Plastic_Teal_base" name="Spritz_Easter_Basket_Plastic_Teal1">
+        <geom class="Spritz_Easter_Basket_Plastic_Teal_col" name="{geom_name}" type="mesh" mesh="model_Spritz_Easter_Basket_Plastic_Teal" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Spritz_Easter_Basket_Plastic_Teal" mesh="model_Spritz_Easter_Basket_Plastic_Teal" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Spritz_Easter_Basket_Plastic_Teal" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Spritz_Easter_Basket_Plastic_Teal" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Spritz_Easter_Basket_Plastic_Teal" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Spritz_Easter_Basket_Plastic_Teal" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Spritz_Easter_Basket_Plastic_Teal" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Spritz_Easter_Basket_Plastic_Teal" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Spritz_Easter_Basket_Plastic_Teal" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Spritz_Easter_Basket_Plastic_Teal" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Spritz_Easter_Basket_Plastic_Teal" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Spritz_Easter_Basket_Plastic_Teal" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Spritz_Easter_Basket_Plastic_Teal" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Spritz_Easter_Basket_Plastic_Teal" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Spritz_Easter_Basket_Plastic_Teal" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Spritz_Easter_Basket_Plastic_Teal" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Spritz_Easter_Basket_Plastic_Teal" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Spritz_Easter_Basket_Plastic_Teal" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Spritz_Easter_Basket_Plastic_Teal" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Spritz_Easter_Basket_Plastic_Teal" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Spritz_Easter_Basket_Plastic_Teal" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Spritz_Easter_Basket_Plastic_Teal" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Spritz_Easter_Basket_Plastic_Teal" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Spritz_Easter_Basket_Plastic_Teal" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Spritz_Easter_Basket_Plastic_Teal" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Spritz_Easter_Basket_Plastic_Teal" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Spritz_Easter_Basket_Plastic_Teal" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Spritz_Easter_Basket_Plastic_Teal" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Spritz_Easter_Basket_Plastic_Teal" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Spritz_Easter_Basket_Plastic_Teal" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Spritz_Easter_Basket_Plastic_Teal" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Spritz_Easter_Basket_Plastic_Teal" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Spritz_Easter_Basket_Plastic_Teal" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Spritz_Easter_Basket_Plastic_Teal" type="mesh" group="3" />
+    </body>

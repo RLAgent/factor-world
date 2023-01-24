@@ -1,0 +1,36 @@
+<body childclass="Blackcurrant_Lutein_base" name="Blackcurrant_Lutein1">
+        <geom class="Blackcurrant_Lutein_col" name="{geom_name}" type="mesh" mesh="model_Blackcurrant_Lutein" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Blackcurrant_Lutein" mesh="model_Blackcurrant_Lutein" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Blackcurrant_Lutein" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Blackcurrant_Lutein" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Blackcurrant_Lutein" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Blackcurrant_Lutein" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Blackcurrant_Lutein" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Blackcurrant_Lutein" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Blackcurrant_Lutein" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Blackcurrant_Lutein" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Blackcurrant_Lutein" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Blackcurrant_Lutein" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Blackcurrant_Lutein" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Blackcurrant_Lutein" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Blackcurrant_Lutein" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Blackcurrant_Lutein" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Blackcurrant_Lutein" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Blackcurrant_Lutein" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Blackcurrant_Lutein" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Blackcurrant_Lutein" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Blackcurrant_Lutein" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Blackcurrant_Lutein" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Blackcurrant_Lutein" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Blackcurrant_Lutein" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Blackcurrant_Lutein" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Blackcurrant_Lutein" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Blackcurrant_Lutein" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Blackcurrant_Lutein" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Blackcurrant_Lutein" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Blackcurrant_Lutein" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Blackcurrant_Lutein" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Blackcurrant_Lutein" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Blackcurrant_Lutein" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Blackcurrant_Lutein" type="mesh" group="3" />
+    </body>

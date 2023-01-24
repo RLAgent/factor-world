@@ -1,0 +1,36 @@
+<body childclass="Android_Lego_base" name="Android_Lego1">
+        <geom class="Android_Lego_col" name="{geom_name}" type="mesh" mesh="model_Android_Lego" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Android_Lego" mesh="model_Android_Lego" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Android_Lego" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Android_Lego" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Android_Lego" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Android_Lego" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Android_Lego" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Android_Lego" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Android_Lego" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Android_Lego" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Android_Lego" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Android_Lego" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Android_Lego" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Android_Lego" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Android_Lego" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Android_Lego" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Android_Lego" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Android_Lego" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Android_Lego" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Android_Lego" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Android_Lego" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Android_Lego" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Android_Lego" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Android_Lego" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Android_Lego" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Android_Lego" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Android_Lego" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Android_Lego" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Android_Lego" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Android_Lego" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Android_Lego" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Android_Lego" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Android_Lego" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Android_Lego" type="mesh" group="3" />
+    </body>

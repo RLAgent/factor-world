@@ -1,0 +1,36 @@
+<body childclass="Kid_Icarus_Uprising_Nintendo_3DS_Game_base" name="Kid_Icarus_Uprising_Nintendo_3DS_Game1">
+        <geom class="Kid_Icarus_Uprising_Nintendo_3DS_Game_col" name="{geom_name}" type="mesh" mesh="model_Kid_Icarus_Uprising_Nintendo_3DS_Game" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Kid_Icarus_Uprising_Nintendo_3DS_Game" mesh="model_Kid_Icarus_Uprising_Nintendo_3DS_Game" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Kid_Icarus_Uprising_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Kid_Icarus_Uprising_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Kid_Icarus_Uprising_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Kid_Icarus_Uprising_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Kid_Icarus_Uprising_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Kid_Icarus_Uprising_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Kid_Icarus_Uprising_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Kid_Icarus_Uprising_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Kid_Icarus_Uprising_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Kid_Icarus_Uprising_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Kid_Icarus_Uprising_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Kid_Icarus_Uprising_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Kid_Icarus_Uprising_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Kid_Icarus_Uprising_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Kid_Icarus_Uprising_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Kid_Icarus_Uprising_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Kid_Icarus_Uprising_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Kid_Icarus_Uprising_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Kid_Icarus_Uprising_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Kid_Icarus_Uprising_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Kid_Icarus_Uprising_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Kid_Icarus_Uprising_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Kid_Icarus_Uprising_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Kid_Icarus_Uprising_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Kid_Icarus_Uprising_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Kid_Icarus_Uprising_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Kid_Icarus_Uprising_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Kid_Icarus_Uprising_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Kid_Icarus_Uprising_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Kid_Icarus_Uprising_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Kid_Icarus_Uprising_Nintendo_3DS_Game" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Kid_Icarus_Uprising_Nintendo_3DS_Game" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="Neat_Solutions_Character_Bib_2_pack_base" name="Neat_Solutions_Character_Bib_2_pack1">
+        <geom class="Neat_Solutions_Character_Bib_2_pack_col" name="{geom_name}" type="mesh" mesh="model_Neat_Solutions_Character_Bib_2_pack" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Neat_Solutions_Character_Bib_2_pack" mesh="model_Neat_Solutions_Character_Bib_2_pack" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Neat_Solutions_Character_Bib_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Neat_Solutions_Character_Bib_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Neat_Solutions_Character_Bib_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Neat_Solutions_Character_Bib_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Neat_Solutions_Character_Bib_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Neat_Solutions_Character_Bib_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Neat_Solutions_Character_Bib_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Neat_Solutions_Character_Bib_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Neat_Solutions_Character_Bib_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Neat_Solutions_Character_Bib_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Neat_Solutions_Character_Bib_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Neat_Solutions_Character_Bib_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Neat_Solutions_Character_Bib_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Neat_Solutions_Character_Bib_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Neat_Solutions_Character_Bib_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Neat_Solutions_Character_Bib_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Neat_Solutions_Character_Bib_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Neat_Solutions_Character_Bib_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Neat_Solutions_Character_Bib_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Neat_Solutions_Character_Bib_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Neat_Solutions_Character_Bib_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Neat_Solutions_Character_Bib_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Neat_Solutions_Character_Bib_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Neat_Solutions_Character_Bib_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Neat_Solutions_Character_Bib_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Neat_Solutions_Character_Bib_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Neat_Solutions_Character_Bib_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Neat_Solutions_Character_Bib_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Neat_Solutions_Character_Bib_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Neat_Solutions_Character_Bib_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Neat_Solutions_Character_Bib_2_pack" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Neat_Solutions_Character_Bib_2_pack" type="mesh" group="3" />
+    </body>

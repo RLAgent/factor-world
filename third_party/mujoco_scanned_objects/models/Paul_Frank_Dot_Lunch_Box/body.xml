@@ -1,0 +1,36 @@
+<body childclass="Paul_Frank_Dot_Lunch_Box_base" name="Paul_Frank_Dot_Lunch_Box1">
+        <geom class="Paul_Frank_Dot_Lunch_Box_col" name="{geom_name}" type="mesh" mesh="model_Paul_Frank_Dot_Lunch_Box" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Paul_Frank_Dot_Lunch_Box" mesh="model_Paul_Frank_Dot_Lunch_Box" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Paul_Frank_Dot_Lunch_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Paul_Frank_Dot_Lunch_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Paul_Frank_Dot_Lunch_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Paul_Frank_Dot_Lunch_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Paul_Frank_Dot_Lunch_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Paul_Frank_Dot_Lunch_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Paul_Frank_Dot_Lunch_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Paul_Frank_Dot_Lunch_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Paul_Frank_Dot_Lunch_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Paul_Frank_Dot_Lunch_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Paul_Frank_Dot_Lunch_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Paul_Frank_Dot_Lunch_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Paul_Frank_Dot_Lunch_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Paul_Frank_Dot_Lunch_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Paul_Frank_Dot_Lunch_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Paul_Frank_Dot_Lunch_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Paul_Frank_Dot_Lunch_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Paul_Frank_Dot_Lunch_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Paul_Frank_Dot_Lunch_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Paul_Frank_Dot_Lunch_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Paul_Frank_Dot_Lunch_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Paul_Frank_Dot_Lunch_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Paul_Frank_Dot_Lunch_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Paul_Frank_Dot_Lunch_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Paul_Frank_Dot_Lunch_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Paul_Frank_Dot_Lunch_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Paul_Frank_Dot_Lunch_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Paul_Frank_Dot_Lunch_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Paul_Frank_Dot_Lunch_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Paul_Frank_Dot_Lunch_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Paul_Frank_Dot_Lunch_Box" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Paul_Frank_Dot_Lunch_Box" type="mesh" group="3" />
+    </body>

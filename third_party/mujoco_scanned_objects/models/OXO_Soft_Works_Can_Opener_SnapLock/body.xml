@@ -1,0 +1,36 @@
+<body childclass="OXO_Soft_Works_Can_Opener_SnapLock_base" name="OXO_Soft_Works_Can_Opener_SnapLock1">
+        <geom class="OXO_Soft_Works_Can_Opener_SnapLock_col" name="{geom_name}" type="mesh" mesh="model_OXO_Soft_Works_Can_Opener_SnapLock" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_OXO_Soft_Works_Can_Opener_SnapLock" mesh="model_OXO_Soft_Works_Can_Opener_SnapLock" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_OXO_Soft_Works_Can_Opener_SnapLock" type="mesh" group="3" />
+      <geom mesh="model_collision_1_OXO_Soft_Works_Can_Opener_SnapLock" type="mesh" group="3" />
+      <geom mesh="model_collision_2_OXO_Soft_Works_Can_Opener_SnapLock" type="mesh" group="3" />
+      <geom mesh="model_collision_3_OXO_Soft_Works_Can_Opener_SnapLock" type="mesh" group="3" />
+      <geom mesh="model_collision_4_OXO_Soft_Works_Can_Opener_SnapLock" type="mesh" group="3" />
+      <geom mesh="model_collision_5_OXO_Soft_Works_Can_Opener_SnapLock" type="mesh" group="3" />
+      <geom mesh="model_collision_6_OXO_Soft_Works_Can_Opener_SnapLock" type="mesh" group="3" />
+      <geom mesh="model_collision_7_OXO_Soft_Works_Can_Opener_SnapLock" type="mesh" group="3" />
+      <geom mesh="model_collision_8_OXO_Soft_Works_Can_Opener_SnapLock" type="mesh" group="3" />
+      <geom mesh="model_collision_9_OXO_Soft_Works_Can_Opener_SnapLock" type="mesh" group="3" />
+      <geom mesh="model_collision_10_OXO_Soft_Works_Can_Opener_SnapLock" type="mesh" group="3" />
+      <geom mesh="model_collision_11_OXO_Soft_Works_Can_Opener_SnapLock" type="mesh" group="3" />
+      <geom mesh="model_collision_12_OXO_Soft_Works_Can_Opener_SnapLock" type="mesh" group="3" />
+      <geom mesh="model_collision_13_OXO_Soft_Works_Can_Opener_SnapLock" type="mesh" group="3" />
+      <geom mesh="model_collision_14_OXO_Soft_Works_Can_Opener_SnapLock" type="mesh" group="3" />
+      <geom mesh="model_collision_15_OXO_Soft_Works_Can_Opener_SnapLock" type="mesh" group="3" />
+      <geom mesh="model_collision_16_OXO_Soft_Works_Can_Opener_SnapLock" type="mesh" group="3" />
+      <geom mesh="model_collision_17_OXO_Soft_Works_Can_Opener_SnapLock" type="mesh" group="3" />
+      <geom mesh="model_collision_18_OXO_Soft_Works_Can_Opener_SnapLock" type="mesh" group="3" />
+      <geom mesh="model_collision_19_OXO_Soft_Works_Can_Opener_SnapLock" type="mesh" group="3" />
+      <geom mesh="model_collision_20_OXO_Soft_Works_Can_Opener_SnapLock" type="mesh" group="3" />
+      <geom mesh="model_collision_21_OXO_Soft_Works_Can_Opener_SnapLock" type="mesh" group="3" />
+      <geom mesh="model_collision_22_OXO_Soft_Works_Can_Opener_SnapLock" type="mesh" group="3" />
+      <geom mesh="model_collision_23_OXO_Soft_Works_Can_Opener_SnapLock" type="mesh" group="3" />
+      <geom mesh="model_collision_24_OXO_Soft_Works_Can_Opener_SnapLock" type="mesh" group="3" />
+      <geom mesh="model_collision_25_OXO_Soft_Works_Can_Opener_SnapLock" type="mesh" group="3" />
+      <geom mesh="model_collision_26_OXO_Soft_Works_Can_Opener_SnapLock" type="mesh" group="3" />
+      <geom mesh="model_collision_27_OXO_Soft_Works_Can_Opener_SnapLock" type="mesh" group="3" />
+      <geom mesh="model_collision_28_OXO_Soft_Works_Can_Opener_SnapLock" type="mesh" group="3" />
+      <geom mesh="model_collision_29_OXO_Soft_Works_Can_Opener_SnapLock" type="mesh" group="3" />
+      <geom mesh="model_collision_30_OXO_Soft_Works_Can_Opener_SnapLock" type="mesh" group="3" />
+      <geom mesh="model_collision_31_OXO_Soft_Works_Can_Opener_SnapLock" type="mesh" group="3" />
+    </body>

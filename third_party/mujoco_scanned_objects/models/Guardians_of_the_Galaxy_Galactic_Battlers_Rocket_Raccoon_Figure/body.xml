@@ -1,0 +1,36 @@
+<body childclass="Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure_base" name="Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure1">
+        <geom class="Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure_col" name="{geom_name}" type="mesh" mesh="model_Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure" mesh="model_Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure" type="mesh" group="3" />
+    </body>

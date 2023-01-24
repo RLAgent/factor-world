@@ -1,0 +1,36 @@
+<body childclass="Rexy_Glove_Heavy_Duty_Gloves_Medium_base" name="Rexy_Glove_Heavy_Duty_Gloves_Medium1">
+        <geom class="Rexy_Glove_Heavy_Duty_Gloves_Medium_col" name="{geom_name}" type="mesh" mesh="model_Rexy_Glove_Heavy_Duty_Gloves_Medium" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Rexy_Glove_Heavy_Duty_Gloves_Medium" mesh="model_Rexy_Glove_Heavy_Duty_Gloves_Medium" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Rexy_Glove_Heavy_Duty_Gloves_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Rexy_Glove_Heavy_Duty_Gloves_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Rexy_Glove_Heavy_Duty_Gloves_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Rexy_Glove_Heavy_Duty_Gloves_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Rexy_Glove_Heavy_Duty_Gloves_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Rexy_Glove_Heavy_Duty_Gloves_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Rexy_Glove_Heavy_Duty_Gloves_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Rexy_Glove_Heavy_Duty_Gloves_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Rexy_Glove_Heavy_Duty_Gloves_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Rexy_Glove_Heavy_Duty_Gloves_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Rexy_Glove_Heavy_Duty_Gloves_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Rexy_Glove_Heavy_Duty_Gloves_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Rexy_Glove_Heavy_Duty_Gloves_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Rexy_Glove_Heavy_Duty_Gloves_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Rexy_Glove_Heavy_Duty_Gloves_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Rexy_Glove_Heavy_Duty_Gloves_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Rexy_Glove_Heavy_Duty_Gloves_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Rexy_Glove_Heavy_Duty_Gloves_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Rexy_Glove_Heavy_Duty_Gloves_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Rexy_Glove_Heavy_Duty_Gloves_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Rexy_Glove_Heavy_Duty_Gloves_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Rexy_Glove_Heavy_Duty_Gloves_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Rexy_Glove_Heavy_Duty_Gloves_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Rexy_Glove_Heavy_Duty_Gloves_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Rexy_Glove_Heavy_Duty_Gloves_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Rexy_Glove_Heavy_Duty_Gloves_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Rexy_Glove_Heavy_Duty_Gloves_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Rexy_Glove_Heavy_Duty_Gloves_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Rexy_Glove_Heavy_Duty_Gloves_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Rexy_Glove_Heavy_Duty_Gloves_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Rexy_Glove_Heavy_Duty_Gloves_Medium" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Rexy_Glove_Heavy_Duty_Gloves_Medium" type="mesh" group="3" />
+    </body>

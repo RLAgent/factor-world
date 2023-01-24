@@ -1,0 +1,36 @@
+<body childclass="Wrigley_Orbit_Mint_Variety_18_Count_base" name="Wrigley_Orbit_Mint_Variety_18_Count1">
+        <geom class="Wrigley_Orbit_Mint_Variety_18_Count_col" name="{geom_name}" type="mesh" mesh="model_Wrigley_Orbit_Mint_Variety_18_Count" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Wrigley_Orbit_Mint_Variety_18_Count" mesh="model_Wrigley_Orbit_Mint_Variety_18_Count" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Wrigley_Orbit_Mint_Variety_18_Count" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Wrigley_Orbit_Mint_Variety_18_Count" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Wrigley_Orbit_Mint_Variety_18_Count" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Wrigley_Orbit_Mint_Variety_18_Count" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Wrigley_Orbit_Mint_Variety_18_Count" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Wrigley_Orbit_Mint_Variety_18_Count" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Wrigley_Orbit_Mint_Variety_18_Count" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Wrigley_Orbit_Mint_Variety_18_Count" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Wrigley_Orbit_Mint_Variety_18_Count" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Wrigley_Orbit_Mint_Variety_18_Count" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Wrigley_Orbit_Mint_Variety_18_Count" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Wrigley_Orbit_Mint_Variety_18_Count" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Wrigley_Orbit_Mint_Variety_18_Count" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Wrigley_Orbit_Mint_Variety_18_Count" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Wrigley_Orbit_Mint_Variety_18_Count" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Wrigley_Orbit_Mint_Variety_18_Count" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Wrigley_Orbit_Mint_Variety_18_Count" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Wrigley_Orbit_Mint_Variety_18_Count" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Wrigley_Orbit_Mint_Variety_18_Count" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Wrigley_Orbit_Mint_Variety_18_Count" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Wrigley_Orbit_Mint_Variety_18_Count" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Wrigley_Orbit_Mint_Variety_18_Count" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Wrigley_Orbit_Mint_Variety_18_Count" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Wrigley_Orbit_Mint_Variety_18_Count" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Wrigley_Orbit_Mint_Variety_18_Count" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Wrigley_Orbit_Mint_Variety_18_Count" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Wrigley_Orbit_Mint_Variety_18_Count" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Wrigley_Orbit_Mint_Variety_18_Count" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Wrigley_Orbit_Mint_Variety_18_Count" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Wrigley_Orbit_Mint_Variety_18_Count" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Wrigley_Orbit_Mint_Variety_18_Count" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Wrigley_Orbit_Mint_Variety_18_Count" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="Fisher_price_Classic_Toys_Buzzy_Bee_base" name="Fisher_price_Classic_Toys_Buzzy_Bee1">
+        <geom class="Fisher_price_Classic_Toys_Buzzy_Bee_col" name="{geom_name}" type="mesh" mesh="model_Fisher_price_Classic_Toys_Buzzy_Bee" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Fisher_price_Classic_Toys_Buzzy_Bee" mesh="model_Fisher_price_Classic_Toys_Buzzy_Bee" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Fisher_price_Classic_Toys_Buzzy_Bee" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Fisher_price_Classic_Toys_Buzzy_Bee" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Fisher_price_Classic_Toys_Buzzy_Bee" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Fisher_price_Classic_Toys_Buzzy_Bee" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Fisher_price_Classic_Toys_Buzzy_Bee" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Fisher_price_Classic_Toys_Buzzy_Bee" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Fisher_price_Classic_Toys_Buzzy_Bee" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Fisher_price_Classic_Toys_Buzzy_Bee" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Fisher_price_Classic_Toys_Buzzy_Bee" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Fisher_price_Classic_Toys_Buzzy_Bee" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Fisher_price_Classic_Toys_Buzzy_Bee" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Fisher_price_Classic_Toys_Buzzy_Bee" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Fisher_price_Classic_Toys_Buzzy_Bee" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Fisher_price_Classic_Toys_Buzzy_Bee" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Fisher_price_Classic_Toys_Buzzy_Bee" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Fisher_price_Classic_Toys_Buzzy_Bee" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Fisher_price_Classic_Toys_Buzzy_Bee" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Fisher_price_Classic_Toys_Buzzy_Bee" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Fisher_price_Classic_Toys_Buzzy_Bee" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Fisher_price_Classic_Toys_Buzzy_Bee" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Fisher_price_Classic_Toys_Buzzy_Bee" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Fisher_price_Classic_Toys_Buzzy_Bee" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Fisher_price_Classic_Toys_Buzzy_Bee" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Fisher_price_Classic_Toys_Buzzy_Bee" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Fisher_price_Classic_Toys_Buzzy_Bee" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Fisher_price_Classic_Toys_Buzzy_Bee" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Fisher_price_Classic_Toys_Buzzy_Bee" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Fisher_price_Classic_Toys_Buzzy_Bee" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Fisher_price_Classic_Toys_Buzzy_Bee" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Fisher_price_Classic_Toys_Buzzy_Bee" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Fisher_price_Classic_Toys_Buzzy_Bee" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Fisher_price_Classic_Toys_Buzzy_Bee" type="mesh" group="3" />
+    </body>

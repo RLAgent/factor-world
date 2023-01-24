@@ -1,0 +1,36 @@
+<body childclass="Envision_Home_Dish_Drying_Mat_Red_6_x_18_base" name="Envision_Home_Dish_Drying_Mat_Red_6_x_181">
+        <geom class="Envision_Home_Dish_Drying_Mat_Red_6_x_18_col" name="{geom_name}" type="mesh" mesh="model_Envision_Home_Dish_Drying_Mat_Red_6_x_18" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Envision_Home_Dish_Drying_Mat_Red_6_x_18" mesh="model_Envision_Home_Dish_Drying_Mat_Red_6_x_18" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Envision_Home_Dish_Drying_Mat_Red_6_x_18" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Envision_Home_Dish_Drying_Mat_Red_6_x_18" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Envision_Home_Dish_Drying_Mat_Red_6_x_18" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Envision_Home_Dish_Drying_Mat_Red_6_x_18" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Envision_Home_Dish_Drying_Mat_Red_6_x_18" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Envision_Home_Dish_Drying_Mat_Red_6_x_18" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Envision_Home_Dish_Drying_Mat_Red_6_x_18" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Envision_Home_Dish_Drying_Mat_Red_6_x_18" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Envision_Home_Dish_Drying_Mat_Red_6_x_18" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Envision_Home_Dish_Drying_Mat_Red_6_x_18" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Envision_Home_Dish_Drying_Mat_Red_6_x_18" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Envision_Home_Dish_Drying_Mat_Red_6_x_18" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Envision_Home_Dish_Drying_Mat_Red_6_x_18" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Envision_Home_Dish_Drying_Mat_Red_6_x_18" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Envision_Home_Dish_Drying_Mat_Red_6_x_18" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Envision_Home_Dish_Drying_Mat_Red_6_x_18" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Envision_Home_Dish_Drying_Mat_Red_6_x_18" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Envision_Home_Dish_Drying_Mat_Red_6_x_18" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Envision_Home_Dish_Drying_Mat_Red_6_x_18" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Envision_Home_Dish_Drying_Mat_Red_6_x_18" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Envision_Home_Dish_Drying_Mat_Red_6_x_18" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Envision_Home_Dish_Drying_Mat_Red_6_x_18" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Envision_Home_Dish_Drying_Mat_Red_6_x_18" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Envision_Home_Dish_Drying_Mat_Red_6_x_18" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Envision_Home_Dish_Drying_Mat_Red_6_x_18" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Envision_Home_Dish_Drying_Mat_Red_6_x_18" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Envision_Home_Dish_Drying_Mat_Red_6_x_18" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Envision_Home_Dish_Drying_Mat_Red_6_x_18" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Envision_Home_Dish_Drying_Mat_Red_6_x_18" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Envision_Home_Dish_Drying_Mat_Red_6_x_18" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Envision_Home_Dish_Drying_Mat_Red_6_x_18" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Envision_Home_Dish_Drying_Mat_Red_6_x_18" type="mesh" group="3" />
+    </body>

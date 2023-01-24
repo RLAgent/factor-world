@@ -1,0 +1,36 @@
+<body childclass="MARTIN_WEDGE_LACE_BOOT_base" name="MARTIN_WEDGE_LACE_BOOT1">
+        <geom class="MARTIN_WEDGE_LACE_BOOT_col" name="{geom_name}" type="mesh" mesh="model_MARTIN_WEDGE_LACE_BOOT" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_MARTIN_WEDGE_LACE_BOOT" mesh="model_MARTIN_WEDGE_LACE_BOOT" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_MARTIN_WEDGE_LACE_BOOT" type="mesh" group="3" />
+      <geom mesh="model_collision_1_MARTIN_WEDGE_LACE_BOOT" type="mesh" group="3" />
+      <geom mesh="model_collision_2_MARTIN_WEDGE_LACE_BOOT" type="mesh" group="3" />
+      <geom mesh="model_collision_3_MARTIN_WEDGE_LACE_BOOT" type="mesh" group="3" />
+      <geom mesh="model_collision_4_MARTIN_WEDGE_LACE_BOOT" type="mesh" group="3" />
+      <geom mesh="model_collision_5_MARTIN_WEDGE_LACE_BOOT" type="mesh" group="3" />
+      <geom mesh="model_collision_6_MARTIN_WEDGE_LACE_BOOT" type="mesh" group="3" />
+      <geom mesh="model_collision_7_MARTIN_WEDGE_LACE_BOOT" type="mesh" group="3" />
+      <geom mesh="model_collision_8_MARTIN_WEDGE_LACE_BOOT" type="mesh" group="3" />
+      <geom mesh="model_collision_9_MARTIN_WEDGE_LACE_BOOT" type="mesh" group="3" />
+      <geom mesh="model_collision_10_MARTIN_WEDGE_LACE_BOOT" type="mesh" group="3" />
+      <geom mesh="model_collision_11_MARTIN_WEDGE_LACE_BOOT" type="mesh" group="3" />
+      <geom mesh="model_collision_12_MARTIN_WEDGE_LACE_BOOT" type="mesh" group="3" />
+      <geom mesh="model_collision_13_MARTIN_WEDGE_LACE_BOOT" type="mesh" group="3" />
+      <geom mesh="model_collision_14_MARTIN_WEDGE_LACE_BOOT" type="mesh" group="3" />
+      <geom mesh="model_collision_15_MARTIN_WEDGE_LACE_BOOT" type="mesh" group="3" />
+      <geom mesh="model_collision_16_MARTIN_WEDGE_LACE_BOOT" type="mesh" group="3" />
+      <geom mesh="model_collision_17_MARTIN_WEDGE_LACE_BOOT" type="mesh" group="3" />
+      <geom mesh="model_collision_18_MARTIN_WEDGE_LACE_BOOT" type="mesh" group="3" />
+      <geom mesh="model_collision_19_MARTIN_WEDGE_LACE_BOOT" type="mesh" group="3" />
+      <geom mesh="model_collision_20_MARTIN_WEDGE_LACE_BOOT" type="mesh" group="3" />
+      <geom mesh="model_collision_21_MARTIN_WEDGE_LACE_BOOT" type="mesh" group="3" />
+      <geom mesh="model_collision_22_MARTIN_WEDGE_LACE_BOOT" type="mesh" group="3" />
+      <geom mesh="model_collision_23_MARTIN_WEDGE_LACE_BOOT" type="mesh" group="3" />
+      <geom mesh="model_collision_24_MARTIN_WEDGE_LACE_BOOT" type="mesh" group="3" />
+      <geom mesh="model_collision_25_MARTIN_WEDGE_LACE_BOOT" type="mesh" group="3" />
+      <geom mesh="model_collision_26_MARTIN_WEDGE_LACE_BOOT" type="mesh" group="3" />
+      <geom mesh="model_collision_27_MARTIN_WEDGE_LACE_BOOT" type="mesh" group="3" />
+      <geom mesh="model_collision_28_MARTIN_WEDGE_LACE_BOOT" type="mesh" group="3" />
+      <geom mesh="model_collision_29_MARTIN_WEDGE_LACE_BOOT" type="mesh" group="3" />
+      <geom mesh="model_collision_30_MARTIN_WEDGE_LACE_BOOT" type="mesh" group="3" />
+      <geom mesh="model_collision_31_MARTIN_WEDGE_LACE_BOOT" type="mesh" group="3" />
+    </body>

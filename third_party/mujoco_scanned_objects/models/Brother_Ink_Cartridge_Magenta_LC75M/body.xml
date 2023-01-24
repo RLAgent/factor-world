@@ -1,0 +1,36 @@
+<body childclass="Brother_Ink_Cartridge_Magenta_LC75M_base" name="Brother_Ink_Cartridge_Magenta_LC75M1">
+        <geom class="Brother_Ink_Cartridge_Magenta_LC75M_col" name="{geom_name}" type="mesh" mesh="model_Brother_Ink_Cartridge_Magenta_LC75M" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Brother_Ink_Cartridge_Magenta_LC75M" mesh="model_Brother_Ink_Cartridge_Magenta_LC75M" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Brother_Ink_Cartridge_Magenta_LC75M" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Brother_Ink_Cartridge_Magenta_LC75M" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Brother_Ink_Cartridge_Magenta_LC75M" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Brother_Ink_Cartridge_Magenta_LC75M" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Brother_Ink_Cartridge_Magenta_LC75M" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Brother_Ink_Cartridge_Magenta_LC75M" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Brother_Ink_Cartridge_Magenta_LC75M" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Brother_Ink_Cartridge_Magenta_LC75M" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Brother_Ink_Cartridge_Magenta_LC75M" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Brother_Ink_Cartridge_Magenta_LC75M" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Brother_Ink_Cartridge_Magenta_LC75M" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Brother_Ink_Cartridge_Magenta_LC75M" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Brother_Ink_Cartridge_Magenta_LC75M" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Brother_Ink_Cartridge_Magenta_LC75M" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Brother_Ink_Cartridge_Magenta_LC75M" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Brother_Ink_Cartridge_Magenta_LC75M" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Brother_Ink_Cartridge_Magenta_LC75M" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Brother_Ink_Cartridge_Magenta_LC75M" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Brother_Ink_Cartridge_Magenta_LC75M" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Brother_Ink_Cartridge_Magenta_LC75M" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Brother_Ink_Cartridge_Magenta_LC75M" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Brother_Ink_Cartridge_Magenta_LC75M" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Brother_Ink_Cartridge_Magenta_LC75M" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Brother_Ink_Cartridge_Magenta_LC75M" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Brother_Ink_Cartridge_Magenta_LC75M" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Brother_Ink_Cartridge_Magenta_LC75M" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Brother_Ink_Cartridge_Magenta_LC75M" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Brother_Ink_Cartridge_Magenta_LC75M" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Brother_Ink_Cartridge_Magenta_LC75M" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Brother_Ink_Cartridge_Magenta_LC75M" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Brother_Ink_Cartridge_Magenta_LC75M" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Brother_Ink_Cartridge_Magenta_LC75M" type="mesh" group="3" />
+    </body>

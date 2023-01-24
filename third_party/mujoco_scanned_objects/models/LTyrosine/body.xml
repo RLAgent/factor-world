@@ -1,0 +1,36 @@
+<body childclass="LTyrosine_base" name="LTyrosine1">
+        <geom class="LTyrosine_col" name="{geom_name}" type="mesh" mesh="model_LTyrosine" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_LTyrosine" mesh="model_LTyrosine" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_LTyrosine" type="mesh" group="3" />
+      <geom mesh="model_collision_1_LTyrosine" type="mesh" group="3" />
+      <geom mesh="model_collision_2_LTyrosine" type="mesh" group="3" />
+      <geom mesh="model_collision_3_LTyrosine" type="mesh" group="3" />
+      <geom mesh="model_collision_4_LTyrosine" type="mesh" group="3" />
+      <geom mesh="model_collision_5_LTyrosine" type="mesh" group="3" />
+      <geom mesh="model_collision_6_LTyrosine" type="mesh" group="3" />
+      <geom mesh="model_collision_7_LTyrosine" type="mesh" group="3" />
+      <geom mesh="model_collision_8_LTyrosine" type="mesh" group="3" />
+      <geom mesh="model_collision_9_LTyrosine" type="mesh" group="3" />
+      <geom mesh="model_collision_10_LTyrosine" type="mesh" group="3" />
+      <geom mesh="model_collision_11_LTyrosine" type="mesh" group="3" />
+      <geom mesh="model_collision_12_LTyrosine" type="mesh" group="3" />
+      <geom mesh="model_collision_13_LTyrosine" type="mesh" group="3" />
+      <geom mesh="model_collision_14_LTyrosine" type="mesh" group="3" />
+      <geom mesh="model_collision_15_LTyrosine" type="mesh" group="3" />
+      <geom mesh="model_collision_16_LTyrosine" type="mesh" group="3" />
+      <geom mesh="model_collision_17_LTyrosine" type="mesh" group="3" />
+      <geom mesh="model_collision_18_LTyrosine" type="mesh" group="3" />
+      <geom mesh="model_collision_19_LTyrosine" type="mesh" group="3" />
+      <geom mesh="model_collision_20_LTyrosine" type="mesh" group="3" />
+      <geom mesh="model_collision_21_LTyrosine" type="mesh" group="3" />
+      <geom mesh="model_collision_22_LTyrosine" type="mesh" group="3" />
+      <geom mesh="model_collision_23_LTyrosine" type="mesh" group="3" />
+      <geom mesh="model_collision_24_LTyrosine" type="mesh" group="3" />
+      <geom mesh="model_collision_25_LTyrosine" type="mesh" group="3" />
+      <geom mesh="model_collision_26_LTyrosine" type="mesh" group="3" />
+      <geom mesh="model_collision_27_LTyrosine" type="mesh" group="3" />
+      <geom mesh="model_collision_28_LTyrosine" type="mesh" group="3" />
+      <geom mesh="model_collision_29_LTyrosine" type="mesh" group="3" />
+      <geom mesh="model_collision_30_LTyrosine" type="mesh" group="3" />
+      <geom mesh="model_collision_31_LTyrosine" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="Samoa_onepiece_base" name="Samoa_onepiece1">
+        <geom class="Samoa_onepiece_col" name="{geom_name}" type="mesh" mesh="model_Samoa_onepiece" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Samoa_onepiece" mesh="model_Samoa_onepiece" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Samoa_onepiece" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Samoa_onepiece" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Samoa_onepiece" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Samoa_onepiece" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Samoa_onepiece" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Samoa_onepiece" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Samoa_onepiece" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Samoa_onepiece" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Samoa_onepiece" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Samoa_onepiece" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Samoa_onepiece" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Samoa_onepiece" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Samoa_onepiece" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Samoa_onepiece" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Samoa_onepiece" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Samoa_onepiece" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Samoa_onepiece" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Samoa_onepiece" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Samoa_onepiece" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Samoa_onepiece" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Samoa_onepiece" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Samoa_onepiece" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Samoa_onepiece" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Samoa_onepiece" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Samoa_onepiece" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Samoa_onepiece" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Samoa_onepiece" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Samoa_onepiece" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Samoa_onepiece" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Samoa_onepiece" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Samoa_onepiece" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Samoa_onepiece" type="mesh" group="3" />
+    </body>

@@ -1,0 +1,36 @@
+<body childclass="Tieks_Ballet_Flats_Diamond_White_Croc_base" name="Tieks_Ballet_Flats_Diamond_White_Croc1">
+        <geom class="Tieks_Ballet_Flats_Diamond_White_Croc_col" name="{geom_name}" type="mesh" mesh="model_Tieks_Ballet_Flats_Diamond_White_Croc" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Tieks_Ballet_Flats_Diamond_White_Croc" mesh="model_Tieks_Ballet_Flats_Diamond_White_Croc" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Tieks_Ballet_Flats_Diamond_White_Croc" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Tieks_Ballet_Flats_Diamond_White_Croc" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Tieks_Ballet_Flats_Diamond_White_Croc" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Tieks_Ballet_Flats_Diamond_White_Croc" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Tieks_Ballet_Flats_Diamond_White_Croc" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Tieks_Ballet_Flats_Diamond_White_Croc" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Tieks_Ballet_Flats_Diamond_White_Croc" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Tieks_Ballet_Flats_Diamond_White_Croc" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Tieks_Ballet_Flats_Diamond_White_Croc" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Tieks_Ballet_Flats_Diamond_White_Croc" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Tieks_Ballet_Flats_Diamond_White_Croc" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Tieks_Ballet_Flats_Diamond_White_Croc" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Tieks_Ballet_Flats_Diamond_White_Croc" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Tieks_Ballet_Flats_Diamond_White_Croc" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Tieks_Ballet_Flats_Diamond_White_Croc" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Tieks_Ballet_Flats_Diamond_White_Croc" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Tieks_Ballet_Flats_Diamond_White_Croc" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Tieks_Ballet_Flats_Diamond_White_Croc" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Tieks_Ballet_Flats_Diamond_White_Croc" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Tieks_Ballet_Flats_Diamond_White_Croc" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Tieks_Ballet_Flats_Diamond_White_Croc" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Tieks_Ballet_Flats_Diamond_White_Croc" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Tieks_Ballet_Flats_Diamond_White_Croc" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Tieks_Ballet_Flats_Diamond_White_Croc" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Tieks_Ballet_Flats_Diamond_White_Croc" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Tieks_Ballet_Flats_Diamond_White_Croc" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Tieks_Ballet_Flats_Diamond_White_Croc" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Tieks_Ballet_Flats_Diamond_White_Croc" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Tieks_Ballet_Flats_Diamond_White_Croc" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Tieks_Ballet_Flats_Diamond_White_Croc" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Tieks_Ballet_Flats_Diamond_White_Croc" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Tieks_Ballet_Flats_Diamond_White_Croc" type="mesh" group="3" />
+    </body>

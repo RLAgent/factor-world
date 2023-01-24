@@ -1,0 +1,36 @@
+<body childclass="Orbit_Bubblemint_Mini_Bottle_6_ct_base" name="Orbit_Bubblemint_Mini_Bottle_6_ct1">
+        <geom class="Orbit_Bubblemint_Mini_Bottle_6_ct_col" name="{geom_name}" type="mesh" mesh="model_Orbit_Bubblemint_Mini_Bottle_6_ct" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Orbit_Bubblemint_Mini_Bottle_6_ct" mesh="model_Orbit_Bubblemint_Mini_Bottle_6_ct" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Orbit_Bubblemint_Mini_Bottle_6_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Orbit_Bubblemint_Mini_Bottle_6_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Orbit_Bubblemint_Mini_Bottle_6_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Orbit_Bubblemint_Mini_Bottle_6_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Orbit_Bubblemint_Mini_Bottle_6_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Orbit_Bubblemint_Mini_Bottle_6_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Orbit_Bubblemint_Mini_Bottle_6_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Orbit_Bubblemint_Mini_Bottle_6_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Orbit_Bubblemint_Mini_Bottle_6_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Orbit_Bubblemint_Mini_Bottle_6_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Orbit_Bubblemint_Mini_Bottle_6_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Orbit_Bubblemint_Mini_Bottle_6_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Orbit_Bubblemint_Mini_Bottle_6_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Orbit_Bubblemint_Mini_Bottle_6_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Orbit_Bubblemint_Mini_Bottle_6_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Orbit_Bubblemint_Mini_Bottle_6_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Orbit_Bubblemint_Mini_Bottle_6_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Orbit_Bubblemint_Mini_Bottle_6_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Orbit_Bubblemint_Mini_Bottle_6_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Orbit_Bubblemint_Mini_Bottle_6_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Orbit_Bubblemint_Mini_Bottle_6_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Orbit_Bubblemint_Mini_Bottle_6_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Orbit_Bubblemint_Mini_Bottle_6_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Orbit_Bubblemint_Mini_Bottle_6_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Orbit_Bubblemint_Mini_Bottle_6_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Orbit_Bubblemint_Mini_Bottle_6_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Orbit_Bubblemint_Mini_Bottle_6_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Orbit_Bubblemint_Mini_Bottle_6_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Orbit_Bubblemint_Mini_Bottle_6_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Orbit_Bubblemint_Mini_Bottle_6_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Orbit_Bubblemint_Mini_Bottle_6_ct" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Orbit_Bubblemint_Mini_Bottle_6_ct" type="mesh" group="3" />
+    </body>

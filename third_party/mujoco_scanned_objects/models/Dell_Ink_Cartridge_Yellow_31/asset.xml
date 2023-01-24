@@ -1,0 +1,38 @@
+<asset>
+    <texture type="2d" name="texture_Dell_Ink_Cartridge_Yellow_31" file="../../../../../mujoco_scanned_objects/models/Dell_Ink_Cartridge_Yellow_31/texture.png" />
+    <material name="material_0_Dell_Ink_Cartridge_Yellow_31" texture="texture_Dell_Ink_Cartridge_Yellow_31" specular="0.5" shininess="0.5" />
+    <mesh name="model_Dell_Ink_Cartridge_Yellow_31" file="../../../../../mujoco_scanned_objects/models/Dell_Ink_Cartridge_Yellow_31/model.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_0_Dell_Ink_Cartridge_Yellow_31" file="../../../../../mujoco_scanned_objects/models/Dell_Ink_Cartridge_Yellow_31/model_collision_0.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_1_Dell_Ink_Cartridge_Yellow_31" file="../../../../../mujoco_scanned_objects/models/Dell_Ink_Cartridge_Yellow_31/model_collision_1.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_2_Dell_Ink_Cartridge_Yellow_31" file="../../../../../mujoco_scanned_objects/models/Dell_Ink_Cartridge_Yellow_31/model_collision_2.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_3_Dell_Ink_Cartridge_Yellow_31" file="../../../../../mujoco_scanned_objects/models/Dell_Ink_Cartridge_Yellow_31/model_collision_3.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_4_Dell_Ink_Cartridge_Yellow_31" file="../../../../../mujoco_scanned_objects/models/Dell_Ink_Cartridge_Yellow_31/model_collision_4.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_5_Dell_Ink_Cartridge_Yellow_31" file="../../../../../mujoco_scanned_objects/models/Dell_Ink_Cartridge_Yellow_31/model_collision_5.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_6_Dell_Ink_Cartridge_Yellow_31" file="../../../../../mujoco_scanned_objects/models/Dell_Ink_Cartridge_Yellow_31/model_collision_6.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_7_Dell_Ink_Cartridge_Yellow_31" file="../../../../../mujoco_scanned_objects/models/Dell_Ink_Cartridge_Yellow_31/model_collision_7.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_8_Dell_Ink_Cartridge_Yellow_31" file="../../../../../mujoco_scanned_objects/models/Dell_Ink_Cartridge_Yellow_31/model_collision_8.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_9_Dell_Ink_Cartridge_Yellow_31" file="../../../../../mujoco_scanned_objects/models/Dell_Ink_Cartridge_Yellow_31/model_collision_9.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_10_Dell_Ink_Cartridge_Yellow_31" file="../../../../../mujoco_scanned_objects/models/Dell_Ink_Cartridge_Yellow_31/model_collision_10.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_11_Dell_Ink_Cartridge_Yellow_31" file="../../../../../mujoco_scanned_objects/models/Dell_Ink_Cartridge_Yellow_31/model_collision_11.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_12_Dell_Ink_Cartridge_Yellow_31" file="../../../../../mujoco_scanned_objects/models/Dell_Ink_Cartridge_Yellow_31/model_collision_12.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_13_Dell_Ink_Cartridge_Yellow_31" file="../../../../../mujoco_scanned_objects/models/Dell_Ink_Cartridge_Yellow_31/model_collision_13.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_14_Dell_Ink_Cartridge_Yellow_31" file="../../../../../mujoco_scanned_objects/models/Dell_Ink_Cartridge_Yellow_31/model_collision_14.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_15_Dell_Ink_Cartridge_Yellow_31" file="../../../../../mujoco_scanned_objects/models/Dell_Ink_Cartridge_Yellow_31/model_collision_15.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_16_Dell_Ink_Cartridge_Yellow_31" file="../../../../../mujoco_scanned_objects/models/Dell_Ink_Cartridge_Yellow_31/model_collision_16.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_17_Dell_Ink_Cartridge_Yellow_31" file="../../../../../mujoco_scanned_objects/models/Dell_Ink_Cartridge_Yellow_31/model_collision_17.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_18_Dell_Ink_Cartridge_Yellow_31" file="../../../../../mujoco_scanned_objects/models/Dell_Ink_Cartridge_Yellow_31/model_collision_18.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_19_Dell_Ink_Cartridge_Yellow_31" file="../../../../../mujoco_scanned_objects/models/Dell_Ink_Cartridge_Yellow_31/model_collision_19.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_20_Dell_Ink_Cartridge_Yellow_31" file="../../../../../mujoco_scanned_objects/models/Dell_Ink_Cartridge_Yellow_31/model_collision_20.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_21_Dell_Ink_Cartridge_Yellow_31" file="../../../../../mujoco_scanned_objects/models/Dell_Ink_Cartridge_Yellow_31/model_collision_21.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_22_Dell_Ink_Cartridge_Yellow_31" file="../../../../../mujoco_scanned_objects/models/Dell_Ink_Cartridge_Yellow_31/model_collision_22.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_23_Dell_Ink_Cartridge_Yellow_31" file="../../../../../mujoco_scanned_objects/models/Dell_Ink_Cartridge_Yellow_31/model_collision_23.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_24_Dell_Ink_Cartridge_Yellow_31" file="../../../../../mujoco_scanned_objects/models/Dell_Ink_Cartridge_Yellow_31/model_collision_24.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_25_Dell_Ink_Cartridge_Yellow_31" file="../../../../../mujoco_scanned_objects/models/Dell_Ink_Cartridge_Yellow_31/model_collision_25.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_26_Dell_Ink_Cartridge_Yellow_31" file="../../../../../mujoco_scanned_objects/models/Dell_Ink_Cartridge_Yellow_31/model_collision_26.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_27_Dell_Ink_Cartridge_Yellow_31" file="../../../../../mujoco_scanned_objects/models/Dell_Ink_Cartridge_Yellow_31/model_collision_27.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_28_Dell_Ink_Cartridge_Yellow_31" file="../../../../../mujoco_scanned_objects/models/Dell_Ink_Cartridge_Yellow_31/model_collision_28.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_29_Dell_Ink_Cartridge_Yellow_31" file="../../../../../mujoco_scanned_objects/models/Dell_Ink_Cartridge_Yellow_31/model_collision_29.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_30_Dell_Ink_Cartridge_Yellow_31" file="../../../../../mujoco_scanned_objects/models/Dell_Ink_Cartridge_Yellow_31/model_collision_30.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_31_Dell_Ink_Cartridge_Yellow_31" file="../../../../../mujoco_scanned_objects/models/Dell_Ink_Cartridge_Yellow_31/model_collision_31.stl" scale="{scale} {scale} {scale}" />
+  </asset>
+  

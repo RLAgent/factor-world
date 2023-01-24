@@ -1,0 +1,36 @@
+<body childclass="Ubisoft_RockSmith_Real_Tone_Cable_Xbox_360_base" name="Ubisoft_RockSmith_Real_Tone_Cable_Xbox_3601">
+        <geom class="Ubisoft_RockSmith_Real_Tone_Cable_Xbox_360_col" name="{geom_name}" type="mesh" mesh="model_Ubisoft_RockSmith_Real_Tone_Cable_Xbox_360" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Ubisoft_RockSmith_Real_Tone_Cable_Xbox_360" mesh="model_Ubisoft_RockSmith_Real_Tone_Cable_Xbox_360" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Ubisoft_RockSmith_Real_Tone_Cable_Xbox_360" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Ubisoft_RockSmith_Real_Tone_Cable_Xbox_360" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Ubisoft_RockSmith_Real_Tone_Cable_Xbox_360" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Ubisoft_RockSmith_Real_Tone_Cable_Xbox_360" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Ubisoft_RockSmith_Real_Tone_Cable_Xbox_360" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Ubisoft_RockSmith_Real_Tone_Cable_Xbox_360" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Ubisoft_RockSmith_Real_Tone_Cable_Xbox_360" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Ubisoft_RockSmith_Real_Tone_Cable_Xbox_360" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Ubisoft_RockSmith_Real_Tone_Cable_Xbox_360" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Ubisoft_RockSmith_Real_Tone_Cable_Xbox_360" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Ubisoft_RockSmith_Real_Tone_Cable_Xbox_360" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Ubisoft_RockSmith_Real_Tone_Cable_Xbox_360" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Ubisoft_RockSmith_Real_Tone_Cable_Xbox_360" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Ubisoft_RockSmith_Real_Tone_Cable_Xbox_360" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Ubisoft_RockSmith_Real_Tone_Cable_Xbox_360" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Ubisoft_RockSmith_Real_Tone_Cable_Xbox_360" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Ubisoft_RockSmith_Real_Tone_Cable_Xbox_360" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Ubisoft_RockSmith_Real_Tone_Cable_Xbox_360" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Ubisoft_RockSmith_Real_Tone_Cable_Xbox_360" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Ubisoft_RockSmith_Real_Tone_Cable_Xbox_360" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Ubisoft_RockSmith_Real_Tone_Cable_Xbox_360" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Ubisoft_RockSmith_Real_Tone_Cable_Xbox_360" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Ubisoft_RockSmith_Real_Tone_Cable_Xbox_360" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Ubisoft_RockSmith_Real_Tone_Cable_Xbox_360" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Ubisoft_RockSmith_Real_Tone_Cable_Xbox_360" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Ubisoft_RockSmith_Real_Tone_Cable_Xbox_360" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Ubisoft_RockSmith_Real_Tone_Cable_Xbox_360" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Ubisoft_RockSmith_Real_Tone_Cable_Xbox_360" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Ubisoft_RockSmith_Real_Tone_Cable_Xbox_360" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Ubisoft_RockSmith_Real_Tone_Cable_Xbox_360" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Ubisoft_RockSmith_Real_Tone_Cable_Xbox_360" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Ubisoft_RockSmith_Real_Tone_Cable_Xbox_360" type="mesh" group="3" />
+    </body>

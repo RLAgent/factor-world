@@ -1,0 +1,36 @@
+<body childclass="Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50_base" name="Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_501">
+        <geom class="Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50_col" name="{geom_name}" type="mesh" mesh="model_Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50" mesh="model_Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50" type="mesh" group="3" />
+    </body>

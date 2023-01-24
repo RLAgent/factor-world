@@ -1,0 +1,36 @@
+<body childclass="BEDROOM_NEO_base" name="BEDROOM_NEO1">
+        <geom class="BEDROOM_NEO_col" name="{geom_name}" type="mesh" mesh="model_BEDROOM_NEO" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_BEDROOM_NEO" mesh="model_BEDROOM_NEO" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_BEDROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_1_BEDROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_2_BEDROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_3_BEDROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_4_BEDROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_5_BEDROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_6_BEDROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_7_BEDROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_8_BEDROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_9_BEDROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_10_BEDROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_11_BEDROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_12_BEDROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_13_BEDROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_14_BEDROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_15_BEDROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_16_BEDROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_17_BEDROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_18_BEDROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_19_BEDROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_20_BEDROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_21_BEDROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_22_BEDROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_23_BEDROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_24_BEDROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_25_BEDROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_26_BEDROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_27_BEDROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_28_BEDROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_29_BEDROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_30_BEDROOM_NEO" type="mesh" group="3" />
+      <geom mesh="model_collision_31_BEDROOM_NEO" type="mesh" group="3" />
+    </body>

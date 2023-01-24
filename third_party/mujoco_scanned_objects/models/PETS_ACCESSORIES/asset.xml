@@ -1,0 +1,38 @@
+<asset>
+    <texture type="2d" name="texture_PETS_ACCESSORIES" file="../../../../../mujoco_scanned_objects/models/PETS_ACCESSORIES/texture.png" />
+    <material name="material_0_PETS_ACCESSORIES" texture="texture_PETS_ACCESSORIES" specular="0.5" shininess="0.5" />
+    <mesh name="model_PETS_ACCESSORIES" file="../../../../../mujoco_scanned_objects/models/PETS_ACCESSORIES/model.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_0_PETS_ACCESSORIES" file="../../../../../mujoco_scanned_objects/models/PETS_ACCESSORIES/model_collision_0.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_1_PETS_ACCESSORIES" file="../../../../../mujoco_scanned_objects/models/PETS_ACCESSORIES/model_collision_1.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_2_PETS_ACCESSORIES" file="../../../../../mujoco_scanned_objects/models/PETS_ACCESSORIES/model_collision_2.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_3_PETS_ACCESSORIES" file="../../../../../mujoco_scanned_objects/models/PETS_ACCESSORIES/model_collision_3.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_4_PETS_ACCESSORIES" file="../../../../../mujoco_scanned_objects/models/PETS_ACCESSORIES/model_collision_4.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_5_PETS_ACCESSORIES" file="../../../../../mujoco_scanned_objects/models/PETS_ACCESSORIES/model_collision_5.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_6_PETS_ACCESSORIES" file="../../../../../mujoco_scanned_objects/models/PETS_ACCESSORIES/model_collision_6.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_7_PETS_ACCESSORIES" file="../../../../../mujoco_scanned_objects/models/PETS_ACCESSORIES/model_collision_7.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_8_PETS_ACCESSORIES" file="../../../../../mujoco_scanned_objects/models/PETS_ACCESSORIES/model_collision_8.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_9_PETS_ACCESSORIES" file="../../../../../mujoco_scanned_objects/models/PETS_ACCESSORIES/model_collision_9.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_10_PETS_ACCESSORIES" file="../../../../../mujoco_scanned_objects/models/PETS_ACCESSORIES/model_collision_10.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_11_PETS_ACCESSORIES" file="../../../../../mujoco_scanned_objects/models/PETS_ACCESSORIES/model_collision_11.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_12_PETS_ACCESSORIES" file="../../../../../mujoco_scanned_objects/models/PETS_ACCESSORIES/model_collision_12.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_13_PETS_ACCESSORIES" file="../../../../../mujoco_scanned_objects/models/PETS_ACCESSORIES/model_collision_13.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_14_PETS_ACCESSORIES" file="../../../../../mujoco_scanned_objects/models/PETS_ACCESSORIES/model_collision_14.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_15_PETS_ACCESSORIES" file="../../../../../mujoco_scanned_objects/models/PETS_ACCESSORIES/model_collision_15.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_16_PETS_ACCESSORIES" file="../../../../../mujoco_scanned_objects/models/PETS_ACCESSORIES/model_collision_16.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_17_PETS_ACCESSORIES" file="../../../../../mujoco_scanned_objects/models/PETS_ACCESSORIES/model_collision_17.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_18_PETS_ACCESSORIES" file="../../../../../mujoco_scanned_objects/models/PETS_ACCESSORIES/model_collision_18.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_19_PETS_ACCESSORIES" file="../../../../../mujoco_scanned_objects/models/PETS_ACCESSORIES/model_collision_19.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_20_PETS_ACCESSORIES" file="../../../../../mujoco_scanned_objects/models/PETS_ACCESSORIES/model_collision_20.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_21_PETS_ACCESSORIES" file="../../../../../mujoco_scanned_objects/models/PETS_ACCESSORIES/model_collision_21.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_22_PETS_ACCESSORIES" file="../../../../../mujoco_scanned_objects/models/PETS_ACCESSORIES/model_collision_22.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_23_PETS_ACCESSORIES" file="../../../../../mujoco_scanned_objects/models/PETS_ACCESSORIES/model_collision_23.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_24_PETS_ACCESSORIES" file="../../../../../mujoco_scanned_objects/models/PETS_ACCESSORIES/model_collision_24.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_25_PETS_ACCESSORIES" file="../../../../../mujoco_scanned_objects/models/PETS_ACCESSORIES/model_collision_25.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_26_PETS_ACCESSORIES" file="../../../../../mujoco_scanned_objects/models/PETS_ACCESSORIES/model_collision_26.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_27_PETS_ACCESSORIES" file="../../../../../mujoco_scanned_objects/models/PETS_ACCESSORIES/model_collision_27.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_28_PETS_ACCESSORIES" file="../../../../../mujoco_scanned_objects/models/PETS_ACCESSORIES/model_collision_28.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_29_PETS_ACCESSORIES" file="../../../../../mujoco_scanned_objects/models/PETS_ACCESSORIES/model_collision_29.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_30_PETS_ACCESSORIES" file="../../../../../mujoco_scanned_objects/models/PETS_ACCESSORIES/model_collision_30.stl" scale="{scale} {scale} {scale}" />
+    <mesh name="model_collision_31_PETS_ACCESSORIES" file="../../../../../mujoco_scanned_objects/models/PETS_ACCESSORIES/model_collision_31.stl" scale="{scale} {scale} {scale}" />
+  </asset>
+  

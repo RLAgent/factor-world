@@ -1,0 +1,36 @@
+<body childclass="Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original_base" name="Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original1">
+        <geom class="Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original_col" name="{geom_name}" type="mesh" mesh="model_Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original" mesh="model_Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original" type="mesh" group="3" />
+    </body>

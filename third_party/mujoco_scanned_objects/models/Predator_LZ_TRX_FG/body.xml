@@ -1,0 +1,36 @@
+<body childclass="Predator_LZ_TRX_FG_base" name="Predator_LZ_TRX_FG1">
+        <geom class="Predator_LZ_TRX_FG_col" name="{geom_name}" type="mesh" mesh="model_Predator_LZ_TRX_FG" mass="0.5" friction="0.95 0.3 0.1" contype="1" conaffinity="1" condim="4" />
+      <geom material="material_0_Predator_LZ_TRX_FG" mesh="model_Predator_LZ_TRX_FG" type="mesh" contype="0" conaffinity="0" group="2" />
+      <geom mesh="model_collision_0_Predator_LZ_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_1_Predator_LZ_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_2_Predator_LZ_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_3_Predator_LZ_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_4_Predator_LZ_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_5_Predator_LZ_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_6_Predator_LZ_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_7_Predator_LZ_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_8_Predator_LZ_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_9_Predator_LZ_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_10_Predator_LZ_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_11_Predator_LZ_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_12_Predator_LZ_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_13_Predator_LZ_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_14_Predator_LZ_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_15_Predator_LZ_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_16_Predator_LZ_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_17_Predator_LZ_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_18_Predator_LZ_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_19_Predator_LZ_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_20_Predator_LZ_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_21_Predator_LZ_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_22_Predator_LZ_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_23_Predator_LZ_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_24_Predator_LZ_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_25_Predator_LZ_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_26_Predator_LZ_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_27_Predator_LZ_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_28_Predator_LZ_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_29_Predator_LZ_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_30_Predator_LZ_TRX_FG" type="mesh" group="3" />
+      <geom mesh="model_collision_31_Predator_LZ_TRX_FG" type="mesh" group="3" />
+    </body>
