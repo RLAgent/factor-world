@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-name: generalization_rl
+name: factor_world
 channels:
   - defaults
 dependencies:

@@ -9,7 +9,7 @@ This is the official codebase for:
 }
 ```
 
-We provide Metaworld environments with various factors of variation, including:
+We provide MetaWorld environments with various factors of variation, including:
 * Arm position
 * Camera position
 * Floor texture
@@ -25,15 +25,15 @@ We provide Metaworld environments with various factors of variation, including:
 
 Clone the repository:
 ```
-git clone https://github.com/googleprivate/generalization-rl.git
-cd generalization-rl
+git clone https://github.com/googleprivate/factor-world.git
+cd factor-world
 ```
 
 Create conda env:
 ```
 conda env create -f conda_env.yml
 
-conda activate generalization_rl
+conda activate factor_world
 
 # Takes a while to run the first time
 python -c "import mujoco_py"
