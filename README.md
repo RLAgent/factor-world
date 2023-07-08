@@ -1,10 +1,10 @@
-# Benchmarking Environment Generalization in Robotic Imitation Learning
+# Decomposing the Generalization Gap in Imitation Learning for Visual Robotic Manipulation
 
 This is the official codebase for:
 ```
-@misc{xie2023benchmarking,
-    title={Benchmarking Environment Generalization in Robotic Imitation Learning},
-    author={Xie*, Annie and Lee*, Lisa and Finn, Chelsea},
+@misc{xie2023decomposing,
+    title={Decomposing the Generalization Gap in Imitation Learning for Visual Robotic Manipulation},
+    author={Xie*, Annie and Lee*, Lisa and Xiao, Ted and Finn, Chelsea},
     year={2023},
 }
 ```
@@ -139,14 +139,3 @@ This repository builds upon the following codebases:
 * Weakly Supervised Control: https://github.com/google-research/weakly_supervised_control
 * Mujoco Scanned Objects: https://github.com/kevinzakka/mujoco_scanned_objects
 * DrQ-v2: https://github.com/facebookresearch/drqv2
-
-# Citation
-
-```
-@misc{xie2023benchmarking,
-    title={Benchmarking Environment Generalization in Robotic Imitation Learning},
-    author={Xie*, Annie and Lee*, Lisa and Finn, Chelsea},
-    year={2023},
-}
-```
-
