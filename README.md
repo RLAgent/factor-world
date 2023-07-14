@@ -1,11 +1,14 @@
 # Decomposing the Generalization Gap in Imitation Learning for Visual Robotic Manipulation
 
-This is the official codebase for:
+This is the official codebase for the [paper](https://sites.google.com/view/generalization-gap):
 ```
 @misc{xie2023decomposing,
-    title={Decomposing the Generalization Gap in Imitation Learning for Visual Robotic Manipulation},
-    author={Xie*, Annie and Lee*, Lisa and Xiao, Ted and Finn, Chelsea},
-    year={2023},
+      title={Decomposing the Generalization Gap in Imitation Learning for Visual Robotic Manipulation}, 
+      author={Annie Xie and Lisa Lee and Ted Xiao and Chelsea Finn},
+      year={2023},
+      eprint={2307.03659},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
 }
 ```
 
